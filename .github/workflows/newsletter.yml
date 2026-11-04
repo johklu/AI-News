@@ -5,7 +5,7 @@ on:
     - cron: "17 5 * * *"   # täglich 05:17 UTC = 06:17 Uhr (Winter) / 07:17 Uhr (Sommer) in Berlin
   workflow_dispatch:        # manuell starten: Actions → "Newsletter …" → Run workflow
   push:
-    branches: [main]
+    branches: [main]        # bei Code-Änderungen nur die App neu veröffentlichen
 
 permissions:
   contents: write
@@ -19,8 +19,11 @@ concurrency:
 jobs:
   bauen:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      NEUE_AUSGABE: ${{ github.event_name != 'push' }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - uses: actions/setup-python@v5
         with:
@@ -29,17 +32,41 @@ jobs:
       - name: Tests
         run: python -m unittest discover -s tests
 
-      - name: Neue Ausgabe erstellen
-        if: github.event_name != 'push'
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Meldungen sammeln
+        if: env.NEUE_AUSGABE == 'true'
         run: |
-          pip install -r requirements.txt
-          python scripts/build_newsletter.py
+          python scripts/build_newsletter.py sammeln
+          cp build/meldungen.json "$RUNNER_TEMP/meldungen.json"
 
-      - name: Ausgabe speichern
-        if: github.event_name != 'push'
+      # Claude Code schreibt die Ausgabe – angemeldet über dein Claude-Abo (kein API-Guthaben nötig).
+      # Schlägt der Schritt fehl, erscheint trotzdem eine Ausgabe mit den Schlagzeilen.
+      - name: Ausgabe mit Claude schreiben
+        if: env.NEUE_AUSGABE == 'true'
+        continue-on-error: true
+        timeout-minutes: 15
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: >-
+            Lies scripts/redaktion.md und erledige den Auftrag dort.
+            Das Material steht in build/meldungen.json, das Ergebnis gehört nach build/ausgabe.json.
+          claude_args: |
+            --allowedTools "Read,Write"
+            --max-turns 12
+
+      # Sicherheitsnetz: Die Feeds sind fremder Text. Alles außer build/ausgabe.json, was im
+      # vorigen Schritt verändert wurde, wird verworfen, und die Meldungen kommen aus der Kopie.
+      - name: Nur Claudes Ausgabe übernehmen
+        if: env.NEUE_AUSGABE == 'true'
         run: |
+          git restore --staged --worktree -- .
+          git clean -fdq
+          cp "$RUNNER_TEMP/meldungen.json" build/meldungen.json
+
+      - name: Ausgabe fertigstellen und speichern
+        if: env.NEUE_AUSGABE == 'true'
+        run: |
+          python scripts/build_newsletter.py fertigstellen
           git config user.name "AI-News Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/data

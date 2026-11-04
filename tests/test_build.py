@@ -60,5 +60,31 @@ class AufbereitungTests(unittest.TestCase):
         self.assertEqual(b.quellen_aufloesen(aus, m)["deutschland"], [])
 
 
+class PruefenTests(unittest.TestCase):
+    def gueltig(self):
+        return {"lage": "Hallo", "deutschland": [
+            {"titel": "T", "zusammenfassung": "Z", "warum_wichtig": "W", "kategorie": "Forschung", "quellen": [0, 1]}],
+            "eu": [], "welt": []}
+
+    def test_gueltige_ausgabe(self):
+        aus = b.pruefen(self.gueltig(), anzahl=2)
+        self.assertEqual(aus["deutschland"][0]["quellen"], [0, 1])
+        self.assertEqual(aus["deutschland"][0]["kategorie"], "Forschung")
+
+    def test_unbekannte_kategorie_und_falsche_ids(self):
+        roh = self.gueltig()
+        roh["deutschland"][0]["kategorie"] = "Quatsch"
+        roh["deutschland"][0]["quellen"] = [0, 99, "1"]
+        aus = b.pruefen(roh, anzahl=2)
+        self.assertEqual(aus["deutschland"][0]["kategorie"], "")
+        self.assertEqual(aus["deutschland"][0]["quellen"], [0])
+
+    def test_kaputte_ausgaben(self):
+        self.assertIsNone(b.pruefen([], 2))
+        self.assertIsNone(b.pruefen({"lage": "x"}, 2))
+        leer = self.gueltig(); leer["deutschland"] = []
+        self.assertIsNone(b.pruefen(leer, 2))
+
+
 if __name__ == "__main__":
     unittest.main()
