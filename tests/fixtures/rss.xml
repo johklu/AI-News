@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>Test</title>
+<item><title>Bundesregierung startet KI-Offensive für den Mittelstand</title><link>https://example.org/1</link>
+<description>&lt;p&gt;Das Ministerium fördert &lt;b&gt;künstliche Intelligenz&lt;/b&gt; in kleinen Firmen.&lt;/p&gt;</description>
+<pubDate>Wed, 04 Nov 2026 07:00:00 +0100</pubDate></item>
+<item><title>Ski-Saison beginnt früher als erwartet</title><link>https://example.org/2</link>
+<description>Viel Schnee in den Alpen.</description><pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate></item>
+<item><title>Alte Meldung zu ChatGPT</title><link>https://example.org/3</link>
+<description>Längst vorbei.</description><pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate></item>
+</channel></rss>

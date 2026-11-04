@@ -1,0 +1,25 @@
+{
+  "_hinweis": "region: de | eu | welt. nur_ki: true = Feed behandelt ohnehin nur KI, sonst wird nach KI-Stichworten gefiltert.",
+  "feeds": [
+    {"name": "The Decoder", "region": "de", "nur_ki": true,  "url": "https://the-decoder.de/feed/"},
+    {"name": "heise online", "region": "de", "nur_ki": false, "url": "https://www.heise.de/rss/heise-atom.xml"},
+    {"name": "t3n", "region": "de", "nur_ki": true, "url": "https://t3n.de/tag/kuenstliche-intelligenz/rss.xml"},
+    {"name": "Golem", "region": "de", "nur_ki": false, "url": "https://rss.golem.de/rss.php?feed=RSS2.0"},
+    {"name": "netzpolitik.org", "region": "de", "nur_ki": false, "url": "https://netzpolitik.org/feed/"},
+    {"name": "tagesschau", "region": "de", "nur_ki": false, "url": "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml"},
+    {"name": "Google News (KI Deutschland)", "region": "de", "nur_ki": true,
+     "url": "https://news.google.com/rss/search?q=%22K%C3%BCnstliche+Intelligenz%22+OR+KI+Deutschland+when:2d&hl=de&gl=DE&ceid=DE:de"},
+
+    {"name": "Google News (EU KI-Politik)", "region": "eu", "nur_ki": true,
+     "url": "https://news.google.com/rss/search?q=%22AI+Act%22+OR+%22KI-Verordnung%22+OR+%22EU+KI%22+when:2d&hl=de&gl=DE&ceid=DE:de"},
+    {"name": "Google News (Europe AI)", "region": "eu", "nur_ki": true,
+     "url": "https://news.google.com/rss/search?q=%22AI+Act%22+OR+%22European+AI%22+OR+%22EU+artificial+intelligence%22+when:2d&hl=en-IE&gl=IE&ceid=IE:en"},
+    {"name": "Euractiv Tech", "region": "eu", "nur_ki": false, "url": "https://www.euractiv.com/sections/tech/feed/"},
+    {"name": "Sifted", "region": "eu", "nur_ki": false, "url": "https://sifted.eu/feed"},
+
+    {"name": "TechCrunch AI", "region": "welt", "nur_ki": true, "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
+    {"name": "The Verge AI", "region": "welt", "nur_ki": true, "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
+    {"name": "MIT Technology Review", "region": "welt", "nur_ki": true, "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"},
+    {"name": "Ars Technica AI", "region": "welt", "nur_ki": true, "url": "https://arstechnica.com/ai/feed/"}
+  ]
+}

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>AI-News</title>
+  <meta name="description" content="Täglicher KI-Überblick mit Fokus auf Deutschland und Europa">
+  <meta name="theme-color" content="#f6f3ee" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#16181d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="AI-News">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="kopf">
+    <div class="kopf-innen">
+      <div>
+        <p class="marke">AI-News</p>
+        <h1 id="datum">Lädt …</h1>
+      </div>
+      <div class="knoepfe">
+        <button id="btn-neu" class="icon-btn" aria-label="Aktualisieren">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 12a8 8 0 1 1-2.34-5.66M20 4v5h-5"/></svg>
+        </button>
+        <button id="btn-archiv" class="icon-btn" aria-label="Frühere Ausgaben">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg>
+        </button>
+      </div>
+    </div>
+    <nav class="reiter" aria-label="Abschnitte">
+      <a href="#deutschland">Deutschland <span data-zahl="deutschland"></span></a>
+      <a href="#eu">EU <span data-zahl="eu"></span></a>
+      <a href="#welt">Welt <span data-zahl="welt"></span></a>
+    </nav>
+  </header>
+
+  <main id="inhalt">
+    <div id="hinweis-archiv" class="hinweis-archiv" hidden>
+      <span>Ältere Ausgabe</span>
+      <button id="btn-heute" class="link-btn">Zur aktuellen Ausgabe</button>
+    </div>
+    <section id="lage" class="lage" hidden>
+      <h2>Die Lage</h2>
+      <p id="lage-text"></p>
+    </section>
+    <div id="abschnitte"></div>
+    <div id="leer" class="leer" hidden></div>
+    <footer id="fuss" class="fuss"></footer>
+  </main>
+
+  <dialog id="archiv" class="blatt">
+    <div class="blatt-kopf">
+      <h2>Frühere Ausgaben</h2>
+      <button class="icon-btn" id="archiv-zu" aria-label="Schließen">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+    <ul id="archiv-liste"></ul>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>

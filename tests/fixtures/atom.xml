@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Test Atom</title>
+<entry><title>EU Commission publishes AI Act guidelines</title>
+<link rel="alternate" href="https://example.eu/a"/><link rel="replies" href="https://example.eu/a#c"/>
+<summary>New guidance for general-purpose AI models.</summary><updated>2026-11-04T05:30:00Z</updated></entry>
+</feed>
