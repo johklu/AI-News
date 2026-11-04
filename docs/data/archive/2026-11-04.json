@@ -1,0 +1,390 @@
+{
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "deutschland": [
+  {
+   "titel": "Kostenlose Design-Software: Warum Canva fast ein Viertel der Belegschaft entlässt",
+   "zusammenfassung": "Ein Teil des Problems waren und sind die Menschen, die nicht für die Produkte bezahlen. Und dann kommt noch KI hinzu. ( Tools , KI )",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/kostenlose-design-software-warum-canva-fast-ein-viertel-der-belegschaft-entlaesst-2611-214851.html"
+    }
+   ]
+  },
+  {
+   "titel": "Weltuntergang am 13. November 2026? Was die Doomsday-Formel mit KI zu tun hat",
+   "zusammenfassung": "KI-generiert",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/weltuntergang-am-13-november-2026-was-die-doomsday-formel-mit-ki-zu-tun-hat-1771528"
+    }
+   ]
+  },
+  {
+   "titel": "KI-Update: Nein zu Rechenzentren, Anthropic warnt, Google-Zwang, KI-Mythen",
+   "zusammenfassung": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/KI-Update-Nein-zu-Rechenzentren-Anthropic-warnt-Google-Zwang-KI-Mythen-11509052.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Indische Behörde für Cyberkriminalität warnt Finanzunternehmen vor KI-Angriffen - MarketScreener Deutschland",
+   "zusammenfassung": "Indische Behörde für Cyberkriminalität warnt Finanzunternehmen vor KI-Angriffen MarketScreener Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTHFoM3lFQzRHZ3QweXZqd2VSWUhjdml0T3Fjd3o3aFk3UU94OWNzXzEydFdweHhBa2x2dVE5SENBdl9CUU41QXc3aWN3V3ZvVldUWWJPUGFTZW11c0ZDQjczZnVIaUNtUHMydEVTN0pEaXA4QXFqWDZnTzNGWlo1ZmNtekR6V3pnbzhLNVBmWnNQODJ4OFUxTjZaNHRLbldHSXhxdUNRSHRxN1NJQ21yaXg2bW9wSEsxNUhXSVBrUWxHTnJqRXp1Mk4yYWJtVjJ2d3JYTlFvS3dyR0dIMnFpem1B?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "KI und Arbeitsplätze in Hessen: Peter Buxmann warnt vor Jobabbau bei Einsteigern - Allgemeine Zeitung",
+   "zusammenfassung": "KI und Arbeitsplätze in Hessen: Peter Buxmann warnt vor Jobabbau bei Einsteigern Allgemeine Zeitung",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNDFiY2pzeEd6VWV1ZHNCMGR2dzBieE5OSUUxX3RSQVdpVEU5RENRRmpHSmRTOUlLMHZYaXF3c1NhbU9PcFFaZ2QtLUE2ZEJLbHBLejlRT2JqVk5LN0ZFRERtcVlnY1g2N1NzTWkwR01lQmlmZzBKcnk5U3lFMy00Ync1NUFfMktTNDlZS1VHbDVOMUE4MUJoX1lFNV9xcnlUck96b0EwdG0xSTN3QlN3MzZxbjBnbEN5RWlBMGdEcmNsdGR6b0hiSTZtSVdkcHVyZ0hIVw?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
+   "zusammenfassung": "Der überraschende Erfolg der US-Demokraten steht bei den Märkten im Fokus und treibt etwa den DAX an. Gleichzeitig geraten Tech-Aktien unter Druck: Anleger befürchten, dass die Demokraten den KI-Sektor stärker regulieren könnten.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html"
+    }
+   ]
+  },
+  {
+   "titel": "KI-Boom in den USA: Auch alte Flugzeugtriebwerke sollen jetzt Strom liefern",
+   "zusammenfassung": "In den USA werden mit enormer Geschwindigkeit KI-Rechenzentren aus dem Boden gestampft. Bei der Stromversorgung werden die Verantwortlichen immer kreativer.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/KI-Boom-in-den-USA-Auch-alte-Flugzeugtriebwerke-sollen-jetzt-Strom-liefern-11511486.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Wie 1.000 Bankangestellte ohne Ausweis: So blind setzen Unternehmen KI-Agenten ein",
+   "zusammenfassung": "KI-generiert",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/bankangestellte-ausweis-unternehmen-ki-agenten-1771104"
+    }
+   ]
+  },
+  {
+   "titel": "Kanzler macht Druck - Deutschland will KI in der Industrie vorantreiben - Kronen Zeitung",
+   "zusammenfassung": "Kanzler macht Druck - Deutschland will KI in der Industrie vorantreiben Kronen Zeitung",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE56SzYyeTFFMUd2bXM4Rk1oQ3QzMkRBYnJYdno4X2dyemh5Q1ZQZFFoM0tYNGpNTURzT2EyYUpQN0ZJZw?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "KI-Skills: So erledigen ChatGPT und Claude deine Routineaufgaben",
+   "zusammenfassung": "KI-generiert",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/ki-skills-chatgpt-claude-routineaufgaben-erledigen-1771530"
+    }
+   ]
+  },
+  {
+   "titel": "Anthropics neues Open-Source-Tool soll beweisen, welches KI-Modell wirklich antwortet",
+   "zusammenfassung": "Anthropic stellt mit FlashProve einen Forschungsprototyp vor, der kryptografisch nachweisen soll, ob eine KI-Antwort tatsächlich vom behaupteten Modell stammt. Das System hat noch deutliche Einschränkungen. Der Artikel Anthropics neues Open-Source-Tool soll beweisen, welches KI-Modell wirklich antwortet erschien zuerst auf The Decoder .",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/anthropics-neues-open-source-tool-soll-beweisen-welches-ki-modell-wirklich-antwortet/"
+    }
+   ]
+  },
+  {
+   "titel": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
+   "zusammenfassung": "Die neue Claude-Funktion soll Unternehmen helfen, ihre KI-Kosten zu kontrollieren. Gleichzeitig ermöglicht sie, die Leistung ihrer Mitarbeiter zu bewerten.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "DIW-Studie zur Arbeitswelt: KI spaltet Deutschlands Arbeitswelt in Nutzer und Nichtnutzer - n-tv.de",
+   "zusammenfassung": "DIW-Studie zur Arbeitswelt: KI spaltet Deutschlands Arbeitswelt in Nutzer und Nichtnutzer n-tv.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGdlcWptZ2oxbVZfVFMyMHBWQ21BRnN4emJSTlQ0Y0U2dU1jampsbjNrYTBJMk4tOWZ5UklFcERxYmFqOFFFRXR3THZBejF6RnpTYWk4SG9FN1loVVVocGpWdTRnMFBMOG51YzJXektXMFJHNWF5LUpvM2llN3huZ3A4NVBrenUtejdoWWY5Y0JpNFJYeUx3VUNZZGlJdzRPNGg0M0g3RQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "US-Zwischenwahlen: Eine Klatsche für Musk und die KI-Branche",
+   "zusammenfassung": "Die US-Republikaner haben in den Zwischenwahlen eine schwere Niederlage erlitten. Das könnte den ungezügelten Ausbau von Rechenzentren stoppen. Eine Analyse von Friedhelm Greis ( Rechenzentrum , Politik )",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/us-zwischenwahlen-eine-klatsche-fuer-musk-und-die-ki-branche-2611-214835.html"
+    }
+   ]
+  },
+  {
+   "titel": "Account-Sharing bei ChatGPT, Claude und Gemini: Diese 6 Risiken drohen dir",
+   "zusammenfassung": "Teilst du deinen Account für ChatGPT, Claude oder Gemini mit anderen Nutzer:innen? Das spart zwar Geld, kann dir aber ziemlich große Probleme mit den anderen User:innen einbringen. Warum das Account-Sharing bei KI-Tools keine gute Idee ist.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/account-sharing-chatgpt-claude-gemini-6-risiken-1758597"
+    }
+   ]
+  }
+ ],
+ "eu": [
+  {
+   "titel": "EU rules on Artificial intelligence devices will apply in NI - BBC",
+   "zusammenfassung": "EU rules on Artificial intelligence devices will apply in NI BBC",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WWEJMaUJFNnluMzg2eS0wY2R0UzNGSjNvb3lQMHZmZFZEMVY0Um1LR1Bkc2NwSjBEOWllQXRkWUlBSUQ2VF9OUkZBYjJDd3AxTHhPMVBlZXYtM1plbkE?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "EU AI Act transparency rules show why businesses can’t afford to wait - IT Security Guru",
+   "zusammenfassung": "EU AI Act transparency rules show why businesses can’t afford to wait IT Security Guru",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1dWckRVNkNBbnhmQl90ZnQ3eVA5UTQ4c0t6QnRsb1lmMWc0cGdUMjctVURqdjB5ZkJkSjZSYXVtckNSR1pDeU9MSC1Gel9XakJlSUdBU2V0anBYOGRORHlab1k5dnRLazF1cHhSNVRSSlhtTkp5c2xsdEk5aHdQc2ZzTWFVbjVGVEh4SmUtbElmU291STA4NDB6Q29FQ1NpaHB4MzFnQXhRdkxFQ3ZmVg?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Households paying the price for Government’s data centre choices – Bacik - The Labour Party",
+   "zusammenfassung": "Households paying the price for Government’s data centre choices – Bacik The Labour Party",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUt5NVI5b21jV29WRTl2YUdiZm9LVzN3eEI3WFpsOTAwbVZOREtFOUdvUnNvZEJLY3NzNHFZRTNSRUJaLUZLZG9Oa3d6dHpmSTJ2V0pxRnFFQTNMbElPWjNHaXpSZVlFZVZCY1k5ZnlRRFNLYVA2aFZjLVQtamt4S3BDbGtpc3JYWld2TzFCRm0yS0d2WjlGb3d0OWVxcFhYbjZ2UUdGNA?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "The EU AI Act has entered the real world: What organizations need to do now - SC Media",
+   "zusammenfassung": "The EU AI Act has entered the real world: What organizations need to do now SC Media",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1FvUFJ0WGR6YjFJVWl2TmRiSGFPZGU3SDNJM3p5ZnlaMlBjVjJJNTRzSDU5a0dnTFdwTW9pTU5TRDJaQXNmX2NwNUJfcmdQdXFuSEEtVzB2X0hyWUFrTG1nN0FJOFlaOU82MlRrV1BfOEc2dUVlVlFQOGRZZEcyeUVqMi1jM2Z3ODByUzZaZXk1TkxyemJSV0h5MWVYVE9VSGhnbWN0NXRZTUpJRWpN?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "EU AI Act Timeline: 5 Dates to 2028 [2026] - shattered.io",
+   "zusammenfassung": "EU AI Act Timeline: 5 Dates to 2028 [2026] shattered.io",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXeWpSM0gyb3ctekdZWm1aTEdRZUk1Q05kTXdpTVk0QXROQ1l4ZnBvSkVPc2ttRUNWNFJtd01tdjhLZk8xa2FvMWtGQWxoYWRtWVBKVFJlV2YzZU9TaDNQSG1mWmRQV0NGYk9SSnR0S19OMGk1eWFMYmVyOUNjU2s?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Tech companies tell job applicants: Be AI-pilled (but not too AI-pilled!)",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/job-applicants-be-ai-pilled/"
+    }
+   ]
+  },
+  {
+   "titel": "EU AI act: the world’s first law on artificial intelligence - Meer | English edition",
+   "zusammenfassung": "EU AI act: the world’s first law on artificial intelligence Meer | English edition",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWFBheExkaGlQTU5aR2t0TmN3UGo5bW94elp1cTFDUWtGdjc4VmdGSl9IWmIyeDVSRnlPSHdxT2I4bDMtbjB0cmF2a21Pc0ZxTU5RelJXVjU3SnQ0OGFhWFlnRm5jbjg1NGdzRmtMOVlKUG9kSUFSX2ZodTJQUDZMWTVwVFhDNjZieUxkQXdIdUs?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "FlowForma: Claude, ChatGPT und Copilot modellieren künftig Geschäftsprozesse - ad-hoc-news.de",
+   "zusammenfassung": "FlowForma: Claude, ChatGPT und Copilot modellieren künftig Geschäftsprozesse ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcnhJNnhIbl9QYmVnMzFyRExSenZyLUpaSk1vNldXLW5DMjFXRVVhWVJBVUtOeDZHYnZUSUR0Y1R1ODZhNHkzUFJYeEd0WE5QMGxYVkRqZEtIbVZlZWcxQWZKUzVBT21JZV9PLTIxbXJBX0xXbHN3OUkzRU01RUtLeUFJR3Y0ZllWUmFzU2pCUC1wNnM3QVIyODVocmRuODR3NEVUN090OW5NQUFCUjhKYm84SHFSU19waWcyMXBEWlNRR3M?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "An AI explanation is not evidence of human review - European Scientist",
+   "zusammenfassung": "An AI explanation is not evidence of human review European Scientist",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzUtVDFDaVUwclZvNUhacnFrS3ZwZVVkeVpfNzBOc0hxQnVtNmRrRnlrQ3ZrTFlKWlRDWWpLZlRuaGhESVVRUnBYdG04eUVoSk5CRk5vOGpZZVNzLWZsUUFleFc4MGotdGtpR3hsN3dMSV91aVBjaDRWMUhYTVFQWS1UckZ0NldkS3JTR05vY29MX25TN1kzY1BYM0c?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Google Gemini an Schulen: App lässt sich abschalten, Suche bleibt zugänglich - ad-hoc-news.de",
+   "zusammenfassung": "Google Gemini an Schulen: App lässt sich abschalten, Suche bleibt zugänglich ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcnh5QzRuVTBFWF9XOXM3clVQX0prWjlPNFd6UTBsb0o5WnIzaGtXcTBTQkdya0ZVdm9CUFNoN2JNV2hSc3BqVHFrTzNoRjV0ZjVBSFpjS2N5OElQYklvZUptZkhJQlJjNWhhVG5NcndOUExzYXZXMnZHaVJseF9aOER2VmJ2S1pnX0hGMkhpRWNqVWxGN041LTEyTk56RzhsT1hLeVoyem5sRG1PTmJ5YWo0dndUaFp6ZkhmZkRZM1B4TUU?oc=5"
+    }
+   ]
+  }
+ ],
+ "welt": [
+  {
+   "titel": "Those Jeff Bezos hair transplant photos are very fake",
+   "zusammenfassung": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved […]",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk"
+    }
+   ]
+  },
+  {
+   "titel": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+   "zusammenfassung": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/"
+    }
+   ]
+  },
+  {
+   "titel": "Securing the agentic enterprise with data lineage",
+   "zusammenfassung": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "MIT Technology Review",
+     "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
+    }
+   ]
+  },
+  {
+   "titel": "The biggest modding site in PC gaming is taking a stance on AI",
+   "zusammenfassung": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent […]",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
+    }
+   ]
+  },
+  {
+   "titel": "Please stop asking me when the AI bubble will pop",
+   "zusammenfassung": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds"
+    }
+   ]
+  }
+ ],
+ "datum": "2026-11-04",
+ "erstellt": "2026-11-04T15:23+01:00",
+ "modus": "einfach",
+ "anzahl_meldungen": 100,
+ "feeds": {
+  "The Decoder": "10 Meldungen",
+  "heise online": "27 Meldungen",
+  "t3n": "10 Meldungen",
+  "Golem": "8 Meldungen",
+  "netzpolitik.org": "3 Meldungen",
+  "tagesschau": "1 Meldungen",
+  "Google News (KI Deutschland)": "78 Meldungen",
+  "Google News (EU KI-Politik)": "29 Meldungen",
+  "Google News (Europe AI)": "25 Meldungen",
+  "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
+  "Sifted": "4 Meldungen",
+  "TechCrunch AI": "14 Meldungen",
+  "The Verge AI": "10 Meldungen",
+  "MIT Technology Review": "3 Meldungen",
+  "Ars Technica AI": "2 Meldungen"
+ }
+}
