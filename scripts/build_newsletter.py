@@ -1,18 +1,16 @@
 """Sammelt KI-Nachrichten aus RSS/Atom-Feeds und baut daraus die Tagesausgabe.
 
-Zwei Schritte, dazwischen schreibt Claude Code (im GitHub-Workflow, über dein Claude-Abo)
-die eigentliche Ausgabe:
-
   python scripts/build_newsletter.py sammeln
-      Feeds abrufen, KI-Meldungen der letzten STUNDEN (Standard 36) behalten,
-      Dubletten entfernen -> build/meldungen.json
+      (GitHub Actions, frühmorgens) Feeds abrufen, KI-Meldungen der letzten STUNDEN
+      (Standard 36) behalten, Dubletten entfernen -> eingang/meldungen.json
 
-  (Claude Code liest scripts/redaktion.md und schreibt build/ausgabe.json)
+  Danach schreibt eine geplante Claude-Code-Sitzung (über das Claude-Abo) nach
+  scripts/redaktion.md die Datei eingang/ausgabe.json und pusht sie.
 
   python scripts/build_newsletter.py fertigstellen
-      build/ausgabe.json prüfen, Quellen-Nummern in Links umwandeln und nach
-      docs/data/latest.json + docs/data/archive/<datum>.json schreiben.
-      Fehlt die Ausgabe oder ist sie ungültig, entsteht eine einfache Schlagzeilen-Ausgabe.
+      eingang/ausgabe.json prüfen (muss zum "stand" der Meldungen passen), Quellen-Nummern
+      in Links umwandeln und nach docs/data/ schreiben. Ohne passende Ausgabe entsteht
+      eine Schlagzeilen-Ausgabe.
 """
 from __future__ import annotations
 
@@ -31,7 +29,7 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent.parent
 FEEDS_FILE = ROOT / "scripts" / "feeds.json"
-BUILD_DIR = ROOT / "build"
+EINGANG = ROOT / "eingang"
 DATA_DIR = ROOT / "docs" / "data"
 ARCHIVE_DIR = DATA_DIR / "archive"
 BERLIN = ZoneInfo("Europe/Berlin")
@@ -247,40 +245,45 @@ def sammeln_befehl() -> int:
     meldungen = meldungen[:MAX_MELDUNGEN]
     print(f"{len(meldungen)} KI-Meldungen nach Filter und Dublettenprüfung", file=sys.stderr)
 
-    BUILD_DIR.mkdir(exist_ok=True)
-    (BUILD_DIR / "ausgabe.json").unlink(missing_ok=True)
+    EINGANG.mkdir(exist_ok=True)
+    (EINGANG / "ausgabe.json").unlink(missing_ok=True)
     daten = {
+        "stand": jetzt.isoformat(timespec="seconds"),
         "heute": f"{WOCHENTAGE[jetzt.astimezone(BERLIN).weekday()]}, {jetzt.astimezone(BERLIN):%d.%m.%Y}",
         "feeds": status,
         "meldungen": [{"id": i, "titel": m["titel"], "quelle": m["quelle"], "region": m["region"],
                        "text": m["text"], "link": m["link"]} for i, m in enumerate(meldungen)],
     }
-    (BUILD_DIR / "meldungen.json").write_text(json.dumps(daten, ensure_ascii=False, indent=1), encoding="utf-8")
+    (EINGANG / "meldungen.json").write_text(json.dumps(daten, ensure_ascii=False, indent=1), encoding="utf-8")
     return 0
 
 
 def fertigstellen_befehl() -> int:
-    daten = json.loads((BUILD_DIR / "meldungen.json").read_text(encoding="utf-8"))
+    daten = json.loads((EINGANG / "meldungen.json").read_text(encoding="utf-8"))
     meldungen = daten["meldungen"]
     if not meldungen:
         print("Keine Meldungen gefunden – bestehende Ausgabe bleibt unverändert.", file=sys.stderr)
         return 0
 
     ausgabe, modus = None, "ki"
-    datei = BUILD_DIR / "ausgabe.json"
+    datei = EINGANG / "ausgabe.json"
     if datei.exists():
         try:
-            ausgabe = pruefen(json.loads(datei.read_text(encoding="utf-8")), len(meldungen))
+            roh = json.loads(datei.read_text(encoding="utf-8"))
+            if isinstance(roh, dict) and roh.get("stand") == daten.get("stand"):
+                ausgabe = pruefen(roh, len(meldungen))
+                if ausgabe is None:
+                    print("eingang/ausgabe.json ist unvollständig – nutze Schlagzeilen.", file=sys.stderr)
+            else:
+                print("eingang/ausgabe.json gehört zu anderen Meldungen – nutze Schlagzeilen.", file=sys.stderr)
         except json.JSONDecodeError as ex:
-            print(f"build/ausgabe.json ist kein gültiges JSON: {ex}", file=sys.stderr)
-        if ausgabe is None:
-            print("build/ausgabe.json ist unvollständig – nutze Schlagzeilen.", file=sys.stderr)
+            print(f"eingang/ausgabe.json ist kein gültiges JSON: {ex}", file=sys.stderr)
     else:
-        print("Keine build/ausgabe.json von Claude – nutze Schlagzeilen.", file=sys.stderr)
+        print("Noch keine eingang/ausgabe.json von Claude – nutze Schlagzeilen.", file=sys.stderr)
     if ausgabe is None:
         modus = "einfach"
-        ausgabe = ohne_claude(meldungen, "Heute nur die Schlagzeilen – die Zusammenfassung durch Claude "
-                                         "hat bei diesem Lauf nicht geklappt.")
+        ausgabe = ohne_claude(meldungen, "Guten Morgen! Hier sind schon mal die Schlagzeilen – "
+                                         "die Zusammenfassung von Claude folgt in Kürze.")
 
     jetzt = datetime.now(timezone.utc).astimezone(BERLIN)
     ausgabe = quellen_aufloesen(ausgabe, meldungen)

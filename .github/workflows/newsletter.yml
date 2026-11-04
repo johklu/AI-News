@@ -1,11 +1,15 @@
 name: Newsletter erstellen und veröffentlichen
 
+# Ablauf:
+#  1. schedule (früh morgens): Meldungen sammeln -> eingang/meldungen.json, sofort Schlagzeilen-Ausgabe veröffentlichen
+#  2. Eine geplante Claude-Code-Sitzung (über das Claude-Abo) schreibt eingang/ausgabe.json und pusht sie
+#  3. push mit eingang/ausgabe.json: Ausgabe prüfen, speichern und veröffentlichen
 on:
   schedule:
-    - cron: "17 5 * * *"   # täglich 05:17 UTC = 06:17 Uhr (Winter) / 07:17 Uhr (Sommer) in Berlin
-  workflow_dispatch:        # manuell starten: Actions → "Newsletter …" → Run workflow
+    - cron: "17 3 * * *"   # 03:17 UTC = 04:17 Uhr (Winter) / 05:17 Uhr (Sommer) in Berlin
+  workflow_dispatch:
   push:
-    branches: [main]        # bei Code-Änderungen nur die App neu veröffentlichen
+    branches: [main]
 
 permissions:
   contents: write
@@ -19,11 +23,11 @@ concurrency:
 jobs:
   bauen:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
-    env:
-      NEUE_AUSGABE: ${{ github.event_name != 'push' }}
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v6
+        with:
+          fetch-depth: 2
 
       - uses: actions/setup-python@v5
         with:
@@ -32,45 +36,30 @@ jobs:
       - name: Tests
         run: python -m unittest discover -s tests
 
+      - name: Was ist zu tun?
+        id: modus
+        run: |
+          if [ "${{ github.event_name }}" != "push" ]; then
+            echo "schritt=sammeln" >> "$GITHUB_OUTPUT"
+          elif git diff --name-only HEAD~1 HEAD | grep -qx 'eingang/ausgabe.json'; then
+            echo "schritt=claude" >> "$GITHUB_OUTPUT"
+          else
+            echo "schritt=nur-app" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Meldungen sammeln
-        if: env.NEUE_AUSGABE == 'true'
-        run: |
-          python scripts/build_newsletter.py sammeln
-          cp build/meldungen.json "$RUNNER_TEMP/meldungen.json"
-
-      # Claude Code schreibt die Ausgabe – angemeldet über dein Claude-Abo (kein API-Guthaben nötig).
-      # Schlägt der Schritt fehl, erscheint trotzdem eine Ausgabe mit den Schlagzeilen.
-      - name: Ausgabe mit Claude schreiben
-        if: env.NEUE_AUSGABE == 'true'
-        continue-on-error: true
-        timeout-minutes: 15
-        uses: anthropics/claude-code-action@v1
-        with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          prompt: >-
-            Lies scripts/redaktion.md und erledige den Auftrag dort.
-            Das Material steht in build/meldungen.json, das Ergebnis gehört nach build/ausgabe.json.
-          claude_args: |
-            --allowedTools "Read,Write"
-            --max-turns 12
-
-      # Sicherheitsnetz: Die Feeds sind fremder Text. Alles außer build/ausgabe.json, was im
-      # vorigen Schritt verändert wurde, wird verworfen, und die Meldungen kommen aus der Kopie.
-      - name: Nur Claudes Ausgabe übernehmen
-        if: env.NEUE_AUSGABE == 'true'
-        run: |
-          git restore --staged --worktree -- .
-          git clean -fdq
-          cp "$RUNNER_TEMP/meldungen.json" build/meldungen.json
+        if: steps.modus.outputs.schritt == 'sammeln'
+        run: python scripts/build_newsletter.py sammeln
 
       - name: Ausgabe fertigstellen und speichern
-        if: env.NEUE_AUSGABE == 'true'
+        if: steps.modus.outputs.schritt != 'nur-app'
         run: |
           python scripts/build_newsletter.py fertigstellen
           git config user.name "AI-News Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data
-          git diff --cached --quiet || git commit -m "Ausgabe $(TZ=Europe/Berlin date +%F)"
+          git add eingang docs/data
+          git diff --cached --quiet || git commit -m "Ausgabe $(TZ=Europe/Berlin date +%F) (${{ steps.modus.outputs.schritt }})"
+          git pull --rebase -q origin main
           git push
 
       - uses: actions/configure-pages@v5
