@@ -300,8 +300,40 @@ def fertigstellen_befehl() -> int:
     return 0
 
 
+def zeigen_befehl() -> int:
+    """Kompakte Übersicht für die Redaktion: eine Zeile pro Meldung, spart Tokens."""
+    daten = json.loads((EINGANG / "meldungen.json").read_text(encoding="utf-8"))
+    print(f"stand={daten['stand']} | heute={daten['heute']} | {len(daten['meldungen'])} Meldungen")
+    for m in daten["meldungen"]:
+        text = m["text"] if m["text"] and not m["titel"].startswith(m["text"][:40]) else ""
+        print(f"[{m['id']}] {m['region']} | {m['quelle']} | {m['titel']}" + (f" | {text[:220]}" if text else ""))
+    return 0
+
+
+def pruefen_befehl() -> int:
+    """Prüft eingang/ausgabe.json wie fertigstellen, ohne etwas zu schreiben."""
+    m = json.loads((EINGANG / "meldungen.json").read_text(encoding="utf-8"))
+    try:
+        a = json.loads((EINGANG / "ausgabe.json").read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as ex:
+        print(f"FEHLER: {ex}")
+        return 1
+    if not isinstance(a, dict) or a.get("stand") != m["stand"]:
+        print("FEHLER: 'stand' fehlt oder passt nicht zu eingang/meldungen.json")
+        return 1
+    geprueft = pruefen(a, len(m["meldungen"]))
+    if geprueft is None:
+        print("FEHLER: Format ungültig oder keine Geschichte mit gültigen Quellen")
+        return 1
+    verworfen = sum(len(a.get(r) or []) - len(geprueft[r]) for r in ("deutschland", "eu", "welt"))
+    print(f"ok – DE {len(geprueft['deutschland'])}, EU {len(geprueft['eu'])}, Welt {len(geprueft['welt'])}"
+          + (f" ({verworfen} Geschichten ohne gültige Quellen verworfen)" if verworfen else ""))
+    return 0
+
+
 if __name__ == "__main__":
-    befehle = {"sammeln": sammeln_befehl, "fertigstellen": fertigstellen_befehl}
+    befehle = {"sammeln": sammeln_befehl, "fertigstellen": fertigstellen_befehl,
+               "zeigen": zeigen_befehl, "pruefen": pruefen_befehl}
     if len(sys.argv) != 2 or sys.argv[1] not in befehle:
-        sys.exit(f"Aufruf: {sys.argv[0]} sammeln|fertigstellen")
+        sys.exit(f"Aufruf: {sys.argv[0]} sammeln|fertigstellen|zeigen|pruefen")
     sys.exit(befehle[sys.argv[1]]())
