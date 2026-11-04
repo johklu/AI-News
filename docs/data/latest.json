@@ -1,60 +1,40 @@
 {
- "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "lage": "Guten Morgen! Heute steht in Deutschland der Digitalgipfel im Mittelpunkt, auf dem KI als Wirtschaftstreiber das bestimmende Thema war. Aus Luxemburg kommt ein wichtiges Signal zum Urheberrecht bei KI-Chatbots, und weltweit sorgt Googles Schulpolitik für Diskussionen.",
  "deutschland": [
   {
-   "titel": "Kostenlose Design-Software: Warum Canva fast ein Viertel der Belegschaft entlässt",
-   "zusammenfassung": "Ein Teil des Problems waren und sind die Menschen, die nicht für die Produkte bezahlen. Und dann kommt noch KI hinzu. ( Tools , KI )",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Digitalgipfel: KI soll Wirtschaft und Verwaltung voranbringen",
+   "zusammenfassung": "KI als Treiber für die Wirtschaft war das bestimmende Thema des diesjährigen Digitalgipfels, an dem unter anderem Digitalminister Karsten Wildberger teilnahm. Als Markt gilt vor allem der öffentliche Sektor, allen voran die Verwaltung, als attraktiv. Der Kanzler macht Druck, KI in der Industrie voranzutreiben.",
+   "warum_wichtig": "Die politischen Weichen auf dem Gipfel bestimmen mit, wie schnell KI in Behörden und Betrieben in Deutschland ankommt.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
-     "name": "Golem",
-     "url": "https://www.golem.de/news/kostenlose-design-software-warum-canva-fast-ein-viertel-der-belegschaft-entlaesst-2611-214851.html"
+     "name": "netzpolitik.org",
+     "url": "https://netzpolitik.org/2026/digitalgipfel-ki-torschlusspanik/"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE56SzYyeTFFMUd2bXM4Rk1oQ3QzMkRBYnJYdno4X2dyemh5Q1ZQZFFoM0tYNGpNTURzT2EyYUpQN0ZJZw?oc=5"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVVF3dzk1MDRKSDVhVEpRNVFGN1RodWtndG5pblN4WGJMYjNTYXdnQXQtVURqN3E2VEMxWlRuRnRwRmxSaE5sX1ZUVVdQNW5iaVZUNkN1QzBMeXNpNS1VNGNDb3UxUWVqcFM4UjhfMGJoa282WGRBUTBvUVVDYW52ZmNGQ2dhR1AwM2otSVNrZUxkTTY4RTlPcGtEWFlxa3BJN2sxYlpNeTdjalhwU05OZW16VnRzeGs?oc=5"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOREVpZmtCSUNLcEhXeFBDa0EyVmN3MkFvYWc2Z1RDTUd6eHUyOVBmLWxNeWRrS2gtdGdnUFhUZk9oUHRnNTRvWHBqdWp1WTRTcmQ4cTlFcnFyekxlMDNEWGwweEpaX05mZ0dyNjFXVVhKYUh6b3ByVWRHcC1lS1pyOGJ4UFJyZVZPY2IxNHFMTnF5a29VMlltb0t2TUEwV3NCWi1JODVHaDFrZ2drbV9lWUZqZVZDQkpq?oc=5"
     }
    ]
   },
   {
-   "titel": "Weltuntergang am 13. November 2026? Was die Doomsday-Formel mit KI zu tun hat",
-   "zusammenfassung": "KI-generiert",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "t3n",
-     "url": "https://t3n.de/news/weltuntergang-am-13-november-2026-was-die-doomsday-formel-mit-ki-zu-tun-hat-1771528"
-    }
-   ]
-  },
-  {
-   "titel": "KI-Update: Nein zu Rechenzentren, Anthropic warnt, Google-Zwang, KI-Mythen",
-   "zusammenfassung": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/KI-Update-Nein-zu-Rechenzentren-Anthropic-warnt-Google-Zwang-KI-Mythen-11509052.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "titel": "Indische Behörde für Cyberkriminalität warnt Finanzunternehmen vor KI-Angriffen - MarketScreener Deutschland",
-   "zusammenfassung": "Indische Behörde für Cyberkriminalität warnt Finanzunternehmen vor KI-Angriffen MarketScreener Deutschland",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "DIW-Studie: KI spaltet die Arbeitswelt in Nutzer und Nichtnutzer",
+   "zusammenfassung": "Laut einer Studie des DIW teilt KI die deutsche Arbeitswelt zunehmend in Menschen, die sie nutzen, und solche, die es nicht tun. Der Wirtschaftsinformatiker Peter Buxmann warnt zudem vor einem Jobabbau bei Berufseinsteigern.",
+   "warum_wichtig": "Für Beschäftigte und Arbeitgeber wird der Umgang mit KI-Werkzeugen zur Frage der Chancengleichheit im Job.",
+   "kategorie": "Gesellschaft",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTHFoM3lFQzRHZ3QweXZqd2VSWUhjdml0T3Fjd3o3aFk3UU94OWNzXzEydFdweHhBa2x2dVE5SENBdl9CUU41QXc3aWN3V3ZvVldUWWJPUGFTZW11c0ZDQjczZnVIaUNtUHMydEVTN0pEaXA4QXFqWDZnTzNGWlo1ZmNtekR6V3pnbzhLNVBmWnNQODJ4OFUxTjZaNHRLbldHSXhxdUNRSHRxN1NJQ21yaXg2bW9wSEsxNUhXSVBrUWxHTnJqRXp1Mk4yYWJtVjJ2d3JYTlFvS3dyR0dIMnFpem1B?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "KI und Arbeitsplätze in Hessen: Peter Buxmann warnt vor Jobabbau bei Einsteigern - Allgemeine Zeitung",
-   "zusammenfassung": "KI und Arbeitsplätze in Hessen: Peter Buxmann warnt vor Jobabbau bei Einsteigern Allgemeine Zeitung",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGdlcWptZ2oxbVZfVFMyMHBWQ21BRnN4emJSTlQ0Y0U2dU1jampsbjNrYTBJMk4tOWZ5UklFcERxYmFqOFFFRXR3THZBejF6RnpTYWk4SG9FN1loVVVocGpWdTRnMFBMOG51YzJXektXMFJHNWF5LUpvM2llN3huZ3A4NVBrenUtejdoWWY5Y0JpNFJYeUx3VUNZZGlJdzRPNGg0M0g3RQ?oc=5"
+    },
     {
      "name": "Google News (KI Deutschland)",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNDFiY2pzeEd6VWV1ZHNCMGR2dzBieE5OSUUxX3RSQVdpVEU5RENRRmpHSmRTOUlLMHZYaXF3c1NhbU9PcFFaZ2QtLUE2ZEJLbHBLejlRT2JqVk5LN0ZFRERtcVlnY1g2N1NzTWkwR01lQmlmZzBKcnk5U3lFMy00Ync1NUFfMktTNDlZS1VHbDVOMUE4MUJoX1lFNV9xcnlUck96b0EwdG0xSTN3QlN3MzZxbjBnbEN5RWlBMGdEcmNsdGR6b0hiSTZtSVdkcHVyZ0hIVw?oc=5"
@@ -62,132 +42,112 @@
    ]
   },
   {
-   "titel": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
-   "zusammenfassung": "Der überraschende Erfolg der US-Demokraten steht bei den Märkten im Fokus und treibt etwa den DAX an. Gleichzeitig geraten Tech-Aktien unter Druck: Anleger befürchten, dass die Demokraten den KI-Sektor stärker regulieren könnten.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "tagesschau",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html"
-    }
-   ]
-  },
-  {
-   "titel": "KI-Boom in den USA: Auch alte Flugzeugtriebwerke sollen jetzt Strom liefern",
-   "zusammenfassung": "In den USA werden mit enormer Geschwindigkeit KI-Rechenzentren aus dem Boden gestampft. Bei der Stromversorgung werden die Verantwortlichen immer kreativer.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/KI-Boom-in-den-USA-Auch-alte-Flugzeugtriebwerke-sollen-jetzt-Strom-liefern-11511486.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "titel": "Wie 1.000 Bankangestellte ohne Ausweis: So blind setzen Unternehmen KI-Agenten ein",
-   "zusammenfassung": "KI-generiert",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "t3n",
-     "url": "https://t3n.de/news/bankangestellte-ausweis-unternehmen-ki-agenten-1771104"
-    }
-   ]
-  },
-  {
-   "titel": "Kanzler macht Druck - Deutschland will KI in der Industrie vorantreiben - Kronen Zeitung",
-   "zusammenfassung": "Kanzler macht Druck - Deutschland will KI in der Industrie vorantreiben Kronen Zeitung",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE56SzYyeTFFMUd2bXM4Rk1oQ3QzMkRBYnJYdno4X2dyemh5Q1ZQZFFoM0tYNGpNTURzT2EyYUpQN0ZJZw?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "KI-Skills: So erledigen ChatGPT und Claude deine Routineaufgaben",
-   "zusammenfassung": "KI-generiert",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "t3n",
-     "url": "https://t3n.de/news/ki-skills-chatgpt-claude-routineaufgaben-erledigen-1771530"
-    }
-   ]
-  },
-  {
-   "titel": "Anthropics neues Open-Source-Tool soll beweisen, welches KI-Modell wirklich antwortet",
-   "zusammenfassung": "Anthropic stellt mit FlashProve einen Forschungsprototyp vor, der kryptografisch nachweisen soll, ob eine KI-Antwort tatsächlich vom behaupteten Modell stammt. Das System hat noch deutliche Einschränkungen. Der Artikel Anthropics neues Open-Source-Tool soll beweisen, welches KI-Modell wirklich antwortet erschien zuerst auf The Decoder .",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "The Decoder",
-     "url": "https://the-decoder.de/anthropics-neues-open-source-tool-soll-beweisen-welches-ki-modell-wirklich-antwortet/"
-    }
-   ]
-  },
-  {
-   "titel": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
-   "zusammenfassung": "Die neue Claude-Funktion soll Unternehmen helfen, ihre KI-Kosten zu kontrollieren. Gleichzeitig ermöglicht sie, die Leistung ihrer Mitarbeiter zu bewerten.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "titel": "DIW-Studie zur Arbeitswelt: KI spaltet Deutschlands Arbeitswelt in Nutzer und Nichtnutzer - n-tv.de",
-   "zusammenfassung": "DIW-Studie zur Arbeitswelt: KI spaltet Deutschlands Arbeitswelt in Nutzer und Nichtnutzer n-tv.de",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGdlcWptZ2oxbVZfVFMyMHBWQ21BRnN4emJSTlQ0Y0U2dU1jampsbjNrYTBJMk4tOWZ5UklFcERxYmFqOFFFRXR3THZBejF6RnpTYWk4SG9FN1loVVVocGpWdTRnMFBMOG51YzJXektXMFJHNWF5LUpvM2llN3huZ3A4NVBrenUtejdoWWY5Y0JpNFJYeUx3VUNZZGlJdzRPNGg0M0g3RQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "US-Zwischenwahlen: Eine Klatsche für Musk und die KI-Branche",
-   "zusammenfassung": "Die US-Republikaner haben in den Zwischenwahlen eine schwere Niederlage erlitten. Das könnte den ungezügelten Ausbau von Rechenzentren stoppen. Eine Analyse von Friedhelm Greis ( Rechenzentrum , Politik )",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Suse streicht jeden zehnten Job und nennt KI als Hauptgrund",
+   "zusammenfassung": "Der Linux-Anbieter Suse baut rund zehn Prozent seiner Stellen ab. KI wird dabei als Hauptgrund genannt; der CEO hält den Schritt für notwendig, um das Unternehmen nachhaltig aufzustellen.",
+   "warum_wichtig": "Der Fall zeigt, dass KI auch bei deutschen Softwarefirmen bereits konkrete Folgen für Arbeitsplätze hat.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
      "name": "Golem",
-     "url": "https://www.golem.de/news/us-zwischenwahlen-eine-klatsche-fuer-musk-und-die-ki-branche-2611-214835.html"
+     "url": "https://www.golem.de/news/ki-als-hauptgrund-genannt-suse-streicht-jeden-zehnten-job-2611-214827.html"
     }
    ]
   },
   {
-   "titel": "Account-Sharing bei ChatGPT, Claude und Gemini: Diese 6 Risiken drohen dir",
-   "zusammenfassung": "Teilst du deinen Account für ChatGPT, Claude oder Gemini mit anderen Nutzer:innen? Das spart zwar Geld, kann dir aber ziemlich große Probleme mit den anderen User:innen einbringen. Warum das Account-Sharing bei KI-Tools keine gute Idee ist.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Schwarz Digits und Bull planen gemeinsame EU-KI-Cloud",
+   "zusammenfassung": "Die IT-Sparte der Schwarz-Gruppe, Schwarz Digits, und das Unternehmen Bull planen gemeinsam eine KI-Cloud für die EU.",
+   "warum_wichtig": "Europäische Cloud-Angebote könnten Unternehmen eine Alternative zu US-Anbietern für KI-Anwendungen bieten.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
-     "name": "t3n",
-     "url": "https://t3n.de/news/account-sharing-chatgpt-claude-gemini-6-risiken-1758597"
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11UE9tWGQ2TGVmRTd4dnExVHJURlZLZ29KOURXODJBR0lLNkhzMnBLYnN2WXlvZUpaM1BYUmpYcWxxWlNHRFhNOGUxajhEYVhpUkxpd0QydVh1d2dkM3VESWJ2ZDJMVXNSQkJHalA2SkREQjNCMW1lUFNR?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Arbeitsministerium plant kostenlose KI-Weiterbildung ab 2027",
+   "zusammenfassung": "Das Arbeitsministerium plant ein kostenloses Online-Angebot zur KI-Weiterbildung, das ab 2027 zur Verfügung stehen soll.",
+   "warum_wichtig": "Ein kostenfreies Angebot könnte Beschäftigten den Einstieg in KI-Kenntnisse erleichtern.",
+   "kategorie": "Gesellschaft",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUXZkVmVwZ2o2YmJBYWhBZV83NGRJQ05aSHI0VnYzQ1BkSkwzdkZiemthcjg3ejI5N2hjYnZhdXRQenE5N2VpQUJrcW92MHMtTmxweUxoaHF1T3JHWEtHeVd0ZFFoN3htVW0wY195M1k4b2xra1lwbW1Gb0VoUmhMd0xnSXZtbWo1ZFFzTF9uN1dKVHJGWmo5X01NT2JtWFhkeGtxb243UVFaaFpmREhRZVFoTVl3MWJVOVI1dmhYSkc?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Studien: Deutschland stark bei physischer KI, aber schlecht auf Boom vorbereitet",
+   "zusammenfassung": "Einer Studie zufolge ist Deutschland führend bei physischer KI, also Robotern mit KI-Steuerung. Wirtschaftsforscher sehen das Land dagegen insgesamt unzureichend auf den KI-Boom vorbereitet.",
+   "warum_wichtig": "Die Befunde zeigen, wo die deutsche Industrie Stärken hat und wo Nachholbedarf besteht.",
+   "kategorie": "Forschung",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vOTU2X3hUbDdNWGJkbUxTaG5nTENyMmFvVmtHX3RNSXo0RER1em9lZjdGOERXZUVYVXRsOWd1WFBJQQ?oc=5"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1VZUdyR3BMdE1vZ1N4YUs4VXpQMDRtV1lxLVFwYjdEMERXTlByaHUwOW8teFJSdVlHUHgtOWNwZ0ZlQQ?oc=5"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "EU rules on Artificial intelligence devices will apply in NI - BBC",
-   "zusammenfassung": "EU rules on Artificial intelligence devices will apply in NI BBC",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "EuGH-Generalanwalt: KI-Chatbots können Urheberrecht von Verlagen verletzen",
+   "zusammenfassung": "Im ersten EuGH-Verfahren zur Nutzung von Presseinhalten durch generative KI kommt Generalanwalt Maciej Szpunar zu dem Schluss, dass KI-Chatbots unter bestimmten Umständen die Rechte von Presseverlagen verletzen können. Im Verfahren geht es um Googles Gemini. Ein Urteil ist das noch nicht, das Gericht folgt solchen Gutachten aber oft.",
+   "warum_wichtig": "Ein entsprechendes Urteil würde die Regeln für KI-Anbieter und die Rechte von Verlagen und Urhebern in ganz Europa prägen.",
+   "kategorie": "Politik & Regulierung",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/EuGH-Gutachten-KI-Chatbots-koennen-Urheberrecht-verletzen-11510768.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/ki-chatbots-eugh-urheberrechte-1771465"
+    },
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1JZVUY0WlhRSHpTSmt6V0lISFM5ZVhjX1ZveWlNUF9udmd0QmEtaEhXM19LUTF1RVVjRHFmUGdQb1g1Vi0yMzBBZ0dGYjZOTG5TMmEtNG9XdDdaeGVUbVViS1FNVUNXTUhiT3ZkYjRBaFhSTEJWb3huZjJVaXM2Q3huWHVjTTNnWkt5V2FabkZreEh1N2dwSHNXcWtSQQ?oc=5"
+    },
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Mittwoch-AMD-Gewinnexplosion-dank-KI-Boom-Mobilfunker-Warnung-vor-Extremwetter-11510784.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "AI Act: Hochrisiko-Regeln für den Personalbereich greifen ab Dezember 2027",
+   "zusammenfassung": "Die Hochrisiko-Vorgaben der EU-KI-Verordnung für den Personalbereich sollen ab dem 2. Dezember 2027 gelten. Mehrere Fachbeiträge mahnen Unternehmen, sich schon jetzt etwa auf die Transparenzpflichten des AI Act vorzubereiten.",
+   "warum_wichtig": "Firmen, die KI etwa bei Bewerbungen einsetzen, müssen ihre Prozesse rechtzeitig an die neuen Pflichten anpassen.",
+   "kategorie": "Politik & Regulierung",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMU9SaHBOcjFSemxkQ3dDcklJVTJNMENGVmxYQVAtSEN2NXJ2dDJsejhmc3FZMUdHc0RLcjVFS002TUtkOXhXU2M4bUVkc2s3SGdxSHhjTUNTNmhsVmUwbVFtYV9FOXZnclRLazFkdWNfZlFjcUhwTXBGMFBSOHRxYUhEeWJoelJBNTVDZm5IZjFhSHNraHNyRld3?oc=5"
+    },
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1dWckRVNkNBbnhmQl90ZnQ3eVA5UTQ4c0t6QnRsb1lmMWc0cGdUMjctVURqdjB5ZkJkSjZSYXVtckNSR1pDeU9MSC1Gel9XakJlSUdBU2V0anBYOGRORHlab1k5dnRLazF1cHhSNVRSSlhtTkp5c2xsdEk5aHdQc2ZzTWFVbjVGVEh4SmUtbElmU291STA4NDB6Q29FQ1NpaHB4MzFnQXhRdkxFQ3ZmVg?oc=5"
+    },
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1FvUFJ0WGR6YjFJVWl2TmRiSGFPZGU3SDNJM3p5ZnlaMlBjVjJJNTRzSDU5a0dnTFdwTW9pTU5TRDJaQXNmX2NwNUJfcmdQdXFuSEEtVzB2X0hyWUFrTG1nN0FJOFlaOU82MlRrV1BfOEc2dUVlVlFQOGRZZEcyeUVqMi1jM2Z3ODByUzZaZXk1TkxyemJSV0h5MWVYVE9VSGhnbWN0NXRZTUpJRWpN?oc=5"
+    },
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXeWpSM0gyb3ctekdZWm1aTEdRZUk1Q05kTXdpTVk0QXROQ1l4ZnBvSkVPc2ttRUNWNFJtd01tdjhLZk8xa2FvMWtGQWxoYWRtWVBKVFJlV2YzZU9TaDNQSG1mWmRQV0NGYk9SSnR0S19OMGk1eWFMYmVyOUNjU2s?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "EU-Regeln für KI-Geräte sollen auch in Nordirland gelten",
+   "zusammenfassung": "Laut BBC werden EU-Regeln für Geräte mit künstlicher Intelligenz auch in Nordirland Anwendung finden.",
+   "warum_wichtig": "Die Reichweite der EU-KI-Regeln über die Union hinaus betrifft auch Hersteller, die in den britischen Markt liefern.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
      "name": "Google News (Europe AI)",
@@ -196,179 +156,127 @@
    ]
   },
   {
-   "titel": "EU AI Act transparency rules show why businesses can’t afford to wait - IT Security Guru",
-   "zusammenfassung": "EU AI Act transparency rules show why businesses can’t afford to wait IT Security Guru",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Multiverse Computing und YellowDog.ai kooperieren bei KI-Rechenleistung",
+   "zusammenfassung": "Multiverse Computing und YellowDog.ai sind eine Partnerschaft für europäische KI-Rechenleistung eingegangen.",
+   "warum_wichtig": "Mehr europäische Rechenkapazität kann die Abhängigkeit von außereuropäischen Anbietern verringern.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
      "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1dWckRVNkNBbnhmQl90ZnQ3eVA5UTQ4c0t6QnRsb1lmMWc0cGdUMjctVURqdjB5ZkJkSjZSYXVtckNSR1pDeU9MSC1Gel9XakJlSUdBU2V0anBYOGRORHlab1k5dnRLazF1cHhSNVRSSlhtTkp5c2xsdEk5aHdQc2ZzTWFVbjVGVEh4SmUtbElmU291STA4NDB6Q29FQ1NpaHB4MzFnQXhRdkxFQ3ZmVg?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Households paying the price for Government’s data centre choices – Bacik - The Labour Party",
-   "zusammenfassung": "Households paying the price for Government’s data centre choices – Bacik The Labour Party",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUt5NVI5b21jV29WRTl2YUdiZm9LVzN3eEI3WFpsOTAwbVZOREtFOUdvUnNvZEJLY3NzNHFZRTNSRUJaLUZLZG9Oa3d6dHpmSTJ2V0pxRnFFQTNMbElPWjNHaXpSZVlFZVZCY1k5ZnlRRFNLYVA2aFZjLVQtamt4S3BDbGtpc3JYWld2TzFCRm0yS0d2WjlGb3d0OWVxcFhYbjZ2UUdGNA?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "The EU AI Act has entered the real world: What organizations need to do now - SC Media",
-   "zusammenfassung": "The EU AI Act has entered the real world: What organizations need to do now SC Media",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1FvUFJ0WGR6YjFJVWl2TmRiSGFPZGU3SDNJM3p5ZnlaMlBjVjJJNTRzSDU5a0dnTFdwTW9pTU5TRDJaQXNmX2NwNUJfcmdQdXFuSEEtVzB2X0hyWUFrTG1nN0FJOFlaOU82MlRrV1BfOEc2dUVlVlFQOGRZZEcyeUVqMi1jM2Z3ODByUzZaZXk1TkxyemJSV0h5MWVYVE9VSGhnbWN0NXRZTUpJRWpN?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "EU AI Act Timeline: 5 Dates to 2028 [2026] - shattered.io",
-   "zusammenfassung": "EU AI Act Timeline: 5 Dates to 2028 [2026] shattered.io",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXeWpSM0gyb3ctekdZWm1aTEdRZUk1Q05kTXdpTVk0QXROQ1l4ZnBvSkVPc2ttRUNWNFJtd01tdjhLZk8xa2FvMWtGQWxoYWRtWVBKVFJlV2YzZU9TaDNQSG1mWmRQV0NGYk9SSnR0S19OMGk1eWFMYmVyOUNjU2s?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Tech companies tell job applicants: Be AI-pilled (but not too AI-pilled!)",
-   "zusammenfassung": "",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Sifted",
-     "url": "https://sifted.eu/articles/job-applicants-be-ai-pilled/"
-    }
-   ]
-  },
-  {
-   "titel": "EU AI act: the world’s first law on artificial intelligence - Meer | English edition",
-   "zusammenfassung": "EU AI act: the world’s first law on artificial intelligence Meer | English edition",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWFBheExkaGlQTU5aR2t0TmN3UGo5bW94elp1cTFDUWtGdjc4VmdGSl9IWmIyeDVSRnlPSHdxT2I4bDMtbjB0cmF2a21Pc0ZxTU5RelJXVjU3SnQ0OGFhWFlnRm5jbjg1NGdzRmtMOVlKUG9kSUFSX2ZodTJQUDZMWTVwVFhDNjZieUxkQXdIdUs?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "FlowForma: Claude, ChatGPT und Copilot modellieren künftig Geschäftsprozesse - ad-hoc-news.de",
-   "zusammenfassung": "FlowForma: Claude, ChatGPT und Copilot modellieren künftig Geschäftsprozesse ad-hoc-news.de",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcnhJNnhIbl9QYmVnMzFyRExSenZyLUpaSk1vNldXLW5DMjFXRVVhWVJBVUtOeDZHYnZUSUR0Y1R1ODZhNHkzUFJYeEd0WE5QMGxYVkRqZEtIbVZlZWcxQWZKUzVBT21JZV9PLTIxbXJBX0xXbHN3OUkzRU01RUtLeUFJR3Y0ZllWUmFzU2pCUC1wNnM3QVIyODVocmRuODR3NEVUN090OW5NQUFCUjhKYm84SHFSU19waWcyMXBEWlNRR3M?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "An AI explanation is not evidence of human review - European Scientist",
-   "zusammenfassung": "An AI explanation is not evidence of human review European Scientist",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzUtVDFDaVUwclZvNUhacnFrS3ZwZVVkeVpfNzBOc0hxQnVtNmRrRnlrQ3ZrTFlKWlRDWWpLZlRuaGhESVVRUnBYdG04eUVoSk5CRk5vOGpZZVNzLWZsUUFleFc4MGotdGtpR3hsN3dMSV91aVBjaDRWMUhYTVFQWS1UckZ0NldkS3JTR05vY29MX25TN1kzY1BYM0c?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Google Gemini an Schulen: App lässt sich abschalten, Suche bleibt zugänglich - ad-hoc-news.de",
-   "zusammenfassung": "Google Gemini an Schulen: App lässt sich abschalten, Suche bleibt zugänglich ad-hoc-news.de",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcnh5QzRuVTBFWF9XOXM3clVQX0prWjlPNFd6UTBsb0o5WnIzaGtXcTBTQkdya0ZVdm9CUFNoN2JNV2hSc3BqVHFrTzNoRjV0ZjVBSFpjS2N5OElQYklvZUptZkhJQlJjNWhhVG5NcndOUExzYXZXMnZHaVJseF9aOER2VmJ2S1pnX0hGMkhpRWNqVWxGN041LTEyTk56RzhsT1hLeVoyem5sRG1PTmJ5YWo0dndUaFp6ZkhmZkRZM1B4TUU?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbWdDNGlNSVMzNXpYT09yRkxjOEI1MGpobzdNcGx3T0lLTTh4Mnp4ZEtSLUcxbnRHQWpvakY1VFFMOFdDcEFqV0JHbGNPM0FNMDJfVFpodTNrWmwyMnltYmZvNnFRNkhBWW9lNUIycXBkbXh5d285eGFnNkVJTVdtT2VLNVdfRFh4VWNJ?oc=5"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "Those Jeff Bezos hair transplant photos are very fake",
-   "zusammenfassung": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved […]",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Google: Schulen ohne KI-Funktionen verlieren auch die Suche",
+   "zusammenfassung": "Google will KI-Funktionen in Schulprodukten ab 2027 standardmäßig abschalten und Schulen die Wahl lassen, hat zugleich neue KI-Werkzeuge für Schulen vorgestellt. Wer KI für Schülerkonten in den USA komplett sperrt, verliert laut Google aber auch den Zugang zur Google-Suche, da beide Systeme eng verzahnt seien.",
+   "warum_wichtig": "Der Fall zeigt, wie Plattformanbieter KI-Funktionen an Kerndienste koppeln – ein Thema auch für Schulen und Behörden in Europa.",
+   "kategorie": "Gesellschaft",
    "quellen": [
     {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/wer-googles-ki-in-der-schule-abschaltet-verliert-ab-2027-auch-die-suche/"
+    },
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Google-Schulen-die-KI-Tools-deaktivieren-verlieren-auch-Zugang-zur-Suche-11510788.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
      "name": "The Verge AI",
-     "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk"
+     "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features"
+    },
+    {
+     "name": "Ars Technica AI",
+     "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
+    },
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/ohne-zustimmung-zu-ki-us-schulen-verlieren-zugriff-auf-google-suche-2611-214831.html"
+    },
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTi16NmtCZ1JIcU5RUGtFbHM1OHFIX1hIRVR4d3VRWF8zcnhrZ3BLUUl3Q183UTVYbkJDeHY4MFp2Qi1ScExnTThGcm83YzdsVGFzNUVVR19TNExBOEdBZ1ZnX0pZdDBCb3FTYnhKa1RpWkFJR0d3V2JUNE5vSWdhVGFjcW8wOC0zUnZTTHluMWIxOU1HZmZBcjhVYVBjM0x4anVRMkxFTjdpSi1lV0g0aFMzRDY2bHdhLWRjZDZ3?oc=5"
     }
    ]
   },
   {
-   "titel": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-   "zusammenfassung": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "US-Zwischenwahlen: Niederlage der Republikaner trifft KI-Branche",
+   "zusammenfassung": "Die Republikaner haben bei den US-Zwischenwahlen eine schwere Niederlage erlitten, was den ungezügelten Ausbau von Rechenzentren bremsen könnte. Tech-Aktien gerieten unter Druck, weil Anleger strengere KI-Regulierung fürchten, während der DAX zulegte. Laut Exit-Polls spielte KI als Wahlthema für Wähler aber nur eine untergeordnete Rolle.",
+   "warum_wichtig": "Eine strengere US-Regulierung würde auch die Rahmenbedingungen für europäische KI-Nutzer und Investoren verändern.",
+   "kategorie": "Politik & Regulierung",
+   "quellen": [
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/us-zwischenwahlen-eine-klatsche-fuer-musk-und-die-ki-branche-2611-214835.html"
+    },
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html"
+    },
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/exit-polls-zeigen-ki-spielt-bei-us-midterms-2026-eine-untergeordnete-rolle-fuer-waehler/"
+    }
+   ]
+  },
+  {
+   "titel": "Anthropic stellt FlashProve als Identitätsnachweis für KI-Modelle vor",
+   "zusammenfassung": "Mit dem Forschungsprototyp FlashProve will Anthropic kryptografisch nachweisbar machen, ob eine KI-Antwort tatsächlich vom behaupteten Modell stammt, ohne die Modellgewichte offenzulegen. Das Open-Source-Werkzeug hat noch deutliche Einschränkungen.",
+   "warum_wichtig": "Unternehmen könnten damit künftig prüfen, ob sie wirklich das Modell nutzen, für das sie bezahlen.",
+   "kategorie": "Sicherheit",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Wer-spricht-da-Anthropic-stellt-Identitaetsnachweis-fuer-KI-Modelle-vor-11511036.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/anthropics-neues-open-source-tool-soll-beweisen-welches-ki-modell-wirklich-antwortet/"
+    },
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+    }
+   ]
+  },
+  {
+   "titel": "Claude Smart Reports zeigen Vorgesetzten die KI-Nutzung ihrer Teams",
+   "zusammenfassung": "Die neue Claude-Funktion Smart Reports soll Unternehmen helfen, ihre KI-Kosten zu kontrollieren. Zugleich ermöglicht sie Vorgesetzten, die Leistung ihrer Mitarbeitenden zu bewerten.",
+   "warum_wichtig": "In Deutschland dürfte eine solche Auswertung Fragen zu Datenschutz und Mitbestimmung aufwerfen.",
+   "kategorie": "Produkte & Modelle",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500"
+    }
+   ]
+  },
+  {
+   "titel": "Strommangel: US-Rechenzentren setzen auf alte Flugzeugtriebwerke",
+   "zusammenfassung": "Weil der Netzanschluss und neue Turbinen jahrelang auf sich warten lassen, greifen Betreiber von KI-Rechenzentren in den USA auf ausgemusterte Flugzeugtriebwerke zurück. Die Lösung ist weniger effizient und umweltschädlicher.",
+   "warum_wichtig": "Der Energiehunger der KI ist auch für Europas Netzausbau und Klimaziele eine zentrale Frage.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
      "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/"
-    }
-   ]
-  },
-  {
-   "titel": "Securing the agentic enterprise with data lineage",
-   "zusammenfassung": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
+     "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
+    },
     {
-     "name": "MIT Technology Review",
-     "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
-    }
-   ]
-  },
-  {
-   "titel": "The biggest modding site in PC gaming is taking a stance on AI",
-   "zusammenfassung": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent […]",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
-    }
-   ]
-  },
-  {
-   "titel": "Please stop asking me when the AI bubble will pop",
-   "zusammenfassung": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds"
+     "name": "heise online",
+     "url": "https://www.heise.de/news/KI-Boom-in-den-USA-Auch-alte-Flugzeugtriebwerke-sollen-jetzt-Strom-liefern-11511486.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   }
  ],
  "datum": "2026-11-04",
- "erstellt": "2026-11-04T15:23+01:00",
- "modus": "einfach",
+ "erstellt": "2026-11-04T15:28+01:00",
+ "modus": "ki",
  "anzahl_meldungen": 100,
  "feeds": {
   "The Decoder": "10 Meldungen",
