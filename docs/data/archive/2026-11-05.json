@@ -1,0 +1,390 @@
+{
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "deutschland": [
+  {
+   "titel": "Modelmaxxing: So stark kürzt Apple jetzt die KI-Budgets seiner Teams",
+   "zusammenfassung": "Der iPhone-Hersteller befindet sich in einer Zwickmühle: Einerseits will das Unternehmen effizient arbeiten und Innovationen fördern – andererseits sollen die stark gestiegenen Ausgaben wieder reduziert werden.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/modelmaxxing-so-stark-kuerzt-apple-jetzt-die-ki-budgets-seiner-teams-1771796"
+    }
+   ]
+  },
+  {
+   "titel": "Laptops mit Nvidia-Chip: Nvidia RTX Spark läuft unter Linux sehr mies",
+   "zusammenfassung": "Skurril: Ein Laptop mit Nvidia-Chip ist vor allem mit eingestecktem Netzteil unter Linux enorm langsam. ( Nvidia , Prozessor )",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/laptops-mit-nvidia-chip-nvidia-rtx-spark-laeuft-unter-linux-sehr-mies-2611-214887.html"
+    }
+   ]
+  },
+  {
+   "titel": "heise+ | KI-Task-Force-Bericht der Bundesregierung – eine Analyse, was drin steht",
+   "zusammenfassung": "Der Bericht der KI-Task-Force der Regierung träumt ein Deutschland herbei, das toll klingt – sich aber wenig kritisch mit KI auseinander setzt, so die Analyse.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/KI-Task-Force-Bericht-der-Bundesregierung-eine-Analyse-was-drin-steht-11510291.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+    }
+   ]
+  },
+  {
+   "titel": "KI-Task-Force-Bericht der Bundesregierung – eine Analyse, was drin steht - heise online",
+   "zusammenfassung": "KI-Task-Force-Bericht der Bundesregierung – eine Analyse, was drin steht heise online",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFNIV0hnUE5NUG5QNlRheG5maFZGdU9IVlZHUmxiZXNPd2ZKZmNIaGRSWWZnMTFVR1BKMFFTNGhublh6RWVFSC0zc2NmY1dyNFVDLTFNV3NvVTJCcFpvLVNEY2Exa2IwSVJDUTFXY0diUFFSanJPTUFqZ1pKc2IwaW9PRTAyaWl2SG85cGFONl9yeGRiemtXbURKZkFpZVBPR2NHcXhsSGd5VURpc2c?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Strategiewechsel bei Anthropic: KI-Firma zahlt erstmals für Verlagsinhalte",
+   "zusammenfassung": "Anthropic hat kurz vor den US-Zwischenwahlen seinen ersten Lizenzvertrag mit einem Nachrichtenverlag geschlossen. Der Artikel Strategiewechsel bei Anthropic: KI-Firma zahlt erstmals für Verlagsinhalte erschien zuerst auf The Decoder .",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/strategiewechsel-bei-anthropic-ki-firma-zahlt-erstmals-fuer-verlagsinhalte/"
+    }
+   ]
+  },
+  {
+   "titel": "Sam Altman rudert nach RAM-Aussage zurück",
+   "zusammenfassung": "OpenAI-CEO Sam Altman legte vergangene Woche nahe, die weltweiten RAM-Vorräte besser in KI-Rechenzentren zu stecken. Nun macht er eine Rolle rückwärts.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Sam-Altman-rudert-nach-RAM-Aussage-zurueck-11513133.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Mit KI-Agenten: OpenAI will in Linux-System fast 1.000 Root-Lücken gefunden haben",
+   "zusammenfassung": "Laut OpenAI haben KI-Agenten bei internen Tests 948 Root-Lücken in einem Linux-System aufgedeckt - und obendrein passende Patches entwickelt. ( Sicherheitslücke , Linux-Kernel )",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/mit-ki-agenten-openai-will-in-linux-system-fast-1-000-root-luecken-gefunden-haben-2611-214884.html"
+    }
+   ]
+  },
+  {
+   "titel": "heise+ | Wie Coding-Agenten den Bundeswettbewerb KI verändern – ein Interview",
+   "zusammenfassung": "Von Einsatzfunk-KI bis OP-Besteck-Prüfung: Die Finalisten des Bundeswettbewerbs Künstliche Intelligenz stehen fest. Stimmen Sie jetzt für den Publikumspreis ab.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/hintergrund/Wie-Coding-Agenten-den-Bundeswettbewerb-KI-veraendern-ein-Interview-11505847.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+    }
+   ]
+  },
+  {
+   "titel": "OpenAIs GPT-6 Astra bremste die Sicherheitsforschung heimlich aus",
+   "zusammenfassung": "OpenAIs neues Modell GPT-6 Astra sabotierte offenbar gezielt KI-Sicherheitsforschung: Es erfand Hindernisse, verschwieg Lösungen und leistete bei Sicherheitsaufgaben rund 40 Prozent weniger als bei vergleichbaren anderen Aufgaben. Ein fehlerhafter Trainingsdatensatz beseitigte das Problem – doch strategische Motive kann OpenAI nicht vollständig ausschließen. Der Artikel OpenAIs GPT-6 Astra bremste die Sicherheitsforschung heimlich aus erschien zuerst auf The Decoder .",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/openais-gpt-6-astra-erfindet-probleme-und-verlangsamt-so-die-eigene-sicherheitsforschung/"
+    }
+   ]
+  },
+  {
+   "titel": "Speicherkrise: KI-Boom gefährdet Spielmodule für Nintendo Switch",
+   "zusammenfassung": "Ein wichtiger Chiphersteller verabschiedet sich von Nintendo-Spielmodulen. Publisher könnten stärker auf Downloads setzen. ( Nintendo Switch 2 , Nintendo )",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/speicherkrise-ki-boom-gefaehrdet-spielmodule-fuer-nintendo-switch-2611-214883.html"
+    }
+   ]
+  },
+  {
+   "titel": "Meta kauft Spezialisten für KI-Coding-Agenten",
+   "zusammenfassung": "Mit der Übernahme von Conductor will Meta seine KI-Entwicklerwerkzeuge stärken und im Wettbewerb mit OpenAI und Anthropic aufholen.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Meta-kauft-Spezialisten-fuer-KI-Coding-Agenten-11513119.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Merz will Deutschland zur „souveränen KI-Nation“ machen – doch der Zeitplan wirft Fragen auf - WELT",
+   "zusammenfassung": "Merz will Deutschland zur „souveränen KI-Nation“ machen – doch der Zeitplan wirft Fragen auf WELT",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSVBkUkZIUHZjYURTVDVEYllGZFcwcEdFT1N1bDBpVmxYdXFLNTVQeW40U0IyODd3Y0czM1owczU4OHBoOTVUTUl5R1JuYkUzWFJqRV9yNk1QZWJ4LWRGc0VJZWNaRC12WUhOa2hUWWtlRDZ2UHFDdHFaLUp6dlFfcFhsMU93WmFqc0YyakhjTVozcl9jMlQyOGRkYWZNWWZwaWh3VVUwaTBjMGItTnROay1UQ1F4MGc3U2d3eW90Mzg3cWc4QnFNWWFoTXNUOGp2MmNMZ0NvVmxJeWJWa2pTVHV4Q2lsdkxteFE?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Dividende +10 %: Die KI setzt auf diese DAX-Aktie - Yahoo Finanzen Deutschland",
+   "zusammenfassung": "Dividende +10 %: Die KI setzt auf diese DAX-Aktie Yahoo Finanzen Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUZTTEpZNXY5WHhBTXJUWVRHNVNVRHBfWktsenUyU3pzVFVPYUdERW1iZl9wRnRfa3F2RUwtRkFpaVhXdDRERldkQ2YzS2RyUG4zMnFjNjJoZ1UxSE9kQ05vWi1UNHB0TVhzUEFmQVJtZVkwTEMzUjVEOE9vdG9pUC1YMGNVc1daN013?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Apple kürzt interne KI-Budgets im Zuge eines branchenweiten Spartrends",
+   "zusammenfassung": "Unternehmen in der Tech-Branche drosseln ihre internen KI-Ausgaben, und nun zieht auch Apple nach. Der Artikel Apple kürzt interne KI-Budgets im Zuge eines branchenweiten Spartrends erschien zuerst auf The Decoder .",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/apple-kuerzt-interne-ki-budgets-im-zuge-eines-branchenweiten-spartrends/"
+    }
+   ]
+  },
+  {
+   "titel": "OpenAI kauft Pierre: Codex erhält Open-Source-Entwicklungswerkzeuge",
+   "zusammenfassung": "Mit der Übernahme der Pierre Computer Company treibt OpenAI den Ausbau von Codex zur vollständigen KI-Entwicklersuite voran. ( KI , Versionsverwaltung )",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/openai-kauft-pierre-codex-erhaelt-open-source-entwicklungswerkzeuge-2611-214878.html"
+    }
+   ]
+  }
+ ],
+ "eu": [
+  {
+   "titel": "Polar Achieves €1 Billion in Funding Milestone to Accelerate European AI Data Centre Expansion - EIN Presswire",
+   "zusammenfassung": "Polar Achieves €1 Billion in Funding Milestone to Accelerate European AI Data Centre Expansion EIN Presswire",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVzI3Z1JNcWxtS2dvYzdHdnI1ZWpCRWtVMEhYejNoLTZwS3NwYU5VOTk4dW41MmU1NDVkbTh1VWRaSDNHd3hYcVlBNGlvbWdLU3I2VDllX3lDaExkSGxackFQN0ZQRkpqNnJ3MHJhb0JqWXUzUlh5SFpiR3FoQkxlMTlPTmVCbkpEVHlOOWRpM1FtVlN0WEtPeFNTbjhTRlV6UWtMMjFZVXdHaG45bHZvdkJCcnpyT0ZXRXVuMU9UUHpDRnk3R3JRMUM0QVJyam9vRnlUaVRHSQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Pentagon-CTO: US benennt Gesetze für KI-Labore binnen zwei Wochen - Cryptopolitan",
+   "zusammenfassung": "Pentagon-CTO: US benennt Gesetze für KI-Labore binnen zwei Wochen Cryptopolitan",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0RYcmtXclRTY0k1Njd0STZaUjE0aHY5V2QxRGQ0QzJweERZQm5yMFRacm9WMDdUbjZWa1h5dFp2ZDZxR3g4ZzZ4Z0lGN0Z5MktXYUZOWkYwc0hmajZLZ3NDLTlTenRHQVRDWUVZNnFvZGZreXVVbzJ1V3RkdUNzY3Vta0FSNTd1M1VyWEpncFdOZmdRVWxYNHM5Z3FqUGM?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Early Revolut employees emerge from stealth with AI wealthtech Haido",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/haido-emerges-from-stealth/"
+    }
+   ]
+  },
+  {
+   "titel": "Capgemini-Aktie erhält EU-Auftrag zur KI-Sicherheitsprüfung - ad-hoc-news.de",
+   "zusammenfassung": "Capgemini-Aktie erhält EU-Auftrag zur KI-Sicherheitsprüfung ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM2dpMzRGcHgxYWJPazd3bFNacnpkMTk5VUZ1S0N4S0hkeEhHdWNFelJ4TFhzWEJaYlQ3Z0FsVExaYzdfSDNLc2U3QzJJRFZnWlUtNEhXMDM3VGRnSHB0V0dQZ0hXdWhNTkgwMldjSG80VmF2d003b3JZbjVUSjQ3Q2xVaU8zWUkwYkh3d0V4T2NUUEVJX0UyV1NmdGdJaldLcUJMSmpTZWxpQXBJclFIUDdVVXBrQmdkN0R0dlV4TkQ5Zw?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "EU AI Act Explained – What Is Banned and What Comes Next? - The European Times",
+   "zusammenfassung": "EU AI Act Explained – What Is Banned and What Comes Next? The European Times",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UOG1mWERQSU12NFVWVGZ5SVhxSDdFUHQ4eXg5YlNIVmRZdFVqdXNoZC1YVTFOazNZbDFqYjM5NVhPX0lNWVpOWVpsYkotN3hlXzhpN1p0ei1KQ05tMzBZY1V6ZHNrQUIxQnRheWxucWpWMERo?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Italien. Künstliche Intelligenz im Unternehmen: Was Arbeitgeber in Italien jetzt wissen müssen. - Anwalt.de",
+   "zusammenfassung": "Italien. Künstliche Intelligenz im Unternehmen: Was Arbeitgeber in Italien jetzt wissen müssen. Anwalt.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ2t0b1d2MVRQR3RZZ1ZWQTZtX1hCMWdkZno2SDZoMlgwVTJRYU9WOFBPb3d4VmNlWHdFUlktYXNodnVuYUI0X0o0VkwwTVpIS2lqbmQwRFhOUy1Gbzk3NlZwbFRIYXJPckRnSGp6bm5nR0MyckM0TVJ6T084Sko4UGF3UkRnZlZyTUNxNWNvYkJlNHk0Q2lOSWEyYzlDUGZCdzNEOVUxUzFNRW9jbk5BRjA0ckt1andTa2hBMXRUX1czb2diNW0tdGttUzUxelJxTUhhSE9FUQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Digitale Vorgaben für Zahnarztpraxen: Hinweise zur neuen KI-Verordnung - ZWP online",
+   "zusammenfassung": "Digitale Vorgaben für Zahnarztpraxen: Hinweise zur neuen KI-Verordnung ZWP online",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObFdtZ1dnb1lfMUdBNFhlS1ExSXF5YVAwTURsTXc4RFljNEJlUnFZejBtdk13cW1rMmlIZ0ZFZlI4eVhTRlkzVFVhR3hsdUpjTHFxU0ZJVDd3TWZFLV9udWtXWnI4dzdlZ2JUTm0tZ3ktT2k3M0dEYVU4MUtfRXFYWTF4b0xyNTRDcXRpbV9uT0lnclgzdm1MM2xQMXFDQms0TloycnNlLTJrOC1rSTNUc3JtdFZQMXI2ZE1OVWVyQk9tdVhtclVReUhPMTd5LXl6?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Exclusive: Helsing CEO backs AI learning startup Mindmax in £2.5m raise",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/memrise-mindmax-helsing-funding-round-memory/"
+    }
+   ]
+  },
+  {
+   "titel": "ChatGPT Images 2.6: OpenAI bringt GIF-Erstellung und 50 Prozent mehr Tempo - ad-hoc-news.de",
+   "zusammenfassung": "ChatGPT Images 2.6: OpenAI bringt GIF-Erstellung und 50 Prozent mehr Tempo ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHB4SzA4TXI4UWx6Q2RoVWpuWF9GTWxTRGRzQkpYX29pZmY4dXhtRWpMMVlkS0stS3k0MF8wc3hfdFBRVkNMNVFGTFJDTGtVOUo3blBQVkVkM0wwLXFxbDhQLThjblJvM0lCQjVFcklkVE00cndzTjBhX2REb3FacG1vVVBWQkNFZkRzaFZSSnczc0xIdmhDUG8tOXdHN0NzNUV2WTZDVjI2bUt4MW5rLVhseWRJaEpLYmlKZDhwWQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "KI im Gesundheitswesen: Menschliche Bewertungen weichen bis zu 40 Prozent ab - ad-hoc-news.de",
+   "zusammenfassung": "KI im Gesundheitswesen: Menschliche Bewertungen weichen bis zu 40 Prozent ab ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYnZpdndmQzRDQ0RkRjRGekJQTVNETFhIblhuQkN3QzlKUlR1WDZkUGN5UVhpUXpVeldsWF9tX1IzbzdILXhVSVFzdUxSdGltUlJQRDBMbGtWQThPUkZ6ZmZicFBNXzRFVXRwMmRmOFJoU19WUkgtZC1qXzBrcXpwanFDQXJQV1d0RUJyeWhwNVpTeW1HdGxURzQ1eEFpd0xYMnFuNEpveDVMZjlQU2dHRHBNZlpoZVRoT2NDSkszZjF4Zw?oc=5"
+    }
+   ]
+  }
+ ],
+ "welt": [
+  {
+   "titel": "Big Tech’s big AI buildout will not end until someone stops it",
+   "zusammenfassung": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also […]",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
+    }
+   ]
+  },
+  {
+   "titel": "Apple is reportedly cutting budgets for its internal AI usage",
+   "zusammenfassung": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+    }
+   ]
+  },
+  {
+   "titel": "After the midterms, a bigger clash over data centers could be coming",
+   "zusammenfassung": "Data center opposition crossed party lines in Tuesday’s midterms.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+    }
+   ]
+  },
+  {
+   "titel": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+   "zusammenfassung": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
+    }
+   ]
+  },
+  {
+   "titel": "Qualcomm is betting big on data centers as smartphone sales sink",
+   "zusammenfassung": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+    }
+   ]
+  }
+ ],
+ "datum": "2026-11-05",
+ "erstellt": "2026-11-05T12:02+01:00",
+ "modus": "einfach",
+ "anzahl_meldungen": 100,
+ "feeds": {
+  "The Decoder": "10 Meldungen",
+  "heise online": "24 Meldungen",
+  "t3n": "10 Meldungen",
+  "Golem": "11 Meldungen",
+  "netzpolitik.org": "1 Meldungen",
+  "tagesschau": "1 Meldungen",
+  "Google News (KI Deutschland)": "49 Meldungen",
+  "Google News (EU KI-Politik)": "9 Meldungen",
+  "Google News (Europe AI)": "7 Meldungen",
+  "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
+  "Sifted": "4 Meldungen",
+  "TechCrunch AI": "13 Meldungen",
+  "The Verge AI": "10 Meldungen",
+  "MIT Technology Review": "2 Meldungen",
+  "Ars Technica AI": "1 Meldungen"
+ }
+}
