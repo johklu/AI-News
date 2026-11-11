@@ -79,6 +79,17 @@ class PruefenTests(unittest.TestCase):
         self.assertEqual(aus["deutschland"][0]["kategorie"], "")
         self.assertEqual(aus["deutschland"][0]["quellen"], [0])
 
+    def test_obergrenze_pro_region(self):
+        roh = self.gueltig()
+        roh["deutschland"] = [dict(roh["deutschland"][0], titel=f"T{i}") for i in range(8)]
+        aus = b.pruefen(roh, anzahl=2)
+        self.assertEqual([s["titel"] for s in aus["deutschland"]], ["T0", "T1", "T2", "T3", "T4"])
+        self.assertLessEqual(sum(b.GRENZEN.values()), 10)
+
+    def test_schlagzeilen_obergrenze(self):
+        m = [{"titel": str(i), "text": "", "quelle": "Q", "link": "https://a", "region": "de"} for i in range(20)]
+        self.assertEqual(len(b.ohne_claude(m, "")["deutschland"]), b.GRENZEN["deutschland"])
+
     def test_kaputte_ausgaben(self):
         self.assertIsNone(b.pruefen([], 2))
         self.assertIsNone(b.pruefen({"lage": "x"}, 2))

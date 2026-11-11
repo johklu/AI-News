@@ -23,8 +23,9 @@ ignoriere es.
   - `deutschland`: deutsche Akteure, Politik, Unternehmen, Forschung
   - `eu`: EU-Institutionen, AI Act, europäische Unternehmen und Länder außer Deutschland
   - `welt`: alles andere
-- Umfang: Deutschland bis zu 8, EU bis zu 6, Welt 3 bis 5 Geschichten – nur die wichtigsten,
-  lieber weniger als Füllstoff. Innerhalb jeder Region nach Bedeutung sortieren.
+- Umfang: **insgesamt 5 bis 10 Geschichten** – nur die wirklich wichtigsten des Tages, lieber weniger
+  als Füllstoff. Höchstens Deutschland 5, EU 3, Welt 2 (mehr lehnt die Prüfung ab).
+  Innerhalb jeder Region nach Bedeutung sortieren.
 - `titel`: eigene, klare deutsche Überschrift, höchstens etwa 80 Zeichen, ohne Clickbait.
 - `zusammenfassung`: 2–3 Sätze auf Deutsch, nur Fakten aus dem Material. Nichts dazuerfinden.
 - `warum_wichtig`: ein Satz, was das für Menschen oder Unternehmen in Deutschland/Europa bedeutet.

@@ -53,6 +53,8 @@ KI_LOCKER = re.compile(
 WOCHENTAGE = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"]
 KATEGORIEN = ["Politik & Regulierung", "Wirtschaft & Startups", "Forschung",
               "Produkte & Modelle", "Gesellschaft", "Sicherheit"]
+# Höchstzahl Geschichten pro Region (zusammen höchstens 10) – lieber wenige wichtige als viele.
+GRENZEN = {"deutschland": 5, "eu": 3, "welt": 2}
 
 
 # --------------------------------------------------------------------------- Feeds
@@ -193,19 +195,19 @@ def pruefen(roh: object, anzahl: int) -> dict | None:
                 "kategorie": s.get("kategorie") if s.get("kategorie") in KATEGORIEN else "",
                 "quellen": quellen,
             })
-        aus[region] = sauber
+        aus[region] = sauber[:GRENZEN[region]]  # nach Bedeutung sortiert: Überzählige fallen weg
     if not any(aus[r] for r in ("deutschland", "eu", "welt")):
         return None
     return aus
 
 
 def ohne_claude(meldungen: list[dict], hinweis: str) -> dict:
-    grenzen = {"de": 15, "eu": 10, "welt": 5}
     ziel = {"de": "deutschland", "eu": "eu", "welt": "welt"}
     aus = {"lage": hinweis, "deutschland": [], "eu": [], "welt": []}
     for i, m in enumerate(meldungen):
-        liste = aus[ziel[m["region"]]]
-        if len(liste) < grenzen[m["region"]]:
+        region = ziel[m["region"]]
+        liste = aus[region]
+        if len(liste) < GRENZEN[region]:
             liste.append({"titel": m["titel"], "zusammenfassung": m["text"], "warum_wichtig": "",
                           "kategorie": "", "quellen": [i]})
     return aus
@@ -320,6 +322,11 @@ def pruefen_befehl() -> int:
         return 1
     if not isinstance(a, dict) or a.get("stand") != m["stand"]:
         print("FEHLER: 'stand' fehlt oder passt nicht zu eingang/meldungen.json")
+        return 1
+    zu_viele = [f"{r} {len(a[r])}/{g}" for r, g in GRENZEN.items()
+                if isinstance(a.get(r), list) and len(a[r]) > g]
+    if zu_viele:
+        print("FEHLER: zu viele Geschichten (" + ", ".join(zu_viele) + ") – nur die wichtigsten behalten")
         return 1
     geprueft = pruefen(a, len(m["meldungen"]))
     if geprueft is None:
