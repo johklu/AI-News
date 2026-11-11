@@ -1,0 +1,150 @@
+{
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "deutschland": [
+  {
+   "titel": "Sam Altman versprach die „Rettung des Klimas“ durch KI: Was ist davon heute übrig?",
+   "zusammenfassung": "Auf der UN-Klimakonferenz in Antalya steht Künstliche Intelligenz ganz oben auf der Agenda. Laut einer Prognose könnte KI tatsächlich zur Senkung von CO2-Emissi",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/sam-altman-versprach-die-rettung-des-klimas-durch-ki-was-ist-davon-heute-uebrig-1772410"
+    }
+   ]
+  },
+  {
+   "titel": "Nach Sicherheitsvorfall mit OpenAI: Australien prüft Straftatbestand gegen unsichere KI",
+   "zusammenfassung": "Neben der Schaffung einer neuen Sicherheitsbehörde will Australien Unternehmen, die wissentlich unsichere KI-Modelle auf den Markt bringen, bestrafen. ( KI , Politik )",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/nach-sicherheitsvorfall-mit-openai-australien-prueft-straftatbestand-gegen-unsichere-ki-2611-215079.html"
+    }
+   ]
+  },
+  {
+   "titel": "OpenAI steigert Quartalsumsatz auf 10 Milliarden US-Dollar bei weiterhin gigantischen Verlusten",
+   "zusammenfassung": "OpenAI hat seinen Quartalsumsatz um 50 Prozent auf 10 Milliarden US-Dollar gesteigert, verbrennt aber weiterhin mehr Geld, als es einnimmt. Der bereinigte operative Verlust kletterte auf 10,9 Milliarden US-Dollar, während Rivale Anthropic bei 17 Milliarden US-Dollar Umsatz deutlich effizienter wirtschaftet. Um aufzuholen, befeuert OpenAI nun mit Preissenkungen den Kampf um Firmenkunden. Der Artikel OpenAI steigert Quartalsumsatz auf 10 Milliarden US-Dollar bei weiterhin gigantischen Verlusten…",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/openai-steigert-quartalsumsatz-auf-10-milliarden-us-dollar-bei-weiterhin-gigantischen-verlusten/"
+    }
+   ]
+  },
+  {
+   "titel": "KI: Der Robotik-Boom stellt Deutschlands Industrie vor eine Schicksalsfrage - WELT",
+   "zusammenfassung": "KI: Der Robotik-Boom stellt Deutschlands Industrie vor eine Schicksalsfrage WELT",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa3piQ2xlWV9TRDN6NDBmUUt6MjVod3F1Y1g2QVhHM0ZiNS0tQWdsZi1rZVctM25ab0g4M0pqWmN2aW1hdlVUcTFtNlNXU20yUExVRXBoOXp3ZUtXQmlYNlZMV19mdmdjTU9mb2pmZjJ2Z2pkYlZLeDRfMmRoZEt6ZVU1cnpTLXYzOXhMOWlrclhhdHBMVmNUWklxeTY4cTJjM0QweVZQUzBtQ0xKSmlNUTIxTkI0LUE5RllKTlJWSHJmQWlzdzBvWXExSEs3MnpyVTZSaEpn?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "IT-Jobs: Produktmanager sind Gewinner des KI-Zeitalters",
+   "zusammenfassung": "In den USA werden immer weniger Softwareentwickler eingestellt. Auch wird der Umgang mit KI zu einem essenziellen Skill bei der Jobsuche. ( Arbeit , Softwareentwicklung )",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/it-jobs-produktmanager-sind-gewinner-des-ki-zeitalters-2611-215076.html"
+    }
+   ]
+  }
+ ],
+ "eu": [
+  {
+   "titel": "Talpiot Co., Ltd. to develop a “Global AI Verification Platform” with Austria’s AIT - 매일경제",
+   "zusammenfassung": "Talpiot Co., Ltd. to develop a “Global AI Verification Platform” with Austria’s AIT 매일경제",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SV0ltZHJfWjVEaHg3al9XVzgyZ2Y3aFgyTUl1TVQyOGptbE0xTkRvaUwwZ3dYZjZ0UDNrSU5MUFgzd3g0MkxhS3E1XzZRTnZtSlIw?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Rwanda’s skills-first path to AI governance| The New Times - The New Times",
+   "zusammenfassung": "Rwanda’s skills-first path to AI governance| The New Times The New Times",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemlDS2JuQXIyS3hpVW5rYXNfZk8tR3VFNGNGYlVQRDN1Q1h4TXpjTXNHa1hRdzlJSXIzRFJxOWUtZVNzOFVqeVRhMTlQSTRCa0ZBZ3ZhRjVtd2lOUXBNY3hBWkdIQ0ViRjBmLWZCQ1EzVmtOdGF1eFRHck1ueVBFdUk5SVplc1NENHFjbTA4bHU2bWEtWHFXOEJxR2LSAZwBQVVfeXFMT3ppQ0tibkFyMkt4aVVua2FzX2ZPLUd1RTRjRmJVUEQzdUNYeE16Y01zR2tYUXc5SUlyM0RScTllLWVTczhVanlUYTE5UEk0QmtGQWd2YUY1bXdpTlFwTWN4QVpHSENFYkYwZi1mQkNRM1ZrTnRhdXhUR3JNbnlQRXVJOUlaZXNTRDRxY20wOGx1Nm1hLVhxVzhCcUdi?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Defence startup Mistt raises £5m to build the ‘next GPS’ for autonomous systems and AI",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/defence-mistt-fundraise-next-gps-data-autonomous-systems-world-models/"
+    }
+   ]
+  }
+ ],
+ "welt": [
+  {
+   "titel": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+   "zusammenfassung": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
+    }
+   ]
+  },
+  {
+   "titel": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+   "zusammenfassung": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Ars Technica AI",
+     "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
+    }
+   ]
+  }
+ ],
+ "datum": "2026-11-11",
+ "erstellt": "2026-11-11T12:06+01:00",
+ "modus": "einfach",
+ "anzahl_meldungen": 100,
+ "feeds": {
+  "The Decoder": "9 Meldungen",
+  "heise online": "25 Meldungen",
+  "t3n": "10 Meldungen",
+  "Golem": "10 Meldungen",
+  "netzpolitik.org": "3 Meldungen",
+  "tagesschau": "8 Meldungen",
+  "Google News (KI Deutschland)": "54 Meldungen",
+  "Google News (EU KI-Politik)": "8 Meldungen",
+  "Google News (Europe AI)": "15 Meldungen",
+  "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
+  "Sifted": "6 Meldungen",
+  "TechCrunch AI": "20 Meldungen",
+  "The Verge AI": "10 Meldungen",
+  "MIT Technology Review": "0 Meldungen",
+  "Ars Technica AI": "5 Meldungen"
+ }
+}
