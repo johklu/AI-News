@@ -10,7 +10,7 @@ Täglicher KI-Newsletter (Fokus Deutschland/EU, kleiner Welt-Teil) als installie
   Claude-Abo, kein API-Schlüssel und kein Token im Repo). Sie schreibt `eingang/ausgabe.json` und pusht.
 - `scripts/feeds.json` – Quellenliste.
 - `docs/` – statische App (kein Build-Schritt, kein Framework): `index.html`, `app.js`, `style.css`, `sw.js`.
-- `.github/workflows/newsletter.yml` – schedule: sammeln + Schlagzeilen veröffentlichen;
+- `.github/workflows/newsletter.yml` – workflow_dispatch (von der Redaktion gestartet) bzw. schedule als Rückfall: sammeln + Schlagzeilen veröffentlichen;
   push mit `eingang/ausgabe.json`: fertigstellen + veröffentlichen; sonstiger push: nur App veröffentlichen.
 
 ## Tägliche Redaktion (für die geplante Claude-Sitzung)

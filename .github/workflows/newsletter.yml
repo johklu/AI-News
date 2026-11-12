@@ -1,8 +1,11 @@
 name: Newsletter erstellen und veröffentlichen
 
 # Ablauf:
-#  1. schedule (früh morgens): Meldungen sammeln -> eingang/meldungen.json, sofort Schlagzeilen-Ausgabe veröffentlichen
-#  2. Eine geplante Claude-Code-Sitzung (über das Claude-Abo) schreibt eingang/ausgabe.json und pusht sie
+#  1. Die geplante Claude-Code-Sitzung (06:41 Berlin) startet diesen Workflow per workflow_dispatch:
+#     Meldungen sammeln -> eingang/meldungen.json, sofort Schlagzeilen-Ausgabe veröffentlichen.
+#     schedule ist nur Rückfall, falls die Sitzung ausfällt (GitHub verspätet ihn oft um Stunden);
+#     wurde heute schon gesammelt, tut er nichts.
+#  2. Die Sitzung schreibt eingang/ausgabe.json (über das Claude-Abo) und pusht sie
 #  3. push mit eingang/ausgabe.json: Ausgabe prüfen, speichern und veröffentlichen
 on:
   schedule:
@@ -39,7 +42,11 @@ jobs:
       - name: Was ist zu tun?
         id: modus
         run: |
-          if [ "${{ github.event_name }}" != "push" ]; then
+          heute_gesammelt=$(python -c "import json,datetime,zoneinfo as z; s=json.load(open('eingang/meldungen.json'))['stand']; b=z.ZoneInfo('Europe/Berlin'); print(int(datetime.datetime.fromisoformat(s).astimezone(b).date()==datetime.datetime.now(b).date()))" 2>/dev/null || echo 0)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$heute_gesammelt" = "1" ]; then
+            # GitHub startet den Zeitplan oft Stunden zu spät; die Redaktion hat dann längst gesammelt.
+            echo "schritt=nur-app" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event_name }}" != "push" ]; then
             echo "schritt=sammeln" >> "$GITHUB_OUTPUT"
           elif git diff --name-only HEAD~1 HEAD | grep -qx 'eingang/ausgabe.json'; then
             echo "schritt=claude" >> "$GITHUB_OUTPUT"
