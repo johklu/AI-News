@@ -1,0 +1,150 @@
+{
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "deutschland": [
+  {
+   "titel": "KubeCon 2026: Die CNCF will KI-Agenten sicherer und effizienter machen",
+   "zusammenfassung": "Die CNCF hat auf der KubeCon + CloudNativeCon NA mehrere Projekte unter ihre Schirmherrschaft gestellt, um einen sicheren Betrieb von KI-Agenten voranzutreiben.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/KubeCon-2026-Die-CNCF-will-KI-Agenten-sicherer-und-effizienter-machen-11521965.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "AlphaGenome 2: Googles KI berücksichtigt Zellzustände bei DNA-Prognosen",
+   "zusammenfassung": "Googles neues DNA-Modell sagt voraus, wie genetische Veränderungen in verschiedenen Zelltypen wirken. Das könnte die Suche nach Krankheitsursachen erleichtern.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/AlphaGenome-2-Googles-KI-beruecksichtigt-Zellzustaende-bei-DNA-Prognosen-11522049.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "heise+ | Große LLMs auf Desktop-Hardware im Test",
+   "zusammenfassung": "Die Inferenz-Engine Strata verspricht schnelle Antwortzeiten selbst auf einem durchschnittlichen Gaming-PC. Unsere Tests zeigen, ob und wie das funktioniert.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/tests/Grosse-LLMs-auf-Desktop-Hardware-im-Test-11515298.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
+    }
+   ]
+  },
+  {
+   "titel": "heise-Angebot: KI-Projekte bauen und betreiben: Noch Vortrag für die Mastering AI einreichen",
+   "zusammenfassung": "Am 28. und 29. April 2027 findet die Mastering AI in Karlsruhe statt. Der Call for Proposals für die Konferenz zu KI-Projekten läuft noch bis zum 19. November.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/KI-Projekte-bauen-und-betreiben-Noch-Vortrag-fuer-die-Mastering-AI-einreichen-11518358.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Anthropic-IPO: Banken drängen auf höhere Bewertung",
+   "zusammenfassung": "null",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/anthropic-ipo-banken-draengen-auf-hoehere-bewertung-1773181"
+    }
+   ]
+  }
+ ],
+ "eu": [
+  {
+   "titel": "Pixometry adds verified image provenance and a new Photoshop plugin - InPublishing",
+   "zusammenfassung": "Pixometry adds verified image provenance and a new Photoshop plugin InPublishing",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRUlxNF8wc0Q1SkN0SmxTUmR1U2s0TkpDc0tCcmhMWWpSU1d0YWNmQlRBNndBbGtObGdPTnU2UF9MZ2xIc2s5UlVCQ0Y5eENXMGpFdmNFQ2g5c2dPakxIWk9YaUczc2p2RGljdHhKX253NXE0ZkQ0NVB1SXNFdGdua0hidkp0cTFzMEJZR2VhczRXRkdQNnl3SHM0bWtmc08xV3NmYjVWcHV4MWR5TmkyUEh1TQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Dublin AI Summit: 7 Priorities, 50 Leaders [2026] - shattered.io",
+   "zusammenfassung": "Dublin AI Summit: 7 Priorities, 50 Leaders [2026] shattered.io",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ051S3NGeGlvaVNubnBvUDV3U3VWQWFieUVxckFSUG1TLVZGT3JlWWNNNVRKQm9TX3RtOExWeTRocS1TVFhGeWJZMk1qTHVTaXFfVzl4OU12LVdkaFpnZl91NXA2ZTJ6VnphUlFIeXZyUTZNM3huZEN1QWNKSF9fLVoySVVPdm1KakNmZA?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Accel leads $30m Series A for spatial AI defence startup SE3",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/accel-30m-spatial-ai-defence-startup-se3/"
+    }
+   ]
+  }
+ ],
+ "welt": [
+  {
+   "titel": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "zusammenfassung": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+    }
+   ]
+  },
+  {
+   "titel": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+   "zusammenfassung": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+    }
+   ]
+  }
+ ],
+ "datum": "2026-11-12",
+ "erstellt": "2026-11-12T12:24+01:00",
+ "modus": "einfach",
+ "anzahl_meldungen": 100,
+ "feeds": {
+  "The Decoder": "10 Meldungen",
+  "heise online": "32 Meldungen",
+  "t3n": "10 Meldungen",
+  "Golem": "10 Meldungen",
+  "netzpolitik.org": "1 Meldungen",
+  "tagesschau": "3 Meldungen",
+  "Google News (KI Deutschland)": "45 Meldungen",
+  "Google News (EU KI-Politik)": "15 Meldungen",
+  "Google News (Europe AI)": "17 Meldungen",
+  "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
+  "Sifted": "8 Meldungen",
+  "TechCrunch AI": "15 Meldungen",
+  "The Verge AI": "5 Meldungen",
+  "MIT Technology Review": "0 Meldungen",
+  "Ars Technica AI": "3 Meldungen"
+ }
+}
