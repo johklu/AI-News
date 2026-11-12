@@ -2,100 +2,100 @@
  "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
  "deutschland": [
   {
-   "titel": "KubeCon 2026: Die CNCF will KI-Agenten sicherer und effizienter machen",
-   "zusammenfassung": "Die CNCF hat auf der KubeCon + CloudNativeCon NA mehrere Projekte unter ihre Schirmherrschaft gestellt, um einen sicheren Betrieb von KI-Agenten voranzutreiben.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/KubeCon-2026-Die-CNCF-will-KI-Agenten-sicherer-und-effizienter-machen-11521965.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "titel": "AlphaGenome 2: Googles KI berücksichtigt Zellzustände bei DNA-Prognosen",
-   "zusammenfassung": "Googles neues DNA-Modell sagt voraus, wie genetische Veränderungen in verschiedenen Zelltypen wirken. Das könnte die Suche nach Krankheitsursachen erleichtern.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/AlphaGenome-2-Googles-KI-beruecksichtigt-Zellzustaende-bei-DNA-Prognosen-11522049.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "titel": "heise+ | Große LLMs auf Desktop-Hardware im Test",
-   "zusammenfassung": "Die Inferenz-Engine Strata verspricht schnelle Antwortzeiten selbst auf einem durchschnittlichen Gaming-PC. Unsere Tests zeigen, ob und wie das funktioniert.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/tests/Grosse-LLMs-auf-Desktop-Hardware-im-Test-11515298.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
-    }
-   ]
-  },
-  {
-   "titel": "heise-Angebot: KI-Projekte bauen und betreiben: Noch Vortrag für die Mastering AI einreichen",
-   "zusammenfassung": "Am 28. und 29. April 2027 findet die Mastering AI in Karlsruhe statt. Der Call for Proposals für die Konferenz zu KI-Projekten läuft noch bis zum 19. November.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/KI-Projekte-bauen-und-betreiben-Noch-Vortrag-fuer-die-Mastering-AI-einreichen-11518358.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "titel": "Anthropic-IPO: Banken drängen auf höhere Bewertung",
-   "zusammenfassung": "null",
+   "titel": "Weltuntergang am 13. November 2026? Was eine Doomsday-Formel von 1960 über KI verrät",
+   "zusammenfassung": "KI-generiert",
    "warum_wichtig": "",
    "kategorie": "",
    "quellen": [
     {
      "name": "t3n",
-     "url": "https://t3n.de/news/anthropic-ipo-banken-draengen-auf-hoehere-bewertung-1773181"
+     "url": "https://t3n.de/news/weltuntergang-2026-doomsday-formel-ki-1771528"
+    }
+   ]
+  },
+  {
+   "titel": "KI: Robotik-Boom stellt Deutschlands Industrie vor eine Schicksalsfrage - WELT",
+   "zusammenfassung": "KI: Robotik-Boom stellt Deutschlands Industrie vor eine Schicksalsfrage WELT",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV3poUVU5MThoOFZxSDBIbUU0cDhmaGRZaENBRFBNRl9JaWYzeE5kaFl3ZDNmV2VWdXZxZTBTLWYzRk9tQkdGZllnd3pZOUFXTU5kSENLY05JN2wtOWRSeFdRUXJwMndkalRnYWNGcTZlbjlFLUw2X1dySmsyVnQyMFQtVUt2QmFxcGdodzRrRUpBeEJKR1pDYVlDYkZGcEt1SGV5TlpYNVlfcDduMm4zZF9DUjl3dEZ2aWJCLWd5amExQVQ5a1VLSHRNSm9aUTJO?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Googles AlphaGenome 2 soll zeigen, wie jede Körperzelle ihre DNA liest",
+   "zusammenfassung": "Google DeepMind stellt mit AlphaGenome 2 ein KI-Modell vor, das genetische Varianten nicht mehr pauschal, sondern gezielt für einzelne Zelltypen analysiert. Trainiert mit über 107 Millionen Zellprofilen identifiziert es fast doppelt so viele krankheitsrelevante Genveränderungen wie sein Vorgänger. Das Modell ist für nicht-kommerzielle Forschung per API verfügbar und soll in Googles agentische Plattform Antigravity integriert werden. Der Artikel Googles AlphaGenome 2 soll zeigen, wie jede…",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/googles-alphagenome-2-soll-zeigen-wie-jede-koerperzelle-ihre-dna-liest/"
+    }
+   ]
+  },
+  {
+   "titel": "74 Millionen Geräte betroffen: Warum viele den Wechsel von Windows 10 hinauszögern",
+   "zusammenfassung": "Nicht jeder Computer erfüllt die technischen Voraussetzungen für das Upgrade auf Windows 11. Dadurch wird Hardware, die theoretisch noch funktioniert, plötzlich unbrauchbar – mit ernstzunehmenden Folgen für die Umwelt.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/windows-10-wechsel-studie-1773233"
+    }
+   ]
+  },
+  {
+   "titel": "Mittelsfrau statt Spionin: Megaspeed folgt in China verbreitetem Geschäftsmodell",
+   "zusammenfassung": "Statt unbewiesenen Spionagevorwürfen nachzujagen, fordert ein chinesischer Dissident, dem Geld aus China zu Nvidia zu folgen. ( Nvidia , Wirtschaft )",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/mittelsfrau-statt-spionin-megaspeed-folgt-in-china-verbreitetem-geschaeftsmodell-2611-215130.html"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "Pixometry adds verified image provenance and a new Photoshop plugin - InPublishing",
-   "zusammenfassung": "Pixometry adds verified image provenance and a new Photoshop plugin InPublishing",
+   "titel": "IonQ Stock: Buy the Dip? - The Globe and Mail",
+   "zusammenfassung": "IonQ Stock: Buy the Dip? The Globe and Mail",
    "warum_wichtig": "",
    "kategorie": "",
    "quellen": [
     {
      "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRUlxNF8wc0Q1SkN0SmxTUmR1U2s0TkpDc0tCcmhMWWpSU1d0YWNmQlRBNndBbGtObGdPTnU2UF9MZ2xIc2s5UlVCQ0Y5eENXMGpFdmNFQ2g5c2dPakxIWk9YaUczc2p2RGljdHhKX253NXE0ZkQ0NVB1SXNFdGdua0hidkp0cTFzMEJZR2VhczRXRkdQNnl3SHM0bWtmc08xV3NmYjVWcHV4MWR5TmkyUEh1TQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWnMwWERfV2RUdjhhT2NwQ3lxblpzb2MwLXd5VU1XaEkxU3VhM2l2emVDbXBVWUN0Mm1KcWVGMl9Tbnhnb0FRNHEwMHdYQzJtTmVKNThXNnlfQ1J2WGYzSjNqRG9SUGc4Mk5ZazVkWnNLN0xDQno3R0h4Mng0WDBpaVRYUXV0THRfQ0NyQkpJNTJpUl9YWl9BSFpyakc1SkEtNk4yanl6d0hpeUdoNGc?oc=5"
     }
    ]
   },
   {
-   "titel": "Dublin AI Summit: 7 Priorities, 50 Leaders [2026] - shattered.io",
-   "zusammenfassung": "Dublin AI Summit: 7 Priorities, 50 Leaders [2026] shattered.io",
+   "titel": "Press release - AI in democracy: ensuring oversight and compliance with EU values - Zprávy Kurzy.cz",
+   "zusammenfassung": "Press release - AI in democracy: ensuring oversight and compliance with EU values Zprávy Kurzy.cz",
    "warum_wichtig": "",
    "kategorie": "",
    "quellen": [
     {
      "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ051S3NGeGlvaVNubnBvUDV3U3VWQWFieUVxckFSUG1TLVZGT3JlWWNNNVRKQm9TX3RtOExWeTRocS1TVFhGeWJZMk1qTHVTaXFfVzl4OU12LVdkaFpnZl91NXA2ZTJ6VnphUlFIeXZyUTZNM3huZEN1QWNKSF9fLVoySVVPdm1KakNmZA?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbnRKb3ktMGJTM3A0U3VlYUZ4UG0xUmgyUE0wZm42bzVNOTRydVp4ZW1ScF9JRVBrUDl2NTR0eDYzNlpVemJRVnpPWXdhdGp2N1FqWHZfTWNaSmFCcnNJMVBTVm1FVFpEVkt6UXFHNHRoczduQVpfejR4LWY1cElNWDJmRkdnVzV3ZjRmb01HaElwRF92a0Q2UFJId04waTFqQ3EzMFktamRmcFBsWVFj?oc=5"
     }
    ]
   },
   {
-   "titel": "Accel leads $30m Series A for spatial AI defence startup SE3",
-   "zusammenfassung": "",
+   "titel": "Wie Sie ansprechende Aufmacher ohne KI-Einheitsbrei erstellen - heise online",
+   "zusammenfassung": "Wie Sie ansprechende Aufmacher ohne KI-Einheitsbrei erstellen heise online",
    "warum_wichtig": "",
    "kategorie": "",
    "quellen": [
     {
-     "name": "Sifted",
-     "url": "https://sifted.eu/articles/accel-30m-spatial-ai-defence-startup-se3/"
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTY1QmItNy1hdmJHMTltUmxROXJnMTNtUWpSWUxfWU5QWUd4bjdTWjhlOVZEWGZqUmlfUTJEaTlPa216TnA1N2J6SVdGNzFXb3NNV2ZXVmhjRW1LWU5kOG1SOFRfNlk3QmlkZVI0M2NqaDhIY3o2aWp1ZWJCYlZ0dFduY2JZNE8xT0Y5cFUxc2themdhX2JXc0ZaODhhLUVhWjZURzI3SWM?oc=5"
     }
    ]
   }
@@ -127,17 +127,17 @@
   }
  ],
  "datum": "2026-11-12",
- "erstellt": "2026-11-12T12:24+01:00",
+ "erstellt": "2026-11-12T13:40+01:00",
  "modus": "einfach",
  "anzahl_meldungen": 100,
  "feeds": {
   "The Decoder": "10 Meldungen",
-  "heise online": "32 Meldungen",
+  "heise online": "34 Meldungen",
   "t3n": "10 Meldungen",
   "Golem": "10 Meldungen",
-  "netzpolitik.org": "1 Meldungen",
+  "netzpolitik.org": "HTTPError: HTTP Error 500: Internal Server Error",
   "tagesschau": "3 Meldungen",
-  "Google News (KI Deutschland)": "45 Meldungen",
+  "Google News (KI Deutschland)": "46 Meldungen",
   "Google News (EU KI-Politik)": "15 Meldungen",
   "Google News (Europe AI)": "17 Meldungen",
   "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
