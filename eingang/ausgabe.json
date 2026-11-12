@@ -1,0 +1,50 @@
+{
+  "stand": "2026-11-12T12:40:47+00:00",
+  "lage": "Guten Tag! Heute beherrscht die Führungskrise bei Nvidia die Schlagzeilen. Aus Deutschland kommen eine europäische Militär-KI-Plattform von Helsing und ein DAX-Rekord nach dem KI-Crash der Vorwoche, aus Brüssel neue Pflichten des AI Act ab Dezember.",
+  "deutschland": [
+    {"titel": "Helsing stellt KI-Plattform Clarity als europäische Alternative zu Palantir vor",
+     "zusammenfassung": "Das Rüstungs-Start-up Helsing hat mit Clarity eine KI-Plattform vorgestellt, die Sensordaten per Agenten zu Zielvorschlägen für Waffensysteme verdichtet. Sie soll große Datenmengen parallel verarbeiten, unter menschlicher Aufsicht arbeiten; Modelle und Agenten wurden laut Helsing in Europa entwickelt.",
+     "warum_wichtig": "Europäische Streitkräfte bekämen damit eine Option, die nicht von US-Anbietern wie Palantir abhängt.",
+     "kategorie": "Sicherheit", "quellen": [94, 97]},
+    {"titel": "DAX springt nach KI-Crash der Vorwoche auf Rekordhoch",
+     "zusammenfassung": "Nach dem KI-bedingten Kurseinbruch der vergangenen Woche ist der DAX zum Handelsstart auf ein Rekordhoch gesprungen und erreichte zeitweise 27.000 Punkte. Zuvor hatten optimistische Prognosen der Wirtschaftsweisen den Index nahe an den Rekord gebracht, während die KI-Sorgen in den Hintergrund traten.",
+     "warum_wichtig": "Für Anleger zeigt sich, wie stark die Stimmung an den Märkten derzeit an den Erwartungen zur KI hängt.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [21, 86]},
+    {"titel": "Mehr KI-Rechenleistung in Deutschland: Polarise und Telekom bauen aus",
+     "zusammenfassung": "Der Anbieter Polarise plant bis Ende 2028 rund 150 Megawatt neue KI-Kapazität in Deutschland und wurde vom KI Bundesverband als „Hidden Champion“ ausgezeichnet. Die Münchner KI-Fabrik der Deutschen Telekom erhält zudem Nvidia-Blackwell-Chips.",
+     "warum_wichtig": "Mehr Rechenzentren im Inland erleichtern es Unternehmen, KI auf Infrastruktur unter europäischem Recht zu betreiben.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [44, 43]},
+    {"titel": "Studie: Nur elf Prozent der Organisationen führen KI wie geplant ein",
+     "zusammenfassung": "Laut einer Erhebung schafft KI in deutschen Organisationen zwar Mehrwert, doch nur elf Prozent rollen sie so aus, wie sie es geplant hatten.",
+     "warum_wichtig": "Viele Unternehmen in Deutschland bleiben bei der KI-Einführung hinter den eigenen Zielen zurück.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [48]},
+    {"titel": "BKA-Herbsttagung: Neue Bedrohungen durch KI im Fokus",
+     "zusammenfassung": "Auf der Herbsttagung des Bundeskriminalamts diskutieren Praktiker und Politiker über neue Bedrohungen durch KI. Dabei geht es auch um den sogenannten Q-Day und um alte Forderungen nach Hackbacks.",
+     "warum_wichtig": "Die Debatte prägt, mit welchen Befugnissen deutsche Sicherheitsbehörden künftig auf KI-gestützte Angriffe reagieren.",
+     "kategorie": "Sicherheit", "quellen": [80]}
+  ],
+  "eu": [
+    {"titel": "AI Act: Ab Dezember gelten Kennzeichnungspflicht und zwei neue Verbote",
+     "zusammenfassung": "Ab dem 2. Dezember 2026 müssen KI-generierte Inhalte gekennzeichnet werden, auch bei älteren Systemen; zudem greifen zwei neue Verbote. Bereits ab 1. Dezember gelten Regeln für KI-Reallabore, wobei Tests dort keine Konformität bescheinigen und die Haftung bestehen bleibt.",
+     "warum_wichtig": "Unternehmen in der EU, die KI-Inhalte erzeugen oder anbieten, müssen ihre Systeme in wenigen Wochen anpassen.",
+     "kategorie": "Politik & Regulierung", "quellen": [67, 42, 41]},
+    {"titel": "Investitionen in europäische KI-Chips fast vervierfacht",
+     "zusammenfassung": "Die Finanzierung europäischer Chip-Start-ups hat sich fast vervierfacht, da Investoren auf Herausforderer von Nvidia bei der KI-Inferenz setzen. Das britische Start-up Fractile sammelte allein 720 Millionen Dollar ein und gehört damit zu den bestfinanzierten Anbietern spezialisierter KI-Chips.",
+     "warum_wichtig": "Eigene Chip-Entwickler könnten Europas Abhängigkeit von US-Herstellern bei KI-Hardware verringern.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [55, 77]},
+    {"titel": "Frankreich richtet Zentrum für Verteidigungs-KI ein",
+     "zusammenfassung": "Das französische Verteidigungsministerium richtet ein eigenes Zentrum für verteidigungsbezogene KI ein.",
+     "warum_wichtig": "Neben Helsing treibt damit auch der Staat Frankreich militärische KI in Europa voran.",
+     "kategorie": "Sicherheit", "quellen": [15]}
+  ],
+  "welt": [
+    {"titel": "Nvidia-Chef Jensen Huang droht wegen Affären die Absetzung",
+     "zusammenfassung": "Nach Berichten über eine zweite Affäre, diesmal mit einer Nvidia-Managerin, berät der Verwaltungsrat über die Abberufung von Jensen Huang; zuvor hatte er eine Affäre mit einer mutmaßlichen chinesischen Spionin eingeräumt. Die Aktie gab nach, als mögliche Nachfolger gelten Ian Buck und Finanzchefin Colette Kress, und US-Abgeordnete fordern ein vertrauliches Briefing.",
+     "warum_wichtig": "Nvidia liefert die meisten KI-Chips weltweit, eine Führungskrise dort betrifft auch europäische Rechenzentren und Anleger.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [17, 24, 34, 58, 61, 64, 65, 78]},
+    {"titel": "Googles AlphaGenome 2 sagt Genwirkung je Zelltyp voraus",
+     "zusammenfassung": "Google DeepMind hat AlphaGenome 2 vorgestellt, ein KI-Modell, das vorhersagt, wie genetische Varianten in einzelnen Zelltypen wirken. Trainiert wurde es mit über 107 Millionen Zellprofilen; das könnte die Suche nach Krankheitsursachen erleichtern.",
+     "warum_wichtig": "Auch europäische Forschung und Medizin könnten von genaueren Werkzeugen zur Analyse von Erbkrankheiten profitieren.",
+     "kategorie": "Forschung", "quellen": [3, 11, 98]}
+  ]
+}
