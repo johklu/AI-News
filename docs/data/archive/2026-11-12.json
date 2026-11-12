@@ -1,134 +1,194 @@
 {
- "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "lage": "Guten Tag! Heute beherrscht die Führungskrise bei Nvidia die Schlagzeilen. Aus Deutschland kommen eine europäische Militär-KI-Plattform von Helsing und ein DAX-Rekord nach dem KI-Crash der Vorwoche, aus Brüssel neue Pflichten des AI Act ab Dezember.",
  "deutschland": [
   {
-   "titel": "Weltuntergang am 13. November 2026? Was eine Doomsday-Formel von 1960 über KI verrät",
-   "zusammenfassung": "KI-generiert",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "t3n",
-     "url": "https://t3n.de/news/weltuntergang-2026-doomsday-formel-ki-1771528"
-    }
-   ]
-  },
-  {
-   "titel": "KI: Robotik-Boom stellt Deutschlands Industrie vor eine Schicksalsfrage - WELT",
-   "zusammenfassung": "KI: Robotik-Boom stellt Deutschlands Industrie vor eine Schicksalsfrage WELT",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV3poUVU5MThoOFZxSDBIbUU0cDhmaGRZaENBRFBNRl9JaWYzeE5kaFl3ZDNmV2VWdXZxZTBTLWYzRk9tQkdGZllnd3pZOUFXTU5kSENLY05JN2wtOWRSeFdRUXJwMndkalRnYWNGcTZlbjlFLUw2X1dySmsyVnQyMFQtVUt2QmFxcGdodzRrRUpBeEJKR1pDYVlDYkZGcEt1SGV5TlpYNVlfcDduMm4zZF9DUjl3dEZ2aWJCLWd5amExQVQ5a1VLSHRNSm9aUTJO?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Googles AlphaGenome 2 soll zeigen, wie jede Körperzelle ihre DNA liest",
-   "zusammenfassung": "Google DeepMind stellt mit AlphaGenome 2 ein KI-Modell vor, das genetische Varianten nicht mehr pauschal, sondern gezielt für einzelne Zelltypen analysiert. Trainiert mit über 107 Millionen Zellprofilen identifiziert es fast doppelt so viele krankheitsrelevante Genveränderungen wie sein Vorgänger. Das Modell ist für nicht-kommerzielle Forschung per API verfügbar und soll in Googles agentische Plattform Antigravity integriert werden. Der Artikel Googles AlphaGenome 2 soll zeigen, wie jede…",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "The Decoder",
-     "url": "https://the-decoder.de/googles-alphagenome-2-soll-zeigen-wie-jede-koerperzelle-ihre-dna-liest/"
-    }
-   ]
-  },
-  {
-   "titel": "74 Millionen Geräte betroffen: Warum viele den Wechsel von Windows 10 hinauszögern",
-   "zusammenfassung": "Nicht jeder Computer erfüllt die technischen Voraussetzungen für das Upgrade auf Windows 11. Dadurch wird Hardware, die theoretisch noch funktioniert, plötzlich unbrauchbar – mit ernstzunehmenden Folgen für die Umwelt.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "t3n",
-     "url": "https://t3n.de/news/windows-10-wechsel-studie-1773233"
-    }
-   ]
-  },
-  {
-   "titel": "Mittelsfrau statt Spionin: Megaspeed folgt in China verbreitetem Geschäftsmodell",
-   "zusammenfassung": "Statt unbewiesenen Spionagevorwürfen nachzujagen, fordert ein chinesischer Dissident, dem Geld aus China zu Nvidia zu folgen. ( Nvidia , Wirtschaft )",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Helsing stellt KI-Plattform Clarity als europäische Alternative zu Palantir vor",
+   "zusammenfassung": "Das Rüstungs-Start-up Helsing hat mit Clarity eine KI-Plattform vorgestellt, die Sensordaten per Agenten zu Zielvorschlägen für Waffensysteme verdichtet. Sie soll große Datenmengen parallel verarbeiten, unter menschlicher Aufsicht arbeiten; Modelle und Agenten wurden laut Helsing in Europa entwickelt.",
+   "warum_wichtig": "Europäische Streitkräfte bekämen damit eine Option, die nicht von US-Anbietern wie Palantir abhängt.",
+   "kategorie": "Sicherheit",
    "quellen": [
     {
      "name": "Golem",
-     "url": "https://www.golem.de/news/mittelsfrau-statt-spionin-megaspeed-folgt-in-china-verbreitetem-geschaeftsmodell-2611-215130.html"
+     "url": "https://www.golem.de/news/militaerische-ki-plattform-helsing-stellt-europaeische-alternative-zu-palantir-vor-2611-215099.html"
+    },
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/helsings-neue-ki-plattform-clarity-soll-europas-antwort-auf-palantirs-maven-werden/"
+    }
+   ]
+  },
+  {
+   "titel": "DAX springt nach KI-Crash der Vorwoche auf Rekordhoch",
+   "zusammenfassung": "Nach dem KI-bedingten Kurseinbruch der vergangenen Woche ist der DAX zum Handelsstart auf ein Rekordhoch gesprungen und erreichte zeitweise 27.000 Punkte. Zuvor hatten optimistische Prognosen der Wirtschaftsweisen den Index nahe an den Rekord gebracht, während die KI-Sorgen in den Hintergrund traten.",
+   "warum_wichtig": "Für Anleger zeigt sich, wie stark die Stimmung an den Märkten derzeit an den Erwartungen zur KI hängt.",
+   "kategorie": "Wirtschaft & Startups",
+   "quellen": [
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html"
+    },
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html"
+    }
+   ]
+  },
+  {
+   "titel": "Mehr KI-Rechenleistung in Deutschland: Polarise und Telekom bauen aus",
+   "zusammenfassung": "Der Anbieter Polarise plant bis Ende 2028 rund 150 Megawatt neue KI-Kapazität in Deutschland und wurde vom KI Bundesverband als „Hidden Champion“ ausgezeichnet. Die Münchner KI-Fabrik der Deutschen Telekom erhält zudem Nvidia-Blackwell-Chips.",
+   "warum_wichtig": "Mehr Rechenzentren im Inland erleichtern es Unternehmen, KI auf Infrastruktur unter europäischem Recht zu betreiben.",
+   "kategorie": "Wirtschaft & Startups",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPMk1zTXFCdGFES3EyemRlVHhEb2NZZDUyOHNnY3RZTE9VQ3hRWkpma2ZzNUNmdEs5emRaM1J1RGFxWlp3eGVucE9vS0tTOWo3dlNFQWVYX2NoR0QzcnpBX2U0VW9Lb2wwUjlrcGJybDdDYWJGS0YwRER2MWJwTWo3SVRUZndtX1ZyM1dnUUFNdzcyX3hJMTlFWno3YkszMDNKWnh4Sm5QMHZnVGtWRkM4RFJsMWk2U096UXc3dVpsQkx5RzFQT3QwRVR1SGQ5ZVBBdDdrQWVhNVlMbm1NQ1JIZzY1alF0VnZuendXMVlpTFlLYjc2YTdBOVVCS3Z4LTZJazBmRk9sRC1CeVBzVTVBQkhWLTJ1TGpXRlE4UHdYZVE0cHRHdW9QWmlhYW9qOTJBUXpVNzgtUUdubk4wYlVYNDlXTGFDSzg?oc=5"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN2NFaVdveHpWa09SQklBbTNUcWk1elJYcWZDRWlCSHNBTWlab2FMT0dEckRFWmJjcmlnUktRZXFoYXdqM0ZkbE5oekFRVFJSZUtKVzBMT09Bb0RlYjQ5RVhIN3JCRUVza3IzdWRsY3N5Vk5TbWw2Y0FhcnJxMVNTSFBhaGRvNURQanVnY2gzM2U4N1BUaks5Vnl0SFQxSktoaGc?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Studie: Nur elf Prozent der Organisationen führen KI wie geplant ein",
+   "zusammenfassung": "Laut einer Erhebung schafft KI in deutschen Organisationen zwar Mehrwert, doch nur elf Prozent rollen sie so aus, wie sie es geplant hatten.",
+   "warum_wichtig": "Viele Unternehmen in Deutschland bleiben bei der KI-Einführung hinter den eigenen Zielen zurück.",
+   "kategorie": "Wirtschaft & Startups",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMTQ1YzI3d3VtZ2doLUxjZl9XeWlmZGNGUG5fNzQtR0k1YkYtQzJFT2Z5OTFVVG92ZTVGZjkyNGZRTnl2MHkxaks3RzZhMHZfb051QjIwTDhZZkpjNzVnbGxWRWgyQVgzeUxBV09hMFo2dVZVSl9mSU4xdnZ0Y0I3SUVDVjlQd19EUE1zVFhNWTRid1d0aGZSdzFHck9jNDc3ZHFpOHVzblpRQlBvUXRPM1E0enZkdEVlRlFra3dkRmdOSXA4Qzg0X3QteXJfSm1hejFoZUpGQ3ctOU1PMGc1VjZKWW9PWWxpQ1RfamRGdHdQOERFQ0dkQkZVZVVXNUtkcGpwMTRod1JtLWZKejZ5dS0zRQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "BKA-Herbsttagung: Neue Bedrohungen durch KI im Fokus",
+   "zusammenfassung": "Auf der Herbsttagung des Bundeskriminalamts diskutieren Praktiker und Politiker über neue Bedrohungen durch KI. Dabei geht es auch um den sogenannten Q-Day und um alte Forderungen nach Hackbacks.",
+   "warum_wichtig": "Die Debatte prägt, mit welchen Befugnissen deutsche Sicherheitsbehörden künftig auf KI-gestützte Angriffe reagieren.",
+   "kategorie": "Sicherheit",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/BKA-Herbsttagung-Zwischen-Q-Day-und-Rueckschlaegen-11521539.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "IonQ Stock: Buy the Dip? - The Globe and Mail",
-   "zusammenfassung": "IonQ Stock: Buy the Dip? The Globe and Mail",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWnMwWERfV2RUdjhhT2NwQ3lxblpzb2MwLXd5VU1XaEkxU3VhM2l2emVDbXBVWUN0Mm1KcWVGMl9Tbnhnb0FRNHEwMHdYQzJtTmVKNThXNnlfQ1J2WGYzSjNqRG9SUGc4Mk5ZazVkWnNLN0xDQno3R0h4Mng0WDBpaVRYUXV0THRfQ0NyQkpJNTJpUl9YWl9BSFpyakc1SkEtNk4yanl6d0hpeUdoNGc?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Press release - AI in democracy: ensuring oversight and compliance with EU values - Zprávy Kurzy.cz",
-   "zusammenfassung": "Press release - AI in democracy: ensuring oversight and compliance with EU values Zprávy Kurzy.cz",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbnRKb3ktMGJTM3A0U3VlYUZ4UG0xUmgyUE0wZm42bzVNOTRydVp4ZW1ScF9JRVBrUDl2NTR0eDYzNlpVemJRVnpPWXdhdGp2N1FqWHZfTWNaSmFCcnNJMVBTVm1FVFpEVkt6UXFHNHRoczduQVpfejR4LWY1cElNWDJmRkdnVzV3ZjRmb01HaElwRF92a0Q2UFJId04waTFqQ3EzMFktamRmcFBsWVFj?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Wie Sie ansprechende Aufmacher ohne KI-Einheitsbrei erstellen - heise online",
-   "zusammenfassung": "Wie Sie ansprechende Aufmacher ohne KI-Einheitsbrei erstellen heise online",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "AI Act: Ab Dezember gelten Kennzeichnungspflicht und zwei neue Verbote",
+   "zusammenfassung": "Ab dem 2. Dezember 2026 müssen KI-generierte Inhalte gekennzeichnet werden, auch bei älteren Systemen; zudem greifen zwei neue Verbote. Bereits ab 1. Dezember gelten Regeln für KI-Reallabore, wobei Tests dort keine Konformität bescheinigen und die Haftung bestehen bleibt.",
+   "warum_wichtig": "Unternehmen in der EU, die KI-Inhalte erzeugen oder anbieten, müssen ihre Systeme in wenigen Wochen anpassen.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
      "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTY1QmItNy1hdmJHMTltUmxROXJnMTNtUWpSWUxfWU5QWUd4bjdTWjhlOVZEWGZqUmlfUTJEaTlPa216TnA1N2J6SVdGNzFXb3NNV2ZXVmhjRW1LWU5kOG1SOFRfNlk3QmlkZVI0M2NqaDhIY3o2aWp1ZWJCYlZ0dFduY2JZNE8xT0Y5cFUxc2themdhX2JXc0ZaODhhLUVhWjZURzI3SWM?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYTdCZjE0blFhNUVGMGxYSFMyeUtYLWpPeFlZdkhFdS1KUnRvallKRnN1NFAzY0VUN0RNSGxIRE1EcnRLNW9HX1dXZG5jc0ZrWjFnOUZndC1wQU1hYU5tdHd2OVU1dmp5aWN3R2lfWWJhTnNvQW1RWGM0WmtDYXRFa2dCQ1R4SjdVS3RNaGZJZG9fOXJFVFdDRnZBTG5NQ0d6bzRpM1cwSnc?oc=5"
+    },
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aSVdSVS1RWlJUdUw3WWhwaklSODFYVWltNExhSVgxeFhoUkJNbTB6eEVlcFN1ckg0ZFlXbXRQS3NBVHFGZmhlNjRaM0xzUEFBZHpFU0FVTmt4NWZNd3BpblNuZEhfOTcyeGxwbG82ZWtfc2huT0RPV2l2Nmc?oc=5"
+    },
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPakFUX3NYM0FMbHRDRFhPWFBkbDJ2cVMwNndKQTZnSWhkQUk0OVpGdDQ2SGFydEo5SENObjRMQ2lQbmREWHN1UTM5LUtMbVlwQ0hJelNpOXNKbUZ4UkxteFVXSTJxTlNORkxVTWFtd0R6NFFnbnRoT0Fqc1EtSXA0cnpsMFVpVEdJN0FmZVFTakdvVDE2MjBtaG1XcDZyRmVxMW8tbTZpWWJiS194U1NsWG5JT1Y0aDFSZllqOTEwNWRUVXJwUWlmWUVxOXRoM21Xb0tJSlNWZGM3OTlHV3NEWk1rMEw0dEdW?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Investitionen in europäische KI-Chips fast vervierfacht",
+   "zusammenfassung": "Die Finanzierung europäischer Chip-Start-ups hat sich fast vervierfacht, da Investoren auf Herausforderer von Nvidia bei der KI-Inferenz setzen. Das britische Start-up Fractile sammelte allein 720 Millionen Dollar ein und gehört damit zu den bestfinanzierten Anbietern spezialisierter KI-Chips.",
+   "warum_wichtig": "Eigene Chip-Entwickler könnten Europas Abhängigkeit von US-Herstellern bei KI-Hardware verringern.",
+   "kategorie": "Wirtschaft & Startups",
+   "quellen": [
+    {
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/european-chips-funding-almost-quadruples-as-investors-back-nvidias-inference-challengers/"
+    },
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+    }
+   ]
+  },
+  {
+   "titel": "Frankreich richtet Zentrum für Verteidigungs-KI ein",
+   "zusammenfassung": "Das französische Verteidigungsministerium richtet ein eigenes Zentrum für verteidigungsbezogene KI ein.",
+   "warum_wichtig": "Neben Helsing treibt damit auch der Staat Frankreich militärische KI in Europa voran.",
+   "kategorie": "Sicherheit",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWFh2b1dnSy1PeTRfQ1pUX2E1alpyRkswUGk3SXNEQVJtZjcxVVJEWFR3UWU4RDZHYzNiSWM3dUFzN2NnVXNlZndYZDdNTkEyeDEtbGREZlJRUVlHN2U3aFUwX3hWajNlcGRaaU13WklWaFBoZDRTM2xkZWRVRV9RdG9ONzZ1cnlBZEF1cDhjbkxFb3NFUkh2TGdlVENoUXlwZHFsNVJkMTJNNF9lQXFmM3g5Y1FabHVGb1JBMjFrNEdZOTRmYmtCZkh0Y0VCU1lhRnpKa25zbmxPbDhpaDhiaDQtZk1NUE1fVGpZ?oc=5"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "Nvidia is reportedly preparing to fire Jensen Huang",
-   "zusammenfassung": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Nvidia-Chef Jensen Huang droht wegen Affären die Absetzung",
+   "zusammenfassung": "Nach Berichten über eine zweite Affäre, diesmal mit einer Nvidia-Managerin, berät der Verwaltungsrat über die Abberufung von Jensen Huang; zuvor hatte er eine Affäre mit einer mutmaßlichen chinesischen Spionin eingeräumt. Die Aktie gab nach, als mögliche Nachfolger gelten Ian Buck und Finanzchefin Colette Kress, und US-Abgeordnete fordern ein vertrauliches Briefing.",
+   "warum_wichtig": "Nvidia liefert die meisten KI-Chips weltweit, eine Führungskrise dort betrifft auch europäische Rechenzentren und Anleger.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
      "name": "The Verge AI",
      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+    },
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-beratung-chefwechsel-kursrueckgang-100.html"
+    },
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/nachfolge-debatte-zwei-manager-koennten-jensen-huang-als-nvidia-chef-abloesen-2611-215117.html"
+    },
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Jensen-Huang-nach-weiterer-Affaere-mit-Mitarbeiterin-wohl-vor-dem-Aus-bei-Nvidia-11521625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/zweite-affaere-nvidia-erwaegt-offenbar-jensen-huangs-absetzung-2611-215113.html"
+    },
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+    },
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
+    },
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
     }
    ]
   },
   {
-   "titel": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-   "zusammenfassung": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Googles AlphaGenome 2 sagt Genwirkung je Zelltyp voraus",
+   "zusammenfassung": "Google DeepMind hat AlphaGenome 2 vorgestellt, ein KI-Modell, das vorhersagt, wie genetische Varianten in einzelnen Zelltypen wirken. Trainiert wurde es mit über 107 Millionen Zellprofilen; das könnte die Suche nach Krankheitsursachen erleichtern.",
+   "warum_wichtig": "Auch europäische Forschung und Medizin könnten von genaueren Werkzeugen zur Analyse von Erbkrankheiten profitieren.",
+   "kategorie": "Forschung",
    "quellen": [
     {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/googles-alphagenome-2-soll-zeigen-wie-jede-koerperzelle-ihre-dna-liest/"
+    },
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/AlphaGenome-2-Googles-KI-beruecksichtigt-Zellzustaende-bei-DNA-Prognosen-11522049.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
     }
    ]
   }
  ],
  "datum": "2026-11-12",
- "erstellt": "2026-11-12T13:40+01:00",
- "modus": "einfach",
+ "erstellt": "2026-11-12T13:42+01:00",
+ "modus": "ki",
  "anzahl_meldungen": 100,
  "feeds": {
   "The Decoder": "10 Meldungen",
