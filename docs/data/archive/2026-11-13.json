@@ -1,0 +1,150 @@
+{
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "deutschland": [
+  {
+   "titel": "MORNING BID EUROPA - Skandal stürzt KI-Star - MarketScreener Deutschland",
+   "zusammenfassung": "MORNING BID EUROPA - Skandal stürzt KI-Star MarketScreener Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWnNETFpaaWpYdms1UHJldGRDNnRfRUs0ejVFdE5iaXZtWWc1d2E5aDBtSXEzSjNad3dxMHg1WUxfcTVhMmNvOVgxWHBGUXMyb3RSMTNHQWgzb294MFNseDluZnBNWWlZZEUyYl9UYmVSc05DVy1FNThjTkZkX29RUUFRVmh5eHpxbVBjc3lxU0Q0ZF9mWmpPWmF6WGFlSU41d2JiZVVGam5JaHFF?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Freitag: Störungen bei Microsoft-Diensten, Ukraine-Abwehr von Starlink gebremst",
+   "zusammenfassung": "Serverausfälle bei Outlook & Co + Vorwürfe der Ukraine wegen Starlink + Nvidia-Ermittlungen & Jensen-Affären + Angriffe auf Webhoster + Datenschutz-Geschichte",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Freitag-Stoerungen-bei-Microsoft-Diensten-Ukraine-Abwehr-von-Starlink-gebremst-11523646.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Anthropic verschärft Regeln: Warum Claude jetzt Games blockiert (",
+   "zusammenfassung": "Anthropic will verhindern, dass sich sein KI-Modell Claude weiter zum Nachbau von existierenden Games heranziehen lässt. Eine entsprechende Änderung im Systemprompt sorgt aber offenbar auch bei legitimen Projekten für Probleme.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/anthropic-claude-update-game-blockade-entwickler-frust-1771064"
+    }
+   ]
+  },
+  {
+   "titel": "Berichte über kartellrechtliche Prüfung Nvidias und weitere Affäre des Ex-Chefs",
+   "zusammenfassung": "Ermittlungen des US-Justizministeriums könnten die KI-Branche belasten. Es gab wohl noch eine Liaison des zurückgetretenen Nvidia-CEOs mit einer Mitarbeiterin.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Berichte-ueber-kartellrechtliche-Pruefung-Nvidias-und-weitere-Affaere-des-Ex-Chefs-11523636.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+   "zusammenfassung": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html"
+    }
+   ]
+  }
+ ],
+ "eu": [
+  {
+   "titel": "Beyond a moratorium: Introducing the Limits to AI Act - Countercurrents",
+   "zusammenfassung": "Beyond a moratorium: Introducing the Limits to AI Act Countercurrents",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYzBRamc1Und5emI2WGtPcmpvVU5ac2xReDBSRGZzVGQzNllqdll6dlp1VnktenhxWW1RSWNaNzFGZTJsczJCejBCd29xS3NwYy1LWUpUaTg4bEhwZU5udTlmQkxvSV9FSG94U3VRa3BOSGgzUHlqbU9XbzZhcVJuRk9fbW1BdGVDRF9rVHNBdFNlb2M?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Artex-Warnung: CERT-EU meldet KI-Angriffe auf mehr als 200 Organisationen - ad-hoc-news.de",
+   "zusammenfassung": "Artex-Warnung: CERT-EU meldet KI-Angriffe auf mehr als 200 Organisationen ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSDVaTWw4ZHAzcnRZelpHOUszSEZFS1QxbHBNSktiNUVNQ3h1bU5HMEZiYzNIaWtYVTkyU3o0eDQ0MlR4VEFZLU9yQ3lOWXBoZkNyZ1piWk9uUGZLZ3ItZVhhSmhoZ3BCQUtPNkZ0YURsVUxOMDBkZDZVNi1WRURZcWdybmhoaTZxLTdaNG40TWszbzVUSWdTdUpKWXlQRHRrWjRsLU9Qb2FBbWlpNDJOa1Z5NzlZb2xpRERoZ0dB?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Agenda of the informal meeting of EU Heads of State or Government, 13 November 2026 - INSIGHT EU MONITORING",
+   "zusammenfassung": "Agenda of the informal meeting of EU Heads of State or Government, 13 November 2026 INSIGHT EU MONITORING",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZEFhOXltUC1HSkd5dlhYbW1SSVdWOW5ES2lRUlh1VURYOEVqckpQdDE0MUpMQ2lnRktkMDRkbXNRWlpvOU14TlNYRG1IempUcDZtMXEyTG81QWpRTmRHeGRjVmJUVElCcTJucV92MXg0U1pBXzd3bGJibk9UREdWSDI5WnJWQnpXdF9zRThIQ1lVLWxTOWt6TWhaX0xMYm1NOUZz?oc=5"
+    }
+   ]
+  }
+ ],
+ "welt": [
+  {
+   "titel": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+   "zusammenfassung": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that […]",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+    }
+   ]
+  },
+  {
+   "titel": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "zusammenfassung": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+    }
+   ]
+  }
+ ],
+ "datum": "2026-11-13",
+ "erstellt": "2026-11-13T06:42+01:00",
+ "modus": "einfach",
+ "anzahl_meldungen": 100,
+ "feeds": {
+  "The Decoder": "10 Meldungen",
+  "heise online": "27 Meldungen",
+  "t3n": "10 Meldungen",
+  "Golem": "8 Meldungen",
+  "netzpolitik.org": "0 Meldungen",
+  "tagesschau": "6 Meldungen",
+  "Google News (KI Deutschland)": "34 Meldungen",
+  "Google News (EU KI-Politik)": "14 Meldungen",
+  "Google News (Europe AI)": "16 Meldungen",
+  "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
+  "Sifted": "4 Meldungen",
+  "TechCrunch AI": "20 Meldungen",
+  "The Verge AI": "10 Meldungen",
+  "MIT Technology Review": "1 Meldungen",
+  "Ars Technica AI": "6 Meldungen"
+ }
+}

@@ -1,210 +1,150 @@
 {
- "lage": "Guten Tag! Heute beherrscht die Führungskrise bei Nvidia die Schlagzeilen. Aus Deutschland kommen eine europäische Militär-KI-Plattform von Helsing und ein DAX-Rekord nach dem KI-Crash der Vorwoche, aus Brüssel neue Pflichten des AI Act ab Dezember.",
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
  "deutschland": [
   {
-   "titel": "Helsing stellt KI-Plattform Clarity als europäische Alternative zu Palantir vor",
-   "zusammenfassung": "Das Rüstungs-Start-up Helsing hat mit Clarity eine KI-Plattform vorgestellt, die Sensordaten per Agenten zu Zielvorschlägen für Waffensysteme verdichtet. Sie soll große Datenmengen parallel verarbeiten, unter menschlicher Aufsicht arbeiten; Modelle und Agenten wurden laut Helsing in Europa entwickelt.",
-   "warum_wichtig": "Europäische Streitkräfte bekämen damit eine Option, die nicht von US-Anbietern wie Palantir abhängt.",
-   "kategorie": "Sicherheit",
-   "quellen": [
-    {
-     "name": "Golem",
-     "url": "https://www.golem.de/news/militaerische-ki-plattform-helsing-stellt-europaeische-alternative-zu-palantir-vor-2611-215099.html"
-    },
-    {
-     "name": "The Decoder",
-     "url": "https://the-decoder.de/helsings-neue-ki-plattform-clarity-soll-europas-antwort-auf-palantirs-maven-werden/"
-    }
-   ]
-  },
-  {
-   "titel": "DAX springt nach KI-Crash der Vorwoche auf Rekordhoch",
-   "zusammenfassung": "Nach dem KI-bedingten Kurseinbruch der vergangenen Woche ist der DAX zum Handelsstart auf ein Rekordhoch gesprungen und erreichte zeitweise 27.000 Punkte. Zuvor hatten optimistische Prognosen der Wirtschaftsweisen den Index nahe an den Rekord gebracht, während die KI-Sorgen in den Hintergrund traten.",
-   "warum_wichtig": "Für Anleger zeigt sich, wie stark die Stimmung an den Märkten derzeit an den Erwartungen zur KI hängt.",
-   "kategorie": "Wirtschaft & Startups",
-   "quellen": [
-    {
-     "name": "tagesschau",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html"
-    },
-    {
-     "name": "tagesschau",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html"
-    }
-   ]
-  },
-  {
-   "titel": "Mehr KI-Rechenleistung in Deutschland: Polarise und Telekom bauen aus",
-   "zusammenfassung": "Der Anbieter Polarise plant bis Ende 2028 rund 150 Megawatt neue KI-Kapazität in Deutschland und wurde vom KI Bundesverband als „Hidden Champion“ ausgezeichnet. Die Münchner KI-Fabrik der Deutschen Telekom erhält zudem Nvidia-Blackwell-Chips.",
-   "warum_wichtig": "Mehr Rechenzentren im Inland erleichtern es Unternehmen, KI auf Infrastruktur unter europäischem Recht zu betreiben.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "MORNING BID EUROPA - Skandal stürzt KI-Star - MarketScreener Deutschland",
+   "zusammenfassung": "MORNING BID EUROPA - Skandal stürzt KI-Star MarketScreener Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPMk1zTXFCdGFES3EyemRlVHhEb2NZZDUyOHNnY3RZTE9VQ3hRWkpma2ZzNUNmdEs5emRaM1J1RGFxWlp3eGVucE9vS0tTOWo3dlNFQWVYX2NoR0QzcnpBX2U0VW9Lb2wwUjlrcGJybDdDYWJGS0YwRER2MWJwTWo3SVRUZndtX1ZyM1dnUUFNdzcyX3hJMTlFWno3YkszMDNKWnh4Sm5QMHZnVGtWRkM4RFJsMWk2U096UXc3dVpsQkx5RzFQT3QwRVR1SGQ5ZVBBdDdrQWVhNVlMbm1NQ1JIZzY1alF0VnZuendXMVlpTFlLYjc2YTdBOVVCS3Z4LTZJazBmRk9sRC1CeVBzVTVBQkhWLTJ1TGpXRlE4UHdYZVE0cHRHdW9QWmlhYW9qOTJBUXpVNzgtUUdubk4wYlVYNDlXTGFDSzg?oc=5"
-    },
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN2NFaVdveHpWa09SQklBbTNUcWk1elJYcWZDRWlCSHNBTWlab2FMT0dEckRFWmJjcmlnUktRZXFoYXdqM0ZkbE5oekFRVFJSZUtKVzBMT09Bb0RlYjQ5RVhIN3JCRUVza3IzdWRsY3N5Vk5TbWw2Y0FhcnJxMVNTSFBhaGRvNURQanVnY2gzM2U4N1BUaks5Vnl0SFQxSktoaGc?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWnNETFpaaWpYdms1UHJldGRDNnRfRUs0ejVFdE5iaXZtWWc1d2E5aDBtSXEzSjNad3dxMHg1WUxfcTVhMmNvOVgxWHBGUXMyb3RSMTNHQWgzb294MFNseDluZnBNWWlZZEUyYl9UYmVSc05DVy1FNThjTkZkX29RUUFRVmh5eHpxbVBjc3lxU0Q0ZF9mWmpPWmF6WGFlSU41d2JiZVVGam5JaHFF?oc=5"
     }
    ]
   },
   {
-   "titel": "Studie: Nur elf Prozent der Organisationen führen KI wie geplant ein",
-   "zusammenfassung": "Laut einer Erhebung schafft KI in deutschen Organisationen zwar Mehrwert, doch nur elf Prozent rollen sie so aus, wie sie es geplant hatten.",
-   "warum_wichtig": "Viele Unternehmen in Deutschland bleiben bei der KI-Einführung hinter den eigenen Zielen zurück.",
-   "kategorie": "Wirtschaft & Startups",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMTQ1YzI3d3VtZ2doLUxjZl9XeWlmZGNGUG5fNzQtR0k1YkYtQzJFT2Z5OTFVVG92ZTVGZjkyNGZRTnl2MHkxaks3RzZhMHZfb051QjIwTDhZZkpjNzVnbGxWRWgyQVgzeUxBV09hMFo2dVZVSl9mSU4xdnZ0Y0I3SUVDVjlQd19EUE1zVFhNWTRid1d0aGZSdzFHck9jNDc3ZHFpOHVzblpRQlBvUXRPM1E0enZkdEVlRlFra3dkRmdOSXA4Qzg0X3QteXJfSm1hejFoZUpGQ3ctOU1PMGc1VjZKWW9PWWxpQ1RfamRGdHdQOERFQ0dkQkZVZVVXNUtkcGpwMTRod1JtLWZKejZ5dS0zRQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "BKA-Herbsttagung: Neue Bedrohungen durch KI im Fokus",
-   "zusammenfassung": "Auf der Herbsttagung des Bundeskriminalamts diskutieren Praktiker und Politiker über neue Bedrohungen durch KI. Dabei geht es auch um den sogenannten Q-Day und um alte Forderungen nach Hackbacks.",
-   "warum_wichtig": "Die Debatte prägt, mit welchen Befugnissen deutsche Sicherheitsbehörden künftig auf KI-gestützte Angriffe reagieren.",
-   "kategorie": "Sicherheit",
+   "titel": "Freitag: Störungen bei Microsoft-Diensten, Ukraine-Abwehr von Starlink gebremst",
+   "zusammenfassung": "Serverausfälle bei Outlook & Co + Vorwürfe der Ukraine wegen Starlink + Nvidia-Ermittlungen & Jensen-Affären + Angriffe auf Webhoster + Datenschutz-Geschichte",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "heise online",
-     "url": "https://www.heise.de/news/BKA-Herbsttagung-Zwischen-Q-Day-und-Rueckschlaegen-11521539.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+     "url": "https://www.heise.de/news/Freitag-Stoerungen-bei-Microsoft-Diensten-Ukraine-Abwehr-von-Starlink-gebremst-11523646.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Anthropic verschärft Regeln: Warum Claude jetzt Games blockiert (",
+   "zusammenfassung": "Anthropic will verhindern, dass sich sein KI-Modell Claude weiter zum Nachbau von existierenden Games heranziehen lässt. Eine entsprechende Änderung im Systemprompt sorgt aber offenbar auch bei legitimen Projekten für Probleme.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/anthropic-claude-update-game-blockade-entwickler-frust-1771064"
+    }
+   ]
+  },
+  {
+   "titel": "Berichte über kartellrechtliche Prüfung Nvidias und weitere Affäre des Ex-Chefs",
+   "zusammenfassung": "Ermittlungen des US-Justizministeriums könnten die KI-Branche belasten. Es gab wohl noch eine Liaison des zurückgetretenen Nvidia-CEOs mit einer Mitarbeiterin.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Berichte-ueber-kartellrechtliche-Pruefung-Nvidias-und-weitere-Affaere-des-Ex-Chefs-11523636.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+   "zusammenfassung": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "AI Act: Ab Dezember gelten Kennzeichnungspflicht und zwei neue Verbote",
-   "zusammenfassung": "Ab dem 2. Dezember 2026 müssen KI-generierte Inhalte gekennzeichnet werden, auch bei älteren Systemen; zudem greifen zwei neue Verbote. Bereits ab 1. Dezember gelten Regeln für KI-Reallabore, wobei Tests dort keine Konformität bescheinigen und die Haftung bestehen bleibt.",
-   "warum_wichtig": "Unternehmen in der EU, die KI-Inhalte erzeugen oder anbieten, müssen ihre Systeme in wenigen Wochen anpassen.",
-   "kategorie": "Politik & Regulierung",
+   "titel": "Beyond a moratorium: Introducing the Limits to AI Act - Countercurrents",
+   "zusammenfassung": "Beyond a moratorium: Introducing the Limits to AI Act Countercurrents",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYzBRamc1Und5emI2WGtPcmpvVU5ac2xReDBSRGZzVGQzNllqdll6dlp1VnktenhxWW1RSWNaNzFGZTJsczJCejBCd29xS3NwYy1LWUpUaTg4bEhwZU5udTlmQkxvSV9FSG94U3VRa3BOSGgzUHlqbU9XbzZhcVJuRk9fbW1BdGVDRF9rVHNBdFNlb2M?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Artex-Warnung: CERT-EU meldet KI-Angriffe auf mehr als 200 Organisationen - ad-hoc-news.de",
+   "zusammenfassung": "Artex-Warnung: CERT-EU meldet KI-Angriffe auf mehr als 200 Organisationen ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYTdCZjE0blFhNUVGMGxYSFMyeUtYLWpPeFlZdkhFdS1KUnRvallKRnN1NFAzY0VUN0RNSGxIRE1EcnRLNW9HX1dXZG5jc0ZrWjFnOUZndC1wQU1hYU5tdHd2OVU1dmp5aWN3R2lfWWJhTnNvQW1RWGM0WmtDYXRFa2dCQ1R4SjdVS3RNaGZJZG9fOXJFVFdDRnZBTG5NQ0d6bzRpM1cwSnc?oc=5"
-    },
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aSVdSVS1RWlJUdUw3WWhwaklSODFYVWltNExhSVgxeFhoUkJNbTB6eEVlcFN1ckg0ZFlXbXRQS3NBVHFGZmhlNjRaM0xzUEFBZHpFU0FVTmt4NWZNd3BpblNuZEhfOTcyeGxwbG82ZWtfc2huT0RPV2l2Nmc?oc=5"
-    },
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPakFUX3NYM0FMbHRDRFhPWFBkbDJ2cVMwNndKQTZnSWhkQUk0OVpGdDQ2SGFydEo5SENObjRMQ2lQbmREWHN1UTM5LUtMbVlwQ0hJelNpOXNKbUZ4UkxteFVXSTJxTlNORkxVTWFtd0R6NFFnbnRoT0Fqc1EtSXA0cnpsMFVpVEdJN0FmZVFTakdvVDE2MjBtaG1XcDZyRmVxMW8tbTZpWWJiS194U1NsWG5JT1Y0aDFSZllqOTEwNWRUVXJwUWlmWUVxOXRoM21Xb0tJSlNWZGM3OTlHV3NEWk1rMEw0dEdW?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSDVaTWw4ZHAzcnRZelpHOUszSEZFS1QxbHBNSktiNUVNQ3h1bU5HMEZiYzNIaWtYVTkyU3o0eDQ0MlR4VEFZLU9yQ3lOWXBoZkNyZ1piWk9uUGZLZ3ItZVhhSmhoZ3BCQUtPNkZ0YURsVUxOMDBkZDZVNi1WRURZcWdybmhoaTZxLTdaNG40TWszbzVUSWdTdUpKWXlQRHRrWjRsLU9Qb2FBbWlpNDJOa1Z5NzlZb2xpRERoZ0dB?oc=5"
     }
    ]
   },
   {
-   "titel": "Investitionen in europäische KI-Chips fast vervierfacht",
-   "zusammenfassung": "Die Finanzierung europäischer Chip-Start-ups hat sich fast vervierfacht, da Investoren auf Herausforderer von Nvidia bei der KI-Inferenz setzen. Das britische Start-up Fractile sammelte allein 720 Millionen Dollar ein und gehört damit zu den bestfinanzierten Anbietern spezialisierter KI-Chips.",
-   "warum_wichtig": "Eigene Chip-Entwickler könnten Europas Abhängigkeit von US-Herstellern bei KI-Hardware verringern.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Agenda of the informal meeting of EU Heads of State or Government, 13 November 2026 - INSIGHT EU MONITORING",
+   "zusammenfassung": "Agenda of the informal meeting of EU Heads of State or Government, 13 November 2026 INSIGHT EU MONITORING",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "Sifted",
-     "url": "https://sifted.eu/articles/european-chips-funding-almost-quadruples-as-investors-back-nvidias-inference-challengers/"
-    },
-    {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
-    }
-   ]
-  },
-  {
-   "titel": "Frankreich richtet Zentrum für Verteidigungs-KI ein",
-   "zusammenfassung": "Das französische Verteidigungsministerium richtet ein eigenes Zentrum für verteidigungsbezogene KI ein.",
-   "warum_wichtig": "Neben Helsing treibt damit auch der Staat Frankreich militärische KI in Europa voran.",
-   "kategorie": "Sicherheit",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWFh2b1dnSy1PeTRfQ1pUX2E1alpyRkswUGk3SXNEQVJtZjcxVVJEWFR3UWU4RDZHYzNiSWM3dUFzN2NnVXNlZndYZDdNTkEyeDEtbGREZlJRUVlHN2U3aFUwX3hWajNlcGRaaU13WklWaFBoZDRTM2xkZWRVRV9RdG9ONzZ1cnlBZEF1cDhjbkxFb3NFUkh2TGdlVENoUXlwZHFsNVJkMTJNNF9lQXFmM3g5Y1FabHVGb1JBMjFrNEdZOTRmYmtCZkh0Y0VCU1lhRnpKa25zbmxPbDhpaDhiaDQtZk1NUE1fVGpZ?oc=5"
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZEFhOXltUC1HSkd5dlhYbW1SSVdWOW5ES2lRUlh1VURYOEVqckpQdDE0MUpMQ2lnRktkMDRkbXNRWlpvOU14TlNYRG1IempUcDZtMXEyTG81QWpRTmRHeGRjVmJUVElCcTJucV92MXg0U1pBXzd3bGJibk9UREdWSDI5WnJWQnpXdF9zRThIQ1lVLWxTOWt6TWhaX0xMYm1NOUZz?oc=5"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "Nvidia-Chef Jensen Huang droht wegen Affären die Absetzung",
-   "zusammenfassung": "Nach Berichten über eine zweite Affäre, diesmal mit einer Nvidia-Managerin, berät der Verwaltungsrat über die Abberufung von Jensen Huang; zuvor hatte er eine Affäre mit einer mutmaßlichen chinesischen Spionin eingeräumt. Die Aktie gab nach, als mögliche Nachfolger gelten Ian Buck und Finanzchefin Colette Kress, und US-Abgeordnete fordern ein vertrauliches Briefing.",
-   "warum_wichtig": "Nvidia liefert die meisten KI-Chips weltweit, eine Führungskrise dort betrifft auch europäische Rechenzentren und Anleger.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+   "zusammenfassung": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that […]",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "The Verge AI",
-     "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
-    },
-    {
-     "name": "tagesschau",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-beratung-chefwechsel-kursrueckgang-100.html"
-    },
-    {
-     "name": "Golem",
-     "url": "https://www.golem.de/news/nachfolge-debatte-zwei-manager-koennten-jensen-huang-als-nvidia-chef-abloesen-2611-215117.html"
-    },
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/Jensen-Huang-nach-weiterer-Affaere-mit-Mitarbeiterin-wohl-vor-dem-Aus-bei-Nvidia-11521625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-     "name": "Golem",
-     "url": "https://www.golem.de/news/zweite-affaere-nvidia-erwaegt-offenbar-jensen-huangs-absetzung-2611-215113.html"
-    },
-    {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
-    },
-    {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
-    },
-    {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
     }
    ]
   },
   {
-   "titel": "Googles AlphaGenome 2 sagt Genwirkung je Zelltyp voraus",
-   "zusammenfassung": "Google DeepMind hat AlphaGenome 2 vorgestellt, ein KI-Modell, das vorhersagt, wie genetische Varianten in einzelnen Zelltypen wirken. Trainiert wurde es mit über 107 Millionen Zellprofilen; das könnte die Suche nach Krankheitsursachen erleichtern.",
-   "warum_wichtig": "Auch europäische Forschung und Medizin könnten von genaueren Werkzeugen zur Analyse von Erbkrankheiten profitieren.",
-   "kategorie": "Forschung",
+   "titel": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "zusammenfassung": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "The Decoder",
-     "url": "https://the-decoder.de/googles-alphagenome-2-soll-zeigen-wie-jede-koerperzelle-ihre-dna-liest/"
-    },
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/AlphaGenome-2-Googles-KI-beruecksichtigt-Zellzustaende-bei-DNA-Prognosen-11522049.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
     }
    ]
   }
  ],
- "datum": "2026-11-12",
- "erstellt": "2026-11-12T13:42+01:00",
- "modus": "ki",
+ "datum": "2026-11-13",
+ "erstellt": "2026-11-13T06:42+01:00",
+ "modus": "einfach",
  "anzahl_meldungen": 100,
  "feeds": {
   "The Decoder": "10 Meldungen",
-  "heise online": "34 Meldungen",
+  "heise online": "27 Meldungen",
   "t3n": "10 Meldungen",
-  "Golem": "10 Meldungen",
-  "netzpolitik.org": "HTTPError: HTTP Error 500: Internal Server Error",
-  "tagesschau": "3 Meldungen",
-  "Google News (KI Deutschland)": "46 Meldungen",
-  "Google News (EU KI-Politik)": "15 Meldungen",
-  "Google News (Europe AI)": "17 Meldungen",
+  "Golem": "8 Meldungen",
+  "netzpolitik.org": "0 Meldungen",
+  "tagesschau": "6 Meldungen",
+  "Google News (KI Deutschland)": "34 Meldungen",
+  "Google News (EU KI-Politik)": "14 Meldungen",
+  "Google News (Europe AI)": "16 Meldungen",
   "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
-  "Sifted": "8 Meldungen",
-  "TechCrunch AI": "15 Meldungen",
-  "The Verge AI": "5 Meldungen",
-  "MIT Technology Review": "0 Meldungen",
-  "Ars Technica AI": "3 Meldungen"
+  "Sifted": "4 Meldungen",
+  "TechCrunch AI": "20 Meldungen",
+  "The Verge AI": "10 Meldungen",
+  "MIT Technology Review": "1 Meldungen",
+  "Ars Technica AI": "6 Meldungen"
  }
 }
