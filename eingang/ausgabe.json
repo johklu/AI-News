@@ -1,0 +1,50 @@
+{
+  "stand": "2026-11-14T05:42:23+00:00",
+  "lage": "Guten Morgen und schönes Wochenende! Der Bundestag hat eine umstrittene Geheimdienstreform mit KI-Überwachung beschlossen, und ein Münchner Roboterbauer sammelt eine halbe Milliarde ein. In Europa trafen sich die Staats- und Regierungschefs zum ersten EU-KI-Gipfel.",
+  "deutschland": [
+    {"titel": "Bundestag beschließt Geheimdienstreform mit KI-Überwachung",
+     "zusammenfassung": "Trotz Warnungen vor Grundrechtsverstößen hat der Bundestag die Reform der Nachrichtendienste beschlossen. BND und Verfassungsschutz erhalten weitreichende Befugnisse, darunter Wohnungseinbrüche, KI-Überwachung und Datenmanipulation; zudem dürfen sie aktiv eingreifen, etwa Cyberangriffe blockieren oder Server feindlicher Hacker angreifen.",
+     "warum_wichtig": "Die Reform verschiebt die Grenze zwischen Sicherheit und Grundrechten in Deutschland, auch durch den Einsatz von KI.",
+     "kategorie": "Politik & Regulierung", "quellen": [39, 63]},
+    {"titel": "Münchner Roboterbauer Agile Robots erhält 500 Millionen Dollar",
+     "zusammenfassung": "Nvidia und Softbank investieren in Agile Robots aus München, das humanoide Roboter entwickelt. Nach der Finanzierungsrunde wird das Unternehmen mit 8,5 Milliarden US-Dollar bewertet.",
+     "warum_wichtig": "Deutschland gewinnt damit Gewicht im Rennen um KI-gesteuerte Robotik, einem Kernfeld für die Industrie.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [87]},
+    {"titel": "Bundeshaushalt: KI-Ausgaben des Bundes sind kaum nachvollziehbar",
+     "zusammenfassung": "Laut netzpolitik.org sind die Ausgaben für Künstliche Intelligenz im Bundeshaushalt intransparent. Ähnlich unklar sei die KI-Strategie von Digitalminister Wildberger.",
+     "warum_wichtig": "Ohne klare Zahlen lässt sich kaum prüfen, ob die KI-Pläne der Bundesregierung tatsächlich finanziert werden.",
+     "kategorie": "Politik & Regulierung", "quellen": [80]},
+    {"titel": "Rowohlt stoppt deutsche Ausgabe eines Romans wegen KI-Verdachts",
+     "zusammenfassung": "Der Rowohlt-Verlag hat die deutsche Übersetzung eines Romans von Orélien gestrichen, weil das Buch mutmaßlich mit KI geschrieben wurde.",
+     "warum_wichtig": "Verlage in Deutschland ziehen erste klare Grenzen für KI-generierte Literatur.",
+     "kategorie": "Gesellschaft", "quellen": [40, 42, 62]},
+    {"titel": "Erneuter Angriff auf Hoster Mittwald, diesmal über MCP-Server",
+     "zusammenfassung": "Zum zweiten Mal innerhalb einer Woche wurde der Webhoster Mittwald angegriffen, diesmal über MCP-Server, die KI-Systeme mit Werkzeugen verbinden. Mittwald hat Kundencenter und das Control-Panel mStudio erneut abgeschaltet.",
+     "warum_wichtig": "Schnittstellen für KI-Agenten werden zum Einfallstor, auch für Dienstleister vieler deutscher Websites.",
+     "kategorie": "Sicherheit", "quellen": [83]}
+  ],
+  "eu": [
+    {"titel": "Erster EU-KI-Gipfel: Staats- und Regierungschefs beraten über Rückstand",
+     "zusammenfassung": "Die Staats- und Regierungschefs der EU sind in Dublin zu ihrem ersten KI-Gipfel zusammengekommen, um über die technologische Lücke und Finanzierungsstreitigkeiten zu beraten. Geoffrey Hinton bezifferte dort das existenzielle Risiko durch KI auf 10 bis 20 Prozent, Irlands Premier mahnte, KI solle der Menschheit nutzen.",
+     "warum_wichtig": "Die Beschlüsse prägen, wie viel Geld und Aufmerksamkeit die EU künftig in eigene KI-Fähigkeiten steckt.",
+     "kategorie": "Politik & Regulierung", "quellen": [92, 34, 13]},
+    {"titel": "AI Act: Leitlinien zur Kennzeichnung und Strafen bis 15 Millionen Euro",
+     "zusammenfassung": "Neue Leitlinien zu Artikel 50 des AI Act präzisieren, wie KI-Inhalte gekennzeichnet werden müssen. Zudem kann die EU-Kommission KI-Anbieter mit Bußgeldern von bis zu 15 Millionen Euro belegen.",
+     "warum_wichtig": "Unternehmen, die KI-Inhalte erzeugen, wissen nun genauer, was ab Dezember von ihnen verlangt wird und was bei Verstößen droht.",
+     "kategorie": "Politik & Regulierung", "quellen": [1, 7]},
+    {"titel": "Chatbots fluten EU-Parlament und Kommission mit Anträgen",
+     "zusammenfassung": "Generative KI sorgt in Brüssel und Straßburg für eine Flut an Änderungsanträgen und Anfragen. Beamte und Abgeordnete warnen vor Risiken für die Demokratie.",
+     "warum_wichtig": "Die Arbeitsfähigkeit der EU-Gesetzgebung, die auch Deutschland betrifft, gerät durch KI-Massentexte unter Druck.",
+     "kategorie": "Gesellschaft", "quellen": [29]}
+  ],
+  "welt": [
+    {"titel": "Nvidia-Affäre weitet sich aus: Verbotene Chips in chinesischen KI-Modellen",
+     "zusammenfassung": "Ein Ex-OpenAI-Forscher will nachgewiesen haben, dass DeepSeek, Moonshot AI, MiniMax und Ant Group trotz US-Exportkontrollen Nvidias Blackwell-Chips nutzen. Ein Senatsausschuss lädt den zurückgetretenen Nvidia-Chef Huang und Handelsminister Lutnick vor; laut Wall Street Journal waren eher riskante Geschäftspraktiken als die Affären der Hauptgrund für Huangs Rücktritt.",
+     "warum_wichtig": "Strengere US-Exportregeln als Folge könnten auch die Chipversorgung europäischer Rechenzentren treffen.",
+     "kategorie": "Politik & Regulierung", "quellen": [48, 25, 95, 23, 17]},
+    {"titel": "OpenAI startet ChatGPT Wallet: KI-Agenten kaufen selbst ein",
+     "zusammenfassung": "Mit ChatGPT Wallet können die Dots-Agenten von OpenAI Einkäufe für Nutzer erledigen und bezahlen. Der Start ist zunächst auf erwachsene Pro-Abonnenten in den USA beschränkt.",
+     "warum_wichtig": "Händler in Europa müssen sich darauf einstellen, dass KI-Agenten zunehmend für Kunden einkaufen.",
+     "kategorie": "Produkte & Modelle", "quellen": [35, 12, 31]}
+  ]
+}
