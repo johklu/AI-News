@@ -1,134 +1,182 @@
 {
- "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "lage": "Guten Morgen und schönes Wochenende! Der Bundestag hat eine umstrittene Geheimdienstreform mit KI-Überwachung beschlossen, und ein Münchner Roboterbauer sammelt eine halbe Milliarde ein. In Europa trafen sich die Staats- und Regierungschefs zum ersten EU-KI-Gipfel.",
  "deutschland": [
   {
-   "titel": "Blende zu, KI an – wohin entwickelt sich die Smartphone-Fotografie? | c’t uplink",
-   "zusammenfassung": "Ob variable Blende, Telekonverter oder KI: Smartphone-Kameras rüsten sowohl bei Hard- als auch Software auf. Doch was bringt die Fotografie wirklich voran?",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Bundestag beschließt Geheimdienstreform mit KI-Überwachung",
+   "zusammenfassung": "Trotz Warnungen vor Grundrechtsverstößen hat der Bundestag die Reform der Nachrichtendienste beschlossen. BND und Verfassungsschutz erhalten weitreichende Befugnisse, darunter Wohnungseinbrüche, KI-Überwachung und Datenmanipulation; zudem dürfen sie aktiv eingreifen, etwa Cyberangriffe blockieren oder Server feindlicher Hacker angreifen.",
+   "warum_wichtig": "Die Reform verschiebt die Grenze zwischen Sicherheit und Grundrechten in Deutschland, auch durch den Einsatz von KI.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
      "name": "heise online",
-     "url": "https://www.heise.de/news/Blende-zu-KI-an-wohin-entwickelt-sich-die-Smartphone-Fotografie-c-t-uplink-11524072.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+     "url": "https://www.heise.de/news/Lizenz-zum-Einbruch-Bundestag-winkt-umkaempfte-Geheimdienstreform-durch-11524886.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/nachrichtendienst-reform-bnd-verfassungsschutz-1773454"
     }
    ]
   },
   {
-   "titel": "Nvidia-Fall wirft Schlaglicht auf den KI-Boom in Südostasien - MarketScreener Deutschland",
-   "zusammenfassung": "Nvidia-Fall wirft Schlaglicht auf den KI-Boom in Südostasien MarketScreener Deutschland",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Münchner Roboterbauer Agile Robots erhält 500 Millionen Dollar",
+   "zusammenfassung": "Nvidia und Softbank investieren in Agile Robots aus München, das humanoide Roboter entwickelt. Nach der Finanzierungsrunde wird das Unternehmen mit 8,5 Milliarden US-Dollar bewertet.",
+   "warum_wichtig": "Deutschland gewinnt damit Gewicht im Rennen um KI-gesteuerte Robotik, einem Kernfeld für die Industrie.",
+   "kategorie": "Wirtschaft & Startups",
+   "quellen": [
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/finanzierungsrunde-agile-robots-aus-muenchen-mit-8-5-milliarden-us-dollar-bewertet-2611-215167.html"
+    }
+   ]
+  },
+  {
+   "titel": "Bundeshaushalt: KI-Ausgaben des Bundes sind kaum nachvollziehbar",
+   "zusammenfassung": "Laut netzpolitik.org sind die Ausgaben für Künstliche Intelligenz im Bundeshaushalt intransparent. Ähnlich unklar sei die KI-Strategie von Digitalminister Wildberger.",
+   "warum_wichtig": "Ohne klare Zahlen lässt sich kaum prüfen, ob die KI-Pläne der Bundesregierung tatsächlich finanziert werden.",
+   "kategorie": "Politik & Regulierung",
+   "quellen": [
+    {
+     "name": "netzpolitik.org",
+     "url": "https://netzpolitik.org/2026/bundeshaushalt-bund-verschleiert-ki-ausgaben/"
+    }
+   ]
+  },
+  {
+   "titel": "Rowohlt stoppt deutsche Ausgabe eines Romans wegen KI-Verdachts",
+   "zusammenfassung": "Der Rowohlt-Verlag hat die deutsche Übersetzung eines Romans von Orélien gestrichen, weil das Buch mutmaßlich mit KI geschrieben wurde.",
+   "warum_wichtig": "Verlage in Deutschland ziehen erste klare Grenzen für KI-generierte Literatur.",
+   "kategorie": "Gesellschaft",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0Q1U201TkdRd1pVR3lEYTliMjlxVVdFUFFWa3U1SzNDUG5mbGZqSC1KbkFTdnVKNE5STFhnNGRuaXgtcnpoVXNDTVFhd01LQVdSSlU4MFFHMTBzekFSSmRwWjlSTEFhZ1JUc01RSFNDcjF0Tmk0WDdfVng1eGxWWGxBY0tmNTRzaWpBaUF5VGN1Y1c3VENqQ0hKYjQ0eHhKMDlDS2pIMHVSLTJUU0pLTk5WT2lnOUZ3MUdxRzVIN1lNOHJ3SlE?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "KI: Robotik-Boom stellt Deutschlands Industrie vor eine Schicksalsfrage - WELT",
-   "zusammenfassung": "KI: Robotik-Boom stellt Deutschlands Industrie vor eine Schicksalsfrage WELT",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnFnZk41ZUd3SkN4cG1BalhfUGJlSzlIeGY2b09LUFpxci03RmloRkM4bHpMWmJaa1M1dUFDQ05xbVVJYlU2ZmxMVTM2aENiMEZXZGoyRHRFNVZub3lZVVhKUXcxYl9MZ2pORUU2Um9QMWhPTEVLdGN0MU1nd1pZbngyX1VjRGluZjFjNXZYOFBRcC1VQ0tFSUJqUC1uWnIxYkVTR1hncEpVcEU?oc=5"
+    },
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV3poUVU5MThoOFZxSDBIbUU0cDhmaGRZaENBRFBNRl9JaWYzeE5kaFl3ZDNmV2VWdXZxZTBTLWYzRk9tQkdGZllnd3pZOUFXTU5kSENLY05JN2wtOWRSeFdRUXJwMndkalRnYWNGcTZlbjlFLUw2X1dySmsyVnQyMFQtVUt2QmFxcGdodzRrRUpBeEJKR1pDYVlDYkZGcEt1SGV5TlpYNVlfcDduMm4zZF9DUjl3dEZ2aWJCLWd5amExQVQ5a1VLSHRNSm9aUTJO?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Samsung KI-Brillen: Preis, Start und Aktivierung - Netz Trends",
-   "zusammenfassung": "Samsung KI-Brillen: Preis, Start und Aktivierung Netz Trends",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRENGYnFqMk10TjdrLTVYNlJmLUM5RmxEcmIwczdwVzFJS3E1R1ZxaVNscVgtQzRtLW5pZVFBejdiYjFvdWt5S0Fia2VVUl9fTzBhdzljRXlQcVVjdVpsNW1heTV5eXd5NXY3SkxjYXlicDl1bWktZ0E1ODQ0TUxvZnFJSFAzZTFKQ0c4T1NIQTR6bG5ockstZW5mNA?oc=5"
+    },
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXdfYmpzcmI1d215VmxTaEMtMWxORnQ2ZjdVdkU2YUtSS1JSYzdKSXBQdnAzbWVWM0twRmQ0X1Ayb2E5cWJibU1aNEREcHkwNHotdE5NaGF0UERaM1A5Y2ViNE5XYzhjWEJhQjZuTWZPU19nX1B5bWFxOExXT3VBMQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KcGdXQ3JPX0RZTzg5ZXhLMHBxWk1KS0Y2b3VqbUJSaHA5NDExX19yWUxaVmQtUXhtZGRYaHlTV1lNNGk0Zkp5VFN1Mks0aEJZSDJzZHlmR2dzcFZBSEJSd1lfTHd0czVPeFE?oc=5"
     }
    ]
   },
   {
-   "titel": "Nvidia-CEO Jensen Huang: Affären wohl nicht Hauptgrund für seinen Rücktritt",
-   "zusammenfassung": "Laut einem Bericht des Wall Street Journal musste Jensen Huang Nvidia wohl eher wegen riskanter Geschäftspraktiken verlassen als wegen seiner Affären – zumindest machten sie ihm intern Gegner. Das Unternehmen bot unter anderem Cloud-Anbietern milliardenschwere Finanzgarantien für Chipkäufe. Interims-CEO und damalige CFO Colette Kress wollte das Risiko eindämmen. Huang gefiel das gar nicht, und er fürchtete eine \"Lawine\", die auf Nvidia zurollt, ausgelöst durch sinkende Nachfrage bei…",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Erneuter Angriff auf Hoster Mittwald, diesmal über MCP-Server",
+   "zusammenfassung": "Zum zweiten Mal innerhalb einer Woche wurde der Webhoster Mittwald angegriffen, diesmal über MCP-Server, die KI-Systeme mit Werkzeugen verbinden. Mittwald hat Kundencenter und das Control-Panel mStudio erneut abgeschaltet.",
+   "warum_wichtig": "Schnittstellen für KI-Agenten werden zum Einfallstor, auch für Dienstleister vieler deutscher Websites.",
+   "kategorie": "Sicherheit",
    "quellen": [
     {
-     "name": "The Decoder",
-     "url": "https://the-decoder.de/nvidia-ceo-jensen-huang-affaeren-wohl-nicht-hauptgrund-fuer-seinen-ruecktritt/"
+     "name": "Golem",
+     "url": "https://www.golem.de/news/ueber-mcp-server-erneuter-hackerangriff-auf-hoster-mittwald-2611-215173.html"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "EU AI Act, Artikel 50: Neue Leitlinien präzisieren Kennzeichnungspflichten für KI - BornCity",
-   "zusammenfassung": "EU AI Act, Artikel 50: Neue Leitlinien präzisieren Kennzeichnungspflichten für KI BornCity",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Erster EU-KI-Gipfel: Staats- und Regierungschefs beraten über Rückstand",
+   "zusammenfassung": "Die Staats- und Regierungschefs der EU sind in Dublin zu ihrem ersten KI-Gipfel zusammengekommen, um über die technologische Lücke und Finanzierungsstreitigkeiten zu beraten. Geoffrey Hinton bezifferte dort das existenzielle Risiko durch KI auf 10 bis 20 Prozent, Irlands Premier mahnte, KI solle der Menschheit nutzen.",
+   "warum_wichtig": "Die Beschlüsse prägen, wie viel Geld und Aufmerksamkeit die EU künftig in eigene KI-Fähigkeiten steckt.",
+   "kategorie": "Politik & Regulierung",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeW9hTnBpV2Fxd3JUd3B4QVFTb0ItQ0EtTVZQcVh4VklNRDlLeUdRUkF4UHJzZ2hhWUFYQ3RyMUh3a2NzUTh2MXo0Ql9MdmVBY1R6aUJmaFZzVHU0am15LUdkblZKUFBEU1hWOXpCQmd1Vll1ekxsZGhUaHNjeUhZb0RqZldpZlFQbV9pVnoxTEQzZnZaNGFEUXRzWk13OHNwTm9MRnhvZjc5bGhxQ2R6eEFvRkhYNEN0Q3ZHbG1MWDFrVExnUmhLempQbU9lYjjSAcsBQVVfeXFMTlctNnNzMEZjVWM5VHA1blNHMlBBR0pKTm05eWstaXBMVmVITnI4MHRpTFdhZ0pzNjg0ai01c2t4RHJqUndMTlhoNWF4Z1NxdEtDTGhQdk5XbVhpblFtZlJQZUkyaXB3cWpiMllLNF9lcmxRdHYtSW5NOHA3SWt0SWJqdlJvak5wWFJoTVY3c0dHWFAwbk81aHN3TTcwU2FsWnBnclFCU1NjUk5nOGI4ZU4zWXpoeVFZZUdxTFMtNEdVZlJqUlJUeTVVTU0?oc=5"
+    },
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXpsS29FMkpZQUo0YzlEeFFrdERlT2c2S01xV042QmJMZGczLUk2dW54ZDhDU0I1dGw4QVVRTmlUODJ6dXl5SlNTRVl5V29FT0VNTnMzWE1kM1Q1YkNuZXlMYklUS1FudGZrSE1nSFBvdEk2MzVQSVNtSXpfVnVtaGR3MS1NeFJwdm8tOVFWUl9zZlZjVDBrTDhhN2k2YWNMVzZuWUZ2ZnFWQlZXSGNybVBB?oc=5"
+    },
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOHRKeEo3cnllbWRPc2hVOWMwTURXSE5tQ0tJM2JPODhjaXJKV1VmZU1BNjd5S2tVTXU5aUVLb25JUUdMRmpWaGRjUW1ZeU9IdUw5Z3lpd01DQTlTdHVfYzRBendMWWxpc205cUZYNmZSVnFSaUtDTUl3bGhEalhBdjJpeHpnNXZ2YVE5cHZ5czdFZ3BPX2NLNnREcHI5cVdwNjFV?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "AI Act: Leitlinien zur Kennzeichnung und Strafen bis 15 Millionen Euro",
+   "zusammenfassung": "Neue Leitlinien zu Artikel 50 des AI Act präzisieren, wie KI-Inhalte gekennzeichnet werden müssen. Zudem kann die EU-Kommission KI-Anbieter mit Bußgeldern von bis zu 15 Millionen Euro belegen.",
+   "warum_wichtig": "Unternehmen, die KI-Inhalte erzeugen, wissen nun genauer, was ab Dezember von ihnen verlangt wird und was bei Verstößen droht.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
      "name": "Google News (EU KI-Politik)",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaDJUQ3hKMmhSTEQycUZsMnUxWmNWYnV0Z1RPYjdVUXl3X2s0SlExYy1NQjFjbTBfLWNsSjR0bGw2S0llX2lmZm9IdDlqYXhadkdJTVZ3RFVUeHVUblozQVEzRHN5RmFOeTB2VnpGRXo5T1hUY3hnZ095THI4TktXYW56VHY4Z2Jxa3R3S1Brb0lSMTRfeDVrN2hLUWlOUFR0emNVMUY4RFpfem5K?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Microsoft Copilot in der Queues-App: Rollout startet Ende November - ad-hoc-news.de",
-   "zusammenfassung": "Microsoft Copilot in der Queues-App: Rollout startet Ende November ad-hoc-news.de",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
+    },
     {
      "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlFmc0NBUE82QUZCWl9tbHlmVU14dGNWdXRFdlVzWm11eDA2cnRkb2dxdkRVc2w3elRvdThSaE54YUxPWlQzYkd6RUpnVFVXRDhNRldaNnRWM1I2X0hybldoOWx6ZnYzM3JkUlpPaHAxOHU0enhYUmNiMWFKNThvZndDQk02MGlnelVfbW5iMmxjR21XTXVZdjZBSG9XLUdhN3lsUlg5X3BGR2NCTExvcU9PRUs?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2NrbjBsSDlyMzRwbTBvdTNlYkxtNGhfd1gtQnJuQmNlN3dmVDRRYVBCSExVLV9EV05HMG9fZkpIMENqSVlfNHVrT05tWlVOVkN2UW10dHdxb2h1OVpXNlhvWmhaWXRORkU2WnVzbTZwY2F4alA0d1p6Z3BERlpGQ0VDYkJkNDFPT2lIWjhIQThKVFpLWnhqd3NDdVhmT2VfbEVCczBJTWc4Q1dYNVlqMHVySTh2ZmlhUDZjQml0SmxGWnM?oc=5"
     }
    ]
   },
   {
-   "titel": "Why Liftoff Mobile Stock Soared 30% on Friday - The Globe and Mail",
-   "zusammenfassung": "Why Liftoff Mobile Stock Soared 30% on Friday The Globe and Mail",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Chatbots fluten EU-Parlament und Kommission mit Anträgen",
+   "zusammenfassung": "Generative KI sorgt in Brüssel und Straßburg für eine Flut an Änderungsanträgen und Anfragen. Beamte und Abgeordnete warnen vor Risiken für die Demokratie.",
+   "warum_wichtig": "Die Arbeitsfähigkeit der EU-Gesetzgebung, die auch Deutschland betrifft, gerät durch KI-Massentexte unter Druck.",
+   "kategorie": "Gesellschaft",
    "quellen": [
     {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbzVscnQzSmxPMUdybEpmRWs5ZjhaYmlUb2gyZVNvTmFSRVVEaGZVX3RHUDJNQTI4aTJIRTZOc2pZOGZVR3Y4Uk5BNy1JNWdNMjNCQmd1TlVJUnJCaHkxWGhhdi1pZlVXalJDSTJtZGtTaGVDaTBqeFVqQmwwX2N3UnRVaml6ajFyWHpJb2lJZHl0cS1PTmE2MEx2bzlodkJBMnlYaUFSS0xWeFBuYTRwVkwyaW5PQ2NIN2JXY1hxWDFJdmU4bkUzZUdB?oc=5"
+     "name": "heise online",
+     "url": "https://www.heise.de/news/KI-ueberflutet-EU-Institutionen-mit-Antraegen-und-Halluzinationen-11525079.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "The Jensen Huang scandal is hardly over",
-   "zusammenfassung": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état c'est moi. Then […]",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Nvidia-Affäre weitet sich aus: Verbotene Chips in chinesischen KI-Modellen",
+   "zusammenfassung": "Ein Ex-OpenAI-Forscher will nachgewiesen haben, dass DeepSeek, Moonshot AI, MiniMax und Ant Group trotz US-Exportkontrollen Nvidias Blackwell-Chips nutzen. Ein Senatsausschuss lädt den zurückgetretenen Nvidia-Chef Huang und Handelsminister Lutnick vor; laut Wall Street Journal waren eher riskante Geschäftspraktiken als die Affären der Hauptgrund für Huangs Rücktritt.",
+   "warum_wichtig": "Strengere US-Exportregeln als Folge könnten auch die Chipversorgung europäischer Rechenzentren treffen.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/ex-openai-forscher-will-nutzung-sanktionierter-nvidia-chips-in-chinesischen-top-ki-modellen-nachgewiesen-haben/"
+    },
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+    },
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html"
+    },
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html"
+    },
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/nvidia-ceo-jensen-huang-affaeren-wohl-nicht-hauptgrund-fuer-seinen-ruecktritt/"
     }
    ]
   },
   {
-   "titel": "Amazon has a plan to index the world’s online shopping data",
-   "zusammenfassung": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "OpenAI startet ChatGPT Wallet: KI-Agenten kaufen selbst ein",
+   "zusammenfassung": "Mit ChatGPT Wallet können die Dots-Agenten von OpenAI Einkäufe für Nutzer erledigen und bezahlen. Der Start ist zunächst auf erwachsene Pro-Abonnenten in den USA beschränkt.",
+   "warum_wichtig": "Händler in Europa müssen sich darauf einstellen, dass KI-Agenten zunehmend für Kunden einkaufen.",
+   "kategorie": "Produkte & Modelle",
    "quellen": [
     {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+    },
+    {
      "name": "The Verge AI",
-     "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+    },
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/openai-startet-mit-der-chatgpt-wallet-einen-zweiten-anlauf-beim-ki-shopping/"
     }
    ]
   }
  ],
  "datum": "2026-11-14",
- "erstellt": "2026-11-14T06:42+01:00",
- "modus": "einfach",
+ "erstellt": "2026-11-14T06:43+01:00",
+ "modus": "ki",
  "anzahl_meldungen": 100,
  "feeds": {
   "The Decoder": "10 Meldungen",
