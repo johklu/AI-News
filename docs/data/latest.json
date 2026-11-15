@@ -1,48 +1,72 @@
 {
- "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "lage": "Guten Morgen und einen ruhigen Sonntag! Heute geht es um die Engpässe hinter dem KI-Boom in Deutschland, vom Stromnetz bis zu Elektronikbauteilen. Außerdem legt Anthropic kurz vor dem Börsengang neue Modelle vor, und bei Nvidia wächst der Ruf nach Huangs Rückkehr.",
  "deutschland": [
   {
-   "titel": "Deutschland – Niederlande Tipp, KI Prognose & Quoten | 16.11.2026 - Wettfreunde",
-   "zusammenfassung": "Deutschland – Niederlande Tipp, KI Prognose & Quoten | 16.11.2026 Wettfreunde",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Stromnetz gilt als größte Bremse für KI in Deutschland",
+   "zusammenfassung": "Laut einem Bericht von n-tv stauen sich Anschlussanfragen an Umspannwerken. Das Stromnetz wird damit zur größten Bremse für den Ausbau von KI-Rechenzentren in Deutschland.",
+   "warum_wichtig": "Ohne schnelleren Netzausbau drohen Rechenzentren und damit KI-Kapazität ins Ausland abzuwandern.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUVWZkRnZjczTjQ0c0ROSzVjejdVZGJtbzlWMmM2cHVaTm43V3pPRXVqeWtySFpHU0xUaWp5b3BzZGU4QTFJR2F4U0VLRHJwRVZpSGhqUGRQLWtjRkFXRFZCNURPNi1hQUExY3FINDlDVXNaRy1rN1RhQ1h6YnZqODJsSFVoNlZCc3VybmJMdkJSMEVSUXVMZDBFbG1jWGp3b283SHNQaEdraGd1MEE?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1V6d3M1VWRndDNPWF9Wa0I3TzdwN0VRQWdzMWhsbTA1ODZPeTBIa3ZqYXdpWk1RV042TmR0TVVtT203TVBYSW90TFBZZjd5ZlJUMFREM0dTQmhyVFBkNGhiZDdTcmZxeTVjSlhScTdseTctR001b1VBNmpXem52Vm0ydF9SejIwdXU0NjlJREVoTWxzckZHc3dfcnI?oc=5"
     }
    ]
   },
   {
-   "titel": "Warum Apple das Home-View-Gerät nicht in Deutschland verkauft - FAZ",
-   "zusammenfassung": "Warum Apple das Home-View-Gerät nicht in Deutschland verkauft FAZ",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "KI-Boom verschärft Mangel an Elektronikbauteilen in Deutschland",
+   "zusammenfassung": "Der Bedarf der KI-Branche verschärft in Deutschland den Mangel an elektronischen Bauteilen.",
+   "warum_wichtig": "Hersteller und Verbraucher müssen mit Lieferengpässen und höheren Preisen für Elektronik rechnen.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdWxtdDJWZmx4aDF5R3VTRW83cDNkQ2UzYXpJX0Vvek9qZUxPaDV3UFpMTUN5YkRRODJqLW5kc2VIZGFQcXlQZDJaN3UwMW50M2xUS1RBWHVxR2RudnFQNWN3V3VmdlVYQ1A5ZTJrRURQanI5c2RCcDRSYTVMOC0zem5GV083aWhWbnJEOWJDcm9aeWxhOERvLUQ0bzRCN3RLYzdaWkFreEdFd2hQMUJKYklsaXBzWkFBSmstWDdRVTBlNGM1TzI2YkUxb2FjZFUxbWRwcEJydEdxWWFpZmc?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRVltZWxGdXkxMVNqWGVvbUxJM2ZOYmctc3JoYTVGTTYxelZlcmZ6QWFuVl9jdlFxOGE2ZFpyeXo5ZGdramsyeE1sTzlDa3NnTzdwNzJwYzV6aU5hU2lJUjIwbHh3NERjamFUOGp6bTZvLV9iRDYtQW1tY1hNdW9IX3BZeVBxeDAwQjdPakExMnM1Wno0dWRoZjd0Nk1LVU51ZzdTTXB5SFY1a0p6b0xydnln?oc=5"
+    }
+   ]
+  }
+ ],
+ "eu": [
+  {
+   "titel": "Anthropic beteiligt sich erstmals an europäischer KI-Beratung",
+   "zusammenfassung": "Anthropic unterstützt gemeinsam mit der Beteiligungsgesellschaft Hg seine erste europäische KI-Beratungsfirma.",
+   "warum_wichtig": "Europäische Unternehmen erhalten mehr Unterstützung, Claude in eigenen Prozessen einzusetzen.",
+   "kategorie": "Wirtschaft & Startups",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1lfRXdYYjNGZ0JkOWRqYkhCREVZYjhQUjJReV9ZTnV1alFqcG5NdGxfQi13ekpxd3BTRFpITWEyM0p2ZHpXdWZVT21pTHNYWV9Fd2lPU0t6ZG03YjBiYTM1cVY4aFNpeTFKSUd2N2tIVlB1ampDdVlmaVFwZFNnS1hzTEpNcVBtaFBZM2R6LXFDUFBRQ25VQ2Z6OVl5MEtsclJ1UU95bw?oc=5"
     }
    ]
   },
   {
-   "titel": "Mindestens ab der Galaxy Watch 7: Samsung bringt KI-gestützte Schlafapnoe-Messung auf seine Wearables",
-   "zusammenfassung": "Samsung erweitert seine Funktion zur Erkennung von Schlafapnoe um KI-Algorithmen. Künftig sollen Galaxy Ring und Watch drei Schweregrade der nächtlichen Atemaussetzer erkennen. Die KI-Funktion kommt auch auf ältere Smartwatches – zumindest einige.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "EU-KI-Gipfel: Mehrheit der Beschäftigten erwartet neue Anforderungen",
+   "zusammenfassung": "Im Umfeld des EU-Gipfels zu KI wurde bekannt, dass 61 Prozent der Beschäftigten erwarten, wegen KI neue Fähigkeiten zu brauchen.",
+   "warum_wichtig": "Weiterbildung wird für Arbeitnehmer und Arbeitgeber in Europa zur Daueraufgabe.",
+   "kategorie": "Gesellschaft",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObXRIN1k0Tl9ZN1NnMkxLQmtqZ2xKcW1sdFBCSXo0cVpmOS1mcFFOenZ2QnBvajRNWWRJa1c3QV9iSTI1aVliRHF4QXRWbmpJMmNwa0F6LWFRcDgxUlRzWkRSUlVBcHhsVXJqa19nWGFwQlBnTG1qUFp3SUQzUzVsS05JakFBeUlJemJmN2t2UEtGSEhmdWpCaklzajZGdm9TTEE4dllRd0cxdDMtTk5ZMHR0TmlybW9KODlMN2ln?oc=5"
+    }
+   ]
+  }
+ ],
+ "welt": [
+  {
+   "titel": "Anthropic stellt vor dem Börsengang Fable 5.2 und Mythos 5.2 vor",
+   "zusammenfassung": "Kurz vor dem geplanten Börsengang hat Anthropic die Modelle Claude Fable 5.2 und Mythos 5.2 veröffentlicht, die leistungsstärker und günstiger als ihre Vorgänger sein sollen. Fable 5.2 verdrängt gemeinsam mit Googles Gemini 4 Carbon OpenAIs GPT-6.1 Sol von der Spitze des Mathe-Benchmarks MathArena; Firmenchef Dario Amodei nennt den Einkauf von Rechenleistung zugleich das „tiefste geschäftliche Dilemma“ des Unternehmens.",
+   "warum_wichtig": "Leistungsfähigere und billigere Modelle senken auch für europäische Nutzer die Kosten für KI-Anwendungen.",
+   "kategorie": "Produkte & Modelle",
    "quellen": [
     {
      "name": "t3n",
-     "url": "https://t3n.de/news/samsung-galaxy-watch-schlafapnoe-1770547"
-    }
-   ]
-  },
-  {
-   "titel": "\"Große Unsicherheit\": Anthropic-Chef hadert kurz vor Rekord-IPO mit der größten Wette der KI-Branche",
-   "zusammenfassung": "Kurz vor dem möglicherweise größten Börsengang aller Zeiten nennt Anthropic-CEO Dario Amodei den Einkauf von Rechenleistung das \"tiefste geschäftliche Dilemma\" seines Unternehmens. Mittlerweile summieren sich Anthropics Verpflichtungen auf fast 901 Milliarden Dollar, obwohl unklar ist, ob zukünftige Einnahmen diese Kosten rechtfertigen. Der geplante Börsengang dient daher vor allem als finanzieller Puffer gegen diese Unsicherheit. Der Artikel \"Große Unsicherheit\": Anthropic-Chef hadert kurz…",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
+     "url": "https://t3n.de/news/anthropic-claude-fable-5-2-mythos-5-2-release-1772515"
+    },
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/google-schlaegt-openai-gemini-4-carbon-fuehrt-die-ki-mathe-benchmark-matharena-an/"
+    },
     {
      "name": "The Decoder",
      "url": "https://the-decoder.de/grosse-unsicherheit-anthropic-chef-hadert-kurz-vor-rekord-ipo-mit-der-groessten-wette-der-ki-branche/"
@@ -50,85 +74,29 @@
    ]
   },
   {
-   "titel": "Petition: Nvidia-Mitarbeiter und Elon Musk wollen Huang zurück",
-   "zusammenfassung": "Trotz mehrerer Affären wünschen sich viele die Rückkehr von Jensen Huang an die Nvidia-Spitze. Ein interner und ein externer Aufruf finden Zuspruch. ( Nvidia , Wirtschaft )",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Golem",
-     "url": "https://www.golem.de/news/petition-nvidia-mitarbeiter-und-elon-musk-wollen-huang-zurueck-2611-215228.html"
-    }
-   ]
-  }
- ],
- "eu": [
-  {
-   "titel": "EU-Gipfel zu KI: 61 Prozent der Beschäftigten erwarten neue Fähigkeiten - ad-hoc-news.de",
-   "zusammenfassung": "EU-Gipfel zu KI: 61 Prozent der Beschäftigten erwarten neue Fähigkeiten ad-hoc-news.de",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObXRIN1k0Tl9ZN1NnMkxLQmtqZ2xKcW1sdFBCSXo0cVpmOS1mcFFOenZ2QnBvajRNWWRJa1c3QV9iSTI1aVliRHF4QXRWbmpJMmNwa0F6LWFRcDgxUlRzWkRSUlVBcHhsVXJqa19nWGFwQlBnTG1qUFp3SUQzUzVsS05JakFBeUlJemJmN2t2UEtGSEhmdWpCaklzajZGdm9TTEE4dllRd0cxdDMtTk5ZMHR0TmlybW9KODlMN2ln?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "The foundation for European AI sovereignty lies in Eindhoven - IO+",
-   "zusammenfassung": "The foundation for European AI sovereignty lies in Eindhoven IO+",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaVp3SGZBeG1GQ0pHNlhOVWNIUVRZaVpVdkF5T0h3NEZ1bktXLWhxVVhtWEM1Z21rYzlJQXhoTXEyY3RmUGxHX3JLLVg2SlZTYk1ZQ2hJRU5JQkJrUURyeS1ocGVsZ0x0Yno3am1BdHZUdi1jOFNXbVhaTHpuaEZRZUh3c19Fb01IeURXNmNUdXk?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Hinton Relays Christiano's 18-Month AI Timeline to EU Leaders - www.tokenpost.com",
-   "zusammenfassung": "Hinton Relays Christiano's 18-Month AI Timeline to EU Leaders www.tokenpost.com",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0ydlByYlMyOXh5Tjd0N1lVYmhBZ3VQbFBBc3gzTDgwbkVLeE9CUW4tODVwemdSVjY4TnZVbTNEcHRYNW43MWxaRzY1SHpFQjN0YWlpMHFxbWJhTU0?oc=5"
-    }
-   ]
-  }
- ],
- "welt": [
-  {
-   "titel": "Where was Nvidia’s security team?",
-   "zusammenfassung": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
-    }
-   ]
-  },
-  {
-   "titel": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-   "zusammenfassung": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Petition fordert Rückkehr von Jensen Huang an die Nvidia-Spitze",
+   "zusammenfassung": "Trotz mehrerer Affären wünschen sich viele die Rückkehr von Jensen Huang zu Nvidia. Eine externe Petition, unterzeichnet unter anderem von Elon Musk, hatte am Samstag mehr als 115.000 Unterschriften, auch Mitarbeiter fordern intern seine Wiederkehr.",
+   "warum_wichtig": "Die ungeklärte Führungsfrage beim wichtigsten KI-Chiphersteller bleibt ein Unsicherheitsfaktor für Kunden weltweit.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
      "name": "TechCrunch AI",
      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+    },
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/petition-nvidia-mitarbeiter-und-elon-musk-wollen-huang-zurueck-2611-215228.html"
+    },
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Nvidia-Angestellte-wollen-Jensen-Huang-zurueck-11525279.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   }
  ],
  "datum": "2026-11-15",
- "erstellt": "2026-11-15T06:41+01:00",
- "modus": "einfach",
+ "erstellt": "2026-11-15T06:42+01:00",
+ "modus": "ki",
  "anzahl_meldungen": 69,
  "feeds": {
   "The Decoder": "7 Meldungen",
