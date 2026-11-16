@@ -1,118 +1,150 @@
 {
- "lage": "Guten Morgen und einen ruhigen Sonntag! Heute geht es um die Engpässe hinter dem KI-Boom in Deutschland, vom Stromnetz bis zu Elektronikbauteilen. Außerdem legt Anthropic kurz vor dem Börsengang neue Modelle vor, und bei Nvidia wächst der Ruf nach Huangs Rückkehr.",
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
  "deutschland": [
   {
-   "titel": "Stromnetz gilt als größte Bremse für KI in Deutschland",
-   "zusammenfassung": "Laut einem Bericht von n-tv stauen sich Anschlussanfragen an Umspannwerken. Das Stromnetz wird damit zur größten Bremse für den Ausbau von KI-Rechenzentren in Deutschland.",
-   "warum_wichtig": "Ohne schnelleren Netzausbau drohen Rechenzentren und damit KI-Kapazität ins Ausland abzuwandern.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Deutsche Telekom Aktie: Dividenden-Enttäuschung? - Börse Global",
+   "zusammenfassung": "Deutsche Telekom Aktie: Dividenden-Enttäuschung? Börse Global",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1V6d3M1VWRndDNPWF9Wa0I3TzdwN0VRQWdzMWhsbTA1ODZPeTBIa3ZqYXdpWk1RV042TmR0TVVtT203TVBYSW90TFBZZjd5ZlJUMFREM0dTQmhyVFBkNGhiZDdTcmZxeTVjSlhScTdseTctR001b1VBNmpXem52Vm0ydF9SejIwdXU0NjlJREVoTWxzckZHc3dfcnI?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRjl4TjljX2IxMG9OLUt5dnQxeUFsX1ZBWlQ1UlVJemt4SkVIVVB5ZXhwQkNtSU96VTdxT1RnOFU3am13ZjZQNXlkLWMwOUxQQjA3S2lpNDNGdHIxREV4YzBNaVdiREIwbFZkY3hHZE52NkgzT3NmOTNaNnNFTE9vMzJMall1MklNNUlR?oc=5"
     }
    ]
   },
   {
-   "titel": "KI-Boom verschärft Mangel an Elektronikbauteilen in Deutschland",
-   "zusammenfassung": "Der Bedarf der KI-Branche verschärft in Deutschland den Mangel an elektronischen Bauteilen.",
-   "warum_wichtig": "Hersteller und Verbraucher müssen mit Lieferengpässen und höheren Preisen für Elektronik rechnen.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Deutsche Forscher verwandeln Solarpanels mit KI in präzise Regenmesser - 112.ua",
+   "zusammenfassung": "Deutsche Forscher verwandeln Solarpanels mit KI in präzise Regenmesser 112.ua",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRVltZWxGdXkxMVNqWGVvbUxJM2ZOYmctc3JoYTVGTTYxelZlcmZ6QWFuVl9jdlFxOGE2ZFpyeXo5ZGdramsyeE1sTzlDa3NnTzdwNzJwYzV6aU5hU2lJUjIwbHh3NERjamFUOGp6bTZvLV9iRDYtQW1tY1hNdW9IX3BZeVBxeDAwQjdPakExMnM1Wno0dWRoZjd0Nk1LVU51ZzdTTXB5SFY1a0p6b0xydnln?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYmEwUkw0bkpKdnM1TjVRT000ekE4bUxvX1diMXlGcVpFc3I3RDFWbDR5djRqTlI2NFFvXzVKN0Zab2lSMVBaejJEZ2phZERXcEd0VmIxdE4tOEJmdHd1cV9ZOU84Z1gwVnIyVEN6Z1B5bEhCRGt1TU9ad0swd3JiUHBFTnRyMnBWeHRTVHllQnN1UFV4cE1kTVp1WDZ3cTZFUUh1bWRzUURQUmFjeVZpVEFaM0o?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Genf - 128 Länder beraten ab Montag über Beschränkungen für KI-Waffensysteme und Killerroboter - Deutschlandfunk",
+   "zusammenfassung": "Genf - 128 Länder beraten ab Montag über Beschränkungen für KI-Waffensysteme und Killerroboter Deutschlandfunk",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRzVudmpGLUpTWUJIRnBRS3hXdXo5YUZUa2dEN2RsRXM4Mm1tWkR5dHo4OFB4eHBaV3RjenVnN2pKczR4WDhJQUphSHhxMnZEZXRuQkpPLTdldkNRS3B2Y3RMRWU0NlFzeU1lTVpZaGlPdjNuZEE5VlEwYmRuQkhWM2Q0TVFPU1NoVFROYlJoWkN4TVMwWnloWC1rNjVxczljTEUzdXBidGhoZU85WFNoUXFrQmRiV3pZYlZzODZvbFZTcjI2Z0dRaXVfMA?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Deutsche Telekom Aktie: Münchner KI-Fabrik legt nach - Börse Express",
+   "zusammenfassung": "Deutsche Telekom Aktie: Münchner KI-Fabrik legt nach Börse Express",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3hRenpEVndJbHhEZWU1dTI1TzZZU0xSekNuazZMMUFCTlBSMTNJeFdUMUJVcF94RHNRNUpHbEMweW1xTGtreWR2UlZUZ3dmeFdwVzJRMGJzbFJrNnJORWpwRlBuOHBONG5ZSWItTjNDSkhPTHgzejItTm0wR2N2Wm9lTGhDQURaV0RHQUR3TW1oVVBacWlSaEIxOHhIOWxMdnkzQlVMYw?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Black Friday: 51% wollen KI nutzen, 37% trauen Rabatten - Netz Trends",
+   "zusammenfassung": "Black Friday: 51% wollen KI nutzen, 37% trauen Rabatten Netz Trends",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3RzNHV3aVl3N0VJREdXdUVjV2gwMmE1NGJFSXZaUXlnM2RfMzRNNk1KNjdoa29wdnlLVjNhbklaRVN0b2xoQzk4NDMzaklfRWltRDZIa09wdHRBLWdoVWdfZmJXMVB1U2tNRDUyQ0tieDJSaEhkMDhtdmFsbkw4MkQzaEY1RHltYXVVYndMXzZZaFBjZ1JJVlE1R1lnQmRHajVDeE43Yi04eW9iWC1n?oc=5"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "Anthropic beteiligt sich erstmals an europäischer KI-Beratung",
-   "zusammenfassung": "Anthropic unterstützt gemeinsam mit der Beteiligungsgesellschaft Hg seine erste europäische KI-Beratungsfirma.",
-   "warum_wichtig": "Europäische Unternehmen erhalten mehr Unterstützung, Claude in eigenen Prozessen einzusetzen.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "‘Build what can’t be cloned’: Fintech’s AI-native back office is getting crowded",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1lfRXdYYjNGZ0JkOWRqYkhCREVZYjhQUjJReV9ZTnV1alFqcG5NdGxfQi13ekpxd3BTRFpITWEyM0p2ZHpXdWZVT21pTHNYWV9Fd2lPU0t6ZG03YjBiYTM1cVY4aFNpeTFKSUd2N2tIVlB1ampDdVlmaVFwZFNnS1hzTEpNcVBtaFBZM2R6LXFDUFBRQ25VQ2Z6OVl5MEtsclJ1UU95bw?oc=5"
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/ai-native-fintech-crowding/"
     }
    ]
   },
   {
-   "titel": "EU-KI-Gipfel: Mehrheit der Beschäftigten erwartet neue Anforderungen",
-   "zusammenfassung": "Im Umfeld des EU-Gipfels zu KI wurde bekannt, dass 61 Prozent der Beschäftigten erwarten, wegen KI neue Fähigkeiten zu brauchen.",
-   "warum_wichtig": "Weiterbildung wird für Arbeitnehmer und Arbeitgeber in Europa zur Daueraufgabe.",
-   "kategorie": "Gesellschaft",
+   "titel": "Exclusive: Italian robotics startup Mosaico raises €7.5m to tackle AI’s data problem",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/robotics-software-ai-funding-round-mosaico/"
+    }
+   ]
+  },
+  {
+   "titel": "EU-KI-Gesetz: Buchhaltungsfirmen müssen KI-Ergebnisse eigenständig prüfen - ad-hoc-news.de",
+   "zusammenfassung": "EU-KI-Gesetz: Buchhaltungsfirmen müssen KI-Ergebnisse eigenständig prüfen ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObXRIN1k0Tl9ZN1NnMkxLQmtqZ2xKcW1sdFBCSXo0cVpmOS1mcFFOenZ2QnBvajRNWWRJa1c3QV9iSTI1aVliRHF4QXRWbmpJMmNwa0F6LWFRcDgxUlRzWkRSUlVBcHhsVXJqa19nWGFwQlBnTG1qUFp3SUQzUzVsS05JakFBeUlJemJmN2t2UEtGSEhmdWpCaklzajZGdm9TTEE4dllRd0cxdDMtTk5ZMHR0TmlybW9KODlMN2ln?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWNfaEM0MVV6Wm9SVDBQMU9JODhmNXk2RHNZOUxrSU85OUo5SUxncC1JVGd2X0RuM1haTmJVWG9heGlRSEpjSFk4dVRnanAwTmNHc1FhRlZFYUtsZ0JDVHZDVHA1RzlfOHlYR3RxbmdsMXN2dFE1ZGtvN3Q4TVdKb1BRRnVUYTNKOXpNS1c5ZnhDV1ZkZ1RaZ2dLTWJ2QVhVWmo4YmJxWW1idkZGaVFWeW82N3B3RWhfdU5SUGREYlBkdw?oc=5"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "Anthropic stellt vor dem Börsengang Fable 5.2 und Mythos 5.2 vor",
-   "zusammenfassung": "Kurz vor dem geplanten Börsengang hat Anthropic die Modelle Claude Fable 5.2 und Mythos 5.2 veröffentlicht, die leistungsstärker und günstiger als ihre Vorgänger sein sollen. Fable 5.2 verdrängt gemeinsam mit Googles Gemini 4 Carbon OpenAIs GPT-6.1 Sol von der Spitze des Mathe-Benchmarks MathArena; Firmenchef Dario Amodei nennt den Einkauf von Rechenleistung zugleich das „tiefste geschäftliche Dilemma“ des Unternehmens.",
-   "warum_wichtig": "Leistungsfähigere und billigere Modelle senken auch für europäische Nutzer die Kosten für KI-Anwendungen.",
-   "kategorie": "Produkte & Modelle",
+   "titel": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+   "zusammenfassung": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "t3n",
-     "url": "https://t3n.de/news/anthropic-claude-fable-5-2-mythos-5-2-release-1772515"
-    },
-    {
-     "name": "The Decoder",
-     "url": "https://the-decoder.de/google-schlaegt-openai-gemini-4-carbon-fuehrt-die-ki-mathe-benchmark-matharena-an/"
-    },
-    {
-     "name": "The Decoder",
-     "url": "https://the-decoder.de/grosse-unsicherheit-anthropic-chef-hadert-kurz-vor-rekord-ipo-mit-der-groessten-wette-der-ki-branche/"
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
     }
    ]
   },
   {
-   "titel": "Petition fordert Rückkehr von Jensen Huang an die Nvidia-Spitze",
-   "zusammenfassung": "Trotz mehrerer Affären wünschen sich viele die Rückkehr von Jensen Huang zu Nvidia. Eine externe Petition, unterzeichnet unter anderem von Elon Musk, hatte am Samstag mehr als 115.000 Unterschriften, auch Mitarbeiter fordern intern seine Wiederkehr.",
-   "warum_wichtig": "Die ungeklärte Führungsfrage beim wichtigsten KI-Chiphersteller bleibt ein Unsicherheitsfaktor für Kunden weltweit.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Apple’s new study looks to improve the effectiveness of AI health tools",
+   "zusammenfassung": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical […]",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
-    },
-    {
-     "name": "Golem",
-     "url": "https://www.golem.de/news/petition-nvidia-mitarbeiter-und-elon-musk-wollen-huang-zurueck-2611-215228.html"
-    },
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/Nvidia-Angestellte-wollen-Jensen-Huang-zurueck-11525279.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
     }
    ]
   }
  ],
- "datum": "2026-11-15",
- "erstellt": "2026-11-15T06:42+01:00",
- "modus": "ki",
- "anzahl_meldungen": 69,
+ "datum": "2026-11-16",
+ "erstellt": "2026-11-16T06:42+01:00",
+ "modus": "einfach",
+ "anzahl_meldungen": 68,
  "feeds": {
-  "The Decoder": "7 Meldungen",
-  "heise online": "7 Meldungen",
+  "The Decoder": "5 Meldungen",
+  "heise online": "5 Meldungen",
   "t3n": "10 Meldungen",
-  "Golem": "4 Meldungen",
+  "Golem": "1 Meldungen",
   "netzpolitik.org": "0 Meldungen",
-  "tagesschau": "1 Meldungen",
-  "Google News (KI Deutschland)": "10 Meldungen",
+  "tagesschau": "0 Meldungen",
+  "Google News (KI Deutschland)": "18 Meldungen",
   "Google News (EU KI-Politik)": "11 Meldungen",
-  "Google News (Europe AI)": "6 Meldungen",
+  "Google News (Europe AI)": "8 Meldungen",
   "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
-  "Sifted": "0 Meldungen",
-  "TechCrunch AI": "7 Meldungen",
-  "The Verge AI": "6 Meldungen",
+  "Sifted": "3 Meldungen",
+  "TechCrunch AI": "6 Meldungen",
+  "The Verge AI": "4 Meldungen",
   "MIT Technology Review": "0 Meldungen",
-  "Ars Technica AI": "1 Meldungen"
+  "Ars Technica AI": "0 Meldungen"
  }
 }
