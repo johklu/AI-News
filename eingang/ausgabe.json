@@ -1,0 +1,38 @@
+{
+  "stand": "2026-11-16T05:42:42+00:00",
+  "lage": "Guten Morgen und einen guten Start in die Woche! Die EU-Kommission hat ihre Leitlinien zur Kennzeichnung von KI-Inhalten veröffentlicht, die ab Dezember gelten. In Genf beraten 128 Staaten über Grenzen für autonome Waffen, und aus Aachen kommt ein offenes KI-Modell für die Schlafforschung.",
+  "deutschland": [
+    {"titel": "FH Aachen veröffentlicht KI-Modell, das Hirnströme im Schlaf sekundengenau auswertet",
+     "zusammenfassung": "Ein Forschungsteam der FH Aachen hat mit AnySleep ein Open-Source-Modell entwickelt, das Gehirnströme im Schlaf sekundengenau analysiert. Damit sollen Vorgänge erfasst werden, die bisherigen Messungen in halbminütigen Abschnitten entgehen.",
+     "warum_wichtig": "Schlaflabore und Forschende können das frei verfügbare Modell für genauere Diagnosen nutzen.",
+     "kategorie": "Forschung", "quellen": [23]},
+    {"titel": "Deutsche Forscher machen Solaranlagen per KI zu Regenmessern",
+     "zusammenfassung": "Forschende aus Deutschland nutzen KI, um aus den Daten von Solarpanels präzise Niederschlagsmengen abzuleiten.",
+     "warum_wichtig": "Vorhandene Solaranlagen könnten Wetterdienste mit einem dichten Messnetz für Regen ergänzen.",
+     "kategorie": "Forschung", "quellen": [8]},
+    {"titel": "Berufseinstieg und KI: In Deutschland fehlen rund 34.000 junge Arbeitskräfte",
+     "zusammenfassung": "Ein Bericht beziffert die Lücke an jungen Arbeitskräften in Deutschland auf rund 34.000 und stellt sie in Zusammenhang mit KI und dem Berufseinstieg.",
+     "warum_wichtig": "Wie KI den Einstieg ins Berufsleben verändert, wird für Ausbildungsbetriebe und Schulabgänger zur zentralen Frage.",
+     "kategorie": "Gesellschaft", "quellen": [31]}
+  ],
+  "eu": [
+    {"titel": "EU-Kommission veröffentlicht Leitlinien zur Kennzeichnung von KI-Inhalten",
+     "zusammenfassung": "Die EU-Kommission hat Leitlinien zu Artikel 50 des AI Act veröffentlicht, die die Kennzeichnung synthetischer Inhalte regeln. Anbieter müssen KI-generierte Inhalte ab dem 2. Dezember maschinenlesbar markieren.",
+     "warum_wichtig": "Unternehmen, die in der EU KI-Texte, -Bilder oder -Videos erzeugen, haben nur noch wenige Wochen zur Umsetzung.",
+     "kategorie": "Politik & Regulierung", "quellen": [16, 18, 38, 11]},
+    {"titel": "Europäisches Sprachmodell mit fast einer Billion Parametern auf JUPITER getestet",
+     "zusammenfassung": "Das Unternehmen Domyn hat sein Modell EUROPA mit 951,9 Milliarden Parametern auf dem europäischen Supercomputer JUPITER getestet.",
+     "warum_wichtig": "Europa zeigt damit, dass sehr große KI-Modelle auch auf eigener Infrastruktur entstehen können.",
+     "kategorie": "Produkte & Modelle", "quellen": [24]}
+  ],
+  "welt": [
+    {"titel": "128 Staaten beraten in Genf über Grenzen für KI-Waffen",
+     "zusammenfassung": "In Genf beraten ab Montag 128 Länder über Beschränkungen für KI-gestützte Waffensysteme und sogenannte Killerroboter.",
+     "warum_wichtig": "Die Ergebnisse könnten auch für europäische Rüstungsfirmen und Streitkräfte verbindliche Grenzen setzen.",
+     "kategorie": "Politik & Regulierung", "quellen": [14]},
+    {"titel": "Nvidia-Skandal: Milliarden-Chipdeals nach China, Kongress will Exporte verschärfen",
+     "zusammenfassung": "Laut Wall Street Journal vermittelte Megaspeed, die Firma von Jensen Huangs früherer Geliebter Alice Huang, zwischen 2024 und 2025 Nvidia-Chip-Bestellungen im Wert von knapp 12 Milliarden Dollar für chinesische Unternehmen. Demokraten und Republikaner im US-Kongress wollen die Exportregeln für KI-Chips nun verschärfen.",
+     "warum_wichtig": "Strengere US-Exportkontrollen könnten auch die Versorgung europäischer Kunden mit KI-Chips erschweren.",
+     "kategorie": "Politik & Regulierung", "quellen": [44, 21, 41]}
+  ]
+}
