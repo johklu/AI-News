@@ -1,0 +1,150 @@
+{
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "deutschland": [
+  {
+   "titel": "Dienstag: Schärfere US-Exportregeln für KI-Chips, Störungen bei US-Banken",
+   "zusammenfassung": "USA schließen Schlupflöcher + Softwareprobleme bei US-Banken + Tesla investiert in Grünheide + Europäer suchen Alternativen + Cyberangriffe auf BundID",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Dienstag-Schaerfere-US-Exportregeln-fuer-KI-Chips-Stoerungen-bei-US-Banken-11527091.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "USA schließen Schlupflöcher des Exportverbots für KI-Chips",
+   "zusammenfassung": "US-Exportverbote für KI-Chips wirken beschränkt. Die Zielgruppe kann die verbotene Ware in der Cloud nutzen. Das soll schwieriger werden, nächstes Jahr.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/USA-schliessen-Schlupfloecher-des-Exportverbots-fuer-KI-Chips-11527043.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Nach Huang-Affäre: Bald alles neu in der KI-Chipindustrie?",
+   "zusammenfassung": "Konkurrenten wie AMD oder Qualcomm reiben sich nach dem Abgang von Huang als CEO bei Nvidia schon die Hände. Was ist dran am möglichen Umbruch der Chip-Branche - und wie viel hat er tatsächlich mit dem Abtritt Huangs zu tun? Von R. Spiegelhauer.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-chipindustrie-nvidia-100.html"
+    }
+   ]
+  },
+  {
+   "titel": "Kupfer weitet Verluste wegen KI-Sorgen und Dollarstärke aus - MarketScreener Deutschland",
+   "zusammenfassung": "Kupfer weitet Verluste wegen KI-Sorgen und Dollarstärke aus MarketScreener Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNlFhY2NXZ2V5aV9OcGxwYXhKaGRKRVVDYlJZemY1czdfTEV2OUVXUzVHYTUtQjlfZjJ1Ti1BaDR0dS13WHFRUmVWSVNNSUotekJkQXpVYXNHUWZZN3VrdU5PM1NleFZWcHI3RDhIZTVXbTJqaWg1U2ctczJidTdSbTdyX1lqenBhWGFzWmNyT2dxdmw0eVY4S3QzV3Y3U0YyNzBRTTVNaUpxOTdrTEVuR1ZvNEg1U3BOTkZ1SUNPbnpQRXhy?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Künstliche Intelligenz: Kalifornien verklagt OpenAI wegen Cyberangriffen",
+   "zusammenfassung": "Der Generalstaatsanwalt von Kalifornien klagt OpenAI an - ein gefährliches Produkt ohne angemessene Sicherheitsverfahren oder Aufsicht habe das Unternehmen entwickelt und getestet. Von R. Spiegelhauer.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-klage-kalifornien-100.html"
+    }
+   ]
+  }
+ ],
+ "eu": [
+  {
+   "titel": "ESG-Berichte mit KI: Nur 10 von 100 Punkten gelten als kritisch - ad-hoc-news.de",
+   "zusammenfassung": "ESG-Berichte mit KI: Nur 10 von 100 Punkten gelten als kritisch ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjZCTlJ0a0FDX0hqNXBYT1ZWRXg5MkdLTVV0eGRnc3hmVkZ5RzR5VjdIT1J2dkxXSFpMRjNBZEhLekI3U1M1N0ZJVlJlTFpaTmI4UG1SeUNEV0F1RlB6Yk4tV2hILWM1MzV1S3V3MFZjdXZadXFzU3lwU0lPN0RHeEM3NWw3UmUxeXllc2FQVmVtdlE2aFdsWXdUVWFyVFpXREpJSk90V0lzcVlQYVE?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "KIMVG: 37 Organisationen fordern Anonymisierung als Regelfall - ad-hoc-news.de",
+   "zusammenfassung": "KIMVG: 37 Organisationen fordern Anonymisierung als Regelfall ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ291N0lxVVo1OFBWSjhKcXFzY0haQXY1NDFmRUNFeHBFdXB1cjUySU9rRlMyX3RsVjBIdUd3cXNkb3hvaTNiR1lUekR2LV80eDlGd04wQkhzV21qYTNWTlU1VGNVbUFHbVJMaFZkbUU2cjl5UFI3ejNJdC1SWm5Od3VaalFHdzdNakJETWpJZnJuaUl2T1hsZmlhdzN5djJ0ampob2VVLWdYMlR4eXc?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Gemini in Apps Script: Google startet den Rollout für Workspace-Kunden - ad-hoc-news.de",
+   "zusammenfassung": "Gemini in Apps Script: Google startet den Rollout für Workspace-Kunden ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNU1qUFJHeTgtbGFBVTdNZ3ZQbzcxeDNvaUZJaU44dE5pVjFTSlhIN3paOUhtWG51Um9sX3M0cGZ6dEp1eGxKU0Z1ZE9QN3dVQmpkaVJ2RDUydFJFRk43SFdGRTV4SG05SGVXTFZWY203LXdWdWF2SmJwZlRmbFMtX1NkcS1mcHNjTVI2OW5BWjlSaEM2c1dhWl9ZeFoyNUxDN1RQZGVqQ29CczBhc0xNc0hwNWlJTGZ1MkMw?oc=5"
+    }
+   ]
+  }
+ ],
+ "welt": [
+  {
+   "titel": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "zusammenfassung": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+    }
+   ]
+  },
+  {
+   "titel": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+   "zusammenfassung": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the […]",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
+    }
+   ]
+  }
+ ],
+ "datum": "2026-11-17",
+ "erstellt": "2026-11-17T06:41+01:00",
+ "modus": "einfach",
+ "anzahl_meldungen": 100,
+ "feeds": {
+  "The Decoder": "6 Meldungen",
+  "heise online": "15 Meldungen",
+  "t3n": "10 Meldungen",
+  "Golem": "6 Meldungen",
+  "netzpolitik.org": "1 Meldungen",
+  "tagesschau": "5 Meldungen",
+  "Google News (KI Deutschland)": "28 Meldungen",
+  "Google News (EU KI-Politik)": "18 Meldungen",
+  "Google News (Europe AI)": "HTTPError: HTTP Error 429: Too Many Requests",
+  "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
+  "Sifted": "2 Meldungen",
+  "TechCrunch AI": "17 Meldungen",
+  "The Verge AI": "10 Meldungen",
+  "MIT Technology Review": "3 Meldungen",
+  "Ars Technica AI": "3 Meldungen"
+ }
+}
