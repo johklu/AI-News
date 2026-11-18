@@ -1,0 +1,150 @@
+{
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "deutschland": [
+  {
+   "titel": "Treffen von Trump, Xi und Putin: Rüstung, KI - und ein heikles Thema",
+   "zusammenfassung": "Heute beginnt im chinesischen Shenzhen das ASEAN-Treffen. Erstmals wird es zu einem Dreiertreffen von Xi, Trump und Putin kommen. Um was könnte es dabei gehen? Von Christoph Kober.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/ausland/asien/apec-trump-putin-xi-100.html"
+    }
+   ]
+  },
+  {
+   "titel": "Boom um KI: Gelder für deutsche Start-ups fast verdoppelt - Badische Neueste Nachrichten",
+   "zusammenfassung": "Boom um KI: Gelder für deutsche Start-ups fast verdoppelt Badische Neueste Nachrichten",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXh0U2x2RnpBZkpWdjUyNnU4OHhFWkp0UER5NWZYUElCVzM4UjkyMVlHR2loYU5KZ290UFpoTlBGbzEwdFFTZHV5YmotcEU0VjczOXFCcGQ2TFM2Y2g0QWFRNVhTcFE1Y0FmMGVJT3kwajZjTW1nZjBSY1A1MUk0dlVJUlVBTTB6cUF5d0ZkUXlHMGE2elhMVGZOaw?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Neue Quartalszahlen: Nvidia verdoppelt Umsatz und Gewinn",
+   "zusammenfassung": "Wenige Tage nach der Spionageaffäre rund um den bisherigen Konzernchef Huang hat Nvidia überraschend starke Quartalsergebnisse vorgelegt. Die Zahlen des US-Chipkonzerns lagen deutlich über den Erwartungen von Analysten.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html"
+    }
+   ]
+  },
+  {
+   "titel": "Commonwealth Bank of Australia startet KI-gestütztes Cybersicherheitstool - MarketScreener Deutschland",
+   "zusammenfassung": "Commonwealth Bank of Australia startet KI-gestütztes Cybersicherheitstool MarketScreener Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSkJmT1JHLU1ndjk5MG1qUWxsa2VZTG84N3BENm5SQTNSbmJnenVuTHlLWnNJMlVuZGk3czJFbS1mZUpqSjVjZ203VU5UM0g1dmo5anJEQlNXWFpoOFE1TnBPWEdmWnRZbVQ1S2ZWX05PZmk5dHgyN2ZiTlFBaHNaNWFpRDFBVFBfbGowM1pGUWg4SlBBQWViTWlDT2FrNXBGalZZOHJyTFZoX2ZHNDN5M1BKS0FYNUhoWEdmbXM5dzc5WGMxd2hpRmd2N0FQWU9mdVh2SU45SQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "KI-Effekte prägen den Stellenmarkt 2026 - Haufe. Intelligenz, die bewegt.",
+   "zusammenfassung": "KI-Effekte prägen den Stellenmarkt 2026 Haufe. Intelligenz, die bewegt.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3lCR1pjS2RNTy00dm40c2NoTFc0dDlDbHNrTmRkTzBtc21CbU96bjF5anNIanJqTFBZUC1zdGpZeExySHlSVFVDcVFEMUlxRmgxRmpEWkVHNTZNTDRZN2tEWHNKTklGaWI5ZXhqdnA2T2JtclUzb291ZWZQMEoxeGtxTUZfbl9RUTJqQ01aNi1SSEgzWnNjYndn?oc=5"
+    }
+   ]
+  }
+ ],
+ "eu": [
+  {
+   "titel": "Anthropic’s $1.4tn IPO puts Europe’s AI boom to the test",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/anthropic-ipo-puts-europe-ai-boom-to-the-test/"
+    }
+   ]
+  },
+  {
+   "titel": "Exclusive: OpenAI and Meta insiders back startup policing rogue AI agents",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/disseqt-ai-agents-rogue/"
+    }
+   ]
+  },
+  {
+   "titel": "European firms grapple with regulatory uncertainty amid AI takeup - Personnel Today",
+   "zusammenfassung": "European firms grapple with regulatory uncertainty amid AI takeup Personnel Today",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjlmOV9QYXItRnJwQk1uaXhYbGhRQVZlam1tYkgxZXh4bkxMSl91ZVVwT0NlRkNrRnFEUmF2ZEg4U1RVQWU4djFPWWFSQk1JTXhLakt1cWl5cTdBaTRYcUNzMUg3dkk4ajUzQzNlVm9MOW4yQnMwa09nZ1k5SWZLYWx0QXAxeTJ3WTJPUzBzTlRLLVN3VHhPMllUYXdCWWh4OXc?oc=5"
+    }
+   ]
+  }
+ ],
+ "welt": [
+  {
+   "titel": "Satya Nadella says he’s AGI-pilled now",
+   "zusammenfassung": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at […]",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
+    }
+   ]
+  },
+  {
+   "titel": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "zusammenfassung": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+    }
+   ]
+  }
+ ],
+ "datum": "2026-11-18",
+ "erstellt": "2026-11-18T06:41+01:00",
+ "modus": "einfach",
+ "anzahl_meldungen": 100,
+ "feeds": {
+  "The Decoder": "9 Meldungen",
+  "heise online": "25 Meldungen",
+  "t3n": "10 Meldungen",
+  "Golem": "8 Meldungen",
+  "netzpolitik.org": "0 Meldungen",
+  "tagesschau": "4 Meldungen",
+  "Google News (KI Deutschland)": "42 Meldungen",
+  "Google News (EU KI-Politik)": "9 Meldungen",
+  "Google News (Europe AI)": "15 Meldungen",
+  "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
+  "Sifted": "3 Meldungen",
+  "TechCrunch AI": "20 Meldungen",
+  "The Verge AI": "10 Meldungen",
+  "MIT Technology Review": "2 Meldungen",
+  "Ars Technica AI": "7 Meldungen"
+ }
+}
