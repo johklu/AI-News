@@ -1,0 +1,46 @@
+{
+  "stand": "2026-11-18T05:41:49+00:00",
+  "lage": "Guten Morgen! Deutsche Start-ups ziehen dank des KI-Booms fast doppelt so viel Geld an wie im Vorjahr, und Google bringt seine KI-Suche in Maps nach Deutschland. Irlands Datenschützer bremsen Grok, und Nvidia glänzt trotz Führungskrise mit Rekordzahlen.",
+  "deutschland": [
+    {"titel": "KI-Boom: Deutsche Start-ups sammeln fast doppelt so viel Geld ein",
+     "zusammenfassung": "Laut einer Prognose haben sich die Investitionen in deutsche Start-ups durch den KI-Boom fast verdoppelt. Insgesamt sollen sie 2026 rund 13,4 Milliarden Dollar einsammeln.",
+     "warum_wichtig": "Für Gründerinnen und Gründer in Deutschland verbessert sich der Zugang zu Kapital spürbar.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [3, 14, 15]},
+    {"titel": "Google startet KI-Suche „Ask Maps“ in Deutschland",
+     "zusammenfassung": "Google bringt seine überarbeitete Kartenfunktion Ask Maps nach Deutschland und in die EU. Sie beantwortet Alltagsfragen, erstellt Reisepläne und soll künftig auch Bestellungen und Termine auslösen können.",
+     "warum_wichtig": "Millionen Maps-Nutzer in Deutschland bekommen damit einen KI-Assistenten direkt in der Navigation.",
+     "kategorie": "Produkte & Modelle", "quellen": [97, 44, 56, 63]},
+    {"titel": "Netflix zahlt Synchronsprechern mehr, KI-Klausel bleibt umstritten",
+     "zusammenfassung": "Netflix erhöht die Folgevergütung für deutsche Synchronsprecher und zahlt in deren Altersvorsorge ein. Die umstrittene Klausel zur Nutzung ihrer Stimmen für KI bleibt aber bestehen.",
+     "warum_wichtig": "Der Streit zeigt, wie Kreative in Deutschland um Kontrolle über ihre Stimme im KI-Zeitalter ringen.",
+     "kategorie": "Gesellschaft", "quellen": [60]},
+    {"titel": "HCLTech und Cohere wollen souveräne KI in Deutschland anbieten",
+     "zusammenfassung": "Der IT-Dienstleister HCLTech kooperiert mit dem KI-Anbieter Cohere, um souveräne KI-Lösungen in Kanada und Deutschland bereitzustellen.",
+     "warum_wichtig": "Unternehmen und Behörden in Deutschland erhalten eine weitere Option für KI unter eigener Datenkontrolle.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [36]}
+  ],
+  "eu": [
+    {"titel": "Irische Datenschützer stoppen Grok-Training bei X vorerst",
+     "zusammenfassung": "Nach Bedenken der irischen Datenschutzbehörde hat X das Training seines KI-Systems Grok mit fremden Daten vorerst ausgesetzt.",
+     "warum_wichtig": "Die Daten europäischer Nutzer bleiben damit vorerst außen vor, die irische Behörde ist für viele US-Plattformen in der EU zuständig.",
+     "kategorie": "Politik & Regulierung", "quellen": [48]},
+    {"titel": "Irland droht bei KI-Nacktbildern mit Strafen bis 35 Millionen Euro",
+     "zusammenfassung": "Irland führt Regeln gegen KI-generierte sexualisierte Bilder von Erwachsenen und Kindern ein, Verstöße können mit bis zu 35 Millionen Euro bestraft werden. Die Medienaufsicht soll Verstöße überwachen.",
+     "warum_wichtig": "Das Vorgehen könnte zum Vorbild für andere EU-Staaten im Kampf gegen Deepfake-Missbrauch werden.",
+     "kategorie": "Politik & Regulierung", "quellen": [24, 32]},
+    {"titel": "OpenAI öffnet Cyber-Tool Daybreak für NATO und europäische Regierungen",
+     "zusammenfassung": "OpenAI stellt sein Cybersicherheits-Werkzeug Daybreak der NATO und mehreren europäischen Regierungen zur Verfügung, darunter Deutschland, Frankreich und Polen. Die EU-Cyberbehörde ENISA hat damit bereits reale Schwachstellen in EU-Software gefunden.",
+     "warum_wichtig": "Europäische Behörden setzen bei der Abwehr von Cyberangriffen zunehmend auf KI aus den USA.",
+     "kategorie": "Sicherheit", "quellen": [70]}
+  ],
+  "welt": [
+    {"titel": "Nvidia verdoppelt Umsatz und Gewinn, zieht sich aber aus China zurück",
+     "zusammenfassung": "Wenige Tage nach dem Rücktritt von Jensen Huang hat Nvidia überraschend starke Quartalszahlen vorgelegt: Umsatz und Gewinn haben sich verdoppelt. Die Interimschefin kündigte an, keine Chips mehr nach China zu verkaufen, und der Konzern plant nicht, Huang wieder einzusetzen.",
+     "warum_wichtig": "Die Nachfrage nach KI-Chips bleibt ungebrochen, was auch europäische Rechenzentrumspläne betrifft.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [6, 8, 12, 18]},
+    {"titel": "OpenAI veröffentlicht GPT-6.2 Astra und Sol",
+     "zusammenfassung": "Kurz vor dem Börsengang von Anthropic hat OpenAI die Modelle GPT-6.2 Astra und Sol veröffentlicht, die leistungsstärker und günstiger als ihre Vorgänger sind. Astra landet im Artificial Analysis Index auf Platz 2 hinter Claude Fable 5.2, Sol ist als günstigere Alltagsvariante gedacht.",
+     "warum_wichtig": "Der Preiskampf der großen Anbieter senkt auch für europäische Nutzer die Kosten für leistungsfähige KI.",
+     "kategorie": "Produkte & Modelle", "quellen": [25, 22]}
+  ]
+}
