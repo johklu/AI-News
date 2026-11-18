@@ -1,134 +1,162 @@
 {
- "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "lage": "Guten Morgen! Deutsche Start-ups ziehen dank des KI-Booms fast doppelt so viel Geld an wie im Vorjahr, und Google bringt seine KI-Suche in Maps nach Deutschland. Irlands Datenschützer bremsen Grok, und Nvidia glänzt trotz Führungskrise mit Rekordzahlen.",
  "deutschland": [
   {
-   "titel": "Treffen von Trump, Xi und Putin: Rüstung, KI - und ein heikles Thema",
-   "zusammenfassung": "Heute beginnt im chinesischen Shenzhen das ASEAN-Treffen. Erstmals wird es zu einem Dreiertreffen von Xi, Trump und Putin kommen. Um was könnte es dabei gehen? Von Christoph Kober.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "tagesschau",
-     "url": "https://www.tagesschau.de/ausland/asien/apec-trump-putin-xi-100.html"
-    }
-   ]
-  },
-  {
-   "titel": "Boom um KI: Gelder für deutsche Start-ups fast verdoppelt - Badische Neueste Nachrichten",
-   "zusammenfassung": "Boom um KI: Gelder für deutsche Start-ups fast verdoppelt Badische Neueste Nachrichten",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "KI-Boom: Deutsche Start-ups sammeln fast doppelt so viel Geld ein",
+   "zusammenfassung": "Laut einer Prognose haben sich die Investitionen in deutsche Start-ups durch den KI-Boom fast verdoppelt. Insgesamt sollen sie 2026 rund 13,4 Milliarden Dollar einsammeln.",
+   "warum_wichtig": "Für Gründerinnen und Gründer in Deutschland verbessert sich der Zugang zu Kapital spürbar.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXh0U2x2RnpBZkpWdjUyNnU4OHhFWkp0UER5NWZYUElCVzM4UjkyMVlHR2loYU5KZ290UFpoTlBGbzEwdFFTZHV5YmotcEU0VjczOXFCcGQ2TFM2Y2g0QWFRNVhTcFE1Y0FmMGVJT3kwajZjTW1nZjBSY1A1MUk0dlVJUlVBTTB6cUF5d0ZkUXlHMGE2elhMVGZOaw?oc=5"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2hBSWtzeEh4R254RDlPUHllNHZvTW9MeTJJenA5UW5IUm5HUURTMEEwN2hnX3kyaEp6NjhLSkFvU0V1MVduTmdqcWlkNk9udkNnVmY1YzNaVlQ3VXJFc0phcU5XX2JsSE9hLVZEWkYxeTJSLXZ3bXNnV0dHNkFBdGZBdDhNTTZGa09WbE1saEpmSnF0dVFjVVp4WEZFUVR5MVA3MmtZVHljdkVvNHVRWnRDdXJNeTRJWU02akJ3cC1pM2I2WkEtb1VQVQ?oc=5"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXZfUzdrNkFBX0hHMWhRRmY4RnZ5N1dZZl9FMEYwanRSbG1JV2pnbU1MMWFBdF9uX2hqXzJHSHNqaXRUZTFNaG9OU2lOUmI3cHRTQWc4T0VWY1RVcGcxcGItU20xeG05WEpNTFp2SUhOZWZXXzdPUnk4TGdFdzlYOHhFTThvV3ZrNVFqQ21ScDlXTVg2WUNfNDdOeXNfNmFvUXRIR2hZdEtqUTZVUzNma0d3?oc=5"
     }
    ]
   },
   {
-   "titel": "Neue Quartalszahlen: Nvidia verdoppelt Umsatz und Gewinn",
-   "zusammenfassung": "Wenige Tage nach der Spionageaffäre rund um den bisherigen Konzernchef Huang hat Nvidia überraschend starke Quartalsergebnisse vorgelegt. Die Zahlen des US-Chipkonzerns lagen deutlich über den Erwartungen von Analysten.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Google startet KI-Suche „Ask Maps“ in Deutschland",
+   "zusammenfassung": "Google bringt seine überarbeitete Kartenfunktion Ask Maps nach Deutschland und in die EU. Sie beantwortet Alltagsfragen, erstellt Reisepläne und soll künftig auch Bestellungen und Termine auslösen können.",
+   "warum_wichtig": "Millionen Maps-Nutzer in Deutschland bekommen damit einen KI-Assistenten direkt in der Navigation.",
+   "kategorie": "Produkte & Modelle",
    "quellen": [
     {
-     "name": "tagesschau",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html"
+     "name": "Golem",
+     "url": "https://www.golem.de/news/ask-maps-startet-in-deutschland-google-maps-wird-zum-ki-guide-2611-215299.html"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaXVkdnBlekhOSlBnakZ0eTFxeUFUU1NKa3pGLUh3MHlMSE5tM0M3aHRlN2pZekw3Y09DM3kzbnlmdTZhbXFuTU04amo3RHhGdFI3NXVGcjVSUlpYMGNkcXN5LWhQaEd6MUJjQnV2UHZ2cUNEeU8xRmlQRlpkdDhnd0xlUGpJOEM2eHNpM2hVaUI4M3FaaHNCMlh3bThNYzgyWUpyZkFTQ25SVDR0UUwyYUFWWHJUcXJtWHE1Ry1USmc4SDdtaVBtUjZYekVSZWpwYU4xQ0RjNHViMUstTnE3d2xjSGRFSGM?oc=5"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFNDY2dMR3NoNE96bV93TGlMVnF0c29nX2xBLVo0bTQtZTNWN0FiRWlNakw4ZFJ4VEhIMWFXQnpQVEVCcXVoZXFHM0lRNG5YWWhWRFMxY0s2YmlwMm1weUY0VGxMQWREM0lfZnN3V0JKcDZlMWR5SW1WYW5qbndnRWR5SmFHeFRJQmc?oc=5"
+    },
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/mit-neuen-ki-funktionen-so-will-google-maps-den-planungsstress-auf-reisen-reduzieren-1773919"
     }
    ]
   },
   {
-   "titel": "Commonwealth Bank of Australia startet KI-gestütztes Cybersicherheitstool - MarketScreener Deutschland",
-   "zusammenfassung": "Commonwealth Bank of Australia startet KI-gestütztes Cybersicherheitstool MarketScreener Deutschland",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Netflix zahlt Synchronsprechern mehr, KI-Klausel bleibt umstritten",
+   "zusammenfassung": "Netflix erhöht die Folgevergütung für deutsche Synchronsprecher und zahlt in deren Altersvorsorge ein. Die umstrittene Klausel zur Nutzung ihrer Stimmen für KI bleibt aber bestehen.",
+   "warum_wichtig": "Der Streit zeigt, wie Kreative in Deutschland um Kontrolle über ihre Stimme im KI-Zeitalter ringen.",
+   "kategorie": "Gesellschaft",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Synchronisation-Netflix-erhoeht-Folgeverguetung-KI-Streit-bleibt-ungeloest-11528133.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "HCLTech und Cohere wollen souveräne KI in Deutschland anbieten",
+   "zusammenfassung": "Der IT-Dienstleister HCLTech kooperiert mit dem KI-Anbieter Cohere, um souveräne KI-Lösungen in Kanada und Deutschland bereitzustellen.",
+   "warum_wichtig": "Unternehmen und Behörden in Deutschland erhalten eine weitere Option für KI unter eigener Datenkontrolle.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSkJmT1JHLU1ndjk5MG1qUWxsa2VZTG84N3BENm5SQTNSbmJnenVuTHlLWnNJMlVuZGk3czJFbS1mZUpqSjVjZ203VU5UM0g1dmo5anJEQlNXWFpoOFE1TnBPWEdmWnRZbVQ1S2ZWX05PZmk5dHgyN2ZiTlFBaHNaNWFpRDFBVFBfbGowM1pGUWg4SlBBQWViTWlDT2FrNXBGalZZOHJyTFZoX2ZHNDN5M1BKS0FYNUhoWEdmbXM5dzc5WGMxd2hpRmd2N0FQWU9mdVh2SU45SQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "KI-Effekte prägen den Stellenmarkt 2026 - Haufe. Intelligenz, die bewegt.",
-   "zusammenfassung": "KI-Effekte prägen den Stellenmarkt 2026 Haufe. Intelligenz, die bewegt.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3lCR1pjS2RNTy00dm40c2NoTFc0dDlDbHNrTmRkTzBtc21CbU96bjF5anNIanJqTFBZUC1zdGpZeExySHlSVFVDcVFEMUlxRmgxRmpEWkVHNTZNTDRZN2tEWHNKTklGaWI5ZXhqdnA2T2JtclUzb291ZWZQMEoxeGtxTUZfbl9RUTJqQ01aNi1SSEgzWnNjYndn?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmh6TlFrc2V2RmtOZ3RNajYxQlBFRWhjbTRza2lEaVdtczFQYTU3YnY0VGlISEIxeUxqSllpWDNVMFVmd1ZsLV9TNWd3UzVyU3k1WVpzQlQxRlZ4NUpoVmcyeXowT2JKVzVFQ1lEMWJXV05UOXlDNndGRXhxQkQ0VHBuZW1FLVZpNXZ0YkJNdUtTZWJQYkE?oc=5"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "Anthropic’s $1.4tn IPO puts Europe’s AI boom to the test",
-   "zusammenfassung": "",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Irische Datenschützer stoppen Grok-Training bei X vorerst",
+   "zusammenfassung": "Nach Bedenken der irischen Datenschutzbehörde hat X das Training seines KI-Systems Grok mit fremden Daten vorerst ausgesetzt.",
+   "warum_wichtig": "Die Daten europäischer Nutzer bleiben damit vorerst außen vor, die irische Behörde ist für viele US-Plattformen in der EU zuständig.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
-     "name": "Sifted",
-     "url": "https://sifted.eu/articles/anthropic-ipo-puts-europe-ai-boom-to-the-test/"
+     "name": "heise online",
+     "url": "https://www.heise.de/news/X-stoppt-Grok-KI-Training-mit-Drittanbieterdaten-auf-Druck-aus-Irland-11528427.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   },
   {
-   "titel": "Exclusive: OpenAI and Meta insiders back startup policing rogue AI agents",
-   "zusammenfassung": "",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Irland droht bei KI-Nacktbildern mit Strafen bis 35 Millionen Euro",
+   "zusammenfassung": "Irland führt Regeln gegen KI-generierte sexualisierte Bilder von Erwachsenen und Kindern ein, Verstöße können mit bis zu 35 Millionen Euro bestraft werden. Die Medienaufsicht soll Verstöße überwachen.",
+   "warum_wichtig": "Das Vorgehen könnte zum Vorbild für andere EU-Staaten im Kampf gegen Deepfake-Missbrauch werden.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
-     "name": "Sifted",
-     "url": "https://sifted.eu/articles/disseqt-ai-agents-rogue/"
-    }
-   ]
-  },
-  {
-   "titel": "European firms grapple with regulatory uncertainty amid AI takeup - Personnel Today",
-   "zusammenfassung": "European firms grapple with regulatory uncertainty amid AI takeup Personnel Today",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkFPYXdqQmNySjZpMk4yTzdlTTJYOWdGMkhXc0pLNjFBZE9pcC1TWHNLSXpxajMwRWk4VFl1c2gwZjNPallZY0xTNk9ab2xfOUlRWjRUNWFfeE55bW9XZGFxVXVtOE1Eamhha0JJa1NvRVNtWjVVQUZ1Zy1WNkhLSFU5d041LW5KR0VwRm93RzB1ejlpSmsybGNjRi1WMWhtdWltNFkxNA?oc=5"
+    },
     {
      "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjlmOV9QYXItRnJwQk1uaXhYbGhRQVZlam1tYkgxZXh4bkxMSl91ZVVwT0NlRkNrRnFEUmF2ZEg4U1RVQWU4djFPWWFSQk1JTXhLakt1cWl5cTdBaTRYcUNzMUg3dkk4ajUzQzNlVm9MOW4yQnMwa09nZ1k5SWZLYWx0QXAxeTJ3WTJPUzBzTlRLLVN3VHhPMllUYXdCWWh4OXc?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92R2hBZndRT2JKU2JlT01ZUXlzMVV3cktGbHZtRnFwREJxUHZGRGgzVnBvRXQwZ1QxUlFlb3dVQlN0bzA0Q0ZWQURDejRpX0l6eEJhSjh5SHFKUUYwM08w?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "OpenAI öffnet Cyber-Tool Daybreak für NATO und europäische Regierungen",
+   "zusammenfassung": "OpenAI stellt sein Cybersicherheits-Werkzeug Daybreak der NATO und mehreren europäischen Regierungen zur Verfügung, darunter Deutschland, Frankreich und Polen. Die EU-Cyberbehörde ENISA hat damit bereits reale Schwachstellen in EU-Software gefunden.",
+   "warum_wichtig": "Europäische Behörden setzen bei der Abwehr von Cyberangriffen zunehmend auf KI aus den USA.",
+   "kategorie": "Sicherheit",
+   "quellen": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/openai-oeffnet-cyber-tool-daybreak-fuer-nato-und-europaeische-verbuendete/"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "Satya Nadella says he’s AGI-pilled now",
-   "zusammenfassung": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at […]",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Nvidia verdoppelt Umsatz und Gewinn, zieht sich aber aus China zurück",
+   "zusammenfassung": "Wenige Tage nach dem Rücktritt von Jensen Huang hat Nvidia überraschend starke Quartalszahlen vorgelegt: Umsatz und Gewinn haben sich verdoppelt. Die Interimschefin kündigte an, keine Chips mehr nach China zu verkaufen, und der Konzern plant nicht, Huang wieder einzusetzen.",
+   "warum_wichtig": "Die Nachfrage nach KI-Chips bleibt ungebrochen, was auch europäische Rechenzentrumspläne betrifft.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html"
+    },
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+    },
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+    },
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
     }
    ]
   },
   {
-   "titel": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-   "zusammenfassung": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "OpenAI veröffentlicht GPT-6.2 Astra und Sol",
+   "zusammenfassung": "Kurz vor dem Börsengang von Anthropic hat OpenAI die Modelle GPT-6.2 Astra und Sol veröffentlicht, die leistungsstärker und günstiger als ihre Vorgänger sind. Astra landet im Artificial Analysis Index auf Platz 2 hinter Claude Fable 5.2, Sol ist als günstigere Alltagsvariante gedacht.",
+   "warum_wichtig": "Der Preiskampf der großen Anbieter senkt auch für europäische Nutzer die Kosten für leistungsfähige KI.",
+   "kategorie": "Produkte & Modelle",
    "quellen": [
     {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/openai-bringt-gpt-6-2-astra-und-sol-mehr-leistung-bei-sinkenden-preisen/"
+    },
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/openai-gpt-6-2-astra-sol-1774058"
     }
    ]
   }
  ],
  "datum": "2026-11-18",
- "erstellt": "2026-11-18T06:41+01:00",
- "modus": "einfach",
+ "erstellt": "2026-11-18T06:42+01:00",
+ "modus": "ki",
  "anzahl_meldungen": 100,
  "feeds": {
   "The Decoder": "9 Meldungen",
