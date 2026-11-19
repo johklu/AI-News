@@ -1,0 +1,150 @@
+{
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "deutschland": [
+  {
+   "titel": "Donnerstag: Anthropics überzeichneter Börsengang, Meta mit noch einem Messenger",
+   "zusammenfassung": "Mehr teurere KI-Aktien + Standalone-Messenger von Instagram + Updates für Lücken in nginx und WordPress + PHP mit Sicherheitsproblemen + Lyft schluckt FreeNow",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Donnerstag-Anthropics-ueberzeichneter-Boersengang-Meta-mit-noch-einem-Messenger-11530299.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "KI-Unternehmen Anthropic gelingt Rekord-Börsengang - MarketScreener Deutschland",
+   "zusammenfassung": "KI-Unternehmen Anthropic gelingt Rekord-Börsengang MarketScreener Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2k3T2d6Ym5KS0ZNLWhPaVppWkctWjkza3hEMWR4UDRTbjFWM1ZScFFSUHhsT2Z0bzh2OVFjaUhSeU5TSEpabFo4akVfWjN1RExyWFo5MzJwZ19JQlNUTmhCOFZnVmw3dXFzWEoxVmtiUE00VnpySTBjUDY5R25wX0NSR3REeFhUa0toVVBoM1dkeGFfaTE0SGpsODJXbFVEeng0U2t3b1hnWEtmX1RLS3pBNWRhV2dk?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "680 Milliarden Dollar: Fed warnt vor Schuldenboom durch KI - DWN | Deutsche Wirtschaftsnachrichten",
+   "zusammenfassung": "680 Milliarden Dollar: Fed warnt vor Schuldenboom durch KI DWN | Deutsche Wirtschaftsnachrichten",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ1RaUl9yRktyZS1EVm93MENKNTN6TWdHUng2TUwwaWFGSEZXYVFxZjdFTmlyS1Fsbml1MW0ySno2OWd5QldsLVBJTEczYVN5SnF6Zk11ZkRxdWRDbDhGYmg3eVNXZ2lfMEd2Qk5rbGtFMUNQM0JhcGtYZ0Y0azdQWU9fU2Jiajg4SGxDalJEcklsZDM2MEt6UmtoQmJaSTEwYi15X1FqSTlpUTFK?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Android Auto bekommt KI: Was Nutzer von Gemini erwarten können",
+   "zusammenfassung": "Der Funktionsumfang von Google Gemini für das Infotainmentsystem in Kraftfahrzeugen wächst mit einem neuen Update weiter an. Doch für die nächste Ausbaustufe gelten abseits der Software gleich mehrere Hürden bei den gekoppelten Endgeräten.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/android-auto-gemini-ki-funktionen-ausblick-1773322"
+    }
+   ]
+  },
+  {
+   "titel": "Malaysia und die USA planen Zusammenarbeit bei souveräner KI-Cloud - MarketScreener Deutschland",
+   "zusammenfassung": "Malaysia und die USA planen Zusammenarbeit bei souveräner KI-Cloud MarketScreener Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQm5aa29RV2J6MVNud0E5VW1UcDVpbC1md3ZSb2w5bmtGSGw4ZjFRaG9ySXd0d1VpTFJiWlFYQ2N1c2RQdHBPa0U2d185MzR2eFkwYUxLTHRaQ0g5MXNJMlphVjNZSkhqYTJkRExRSk8wUXJRQUhYVHlTODJDNVpFNkFhbVpCN2tmY2ZSY3ptc1NieUZ5NjZWNnJSWXBGUTFrelZrdmVsY0xiRjd2YlBqWU1qWnlUbHhqRHBnWlBwLVpEdFlSSkVUUjlzTmtHZw?oc=5"
+    }
+   ]
+  }
+ ],
+ "eu": [
+  {
+   "titel": "The next big bets in AI compute",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/inside-the-next-big-bets-in-ai-compute/"
+    }
+   ]
+  },
+  {
+   "titel": "AI is making teams smaller — and the fight for real talent harder",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/eqt-ai-talent-polly-barnes-opinion/"
+    }
+   ]
+  },
+  {
+   "titel": "Colorado AI Act: What the Replacement ADMT Law Requires From 1 January 2027 - Legal Desire",
+   "zusammenfassung": "Colorado AI Act: What the Replacement ADMT Law Requires From 1 January 2027 Legal Desire",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvT3pnM09CWmY0TlVRTnMxZjk5bDJFWVpzX1JQTVJtazh5M3dzOHhPcjlWX0RxUEg4OEV2MzJKdDJVaVk2Y3RIX3V6Y0JIbmd6c1E?oc=5"
+    }
+   ]
+  }
+ ],
+ "welt": [
+  {
+   "titel": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "zusammenfassung": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+    }
+   ]
+  },
+  {
+   "titel": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "zusammenfassung": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+    }
+   ]
+  }
+ ],
+ "datum": "2026-11-19",
+ "erstellt": "2026-11-19T06:41+01:00",
+ "modus": "einfach",
+ "anzahl_meldungen": 100,
+ "feeds": {
+  "The Decoder": "10 Meldungen",
+  "heise online": "18 Meldungen",
+  "t3n": "10 Meldungen",
+  "Golem": "11 Meldungen",
+  "netzpolitik.org": "0 Meldungen",
+  "tagesschau": "2 Meldungen",
+  "Google News (KI Deutschland)": "39 Meldungen",
+  "Google News (EU KI-Politik)": "21 Meldungen",
+  "Google News (Europe AI)": "17 Meldungen",
+  "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
+  "Sifted": "5 Meldungen",
+  "TechCrunch AI": "20 Meldungen",
+  "The Verge AI": "10 Meldungen",
+  "MIT Technology Review": "2 Meldungen",
+  "Ars Technica AI": "4 Meldungen"
+ }
+}

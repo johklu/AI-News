@@ -1,178 +1,150 @@
 {
- "lage": "Guten Morgen! Deutsche Start-ups ziehen dank des KI-Booms fast doppelt so viel Geld an wie im Vorjahr, und Google bringt seine KI-Suche in Maps nach Deutschland. Irlands Datenschützer bremsen Grok, und Nvidia glänzt trotz Führungskrise mit Rekordzahlen.",
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
  "deutschland": [
   {
-   "titel": "KI-Boom: Deutsche Start-ups sammeln fast doppelt so viel Geld ein",
-   "zusammenfassung": "Laut einer Prognose haben sich die Investitionen in deutsche Start-ups durch den KI-Boom fast verdoppelt. Insgesamt sollen sie 2026 rund 13,4 Milliarden Dollar einsammeln.",
-   "warum_wichtig": "Für Gründerinnen und Gründer in Deutschland verbessert sich der Zugang zu Kapital spürbar.",
-   "kategorie": "Wirtschaft & Startups",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXh0U2x2RnpBZkpWdjUyNnU4OHhFWkp0UER5NWZYUElCVzM4UjkyMVlHR2loYU5KZ290UFpoTlBGbzEwdFFTZHV5YmotcEU0VjczOXFCcGQ2TFM2Y2g0QWFRNVhTcFE1Y0FmMGVJT3kwajZjTW1nZjBSY1A1MUk0dlVJUlVBTTB6cUF5d0ZkUXlHMGE2elhMVGZOaw?oc=5"
-    },
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2hBSWtzeEh4R254RDlPUHllNHZvTW9MeTJJenA5UW5IUm5HUURTMEEwN2hnX3kyaEp6NjhLSkFvU0V1MVduTmdqcWlkNk9udkNnVmY1YzNaVlQ3VXJFc0phcU5XX2JsSE9hLVZEWkYxeTJSLXZ3bXNnV0dHNkFBdGZBdDhNTTZGa09WbE1saEpmSnF0dVFjVVp4WEZFUVR5MVA3MmtZVHljdkVvNHVRWnRDdXJNeTRJWU02akJ3cC1pM2I2WkEtb1VQVQ?oc=5"
-    },
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXZfUzdrNkFBX0hHMWhRRmY4RnZ5N1dZZl9FMEYwanRSbG1JV2pnbU1MMWFBdF9uX2hqXzJHSHNqaXRUZTFNaG9OU2lOUmI3cHRTQWc4T0VWY1RVcGcxcGItU20xeG05WEpNTFp2SUhOZWZXXzdPUnk4TGdFdzlYOHhFTThvV3ZrNVFqQ21ScDlXTVg2WUNfNDdOeXNfNmFvUXRIR2hZdEtqUTZVUzNma0d3?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Google startet KI-Suche „Ask Maps“ in Deutschland",
-   "zusammenfassung": "Google bringt seine überarbeitete Kartenfunktion Ask Maps nach Deutschland und in die EU. Sie beantwortet Alltagsfragen, erstellt Reisepläne und soll künftig auch Bestellungen und Termine auslösen können.",
-   "warum_wichtig": "Millionen Maps-Nutzer in Deutschland bekommen damit einen KI-Assistenten direkt in der Navigation.",
-   "kategorie": "Produkte & Modelle",
-   "quellen": [
-    {
-     "name": "Golem",
-     "url": "https://www.golem.de/news/ask-maps-startet-in-deutschland-google-maps-wird-zum-ki-guide-2611-215299.html"
-    },
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaXVkdnBlekhOSlBnakZ0eTFxeUFUU1NKa3pGLUh3MHlMSE5tM0M3aHRlN2pZekw3Y09DM3kzbnlmdTZhbXFuTU04amo3RHhGdFI3NXVGcjVSUlpYMGNkcXN5LWhQaEd6MUJjQnV2UHZ2cUNEeU8xRmlQRlpkdDhnd0xlUGpJOEM2eHNpM2hVaUI4M3FaaHNCMlh3bThNYzgyWUpyZkFTQ25SVDR0UUwyYUFWWHJUcXJtWHE1Ry1USmc4SDdtaVBtUjZYekVSZWpwYU4xQ0RjNHViMUstTnE3d2xjSGRFSGM?oc=5"
-    },
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFNDY2dMR3NoNE96bV93TGlMVnF0c29nX2xBLVo0bTQtZTNWN0FiRWlNakw4ZFJ4VEhIMWFXQnpQVEVCcXVoZXFHM0lRNG5YWWhWRFMxY0s2YmlwMm1weUY0VGxMQWREM0lfZnN3V0JKcDZlMWR5SW1WYW5qbndnRWR5SmFHeFRJQmc?oc=5"
-    },
-    {
-     "name": "t3n",
-     "url": "https://t3n.de/news/mit-neuen-ki-funktionen-so-will-google-maps-den-planungsstress-auf-reisen-reduzieren-1773919"
-    }
-   ]
-  },
-  {
-   "titel": "Netflix zahlt Synchronsprechern mehr, KI-Klausel bleibt umstritten",
-   "zusammenfassung": "Netflix erhöht die Folgevergütung für deutsche Synchronsprecher und zahlt in deren Altersvorsorge ein. Die umstrittene Klausel zur Nutzung ihrer Stimmen für KI bleibt aber bestehen.",
-   "warum_wichtig": "Der Streit zeigt, wie Kreative in Deutschland um Kontrolle über ihre Stimme im KI-Zeitalter ringen.",
-   "kategorie": "Gesellschaft",
+   "titel": "Donnerstag: Anthropics überzeichneter Börsengang, Meta mit noch einem Messenger",
+   "zusammenfassung": "Mehr teurere KI-Aktien + Standalone-Messenger von Instagram + Updates für Lücken in nginx und WordPress + PHP mit Sicherheitsproblemen + Lyft schluckt FreeNow",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "heise online",
-     "url": "https://www.heise.de/news/Synchronisation-Netflix-erhoeht-Folgeverguetung-KI-Streit-bleibt-ungeloest-11528133.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+     "url": "https://www.heise.de/news/Donnerstag-Anthropics-ueberzeichneter-Boersengang-Meta-mit-noch-einem-Messenger-11530299.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   },
   {
-   "titel": "HCLTech und Cohere wollen souveräne KI in Deutschland anbieten",
-   "zusammenfassung": "Der IT-Dienstleister HCLTech kooperiert mit dem KI-Anbieter Cohere, um souveräne KI-Lösungen in Kanada und Deutschland bereitzustellen.",
-   "warum_wichtig": "Unternehmen und Behörden in Deutschland erhalten eine weitere Option für KI unter eigener Datenkontrolle.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "KI-Unternehmen Anthropic gelingt Rekord-Börsengang - MarketScreener Deutschland",
+   "zusammenfassung": "KI-Unternehmen Anthropic gelingt Rekord-Börsengang MarketScreener Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmh6TlFrc2V2RmtOZ3RNajYxQlBFRWhjbTRza2lEaVdtczFQYTU3YnY0VGlISEIxeUxqSllpWDNVMFVmd1ZsLV9TNWd3UzVyU3k1WVpzQlQxRlZ4NUpoVmcyeXowT2JKVzVFQ1lEMWJXV05UOXlDNndGRXhxQkQ0VHBuZW1FLVZpNXZ0YkJNdUtTZWJQYkE?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2k3T2d6Ym5KS0ZNLWhPaVppWkctWjkza3hEMWR4UDRTbjFWM1ZScFFSUHhsT2Z0bzh2OVFjaUhSeU5TSEpabFo4akVfWjN1RExyWFo5MzJwZ19JQlNUTmhCOFZnVmw3dXFzWEoxVmtiUE00VnpySTBjUDY5R25wX0NSR3REeFhUa0toVVBoM1dkeGFfaTE0SGpsODJXbFVEeng0U2t3b1hnWEtmX1RLS3pBNWRhV2dk?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "680 Milliarden Dollar: Fed warnt vor Schuldenboom durch KI - DWN | Deutsche Wirtschaftsnachrichten",
+   "zusammenfassung": "680 Milliarden Dollar: Fed warnt vor Schuldenboom durch KI DWN | Deutsche Wirtschaftsnachrichten",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ1RaUl9yRktyZS1EVm93MENKNTN6TWdHUng2TUwwaWFGSEZXYVFxZjdFTmlyS1Fsbml1MW0ySno2OWd5QldsLVBJTEczYVN5SnF6Zk11ZkRxdWRDbDhGYmg3eVNXZ2lfMEd2Qk5rbGtFMUNQM0JhcGtYZ0Y0azdQWU9fU2Jiajg4SGxDalJEcklsZDM2MEt6UmtoQmJaSTEwYi15X1FqSTlpUTFK?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Android Auto bekommt KI: Was Nutzer von Gemini erwarten können",
+   "zusammenfassung": "Der Funktionsumfang von Google Gemini für das Infotainmentsystem in Kraftfahrzeugen wächst mit einem neuen Update weiter an. Doch für die nächste Ausbaustufe gelten abseits der Software gleich mehrere Hürden bei den gekoppelten Endgeräten.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/android-auto-gemini-ki-funktionen-ausblick-1773322"
+    }
+   ]
+  },
+  {
+   "titel": "Malaysia und die USA planen Zusammenarbeit bei souveräner KI-Cloud - MarketScreener Deutschland",
+   "zusammenfassung": "Malaysia und die USA planen Zusammenarbeit bei souveräner KI-Cloud MarketScreener Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQm5aa29RV2J6MVNud0E5VW1UcDVpbC1md3ZSb2w5bmtGSGw4ZjFRaG9ySXd0d1VpTFJiWlFYQ2N1c2RQdHBPa0U2d185MzR2eFkwYUxLTHRaQ0g5MXNJMlphVjNZSkhqYTJkRExRSk8wUXJRQUhYVHlTODJDNVpFNkFhbVpCN2tmY2ZSY3ptc1NieUZ5NjZWNnJSWXBGUTFrelZrdmVsY0xiRjd2YlBqWU1qWnlUbHhqRHBnWlBwLVpEdFlSSkVUUjlzTmtHZw?oc=5"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "Irische Datenschützer stoppen Grok-Training bei X vorerst",
-   "zusammenfassung": "Nach Bedenken der irischen Datenschutzbehörde hat X das Training seines KI-Systems Grok mit fremden Daten vorerst ausgesetzt.",
-   "warum_wichtig": "Die Daten europäischer Nutzer bleiben damit vorerst außen vor, die irische Behörde ist für viele US-Plattformen in der EU zuständig.",
-   "kategorie": "Politik & Regulierung",
+   "titel": "The next big bets in AI compute",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/X-stoppt-Grok-KI-Training-mit-Drittanbieterdaten-auf-Druck-aus-Irland-11528427.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/inside-the-next-big-bets-in-ai-compute/"
     }
    ]
   },
   {
-   "titel": "Irland droht bei KI-Nacktbildern mit Strafen bis 35 Millionen Euro",
-   "zusammenfassung": "Irland führt Regeln gegen KI-generierte sexualisierte Bilder von Erwachsenen und Kindern ein, Verstöße können mit bis zu 35 Millionen Euro bestraft werden. Die Medienaufsicht soll Verstöße überwachen.",
-   "warum_wichtig": "Das Vorgehen könnte zum Vorbild für andere EU-Staaten im Kampf gegen Deepfake-Missbrauch werden.",
-   "kategorie": "Politik & Regulierung",
+   "titel": "AI is making teams smaller — and the fight for real talent harder",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkFPYXdqQmNySjZpMk4yTzdlTTJYOWdGMkhXc0pLNjFBZE9pcC1TWHNLSXpxajMwRWk4VFl1c2gwZjNPallZY0xTNk9ab2xfOUlRWjRUNWFfeE55bW9XZGFxVXVtOE1Eamhha0JJa1NvRVNtWjVVQUZ1Zy1WNkhLSFU5d041LW5KR0VwRm93RzB1ejlpSmsybGNjRi1WMWhtdWltNFkxNA?oc=5"
-    },
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/eqt-ai-talent-polly-barnes-opinion/"
+    }
+   ]
+  },
+  {
+   "titel": "Colorado AI Act: What the Replacement ADMT Law Requires From 1 January 2027 - Legal Desire",
+   "zusammenfassung": "Colorado AI Act: What the Replacement ADMT Law Requires From 1 January 2027 Legal Desire",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
     {
      "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92R2hBZndRT2JKU2JlT01ZUXlzMVV3cktGbHZtRnFwREJxUHZGRGgzVnBvRXQwZ1QxUlFlb3dVQlN0bzA0Q0ZWQURDejRpX0l6eEJhSjh5SHFKUUYwM08w?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "OpenAI öffnet Cyber-Tool Daybreak für NATO und europäische Regierungen",
-   "zusammenfassung": "OpenAI stellt sein Cybersicherheits-Werkzeug Daybreak der NATO und mehreren europäischen Regierungen zur Verfügung, darunter Deutschland, Frankreich und Polen. Die EU-Cyberbehörde ENISA hat damit bereits reale Schwachstellen in EU-Software gefunden.",
-   "warum_wichtig": "Europäische Behörden setzen bei der Abwehr von Cyberangriffen zunehmend auf KI aus den USA.",
-   "kategorie": "Sicherheit",
-   "quellen": [
-    {
-     "name": "The Decoder",
-     "url": "https://the-decoder.de/openai-oeffnet-cyber-tool-daybreak-fuer-nato-und-europaeische-verbuendete/"
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvT3pnM09CWmY0TlVRTnMxZjk5bDJFWVpzX1JQTVJtazh5M3dzOHhPcjlWX0RxUEg4OEV2MzJKdDJVaVk2Y3RIX3V6Y0JIbmd6c1E?oc=5"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "Nvidia verdoppelt Umsatz und Gewinn, zieht sich aber aus China zurück",
-   "zusammenfassung": "Wenige Tage nach dem Rücktritt von Jensen Huang hat Nvidia überraschend starke Quartalszahlen vorgelegt: Umsatz und Gewinn haben sich verdoppelt. Die Interimschefin kündigte an, keine Chips mehr nach China zu verkaufen, und der Konzern plant nicht, Huang wieder einzusetzen.",
-   "warum_wichtig": "Die Nachfrage nach KI-Chips bleibt ungebrochen, was auch europäische Rechenzentrumspläne betrifft.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "zusammenfassung": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "tagesschau",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html"
-    },
-    {
      "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
-    },
-    {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
-    },
-    {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+     "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
     }
    ]
   },
   {
-   "titel": "OpenAI veröffentlicht GPT-6.2 Astra und Sol",
-   "zusammenfassung": "Kurz vor dem Börsengang von Anthropic hat OpenAI die Modelle GPT-6.2 Astra und Sol veröffentlicht, die leistungsstärker und günstiger als ihre Vorgänger sind. Astra landet im Artificial Analysis Index auf Platz 2 hinter Claude Fable 5.2, Sol ist als günstigere Alltagsvariante gedacht.",
-   "warum_wichtig": "Der Preiskampf der großen Anbieter senkt auch für europäische Nutzer die Kosten für leistungsfähige KI.",
-   "kategorie": "Produkte & Modelle",
+   "titel": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "zusammenfassung": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "The Decoder",
-     "url": "https://the-decoder.de/openai-bringt-gpt-6-2-astra-und-sol-mehr-leistung-bei-sinkenden-preisen/"
-    },
-    {
-     "name": "t3n",
-     "url": "https://t3n.de/news/openai-gpt-6-2-astra-sol-1774058"
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
     }
    ]
   }
  ],
- "datum": "2026-11-18",
- "erstellt": "2026-11-18T06:42+01:00",
- "modus": "ki",
+ "datum": "2026-11-19",
+ "erstellt": "2026-11-19T06:41+01:00",
+ "modus": "einfach",
  "anzahl_meldungen": 100,
  "feeds": {
-  "The Decoder": "9 Meldungen",
-  "heise online": "25 Meldungen",
+  "The Decoder": "10 Meldungen",
+  "heise online": "18 Meldungen",
   "t3n": "10 Meldungen",
-  "Golem": "8 Meldungen",
+  "Golem": "11 Meldungen",
   "netzpolitik.org": "0 Meldungen",
-  "tagesschau": "4 Meldungen",
-  "Google News (KI Deutschland)": "42 Meldungen",
-  "Google News (EU KI-Politik)": "9 Meldungen",
-  "Google News (Europe AI)": "15 Meldungen",
+  "tagesschau": "2 Meldungen",
+  "Google News (KI Deutschland)": "39 Meldungen",
+  "Google News (EU KI-Politik)": "21 Meldungen",
+  "Google News (Europe AI)": "17 Meldungen",
   "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
-  "Sifted": "3 Meldungen",
+  "Sifted": "5 Meldungen",
   "TechCrunch AI": "20 Meldungen",
   "The Verge AI": "10 Meldungen",
   "MIT Technology Review": "2 Meldungen",
-  "Ars Technica AI": "7 Meldungen"
+  "Ars Technica AI": "4 Meldungen"
  }
 }
