@@ -1,0 +1,150 @@
+{
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "deutschland": [
+  {
+   "titel": "Freitag: London muss Apple-Hintertür zugeben, Niederlande warnen vor KI-Brillen",
+   "zusammenfassung": "Gericht für Backdoor-Geständnis + Datenschützer gegen KI-Brillen + Notfallwarnung als Handy-Finder + PHP-Updates gegen akute Lücken + Verbraucherschutz-Podcast",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Freitag-London-muss-Apple-Hintertuer-zugeben-Niederlande-warnen-vor-KI-Brillen-11531935.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Jugendproteste: Nimmt KI jungen Menschen die Arbeit weg? - WirtschaftsWoche",
+   "zusammenfassung": "Jugendproteste: Nimmt KI jungen Menschen die Arbeit weg? WirtschaftsWoche",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSTlhSlJJLWdudmdnN2RtLVdlVVNnTGV4OXM3RjB0eFJKYzU0Y3JrN1FnbDVNUkNGNm83WGVRMWRlQUVJODFaSDJDbm5RZjlxRklCS3JseldNazhXemdGeWVhc2NlQlo0ZEZPQlpCRm9fWkRyTDdkeUFaYnhtX3EzVEwwUVp1amd0SDdULVFXSWZEWkpLb0dZU1Q5UFJBZG1hYVYwLXBoMzg1TEdSZGc?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Niederländische Datenschutzbehörde warnt vor Nutzung KI-gestützter Smart Glasses",
+   "zusammenfassung": "Nach Studie verschiedener KI-Brillen raten Datenschützer vom Kauf ab. Diese könnten Nutzer falsche oder illegale Ratschläge geben und sie sogar gefährden.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Niederlaendische-Datenschutzbehoerde-warnt-vor-Nutzung-KI-gestuetzter-Smart-Glasses-11531921.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Apple entwickelt KI-Agenten zur Gerätesteuerung, Webnavigation und Programmierung - MarketScreener Deutschland",
+   "zusammenfassung": "Apple entwickelt KI-Agenten zur Gerätesteuerung, Webnavigation und Programmierung MarketScreener Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOW16WlpkeFkyR3FQSGVUQkhxamFSa0N4VlNETXk4V3ZUdjlCWkRRQlJ3VHNTRmlaU2NMTWtZQ3Ewa3FKZHA1WDJ6YVNUcHBZd2JqYWZSbW9PbUh5SWU5VGlQT0lqbDRrTXhsaHZGRHg3S09zQVNjbzJLZk9GcUN2d0tick1wWWFkN0ZQaVlXWkRFX19sSzZUSFh3R1B0YmpWaDlHY0ZZWTVSTmFvSkZHTGdoR081UW1VMlR1OThscEhRcWRKRDVGZ1hlNk8zZTlNM2xTekhDbnpIQVI4eFVsQw?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Anthropic-Aktie rutscht bei Debüt vom hohen Startkurs ab - Onetz",
+   "zusammenfassung": "Anthropic-Aktie rutscht bei Debüt vom hohen Startkurs ab Onetz",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWtTMFVlSVFObTR4Vzl4QlNRN0ZxUzJpQ1ZrWHdKbXhWbjh4VzlRcG52a0ZGU04zY1RHYjcxcEVId2FOVzA2MkphUkpCNEkxVlJ4OFlHVXBlUEJKQ1dkMTJSX3F0UDItYXhOUmJYeHUzSE9laHpjblVOeHpMNkpGbXNoUG9vbUdIQlNDNTgybWhCaEV1UjZTNVotNkkwQQ?oc=5"
+    }
+   ]
+  }
+ ],
+ "eu": [
+  {
+   "titel": "UK AI minister rejects calls for sovereign model, sparking backlash: 'I'm so angry'",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/kanishka-narayan-ai-uk-minister-sovereign/"
+    }
+   ]
+  },
+  {
+   "titel": "KI-Literacy-Zertifikat der EU: Erprobung soll im Schuljahr 2027/ 28 starten - ad-hoc-news.de",
+   "zusammenfassung": "KI-Literacy-Zertifikat der EU: Erprobung soll im Schuljahr 2027/ 28 starten ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHNLM1J5YzJuOW4xd1JMVFA5bGVjcTF5blRGLU4xb1pFMktJOTFZMFNZLVJxbVVScWUyVlN4bGF3YXR2aTlUOFA5czB6UV9RNjlpYkZZOENjYWg5ZDN4WFQ0dUFBSURBZTU3RHh2MW50a1MwTGE2V1RpWHM3VDhEVFVDYzhKcGVIa0twdkRMSmJQSTZDN2dZWDZobVFqQUdjQkVyVTNZbDZKNnlSZVNSVTUzZ0s4bDNUb3JOY3RGbw?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Senators Propose AUDIT AI Act on AI Financing - Wisevoter",
+   "zusammenfassung": "Senators Propose AUDIT AI Act on AI Financing Wisevoter",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEg3dnhSZkZ1VmhQYjd2UHc4ejBFQlFpS241Mkt0bkJTaXM0LThQaXZRYW1WVGp1SmoyeXhMalZHRXJ6V3ZKbnNVS0lFRGJ3QzVfQ0R1T09SdGxtSXp4NEZrMlpqemtnVXlFSUdnOTZZWlo2WkRQUml6cWFSaC1RU2pGZnk?oc=5"
+    }
+   ]
+  }
+ ],
+ "welt": [
+  {
+   "titel": "Apple may be developing its own AI agent that runs your Mac",
+   "zusammenfassung": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+    }
+   ]
+  },
+  {
+   "titel": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "zusammenfassung": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+    }
+   ]
+  }
+ ],
+ "datum": "2026-11-20",
+ "erstellt": "2026-11-20T06:42+01:00",
+ "modus": "einfach",
+ "anzahl_meldungen": 100,
+ "feeds": {
+  "The Decoder": "9 Meldungen",
+  "heise online": "16 Meldungen",
+  "t3n": "10 Meldungen",
+  "Golem": "6 Meldungen",
+  "netzpolitik.org": "1 Meldungen",
+  "tagesschau": "7 Meldungen",
+  "Google News (KI Deutschland)": "57 Meldungen",
+  "Google News (EU KI-Politik)": "14 Meldungen",
+  "Google News (Europe AI)": "24 Meldungen",
+  "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
+  "Sifted": "4 Meldungen",
+  "TechCrunch AI": "20 Meldungen",
+  "The Verge AI": "10 Meldungen",
+  "MIT Technology Review": "0 Meldungen",
+  "Ars Technica AI": "3 Meldungen"
+ }
+}
