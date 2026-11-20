@@ -1,0 +1,50 @@
+{
+  "stand": "2026-11-20T05:42:11+00:00",
+  "lage": "Guten Morgen! Die Deutsche Telekom steigt mit 100 Millionen Euro bei Mistral ein, und das BSI warnt vor KI-Cyberangriffen in nie dagewesenem Ausmaß. In Brüssel traf ein solcher Angriff bereits die EU-Kommission, während Anthropic einen fulminanten Börsenstart hinlegt.",
+  "deutschland": [
+    {"titel": "Deutsche Telekom investiert 100 Millionen Euro in Mistral AI",
+     "zusammenfassung": "Die Deutsche Telekom beteiligt sich mit 100 Millionen Euro am französischen KI-Start-up Mistral AI. Unternehmen und Behörden sollen so mit „vertrauenswürdiger KI aus Europa“ versorgt werden.",
+     "warum_wichtig": "Deutsche Firmen und Verwaltungen erhalten damit leichter Zugang zu einer europäischen Alternative zu US-Modellen.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [85, 68, 20, 36, 63]},
+    {"titel": "BSI warnt vor KI-Cyberangriffen in ungekannten Mengen",
+     "zusammenfassung": "Weil sich Sicherheitslücken mit KI deutlich einfacher und schneller ausnutzen lassen, warnt das Bundesamt für Sicherheit in der Informationstechnik vor Cyberangriffen in bisher ungekannten Mengen und Geschwindigkeiten. Viele Unternehmen seien nur schlecht geschützt, die Reaktionszeiten würden immer kürzer.",
+     "warum_wichtig": "Unternehmen in Deutschland müssen Sicherheitsupdates schneller einspielen und ihre Abwehr verstärken.",
+     "kategorie": "Sicherheit", "quellen": [94, 46, 38]},
+    {"titel": "IT-Ethikerin Judith Simon schlägt Haftstrafen für Chefs bei KI-Schäden vor",
+     "zusammenfassung": "Die IT-Ethik-Expertin Judith Simon fordert, dass Schäden durch KI-Agenten ähnlich ernst genommen werden wie Hackerangriffe durch Menschen. Sie bringt dafür auch Haftstrafen für verantwortliche Unternehmenschefs ins Spiel.",
+     "warum_wichtig": "Die Debatte um die Haftung für KI-Agenten erreicht damit auch Deutschland.",
+     "kategorie": "Gesellschaft", "quellen": [72, 73]},
+    {"titel": "Hamburg und Schleswig-Holstein verknüpfen DSGVO und AI Act",
+     "zusammenfassung": "Die Datenschutzbehörden von Hamburg und Schleswig-Holstein haben ein Papier vorgelegt, das Datenschutz-Grundverordnung und KI-Verordnung miteinander verbindet.",
+     "warum_wichtig": "Unternehmen erhalten Orientierung, wie sie beide Regelwerke beim KI-Einsatz gemeinsam erfüllen.",
+     "kategorie": "Politik & Regulierung", "quellen": [82]},
+    {"titel": "NRW startet Webportal mit KI-Suche für Verwaltungsleistungen",
+     "zusammenfassung": "Nordrhein-Westfalen hat ein neues Webportal vorgestellt, das Bürgern mit einer KI-Suche helfen soll, sich bei den digitalen Verwaltungsleistungen zurechtzufinden.",
+     "warum_wichtig": "KI soll den Zugang zu Behördenleistungen für Bürgerinnen und Bürger einfacher machen.",
+     "kategorie": "Gesellschaft", "quellen": [66]}
+  ],
+  "eu": [
+    {"titel": "KI-gestützter Cyberangriff legt Systeme der EU-Kommission lahm",
+     "zusammenfassung": "Die EU-Kommission ist Ziel eines KI-gestützten Hackerangriffs geworden, der ihre Personalsysteme tagelang lahmlegte. Vermutet wird der Missbrauch des KI-Tools Artex, vor dem CERT-EU gewarnt hatte; ob Daten der mehr als 33.000 Beschäftigten gestohlen wurden, ist offen.",
+     "warum_wichtig": "Der Angriff zeigt, dass KI-Werkzeuge auch zentrale Institutionen der EU verwundbar machen.",
+     "kategorie": "Sicherheit", "quellen": [78, 56]},
+    {"titel": "Menschenrechtsgerichtshof schließt Anwältin wegen KI-Halluzinationen aus",
+     "zusammenfassung": "Der Europäische Gerichtshof für Menschenrechte in Straßburg hat erstmals eine Anwältin ausgeschlossen, weil ihr Schriftsatz voller von KI erfundener Präzedenzfälle war.",
+     "warum_wichtig": "Nach dem BGH zieht nun auch ein europäisches Gericht klare Konsequenzen aus ungeprüften KI-Texten.",
+     "kategorie": "Gesellschaft", "quellen": [53]},
+    {"titel": "Niederländische Datenschützer raten von KI-Brillen ab",
+     "zusammenfassung": "Nach einer Studie verschiedener KI-Brillen rät die niederländische Datenschutzbehörde vom Kauf ab. Die Geräte könnten Nutzern falsche oder illegale Ratschläge geben und sie sogar gefährden.",
+     "warum_wichtig": "Die Warnung dürfte auch die Debatte über KI-Brillen in Deutschland beeinflussen.",
+     "kategorie": "Gesellschaft", "quellen": [4]}
+  ],
+  "welt": [
+    {"titel": "Anthropic legt Rekord-Börsengang mit Kurssprung hin",
+     "zusammenfassung": "Anthropic hat mit 81,3 Milliarden Dollar den größten Börsengang aller Zeiten abgeschlossen und damit SpaceX überholt. Die Aktie startete an der Nasdaq bei 111,50 Dollar, rund ein Drittel über dem Ausgabepreis von 83 Dollar, gab danach aber etwas nach.",
+     "warum_wichtig": "Der Erfolg gilt als Signal für das Vertrauen in die KI-Branche, auch für europäische Anbieter und Investoren.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [15, 50, 87, 45, 16]},
+    {"titel": "Neue US-Chipregeln zeigen Wirkung: TSMC und Samsung stoppen China-Lieferungen",
+     "zusammenfassung": "Die verschärften US-Exportkontrollen wirken sofort: Chinas Moonshot AI stornierte einen 150-Millionen-Dollar-Deal in Indonesien. TSMC und Samsung stoppten Lieferungen an chinesische Kunden.",
+     "warum_wichtig": "Die Verschiebungen im globalen Chipmarkt beeinflussen auch Preise und Verfügbarkeit für europäische Rechenzentren.",
+     "kategorie": "Politik & Regulierung", "quellen": [54]}
+  ]
+}
