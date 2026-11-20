@@ -1,134 +1,182 @@
 {
- "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "lage": "Guten Morgen! Die Deutsche Telekom steigt mit 100 Millionen Euro bei Mistral ein, und das BSI warnt vor KI-Cyberangriffen in nie dagewesenem Ausmaß. In Brüssel traf ein solcher Angriff bereits die EU-Kommission, während Anthropic einen fulminanten Börsenstart hinlegt.",
  "deutschland": [
   {
-   "titel": "Freitag: London muss Apple-Hintertür zugeben, Niederlande warnen vor KI-Brillen",
-   "zusammenfassung": "Gericht für Backdoor-Geständnis + Datenschützer gegen KI-Brillen + Notfallwarnung als Handy-Finder + PHP-Updates gegen akute Lücken + Verbraucherschutz-Podcast",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Deutsche Telekom investiert 100 Millionen Euro in Mistral AI",
+   "zusammenfassung": "Die Deutsche Telekom beteiligt sich mit 100 Millionen Euro am französischen KI-Start-up Mistral AI. Unternehmen und Behörden sollen so mit „vertrauenswürdiger KI aus Europa“ versorgt werden.",
+   "warum_wichtig": "Deutsche Firmen und Verwaltungen erhalten damit leichter Zugang zu einer europäischen Alternative zu US-Modellen.",
+   "kategorie": "Wirtschaft & Startups",
+   "quellen": [
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html"
+    },
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/telekom-mistral-ki-europa-1774412"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzlUeUtnX0JxdU5jREtaQ3N5ZFZ1dXNqeDJHS2lNVDZUSWpuZUlsaHlUX0VBQUZPcndPeWRUUHZBTnlJTnpoRzBQVlV6LWtuakZCTWZtaEZwVF8tc3pMT3pjUkpybTNxZldQUFNOc1o2eUJ3WDltallYa2hIVjllSm5wZUdFY0lZQlhiMHE2SEEtWUpUdHRqRGhoZklaQk1D?oc=5"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjAtdUFIbDQxSzVDVzNrT09LcHZxSVpxM1hRbEhxdTloNHd3MS1hTmJTY3JsdlBKZHppQjRPbkdjN3BxV01YaUZDcS04NTVCWnBvU0xoSWJKNGI0ZVhHUlJUd2J1aUhqaUFqNnZGZGxlT1FTbF9fNXp0Sm5zT3VpMXR6SkVITUFpUkZyanlZYl9LUlpRMmRSVVZNNzVTU3M5Q2VhbktFSF9JbWFubnp1YldyX2Q4X3ZOdXJmREV2WkhFVG91djJtYTdqUm0?oc=5"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnN4NFNFb19mM2ZzeXhhTGVtRXBjZzA5eFJJYy15RktmclpTVXpQMGxlWVdVU3BISWxqblBkSFlkVVpCVkpCNjZ0ckxEWDRXbWItNVZ5Z0xzVG9na1ctTTM1U3AwNHNEYWJXOTgwSWM4UDBrd2d4V0UwejRLNmx0MWhVcXhZY2FSTjFVbXdoaEo4SzJta1ZJX3dLZ2xYWXJYRTlYcklUZG1pWVpZZ0IyakNCTThmY09ENnRDMV84MVFuNVNPQldJNU9xUGU?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "BSI warnt vor KI-Cyberangriffen in ungekannten Mengen",
+   "zusammenfassung": "Weil sich Sicherheitslücken mit KI deutlich einfacher und schneller ausnutzen lassen, warnt das Bundesamt für Sicherheit in der Informationstechnik vor Cyberangriffen in bisher ungekannten Mengen und Geschwindigkeiten. Viele Unternehmen seien nur schlecht geschützt, die Reaktionszeiten würden immer kürzer.",
+   "warum_wichtig": "Unternehmen in Deutschland müssen Sicherheitsupdates schneller einspielen und ihre Abwehr verstärken.",
+   "kategorie": "Sicherheit",
+   "quellen": [
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/bsi-sicherheitslage-bericht-100.html"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUxQN25YNzJ4Z2xmV2ozWDdlVHRINkFFS2JYX1JEa1NjbXg4bjdqZDI3bngzNTNxRGp0RFhtNDR6dDhsTGZZdk5QZ05QZDFYVXZQTmIwVTJmdHFSVC1heHNRTW5KaVBhX3RSbW9zY05XSmM3OGZnbzRmLUE2LV84NWpwSllHZ2NLRlNVdm5pbmpsN3k3Nkhr?oc=5"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa09yM21uTHlVaEFSU1Uycmg5eWxYdjFsWVE5d3YzQVR3WHFKazA0YUk2ZDRUYVB1SkNUelczSTZabEdTb3ZEYi1IMXJMZzJxQnFnSGNyTzZvTFAwdjVydE5wdVJrWEhWSFpjRjExenBCaVZkQlk3c0syTWgzQVhFYzEtb21XUkRtS1ZxaWJaZ2NPb014aEJTcjVoYVNXUGRqWUZNdndwOTVXdzNyQVMtUmlLMWtEZ3lNWnUwTDVSelFMZG8?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "IT-Ethikerin Judith Simon schlägt Haftstrafen für Chefs bei KI-Schäden vor",
+   "zusammenfassung": "Die IT-Ethik-Expertin Judith Simon fordert, dass Schäden durch KI-Agenten ähnlich ernst genommen werden wie Hackerangriffe durch Menschen. Sie bringt dafür auch Haftstrafen für verantwortliche Unternehmenschefs ins Spiel.",
+   "warum_wichtig": "Die Debatte um die Haftung für KI-Agenten erreicht damit auch Deutschland.",
+   "kategorie": "Gesellschaft",
+   "quellen": [
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/ki-agenten-haftung-haftstrafe-openai-1774291"
+    },
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mX1UzR2YwN3R5TUI2SzRIVkJIZ21uMUV4Q041MnRhRjgtVnd2dnZYSkdJN1c4dWVwZzZHYTExZEV3TW1waENITl9iN1BEQ0g0SXJKQWJMQmxsdmZGeVk1WTZObmhPTW1QUmEzX2xNNUxCRjg?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Hamburg und Schleswig-Holstein verknüpfen DSGVO und AI Act",
+   "zusammenfassung": "Die Datenschutzbehörden von Hamburg und Schleswig-Holstein haben ein Papier vorgelegt, das Datenschutz-Grundverordnung und KI-Verordnung miteinander verbindet.",
+   "warum_wichtig": "Unternehmen erhalten Orientierung, wie sie beide Regelwerke beim KI-Einsatz gemeinsam erfüllen.",
+   "kategorie": "Politik & Regulierung",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWNZdEd6Ujg5ekFwVHJIUmdteUVTLWxxaWJoMVhuLVpFdzVrZXpkQldON0E3a1NDeWF6SWttckdaend1UWgwejRiLUl5Vjk4VVN1amJ6alUyQVVnZUJ4el9YUUN1ZVRLbEluUDdVaVl2cnJ5bkFzY2dVYVRESzFpLVF6bjVfaWs1X2JSR1lNNkI3TC11TDhUMlViRUtqY0RBby1sTmNjdVpmY2g0YXJwNDVjSnNRN2pfbFZr?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "NRW startet Webportal mit KI-Suche für Verwaltungsleistungen",
+   "zusammenfassung": "Nordrhein-Westfalen hat ein neues Webportal vorgestellt, das Bürgern mit einer KI-Suche helfen soll, sich bei den digitalen Verwaltungsleistungen zurechtzufinden.",
+   "warum_wichtig": "KI soll den Zugang zu Behördenleistungen für Bürgerinnen und Bürger einfacher machen.",
+   "kategorie": "Gesellschaft",
    "quellen": [
     {
      "name": "heise online",
-     "url": "https://www.heise.de/news/Freitag-London-muss-Apple-Hintertuer-zugeben-Niederlande-warnen-vor-KI-Brillen-11531935.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "titel": "Jugendproteste: Nimmt KI jungen Menschen die Arbeit weg? - WirtschaftsWoche",
-   "zusammenfassung": "Jugendproteste: Nimmt KI jungen Menschen die Arbeit weg? WirtschaftsWoche",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSTlhSlJJLWdudmdnN2RtLVdlVVNnTGV4OXM3RjB0eFJKYzU0Y3JrN1FnbDVNUkNGNm83WGVRMWRlQUVJODFaSDJDbm5RZjlxRklCS3JseldNazhXemdGeWVhc2NlQlo0ZEZPQlpCRm9fWkRyTDdkeUFaYnhtX3EzVEwwUVp1amd0SDdULVFXSWZEWkpLb0dZU1Q5UFJBZG1hYVYwLXBoMzg1TEdSZGc?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Niederländische Datenschutzbehörde warnt vor Nutzung KI-gestützter Smart Glasses",
-   "zusammenfassung": "Nach Studie verschiedener KI-Brillen raten Datenschützer vom Kauf ab. Diese könnten Nutzer falsche oder illegale Ratschläge geben und sie sogar gefährden.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/Niederlaendische-Datenschutzbehoerde-warnt-vor-Nutzung-KI-gestuetzter-Smart-Glasses-11531921.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "titel": "Apple entwickelt KI-Agenten zur Gerätesteuerung, Webnavigation und Programmierung - MarketScreener Deutschland",
-   "zusammenfassung": "Apple entwickelt KI-Agenten zur Gerätesteuerung, Webnavigation und Programmierung MarketScreener Deutschland",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOW16WlpkeFkyR3FQSGVUQkhxamFSa0N4VlNETXk4V3ZUdjlCWkRRQlJ3VHNTRmlaU2NMTWtZQ3Ewa3FKZHA1WDJ6YVNUcHBZd2JqYWZSbW9PbUh5SWU5VGlQT0lqbDRrTXhsaHZGRHg3S09zQVNjbzJLZk9GcUN2d0tick1wWWFkN0ZQaVlXWkRFX19sSzZUSFh3R1B0YmpWaDlHY0ZZWTVSTmFvSkZHTGdoR081UW1VMlR1OThscEhRcWRKRDVGZ1hlNk8zZTlNM2xTekhDbnpIQVI4eFVsQw?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Anthropic-Aktie rutscht bei Debüt vom hohen Startkurs ab - Onetz",
-   "zusammenfassung": "Anthropic-Aktie rutscht bei Debüt vom hohen Startkurs ab Onetz",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWtTMFVlSVFObTR4Vzl4QlNRN0ZxUzJpQ1ZrWHdKbXhWbjh4VzlRcG52a0ZGU04zY1RHYjcxcEVId2FOVzA2MkphUkpCNEkxVlJ4OFlHVXBlUEJKQ1dkMTJSX3F0UDItYXhOUmJYeHUzSE9laHpjblVOeHpMNkpGbXNoUG9vbUdIQlNDNTgybWhCaEV1UjZTNVotNkkwQQ?oc=5"
+     "url": "https://www.heise.de/news/Mit-KI-Suche-durch-den-Behoerden-Dschungel-NRW-stellt-neues-Webportal-vor-11531345.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "UK AI minister rejects calls for sovereign model, sparking backlash: 'I'm so angry'",
-   "zusammenfassung": "",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "KI-gestützter Cyberangriff legt Systeme der EU-Kommission lahm",
+   "zusammenfassung": "Die EU-Kommission ist Ziel eines KI-gestützten Hackerangriffs geworden, der ihre Personalsysteme tagelang lahmlegte. Vermutet wird der Missbrauch des KI-Tools Artex, vor dem CERT-EU gewarnt hatte; ob Daten der mehr als 33.000 Beschäftigten gestohlen wurden, ist offen.",
+   "warum_wichtig": "Der Angriff zeigt, dass KI-Werkzeuge auch zentrale Institutionen der EU verwundbar machen.",
+   "kategorie": "Sicherheit",
    "quellen": [
     {
-     "name": "Sifted",
-     "url": "https://sifted.eu/articles/kanishka-narayan-ai-uk-minister-sovereign/"
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html"
+    },
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   },
   {
-   "titel": "KI-Literacy-Zertifikat der EU: Erprobung soll im Schuljahr 2027/ 28 starten - ad-hoc-news.de",
-   "zusammenfassung": "KI-Literacy-Zertifikat der EU: Erprobung soll im Schuljahr 2027/ 28 starten ad-hoc-news.de",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Menschenrechtsgerichtshof schließt Anwältin wegen KI-Halluzinationen aus",
+   "zusammenfassung": "Der Europäische Gerichtshof für Menschenrechte in Straßburg hat erstmals eine Anwältin ausgeschlossen, weil ihr Schriftsatz voller von KI erfundener Präzedenzfälle war.",
+   "warum_wichtig": "Nach dem BGH zieht nun auch ein europäisches Gericht klare Konsequenzen aus ungeprüften KI-Texten.",
+   "kategorie": "Gesellschaft",
    "quellen": [
     {
-     "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHNLM1J5YzJuOW4xd1JMVFA5bGVjcTF5blRGLU4xb1pFMktJOTFZMFNZLVJxbVVScWUyVlN4bGF3YXR2aTlUOFA5czB6UV9RNjlpYkZZOENjYWg5ZDN4WFQ0dUFBSURBZTU3RHh2MW50a1MwTGE2V1RpWHM3VDhEVFVDYzhKcGVIa0twdkRMSmJQSTZDN2dZWDZobVFqQUdjQkVyVTNZbDZKNnlSZVNSVTUzZ0s4bDNUb3JOY3RGbw?oc=5"
+     "name": "heise online",
+     "url": "https://www.heise.de/news/KI-generierte-Praezendenzfaelle-Anwaeltin-vom-EGMR-ausgeschlossen-11531620.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   },
   {
-   "titel": "Senators Propose AUDIT AI Act on AI Financing - Wisevoter",
-   "zusammenfassung": "Senators Propose AUDIT AI Act on AI Financing Wisevoter",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Niederländische Datenschützer raten von KI-Brillen ab",
+   "zusammenfassung": "Nach einer Studie verschiedener KI-Brillen rät die niederländische Datenschutzbehörde vom Kauf ab. Die Geräte könnten Nutzern falsche oder illegale Ratschläge geben und sie sogar gefährden.",
+   "warum_wichtig": "Die Warnung dürfte auch die Debatte über KI-Brillen in Deutschland beeinflussen.",
+   "kategorie": "Gesellschaft",
    "quellen": [
     {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEg3dnhSZkZ1VmhQYjd2UHc4ejBFQlFpS241Mkt0bkJTaXM0LThQaXZRYW1WVGp1SmoyeXhMalZHRXJ6V3ZKbnNVS0lFRGJ3QzVfQ0R1T09SdGxtSXp4NEZrMlpqemtnVXlFSUdnOTZZWlo2WkRQUml6cWFSaC1RU2pGZnk?oc=5"
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Niederlaendische-Datenschutzbehoerde-warnt-vor-Nutzung-KI-gestuetzter-Smart-Glasses-11531921.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "Apple may be developing its own AI agent that runs your Mac",
-   "zusammenfassung": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Anthropic legt Rekord-Börsengang mit Kurssprung hin",
+   "zusammenfassung": "Anthropic hat mit 81,3 Milliarden Dollar den größten Börsengang aller Zeiten abgeschlossen und damit SpaceX überholt. Die Aktie startete an der Nasdaq bei 111,50 Dollar, rund ein Drittel über dem Ausgabepreis von 83 Dollar, gab danach aber etwas nach.",
+   "warum_wichtig": "Der Erfolg gilt als Signal für das Vertrauen in die KI-Branche, auch für europäische Anbieter und Investoren.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
+    },
+    {
      "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+     "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+    },
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/anthropics-historischer-boersengang-bringt-813-milliarden-us-dollar-ein-und-beunruhigt-eigenen-fruehinvestor/"
+    },
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/ki-unternehmen-anthropic-aktie-macht-kursprung-zum-boersenstart-2611-215436.html"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWtTMFVlSVFObTR4Vzl4QlNRN0ZxUzJpQ1ZrWHdKbXhWbjh4VzlRcG52a0ZGU04zY1RHYjcxcEVId2FOVzA2MkphUkpCNEkxVlJ4OFlHVXBlUEJKQ1dkMTJSX3F0UDItYXhOUmJYeHUzSE9laHpjblVOeHpMNkpGbXNoUG9vbUdIQlNDNTgybWhCaEV1UjZTNVotNkkwQQ?oc=5"
     }
    ]
   },
   {
-   "titel": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-   "zusammenfassung": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Neue US-Chipregeln zeigen Wirkung: TSMC und Samsung stoppen China-Lieferungen",
+   "zusammenfassung": "Die verschärften US-Exportkontrollen wirken sofort: Chinas Moonshot AI stornierte einen 150-Millionen-Dollar-Deal in Indonesien. TSMC und Samsung stoppten Lieferungen an chinesische Kunden.",
+   "warum_wichtig": "Die Verschiebungen im globalen Chipmarkt beeinflussen auch Preise und Verfügbarkeit für europäische Rechenzentren.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/neue-us-chip-regeln-moonshot-ai-streicht-150-millionen-deal-tsmc-und-samsung-stoppen-lieferungen/"
     }
    ]
   }
  ],
  "datum": "2026-11-20",
- "erstellt": "2026-11-20T06:42+01:00",
- "modus": "einfach",
+ "erstellt": "2026-11-20T06:43+01:00",
+ "modus": "ki",
  "anzahl_meldungen": 100,
  "feeds": {
   "The Decoder": "9 Meldungen",
