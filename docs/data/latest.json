@@ -1,11 +1,11 @@
 {
- "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "lage": "Guten Morgen und schönes Wochenende! Nvidia will stillgelegte Atomkraftwerke in Deutschland zu KI-Fabriken umbauen, während der KI-Ausverkauf den DAX belastet. In Europa schließen sich Anbieter für souveräne KI zusammen, und in der Mathematik sorgt ein mit Claude erzielter Beweis für Aufsehen.",
  "deutschland": [
   {
-   "titel": "Nvidia will stillgelegte AKW zu KI-Fabriken machen – in Deutschland - BASIC thinking",
-   "zusammenfassung": "Nvidia will stillgelegte AKW zu KI-Fabriken machen – in Deutschland BASIC thinking",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Nvidia will stillgelegte Atomkraftwerke in Deutschland zu KI-Fabriken machen",
+   "zusammenfassung": "Laut einem Bericht von BASIC thinking plant Nvidia, stillgelegte Atomkraftwerke in Deutschland in KI-Rechenzentren umzuwandeln.",
+   "warum_wichtig": "Die vorhandenen Netzanschlüsse alter Kraftwerke könnten den Engpass beim Strom für KI-Rechenzentren in Deutschland lindern.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
@@ -14,121 +14,125 @@
    ]
   },
   {
-   "titel": "Vorschau: Re: Spanien und seine durstigen KI-Zentren • Deutschland 2026 - ARD Mediathek",
-   "zusammenfassung": "Vorschau: Re: Spanien und seine durstigen KI-Zentren • Deutschland 2026 ARD Mediathek",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "KI-Ausverkauf drückt DAX zeitweise unter 25.000 Punkte",
+   "zusammenfassung": "Der Rekord-Börsengang von Anthropic konnte den Ausverkauf bei KI-Aktien nicht stoppen. Der DAX rutschte zwischenzeitlich unter die Marke von 25.000 Punkten.",
+   "warum_wichtig": "Die Unsicherheit über den KI-Boom trifft auch deutsche Anleger und Unternehmen direkt.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html"
+    },
+    {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LdlZRcjE0dkxvVkc4TnRPV3k1ek1vNWxWQTlhR1dPbVcxbUNtMElfZGlsUDNHa2dQU1pRSTBqVHI4V2Y1YVh1dFNvVUZwRXR1M0lnaGJNSGRqRDBPdzdvSkNJcWpaT0JCRTYyR24waEZ5UQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPREduaWU4eGp4b3JVV3RlZXJEVTRJRmxNOGpyRUducXJ4VUItQzZmZDFXWWM5dV9QV2xKa1RyODR2TUtfako1VXRja0xlR0xYUkJkdU5QZUc0SFVJNVJtTEJSbUxUNjN3ZmVHMjA2R2JiMFpYekREWGEtR29XVlBIMHNTTld1YUZBTXVIS3BKOHRNQTJGN2M1a083c2JhRUNCQnRMcno0YTA3dFo1cnpHTi1lN2oxeGJvWTBBOUtCUVlfMWNoLVpFWEJsYWtWY0V3SjVZTg?oc=5"
     }
    ]
   },
   {
-   "titel": "Victor Peng sieht in KI und Quantencomputing langfristige Chancen - MarketScreener Deutschland",
-   "zusammenfassung": "Victor Peng sieht in KI und Quantencomputing langfristige Chancen MarketScreener Deutschland",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "NRW und Bayern wollen Unternehmen den KI-Einsatz erleichtern",
+   "zusammenfassung": "Nordrhein-Westfalen und Bayern haben angekündigt, Unternehmen den Einsatz von KI erleichtern zu wollen.",
+   "warum_wichtig": "Zwei große Industrieländer setzen damit ein Signal für weniger Hürden beim KI-Einsatz im Mittelstand.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSGp1U0tOQUtXd2k3QUgtcnBtRGljUmZlS0FaSkEtZmQyVVVaLWFiZWliSG4xWXI5djE1b3ptUDcwNHZhbHJubXlaU0dzOTl0Vmxuelgtc1pob2hScU9JZVBjVC0wVE9BNnFCVXRZWU12Yjl4VjlTUjBQaTlQSlBlVUpINk9oSmU1c212bnBhczVNU004X1ZUSkFFcnR4a0RxSzg5STZWWUIzNmpZNTM0bkZvYUFUU2dkSjZEai1URm9oUjhFNExJR3ktUQ?oc=5"
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTEtWT3VrWFMyWllObkZWZnUzemExZGRPU0Mxd0RjckVwTkUwNTFNckJYMUdPbmp6LV8tM0xSTFczWE0zbEdZT2pqbUo0LTV3Um4ycDlMdkdfUHY1d19sNi1Halg2Y3JXQ1B6MUFOdlVFc3M2ZnZMNllDWm03dmo1TFIwdlM3SlBnSUoya1dvZlJOaUxRLWVKNXMtSHNoZ3F0TWVoNlFqRGZTN0lZUTIxcWc3WWQ?oc=5"
     }
    ]
   },
   {
-   "titel": "Zscaler kooperiert mit Anthropic und Mistral bei KI-Sicherheit - MarketScreener Deutschland",
-   "zusammenfassung": "Zscaler kooperiert mit Anthropic und Mistral bei KI-Sicherheit MarketScreener Deutschland",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "KI-Brillen helfen blinden Menschen, stehen aber in der Kritik",
+   "zusammenfassung": "Für blinde Menschen sind KI-Brillen eine wichtige Alltagshilfe. Wegen Datenschutzbedenken steht die Technologie jedoch in der Kritik, was Betroffene verunsichert.",
+   "warum_wichtig": "Bei der Regulierung von KI-Brillen müssen auch die Bedürfnisse von Menschen mit Behinderung berücksichtigt werden.",
+   "kategorie": "Gesellschaft",
    "quellen": [
     {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZjRhVkU5dkNxS1dZNUNReWJWazRpdEIyeW1sMlE1eGw5Ry1iZXowNTlvQjZvWnhUdnM4RHlKbzcta2xmWGtnMUN5ZElZNXJITkJrTHZFekxJblZPUEpXZ29kVFZGbEZscHRWTjdqNXhMME5qeGJBb3NHVTY4VjRWQl9WMWl4dVp1aDhCcVl5bW13aEFWZ1gtNUxNSDFwUWFEa09oOFZuOVM0S3paMm5tM1V3c3l2WW9ZY00zeUs1QjlieHE1a1JR?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Fünf EU-Länder planen Zentrum für KI in der Verteidigung - Watson",
-   "zusammenfassung": "Fünf EU-Länder planen Zentrum für KI in der Verteidigung Watson",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWZEbzVKUHhhbXhLSUNOU3o3cFBMMGc4S3FVVXZORjhERmtHcFo1VFFvVVRFNUhSNkhYSy1BVFJoUEFOcC1ORWFVVkYwWFFxaE5qbnNjeHNUVFh6MnZMaDBxVzZwaWxlWVJOdERQc0RrYkxQSDlFeWZJSDNUN0pwUXY4MkFsZFNDMlVGOE9mUk50X1FkdFpUcDBBbHBFMmdnYUg4RnF4VFRwMzNR?oc=5"
+     "name": "heise online",
+     "url": "https://www.heise.de/news/KI-Update-Deep-Dive-Smart-Glasses-als-Alltagshilfe-11530663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "European Union AI Act Leverages Regulatory Power for Strategic Global Influence - Bioengineer.org",
-   "zusammenfassung": "European Union AI Act Leverages Regulatory Power for Strategic Global Influence Bioengineer.org",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Fünf EU-Länder planen gemeinsames Zentrum für Verteidigungs-KI",
+   "zusammenfassung": "Fünf EU-Staaten wollen ein gemeinsames Zentrum für KI in der Verteidigung aufbauen.",
+   "warum_wichtig": "Europa will bei militärischer KI enger zusammenarbeiten und unabhängiger von den USA werden.",
+   "kategorie": "Sicherheit",
    "quellen": [
     {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2pfclVYOUx5T3NBWFNvb2pxQklndGpzaVNoUlQzN1lCU0dneGlvYWc3YldQaWo3azNiMWV2Q1FRVEhwOEZLR2FJV2dwNHVMWGsxRkVhUDhTU0gtZ2hOYTY0dzhPVjg5ZFl0bzdkeWV0aTdWTVkxZTI0N1JvbzF5N192WDgwLTU1NmhCblFXVlR0VEZnYk9IenFIdkxGUGlJQXNVU0FIYw?oc=5"
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWZEbzVKUHhhbXhLSUNOU3o3cFBMMGc4S3FVVXZORjhERmtHcFo1VFFvVVRFNUhSNkhYSy1BVFJoUEFOcC1ORWFVVkYwWFFxaE5qbnNjeHNUVFh6MnZMaDBxVzZwaWxlWVJOdERQc0RrYkxQSDlFeWZJSDNUN0pwUXY4MkFsZFNDMlVGOE9mUk50X1FkdFpUcDBBbHBFMmdnYUg4RnF4VFRwMzNR?oc=5"
     }
    ]
   },
   {
-   "titel": "The EU AI Act After The Digital Omnibus: What Has Changed For Businesses - Legal 500",
-   "zusammenfassung": "The EU AI Act After The Digital Omnibus: What Has Changed For Businesses Legal 500",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "OVHcloud, Qwant und Partner verbünden sich für souveräne europäische KI",
+   "zusammenfassung": "Qwant, Shadow, EUSP und OVHcloud bündeln ihre Kräfte, um souveräne europäische KI voranzubringen. OVHcloud hat dazu eine Europäische KI-Allianz sowie 55 neue Cloud- und KI-Produkte vorgestellt.",
+   "warum_wichtig": "Europäische Unternehmen erhalten mehr Alternativen zu US-Cloud- und KI-Anbietern.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
      "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVmJmaHdMa0tDN2piZkNnRWltVVlDSWl2ejF1N1F1VHRoV1hXcTF0emJxTjhxMVdfcFhiRHBsQ3pjOWdNdFhVLWlsWHQtLW1Ga29JRjFsV1dEa2l1NXJ5X3A4N0oxMUppRUVvLXI3VGtoejdZV3lVbWE3V0g0Mmc2YmVueXRRbl9JVXJaWDZoWFF4VWtWdkwzcUtNWmc0YWVQa1diRnBCdU5wS1VOdVBtQUViSUhrLTRLcnVUVDNsdER2UlhqdVNtaTZIdjNETVdIRHdZS0d1d3JCVnFKUy0w?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUnUwN1RYbHhKWUNhUUFZNUR1R3lrMHRBdkVENkFuWk12Q2RSM3ZDY3pncWwtRmNFcW80UnltdGtaaHJYZjdxR2J4RWFTNVFLX0VHOXpDY0lCdVNlckJUT2R3Znc4OWg3Wno4UFdfNGdSeGxwVl9iRGdoNjVRaDYwbVBybw?oc=5"
+    },
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0NHTVFIRFJ2aEVOQ1NzMmROMjVPd1psZmdCRFVOcW1XN2hyZFZZb21FczlNLVg0dzhiYllCRWJVY1pYdTQ2YnhlYkhWWFhSZjRMWlhoTFV1Y0tmSjdfSkh2QmdGUjU4SnVKN0wzelhiLUo0UElMVEhpbjcwODJiWkU3bno1d01kOG1WbFFXNUFveVAwejBuZ19RMlh6cXUtVk1ZX1djTGZ4dHhESERrcmhn?oc=5"
     }
    ]
   },
   {
-   "titel": "Senators Introduce AUDIT AI Act to Require Disclosure of Off-Balance-Sheet AI Compute Leases - CASRAI",
-   "zusammenfassung": "Senators Introduce AUDIT AI Act to Require Disclosure of Off-Balance-Sheet AI Compute Leases CASRAI",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "EU will KI-Kompetenz-Zertifikat ab Schuljahr 2027/28 erproben",
+   "zusammenfassung": "Die EU plant ein Zertifikat für KI-Kompetenz, das im Schuljahr 2027/28 erstmals erprobt werden soll.",
+   "warum_wichtig": "Schülerinnen und Schüler in Europa könnten ihre KI-Kenntnisse künftig einheitlich nachweisen.",
+   "kategorie": "Gesellschaft",
    "quellen": [
     {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQXlYd1J2emRISTAwTHZ4SnNkdHI3b2phcE9wTWx3bEg5RGJKUGdnbWpuc2NBb0xRM1V1NkJ6Vmc3QW80UnFHd19GYWE2b0NKUmNhdFA0RWVLeEV4UmExX2JjUFVORHJOVEV2bndzQnQ0czMyWVlvSE1SU0tyNFE3eUtnZw?oc=5"
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHNLM1J5YzJuOW4xd1JMVFA5bGVjcTF5blRGLU4xb1pFMktJOTFZMFNZLVJxbVVScWUyVlN4bGF3YXR2aTlUOFA5czB6UV9RNjlpYkZZOENjYWg5ZDN4WFQ0dUFBSURBZTU3RHh2MW50a1MwTGE2V1RpWHM3VDhEVFVDYzhKcGVIa0twdkRMSmJQSTZDN2dZWDZobVFqQUdjQkVyVTNZbDZKNnlSZVNSVTUzZ0s4bDNUb3JOY3RGbw?oc=5"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "Google rolls out new search homepage with AI chat history and no search button",
-   "zusammenfassung": "Google search is making it even easier to access AI tools on the search page.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Anthropic-Mathematiker will Riemannsche Vermutung mit Claude bewiesen haben",
+   "zusammenfassung": "Der Anthropic-Mathematiker Levent Alpöge gibt an, mit Hilfe von Claude die Riemannsche Vermutung bewiesen zu haben, eines der berühmtesten ungelösten Probleme der Mathematik. Parallel gibt es eine konkurrierende Lösung eines Menschen.",
+   "warum_wichtig": "Sollte sich der Beweis bestätigen, wäre das ein Meilenstein für KI als Werkzeug in der Grundlagenforschung.",
+   "kategorie": "Forschung",
    "quellen": [
     {
-     "name": "Ars Technica AI",
-     "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    },
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
     }
    ]
   },
   {
-   "titel": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-   "zusammenfassung": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Signal sperrt Screenshots gegen mitlesende KI-Agenten",
+   "zusammenfassung": "Der Messenger Signal schränkt Screenshots auf Android und iOS ein, damit KI-Agenten wie Apples Siri AI, Googles Gemini oder Metas Muse private Chats nicht mitlesen können. Signal spricht von einer „existenziellen Bedrohung“ für den Datenschutz.",
+   "warum_wichtig": "Auch Nutzer in Europa müssen sich fragen, welche Daten KI-Agenten auf ihren Geräten sehen dürfen.",
+   "kategorie": "Sicherheit",
    "quellen": [
     {
-     "name": "Ars Technica AI",
-     "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/signal-schraenkt-screenshots-ein-und-warnt-vor-existenzieller-bedrohung-durch-ki-agenten/"
+    },
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
     }
    ]
   }
  ],
  "datum": "2026-11-21",
  "erstellt": "2026-11-21T06:42+01:00",
- "modus": "einfach",
+ "modus": "ki",
  "anzahl_meldungen": 100,
  "feeds": {
   "The Decoder": "10 Meldungen",
