@@ -1,0 +1,46 @@
+{
+  "stand": "2026-11-21T05:41:59+00:00",
+  "lage": "Guten Morgen und schönes Wochenende! Nvidia will stillgelegte Atomkraftwerke in Deutschland zu KI-Fabriken umbauen, während der KI-Ausverkauf den DAX belastet. In Europa schließen sich Anbieter für souveräne KI zusammen, und in der Mathematik sorgt ein mit Claude erzielter Beweis für Aufsehen.",
+  "deutschland": [
+    {"titel": "Nvidia will stillgelegte Atomkraftwerke in Deutschland zu KI-Fabriken machen",
+     "zusammenfassung": "Laut einem Bericht von BASIC thinking plant Nvidia, stillgelegte Atomkraftwerke in Deutschland in KI-Rechenzentren umzuwandeln.",
+     "warum_wichtig": "Die vorhandenen Netzanschlüsse alter Kraftwerke könnten den Engpass beim Strom für KI-Rechenzentren in Deutschland lindern.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [0]},
+    {"titel": "KI-Ausverkauf drückt DAX zeitweise unter 25.000 Punkte",
+     "zusammenfassung": "Der Rekord-Börsengang von Anthropic konnte den Ausverkauf bei KI-Aktien nicht stoppen. Der DAX rutschte zwischenzeitlich unter die Marke von 25.000 Punkten.",
+     "warum_wichtig": "Die Unsicherheit über den KI-Boom trifft auch deutsche Anleger und Unternehmen direkt.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [49, 26]},
+    {"titel": "NRW und Bayern wollen Unternehmen den KI-Einsatz erleichtern",
+     "zusammenfassung": "Nordrhein-Westfalen und Bayern haben angekündigt, Unternehmen den Einsatz von KI erleichtern zu wollen.",
+     "warum_wichtig": "Zwei große Industrieländer setzen damit ein Signal für weniger Hürden beim KI-Einsatz im Mittelstand.",
+     "kategorie": "Politik & Regulierung", "quellen": [78]},
+    {"titel": "KI-Brillen helfen blinden Menschen, stehen aber in der Kritik",
+     "zusammenfassung": "Für blinde Menschen sind KI-Brillen eine wichtige Alltagshilfe. Wegen Datenschutzbedenken steht die Technologie jedoch in der Kritik, was Betroffene verunsichert.",
+     "warum_wichtig": "Bei der Regulierung von KI-Brillen müssen auch die Bedürfnisse von Menschen mit Behinderung berücksichtigt werden.",
+     "kategorie": "Gesellschaft", "quellen": [43]}
+  ],
+  "eu": [
+    {"titel": "Fünf EU-Länder planen gemeinsames Zentrum für Verteidigungs-KI",
+     "zusammenfassung": "Fünf EU-Staaten wollen ein gemeinsames Zentrum für KI in der Verteidigung aufbauen.",
+     "warum_wichtig": "Europa will bei militärischer KI enger zusammenarbeiten und unabhängiger von den USA werden.",
+     "kategorie": "Sicherheit", "quellen": [8]},
+    {"titel": "OVHcloud, Qwant und Partner verbünden sich für souveräne europäische KI",
+     "zusammenfassung": "Qwant, Shadow, EUSP und OVHcloud bündeln ihre Kräfte, um souveräne europäische KI voranzubringen. OVHcloud hat dazu eine Europäische KI-Allianz sowie 55 neue Cloud- und KI-Produkte vorgestellt.",
+     "warum_wichtig": "Europäische Unternehmen erhalten mehr Alternativen zu US-Cloud- und KI-Anbietern.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [48, 93]},
+    {"titel": "EU will KI-Kompetenz-Zertifikat ab Schuljahr 2027/28 erproben",
+     "zusammenfassung": "Die EU plant ein Zertifikat für KI-Kompetenz, das im Schuljahr 2027/28 erstmals erprobt werden soll.",
+     "warum_wichtig": "Schülerinnen und Schüler in Europa könnten ihre KI-Kenntnisse künftig einheitlich nachweisen.",
+     "kategorie": "Gesellschaft", "quellen": [89]}
+  ],
+  "welt": [
+    {"titel": "Anthropic-Mathematiker will Riemannsche Vermutung mit Claude bewiesen haben",
+     "zusammenfassung": "Der Anthropic-Mathematiker Levent Alpöge gibt an, mit Hilfe von Claude die Riemannsche Vermutung bewiesen zu haben, eines der berühmtesten ungelösten Probleme der Mathematik. Parallel gibt es eine konkurrierende Lösung eines Menschen.",
+     "warum_wichtig": "Sollte sich der Beweis bestätigen, wäre das ein Meilenstein für KI als Werkzeug in der Grundlagenforschung.",
+     "kategorie": "Forschung", "quellen": [25, 14]},
+    {"titel": "Signal sperrt Screenshots gegen mitlesende KI-Agenten",
+     "zusammenfassung": "Der Messenger Signal schränkt Screenshots auf Android und iOS ein, damit KI-Agenten wie Apples Siri AI, Googles Gemini oder Metas Muse private Chats nicht mitlesen können. Signal spricht von einer „existenziellen Bedrohung“ für den Datenschutz.",
+     "warum_wichtig": "Auch Nutzer in Europa müssen sich fragen, welche Daten KI-Agenten auf ihren Geräten sehen dürfen.",
+     "kategorie": "Sicherheit", "quellen": [13, 38]}
+  ]
+}
