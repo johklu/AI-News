@@ -1,48 +1,24 @@
 {
- "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "lage": "Guten Morgen und einen ruhigen Sonntag! Karl Lauterbach beklagt einen gewaltigen KI-Rückstand Deutschlands, und an Gerichten häufen sich KI-geschriebene Anträge. International scheitert die UN an Regeln für Killerroboter, und die US-Techbörse rutscht in den Bärenmarkt.",
  "deutschland": [
   {
-   "titel": "USA und China: Lauterbach sieht Deutschland bei KI nur als Zaungast - ad-hoc-news.de",
-   "zusammenfassung": "USA und China: Lauterbach sieht Deutschland bei KI nur als Zaungast ad-hoc-news.de",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVVydGxNRy1OUXNvNi1xZlFNNTh0eVNmTE40UlpqcXFBZHBTcnJ4dUgyWlN3djdDSk9wU0E1M2I0NWEtVXFMVTJ5czRVcWdWbXBtS05ISzc0OEltdzhVOHRFLS1reWVWemF3WlJqWWFfbmZRek9xc3poZzlkUWxOeUd1dGZNelJwTk5ZWTZ0UWpJLVRZOV84ZTA2bE1qMmhEQzVIZ3duOEZKNGhiaVVvbEs2ODRodw?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Lauterbach fordert mehr Investitionen in deutsche KI - SuaraGarut.ID",
-   "zusammenfassung": "Lauterbach fordert mehr Investitionen in deutsche KI SuaraGarut.ID",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41cjBld1RJTzBEbEVCdl9LcTJwc2xNRGdNNUU1MVRXQlRaZmkwbTV0R3pxV0N6SFRwTGdQcmMtQ0otRnBWUTZ4TlhWaWEzMlZvMnRjeVNMdjZlRmZsVVVWVlFmTk96UGhESVRYclpB?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "\"Mich bestürzt das\": Lauterbach beklagt gewaltigen KI-Rückstand in Deutschland - n-tv.de",
-   "zusammenfassung": "\"Mich bestürzt das\": Lauterbach beklagt gewaltigen KI-Rückstand in Deutschland n-tv.de",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Lauterbach beklagt gewaltigen KI-Rückstand Deutschlands",
+   "zusammenfassung": "Karl Lauterbach zeigt sich bestürzt über den Rückstand Deutschlands bei KI und sieht das Land gegenüber den USA und China nur als Zaungast. Er fordert deutlich mehr Investitionen in deutsche KI.",
+   "warum_wichtig": "Die Forderung erhöht den Druck auf die Bundesregierung, bei der KI-Förderung nachzulegen.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcmNweDlVbTVkQnRpRVJ3T3E5aElYSGN2UzMxTjhpUmVnbkJuWHVJMEwycm9FcFUxcC15VFMwNWVvZFNNSE01cTM4cTE2ZmdVQ2NaR3dtcnMtcVg1cnc1V1R0d1pLRldjSHZnM3FsZGVTNF80Z2NLbFZ0dnFKdm94emZLNFI0Uk14a1hwWDU0QXl5Tl94M21jbFE2YkVEVmFTUGlkWld0ZHE?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "KI-Förderung: Lauterbach fordert mehr Geld für Deutschland - ad-hoc-news.de",
-   "zusammenfassung": "KI-Förderung: Lauterbach fordert mehr Geld für Deutschland ad-hoc-news.de",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVVydGxNRy1OUXNvNi1xZlFNNTh0eVNmTE40UlpqcXFBZHBTcnJ4dUgyWlN3djdDSk9wU0E1M2I0NWEtVXFMVTJ5czRVcWdWbXBtS05ISzc0OEltdzhVOHRFLS1reWVWemF3WlJqWWFfbmZRek9xc3poZzlkUWxOeUd1dGZNelJwTk5ZWTZ0UWpJLVRZOV84ZTA2bE1qMmhEQzVIZ3duOEZKNGhiaVVvbEs2ODRodw?oc=5"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41cjBld1RJTzBEbEVCdl9LcTJwc2xNRGdNNUU1MVRXQlRaZmkwbTV0R3pxV0N6SFRwTGdQcmMtQ0otRnBWUTZ4TlhWaWEzMlZvMnRjeVNMdjZlRmZsVVVWVlFmTk96UGhESVRYclpB?oc=5"
+    },
     {
      "name": "Google News (KI Deutschland)",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmtWaHh3R3pwbDU0b2pKMVNwSmxTbk0yWkpJT2JoeWNaa2Zmc2JIV1ZfTVU5VkpwQUFwS3RhSl9tQWhQalg3SVA3Q2VsVk9MRUJ4V3puRUp6ZGF3NDRrcmJXbVNQaHpfYjdCOHJWR0FNUGVSc1lvMlNQVFdmUzNLNmozMEhJdEpaVjFObUgzTmFsME5rMUtuTUd2NlVNS3dKeE40Y1RR?oc=5"
@@ -50,85 +26,64 @@
    ]
   },
   {
-   "titel": "Deutsche Telekom investiert 100 Millionen in Mistral AI für souveräne KI - Foro3D",
-   "zusammenfassung": "Deutsche Telekom investiert 100 Millionen in Mistral AI für souveräne KI Foro3D",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHNidEJMVWphLW1pTHBfcW9QM3FRS28xeGJDTlpIOEJuRUJ3UV9WRHVZaUNVSlFjUE1MZWZkT0hKeVFLU3hMRnczcnpnZmZWUHhPeW93NkpuLXRTeGFWNDdTc0c4aWxjWlZFQlBPSTJsM21QZ1E3Wmk0cVU4amNScjBnUFVQWGN1ZW1LdmwzUDNMRTNGRXR4OUx2YnZEdmJISTRpS3AxYVI2ZHRFRmpneg?oc=5"
-    }
-   ]
-  }
- ],
- "eu": [
-  {
-   "titel": "Lean-Beweis zur Riemann-Hypothese: 175.187 Dateien fehlerfrei geprüft - BornCity",
-   "zusammenfassung": "Lean-Beweis zur Riemann-Hypothese: 175.187 Dateien fehlerfrei geprüft BornCity",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "KI-Schriftsätze: Eilanträge an Hessens Gerichten steigen um 76 Prozent",
+   "zusammenfassung": "Mit KI erstellte Schriftsätze sorgen in Hessen für einen Anstieg der Eilanträge vor Gericht um 76 Prozent.",
+   "warum_wichtig": "Die Justiz muss sich auf eine Flut KI-generierter Eingaben einstellen, was Verfahren verlangsamen kann.",
+   "kategorie": "Gesellschaft",
    "quellen": [
     {
      "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQakdTUmQxSzEtVTRwRkVLZGtVN202elVEQzAyeW8xSFFUMno4aUkxa1B5dm4wMTZiakFBekNHcFFrdWlZOGRMTVFWTFBxNzJHZWp1MGhKcWlWdllkNDA0R3RUbEhIV1JWN2FEbW1GcE5jMEZISkRweGh2N3VjVVdyUjR1cno2SmRmVktFOVBWMFBJa2RJN2Rqd3JrMnY?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOUZfLWdrWFB2S1REYmZ3eTBKcVBVT1BpaXZTUTNqRnNrcVc5OTVxZkNKdEhLcHExX21WYnVuRG5vaVhVNThPNWt2SU9aMTYyYnVDYWh4LVVBbEx4b2toVVFfLXpVclFvcWFCX28ySThWWVRMVmNJM2lXcHkwWmZKWGM4LVFiTWpQS1VJTy0wcVE0UGJpaUtxZ1hOSEZTLWVWOHNIY2Y5VXdNR3NoeVJJdzdGeDFUVlV5S0M5TUl3?oc=5"
     }
    ]
   },
   {
-   "titel": "Copilot Workspaces: Microsoft macht KI-Agenten zu Teamkollegen - ad-hoc-news.de",
-   "zusammenfassung": "Copilot Workspaces: Microsoft macht KI-Agenten zu Teamkollegen ad-hoc-news.de",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Frankfurter Gericht stärkt Rechte von Fotografen bei KI-Bildern",
+   "zusammenfassung": "Ein Gericht in Frankfurt hat die Rechte von Fotografen im Zusammenhang mit KI-Bildern und deren Kennzeichnung gestärkt.",
+   "warum_wichtig": "Kreative in Deutschland bekommen mehr Rückhalt gegenüber der Nutzung ihrer Werke durch KI.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
-     "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazBTMkdHSFZpanJBWG56RXNzZG9GVGUzYmEzRG5XTlcxcE53UHdPSW9vZlBNSHlKaHhLNzAwMmJSQkNScmdWbE1DOE5qbUozeFFYclVSRzlaODgybTI2anZnbjhvZmotb2lPY1BNZlBSTkVxOEJESl9aamttRGNCaHVwQ3FSaGdqNktXcEF6TkVFUDJSQ3cxWllIUFVyemF2d1dPTGxKdlVZRERKRFFj?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "OpenAI-KI-Agenten: 46 Prozent der Forschungsaufgaben ohne Menschenhilfe - ad-hoc-news.de",
-   "zusammenfassung": "OpenAI-KI-Agenten: 46 Prozent der Forschungsaufgaben ohne Menschenhilfe ad-hoc-news.de",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd1hmUDBpVjRxelp1M0tORktVamlTU1FENDBtb3M3ZWduTjRfVi16TjlNdURLNmNzZjRoZXRtbnRqeWU5NTl0WXIwM1VCeXR6ZzdpRDVNQ0lEZWFvNm9rRThXSHBWX2R3b3RaSnR5clVxV1l5VlF2TzJ4Zy05amlmckk4TFNpQ0dmdEktdDY5bjhHYU5BbUFMUFZ0a3BtQllNMUktR1dtTjRsMGt0ZmY2Mk5YekZjS3ZBdG1j?oc=5"
+     "name": "heise online",
+     "url": "https://www.heise.de/news/KI-Kennzeichnung-und-National-Geographic-die-Fotonews-der-Woche-47-2026-11532822.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   }
  ],
+ "eu": [],
  "welt": [
   {
-   "titel": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-   "zusammenfassung": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "UN einigen sich nicht auf Regeln für Killerroboter",
+   "zusammenfassung": "Bei den Beratungen in Genf über Regeln für autonome Waffensysteme konnten sich die UN-Diplomaten nicht einigen. Die Vertreter verließen die Gespräche ohne Ergebnis.",
+   "warum_wichtig": "Ohne internationale Regeln bleibt offen, welche Grenzen für KI-Waffen auch in Europa gelten.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
     }
    ]
   },
   {
-   "titel": "A tale of two Nvidias",
-   "zusammenfassung": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "US-Techbörse rutscht in den Bärenmarkt, Nvidia bricht ein",
+   "zusammenfassung": "Der Nasdaq 100 ist mit dem größten Wochenverlust seit der Corona-Krise in den Bärenmarkt gerutscht. Nvidia verlor 14 Prozent, die US-Börsenaufsicht prüft die Buchhaltung, und auch Anthropic gab einen Tag nach dem Rekord-Börsengang nach.",
+   "warum_wichtig": "Die Zweifel am KI-Boom belasten auch europäische Börsen und die Finanzierung von KI-Unternehmen.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/us-techmarkt-im-freien-fall-perfekter-sturm-aus-ki-zweifeln-skandalen-und-inflationsangst/"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUzUtS1B1SFJmX0Q3QVFieTFZblB3ME9URS1yTHYxVXRmMXJRM0lXZzhaRDYzZk94MFNtNXl1V0kxZFlKenRHazRiaGJ3ZW1PdHNOc1htcG9rd2VydC0yLTlDWll1UnBYcWR0Y2ZzN0tVMEtjV00yX0NORjNnemZaUFY1MkwzaVVrVW93aXJ3MHlsbHFjQmF0c3g4Zw?oc=5"
     }
    ]
   }
  ],
  "datum": "2026-11-22",
- "erstellt": "2026-11-22T06:42+01:00",
- "modus": "einfach",
+ "erstellt": "2026-11-22T06:43+01:00",
+ "modus": "ki",
  "anzahl_meldungen": 79,
  "feeds": {
   "The Decoder": "10 Meldungen",
