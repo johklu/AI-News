@@ -1,0 +1,29 @@
+{
+  "stand": "2026-11-22T05:42:37+00:00",
+  "lage": "Guten Morgen und einen ruhigen Sonntag! Forschungsminister Lauterbach beklagt einen gewaltigen KI-Rückstand Deutschlands, und an Gerichten häufen sich KI-geschriebene Anträge. International scheitert die UN an Regeln für Killerroboter, und die US-Techbörse rutscht in den Bärenmarkt.",
+  "deutschland": [
+    {"titel": "Lauterbach beklagt gewaltigen KI-Rückstand Deutschlands",
+     "zusammenfassung": "Karl Lauterbach zeigt sich bestürzt über den Rückstand Deutschlands bei KI und sieht das Land gegenüber den USA und China nur als Zaungast. Er fordert deutlich mehr Investitionen in deutsche KI.",
+     "warum_wichtig": "Die Forderung erhöht den Druck auf die Bundesregierung, bei der KI-Förderung nachzulegen.",
+     "kategorie": "Politik & Regulierung", "quellen": [7, 2, 6, 12]},
+    {"titel": "KI-Schriftsätze: Eilanträge an Hessens Gerichten steigen um 76 Prozent",
+     "zusammenfassung": "Mit KI erstellte Schriftsätze sorgen in Hessen für einen Anstieg der Eilanträge vor Gericht um 76 Prozent.",
+     "warum_wichtig": "Die Justiz muss sich auf eine Flut KI-generierter Eingaben einstellen, was Verfahren verlangsamen kann.",
+     "kategorie": "Gesellschaft", "quellen": [9]},
+    {"titel": "Frankfurter Gericht stärkt Rechte von Fotografen bei KI-Bildern",
+     "zusammenfassung": "Ein Gericht in Frankfurt hat die Rechte von Fotografen im Zusammenhang mit KI-Bildern und deren Kennzeichnung gestärkt.",
+     "warum_wichtig": "Kreative in Deutschland bekommen mehr Rückhalt gegenüber der Nutzung ihrer Werke durch KI.",
+     "kategorie": "Politik & Regulierung", "quellen": [51]}
+  ],
+  "eu": [],
+  "welt": [
+    {"titel": "UN einigen sich nicht auf Regeln für Killerroboter",
+     "zusammenfassung": "Bei den Beratungen in Genf über Regeln für autonome Waffensysteme konnten sich die UN-Diplomaten nicht einigen. Die Vertreter verließen die Gespräche ohne Ergebnis.",
+     "warum_wichtig": "Ohne internationale Regeln bleibt offen, welche Grenzen für KI-Waffen auch in Europa gelten.",
+     "kategorie": "Politik & Regulierung", "quellen": [13]},
+    {"titel": "US-Techbörse rutscht in den Bärenmarkt, Nvidia bricht ein",
+     "zusammenfassung": "Der Nasdaq 100 ist mit dem größten Wochenverlust seit der Corona-Krise in den Bärenmarkt gerutscht. Nvidia verlor 14 Prozent, die US-Börsenaufsicht prüft die Buchhaltung, und auch Anthropic gab einen Tag nach dem Rekord-Börsengang nach.",
+     "warum_wichtig": "Die Zweifel am KI-Boom belasten auch europäische Börsen und die Finanzierung von KI-Unternehmen.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [43, 40]}
+  ]
+}
