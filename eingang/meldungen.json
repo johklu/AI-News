@@ -1,34 +1,530 @@
 {
- "stand": "2026-11-21T05:41:59+00:00",
- "heute": "Samstag, 21.11.2026",
+ "stand": "2026-11-22T05:42:37+00:00",
+ "heute": "Sonntag, 22.11.2026",
  "feeds": {
   "The Decoder": "10 Meldungen",
-  "heise online": "16 Meldungen",
-  "t3n": "8 Meldungen",
-  "Golem": "6 Meldungen",
+  "heise online": "4 Meldungen",
+  "t3n": "10 Meldungen",
+  "Golem": "4 Meldungen",
   "netzpolitik.org": "0 Meldungen",
-  "tagesschau": "4 Meldungen",
-  "Google News (KI Deutschland)": "45 Meldungen",
-  "Google News (EU KI-Politik)": "9 Meldungen",
-  "Google News (Europe AI)": "18 Meldungen",
+  "tagesschau": "1 Meldungen",
+  "Google News (KI Deutschland)": "28 Meldungen",
+  "Google News (EU KI-Politik)": "17 Meldungen",
+  "Google News (Europe AI)": "10 Meldungen",
   "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
-  "Sifted": "3 Meldungen",
-  "TechCrunch AI": "12 Meldungen",
-  "The Verge AI": "10 Meldungen",
+  "Sifted": "0 Meldungen",
+  "TechCrunch AI": "6 Meldungen",
+  "The Verge AI": "3 Meldungen",
   "MIT Technology Review": "1 Meldungen",
-  "Ars Technica AI": "4 Meldungen"
+  "Ars Technica AI": "3 Meldungen"
  },
  "meldungen": [
   {
    "id": 0,
-   "titel": "Nvidia will stillgelegte AKW zu KI-Fabriken machen – in Deutschland - BASIC thinking",
-   "quelle": "Google News (KI Deutschland)",
-   "region": "de",
-   "text": "Nvidia will stillgelegte AKW zu KI-Fabriken machen – in Deutschland BASIC thinking",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2hMOTROdTVmdFlicE1lQ3E1MmZ6ck45WEx4Rmk5N2t5bWxodEoxNWprWmNybENJS2pOYnM3TU1rdE5KV3FfX1l3T3dReEtwX0FYQ0NFMGNXR3NLVjMtZHdxWC16VUZpREtvMEtXOU50RkpiZWlMMjB2VDNocHFrbnRn?oc=5"
+   "titel": "Lean-Beweis zur Riemann-Hypothese: 175.187 Dateien fehlerfrei geprüft - BornCity",
+   "quelle": "Google News (EU KI-Politik)",
+   "region": "eu",
+   "text": "Lean-Beweis zur Riemann-Hypothese: 175.187 Dateien fehlerfrei geprüft BornCity",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQakdTUmQxSzEtVTRwRkVLZGtVN202elVEQzAyeW8xSFFUMno4aUkxa1B5dm4wMTZiakFBekNHcFFrdWlZOGRMTVFWTFBxNzJHZWp1MGhKcWlWdllkNDA0R3RUbEhIV1JWN2FEbW1GcE5jMEZISkRweGh2N3VjVVdyUjR1cno2SmRmVktFOVBWMFBJa2RJN2Rqd3JrMnY?oc=5"
   },
   {
    "id": 1,
+   "titel": "Copilot Workspaces: Microsoft macht KI-Agenten zu Teamkollegen - ad-hoc-news.de",
+   "quelle": "Google News (EU KI-Politik)",
+   "region": "eu",
+   "text": "Copilot Workspaces: Microsoft macht KI-Agenten zu Teamkollegen ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazBTMkdHSFZpanJBWG56RXNzZG9GVGUzYmEzRG5XTlcxcE53UHdPSW9vZlBNSHlKaHhLNzAwMmJSQkNScmdWbE1DOE5qbUozeFFYclVSRzlaODgybTI2anZnbjhvZmotb2lPY1BNZlBSTkVxOEJESl9aamttRGNCaHVwQ3FSaGdqNktXcEF6TkVFUDJSQ3cxWllIUFVyemF2d1dPTGxKdlVZRERKRFFj?oc=5"
+  },
+  {
+   "id": 2,
+   "titel": "USA und China: Lauterbach sieht Deutschland bei KI nur als Zaungast - ad-hoc-news.de",
+   "quelle": "Google News (KI Deutschland)",
+   "region": "de",
+   "text": "USA und China: Lauterbach sieht Deutschland bei KI nur als Zaungast ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVVydGxNRy1OUXNvNi1xZlFNNTh0eVNmTE40UlpqcXFBZHBTcnJ4dUgyWlN3djdDSk9wU0E1M2I0NWEtVXFMVTJ5czRVcWdWbXBtS05ISzc0OEltdzhVOHRFLS1reWVWemF3WlJqWWFfbmZRek9xc3poZzlkUWxOeUd1dGZNelJwTk5ZWTZ0UWpJLVRZOV84ZTA2bE1qMmhEQzVIZ3duOEZKNGhiaVVvbEs2ODRodw?oc=5"
+  },
+  {
+   "id": 3,
+   "titel": "OpenAI-KI-Agenten: 46 Prozent der Forschungsaufgaben ohne Menschenhilfe - ad-hoc-news.de",
+   "quelle": "Google News (EU KI-Politik)",
+   "region": "eu",
+   "text": "OpenAI-KI-Agenten: 46 Prozent der Forschungsaufgaben ohne Menschenhilfe ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd1hmUDBpVjRxelp1M0tORktVamlTU1FENDBtb3M3ZWduTjRfVi16TjlNdURLNmNzZjRoZXRtbnRqeWU5NTl0WXIwM1VCeXR6ZzdpRDVNQ0lEZWFvNm9rRThXSHBWX2R3b3RaSnR5clVxV1l5VlF2TzJ4Zy05amlmckk4TFNpQ0dmdEktdDY5bjhHYU5BbUFMUFZ0a3BtQllNMUktR1dtTjRsMGt0ZmY2Mk5YekZjS3ZBdG1j?oc=5"
+  },
+  {
+   "id": 4,
+   "titel": "Qwen und Bose: Neue Clip-Kopfhörer übersetzen Gespräche in 89 Sprachen - ad-hoc-news.de",
+   "quelle": "Google News (EU KI-Politik)",
+   "region": "eu",
+   "text": "Qwen und Bose: Neue Clip-Kopfhörer übersetzen Gespräche in 89 Sprachen ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTkUxdWRkMXM4NUZWd0R4anBhbTJHR3RKVUJES09GRkpZRy1PRHMxYUhIWU9LU3ZWZXZTdlpQYkloSnZXbldIVlVOY2tLbWVvZTZ2QUNHMmdmcEVqLTNYOGZyNkMzdjdMcTdNT0RYUmxrUWFPWll4Ym1Jam9tM2gzVTBRbU0xcG10b0hCTWp4U3FhSWk1dkFmWUJNenpjYUJYM0ZXbkk1dFFfc1JEV0dvWUNPZktNV2xlLWlmQUtR?oc=5"
+  },
+  {
+   "id": 5,
+   "titel": "The Cloud Is Back, Who Lets The AI Act Again? – Analysis - Eurasia Review",
+   "quelle": "Google News (Europe AI)",
+   "region": "eu",
+   "text": "The Cloud Is Back, Who Lets The AI Act Again? – Analysis Eurasia Review",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTzdZWHpMYnk0N1VDVVJveFVIWm4tMm4zZWd0NmEzSEhOT3NYcVJGeU1Nci1BNGhpZUxkeWUzb1VoNktEMG5OemhVRm1OSVY1WUF6b1JBSldDNHVYZG9wNmRzbU5idHpkbjFuek5hRldaaW8weWM5V3FFZ0tvVW1ITnI1czlUSjNjenhsZ3E2YUI0RzA4aGFB?oc=5"
+  },
+  {
+   "id": 6,
+   "titel": "Lauterbach fordert mehr Investitionen in deutsche KI - SuaraGarut.ID",
+   "quelle": "Google News (KI Deutschland)",
+   "region": "de",
+   "text": "Lauterbach fordert mehr Investitionen in deutsche KI SuaraGarut.ID",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41cjBld1RJTzBEbEVCdl9LcTJwc2xNRGdNNUU1MVRXQlRaZmkwbTV0R3pxV0N6SFRwTGdQcmMtQ0otRnBWUTZ4TlhWaWEzMlZvMnRjeVNMdjZlRmZsVVVWVlFmTk96UGhESVRYclpB?oc=5"
+  },
+  {
+   "id": 7,
+   "titel": "\"Mich bestürzt das\": Lauterbach beklagt gewaltigen KI-Rückstand in Deutschland - n-tv.de",
+   "quelle": "Google News (KI Deutschland)",
+   "region": "de",
+   "text": "\"Mich bestürzt das\": Lauterbach beklagt gewaltigen KI-Rückstand in Deutschland n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcmNweDlVbTVkQnRpRVJ3T3E5aElYSGN2UzMxTjhpUmVnbkJuWHVJMEwycm9FcFUxcC15VFMwNWVvZFNNSE01cTM4cTE2ZmdVQ2NaR3dtcnMtcVg1cnc1V1R0d1pLRldjSHZnM3FsZGVTNF80Z2NLbFZ0dnFKdm94emZLNFI0Uk14a1hwWDU0QXl5Tl94M21jbFE2YkVEVmFTUGlkWld0ZHE?oc=5"
+  },
+  {
+   "id": 8,
+   "titel": "Best Stock to Buy: TMobile vs AT&T vs Verizon - The Globe and Mail",
+   "quelle": "Google News (Europe AI)",
+   "region": "eu",
+   "text": "Best Stock to Buy: TMobile vs AT&T vs Verizon The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUNfRUVveFRDei1kdzdWc0VteDNOV0lhRy0tSHdCb2xLdU40Q0FZYWprdTlxYjZKRS1OZ2syMWNlWmFFcEZqbVhlNjlnXzRFaDF0S1QzTlRJWWhUTzBVZ1pqdTJ5Wm4wWUtKODVlNmhGUHJFT21qbVJjSDdPRUwwQlFEY1dGMFhleDhZTjNpdmtMb0t1OGR3MzZpTFdxOGFRZERKTk5EbFYyVEpXcWk2Z1dsRlp2NEpQQUExbHo4MA?oc=5"
+  },
+  {
+   "id": 9,
+   "titel": "KI-Schriftsätze vor Gericht: Eilanträge in Hessen steigen um 76 Prozent - ad-hoc-news.de",
+   "quelle": "Google News (EU KI-Politik)",
+   "region": "eu",
+   "text": "KI-Schriftsätze vor Gericht: Eilanträge in Hessen steigen um 76 Prozent ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOUZfLWdrWFB2S1REYmZ3eTBKcVBVT1BpaXZTUTNqRnNrcVc5OTVxZkNKdEhLcHExX21WYnVuRG5vaVhVNThPNWt2SU9aMTYyYnVDYWh4LVVBbEx4b2toVVFfLXpVclFvcWFCX28ySThWWVRMVmNJM2lXcHkwWmZKWGM4LVFiTWpQS1VJTy0wcVE0UGJpaUtxZ1hOSEZTLWVWOHNIY2Y5VXdNR3NoeVJJdzdGeDFUVlV5S0M5TUl3?oc=5"
+  },
+  {
+   "id": 10,
+   "titel": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "quelle": "TechCrunch AI",
+   "region": "welt",
+   "text": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+   "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+  },
+  {
+   "id": 11,
+   "titel": "A tale of two Nvidias",
+   "quelle": "TechCrunch AI",
+   "region": "welt",
+   "text": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+   "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+  },
+  {
+   "id": 12,
+   "titel": "KI-Förderung: Lauterbach fordert mehr Geld für Deutschland - ad-hoc-news.de",
+   "quelle": "Google News (KI Deutschland)",
+   "region": "de",
+   "text": "KI-Förderung: Lauterbach fordert mehr Geld für Deutschland ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmtWaHh3R3pwbDU0b2pKMVNwSmxTbk0yWkpJT2JoeWNaa2Zmc2JIV1ZfTVU5VkpwQUFwS3RhSl9tQWhQalg3SVA3Q2VsVk9MRUJ4V3puRUp6ZGF3NDRrcmJXbVNQaHpfYjdCOHJWR0FNUGVSc1lvMlNQVFdmUzNLNmozMEhJdEpaVjFObUgzTmFsME5rMUtuTUd2NlVNS3dKeE40Y1RR?oc=5"
+  },
+  {
+   "id": 13,
+   "titel": "The UN fails to agree on rules regulating ‘killer robots’",
+   "quelle": "The Verge AI",
+   "region": "welt",
+   "text": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
+   "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+  },
+  {
+   "id": 14,
+   "titel": "Deutsche Telekom investiert 100 Millionen in Mistral AI für souveräne KI - Foro3D",
+   "quelle": "Google News (KI Deutschland)",
+   "region": "de",
+   "text": "Deutsche Telekom investiert 100 Millionen in Mistral AI für souveräne KI Foro3D",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHNidEJMVWphLW1pTHBfcW9QM3FRS28xeGJDTlpIOEJuRUJ3UV9WRHVZaUNVSlFjUE1MZWZkT0hKeVFLU3hMRnczcnpnZmZWUHhPeW93NkpuLXRTeGFWNDdTc0c4aWxjWlZFQlBPSTJsM21QZ1E3Wmk0cVU4amNScjBnUFVQWGN1ZW1LdmwzUDNMRTNGRXR4OUx2YnZEdmJISTRpS3AxYVI2ZHRFRmpneg?oc=5"
+  },
+  {
+   "id": 15,
+   "titel": "KI-Agenten im Onlinehandel: 56 Prozent scheitern an der Kasse - ad-hoc-news.de",
+   "quelle": "Google News (EU KI-Politik)",
+   "region": "eu",
+   "text": "KI-Agenten im Onlinehandel: 56 Prozent scheitern an der Kasse ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVowLUo5WV81RjhSM1NDOGpGT2t2TG5YVVg4dHdLWlZHbnRDNkNpMkZlSGVMdVJBVlBVemtJWWZTQlF4bkRxTWhjY0hHNVJzMzJidW9maGVQTW1vMnlyenRLeVdNRzRaZEtFWmpTU0FXNEx4OGZSaEt2Y2RFMEx4eEJtVTMwODJieXJDakJlQlE3UDJxT0RNcTc0d0dpWFJpOUM1MEhXcktPNDdBOGc?oc=5"
+  },
+  {
+   "id": 16,
+   "titel": "ICAID in Rennes: Fünf Staaten planen ein Zentrum für Militär-KI - ad-hoc-news.de",
+   "quelle": "Google News (KI Deutschland)",
+   "region": "de",
+   "text": "ICAID in Rennes: Fünf Staaten planen ein Zentrum für Militär-KI ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMW1NZmFvNnF6amlsQjl3OTE5RjhkbWVMVGR1eFNKc2QwejdFNTlZZjFvTDg4clRISlpTS2Z0dHhOMklZcXVpNHNyaEFuejhFQW93ZGlhRXNjNVFXcGx5ak5OcHhuQlR3bFkwVWtpc0xtZEV4b04ySWNpQ0V5bE9OTkpTVzdWYVo1dUtITG9lejU0Wkt0bTRQYVBIOWlIcWVjcjY5Y0psWXlQWW5uTXM3ZEJVaHM?oc=5"
+  },
+  {
+   "id": 17,
+   "titel": "Wasserburg am Inn: 15 Workshops zeigen Lehrkräften KI im Schulalltag - ad-hoc-news.de",
+   "quelle": "Google News (EU KI-Politik)",
+   "region": "eu",
+   "text": "Wasserburg am Inn: 15 Workshops zeigen Lehrkräften KI im Schulalltag ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT25GYURDcUd0SENkdVlnVG12WV9XSldqcnA2WmYxNVdLUjJ6U19VaUhzZ0w5WEVMWjdzRDREQl9UNlU2LXBNMzJPRW9ac21kbjR3Z1VOZWpzb3ZaaHJIYV94OURqSlJIVFB3V3dLdXotSDlRWTd0RDh0OGI3RGFxOFVfT2xlYXNFSG05OHpnREFCZEItVkY3ZUVlRFJDbHRGRlBLNkl4MUJIOTAtSEdndC1XaDc2cTI3?oc=5"
+  },
+  {
+   "id": 18,
+   "titel": "HEARTBOT AI Wins Chunghwa Telecom Special Award at Meet Neo Star 2026 - The Malaysian Reserve",
+   "quelle": "Google News (Europe AI)",
+   "region": "eu",
+   "text": "HEARTBOT AI Wins Chunghwa Telecom Special Award at Meet Neo Star 2026 The Malaysian Reserve",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXdLbUJmdjh5c0RqZlhCbmo2ZHdaeGd4Um9mSkQzSU9mQldBeGYwMW1qMnlNSFdoR3hxcnppRnVRZjl3NzNmT09ja2gyNTRNMjNfT0tYLWo3aGZZbFZldEs2MERVdFNsQmZHNF9kTW9IQ3E2cG41U2MyMUV2WGpRdGp5bExLZ3ZUYjdMaTVKYTNoZktvZGJfV0s5NkZBYjU5b1MxV0N4M29rUFR4RGJGMTFuZFkzeDZZ?oc=5"
+  },
+  {
+   "id": 19,
+   "titel": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+   "quelle": "tagesschau",
+   "region": "de",
+   "text": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
+   "link": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html"
+  },
+  {
+   "id": 20,
+   "titel": "Lassen sich Chips tracken? Was Nvidia und Branchenverbände dazu sagen",
+   "quelle": "t3n",
+   "region": "de",
+   "text": "KI-generiert",
+   "link": "https://t3n.de/news/nvidia-chips-tracking-1773433"
+  },
+  {
+   "id": 21,
+   "titel": "Neues RTS aus Deutschland setzt auf KI – und empfiehlt einen Ryzen 7 7800X3D für Full HD - PCGH",
+   "quelle": "Google News (KI Deutschland)",
+   "region": "de",
+   "text": "Neues RTS aus Deutschland setzt auf KI – und empfiehlt einen Ryzen 7 7800X3D für Full HD PCGH",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNczBVWEZTMVhhckJIVmJFSFdTWE5RTkNVQnNGdzFxS0ZMeVhCX0VpVVVLU3h6Tm1QUHQxTzZlVmJ4Q3d6cmFrLTJlUWh6aXdFTzNZTV8xeHZGTGlFbGlKMG81X3RjVkFxeEh1LUNtVkwxVTBNUC1PQkduNkxoNnpqYk9xSmt6Ti1UNm9xNFdzR2NQLTlZbGR3RzRfTDBTYWRXd1JNcm5FUi1XRlJ2NWdESGNicnJKMmxUa0E?oc=5"
+  },
+  {
+   "id": 22,
+   "titel": "Here are the top AI agents that can live in your text messages",
+   "quelle": "TechCrunch AI",
+   "region": "welt",
+   "text": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+  },
+  {
+   "id": 23,
+   "titel": "Jalapeño-Chip: OpenAI senkt Zellfläche um rund 15 Prozent - BornCity",
+   "quelle": "Google News (EU KI-Politik)",
+   "region": "eu",
+   "text": "Jalapeño-Chip: OpenAI senkt Zellfläche um rund 15 Prozent BornCity",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGQwMjRDamdQajJUSVh5VU5wcFg4dVZhM3BhR3lDNmliUjJMbFBkOV9iSmJWQktjTlEwdVRZMTN2SGRBb2p4VEJ2R0x6bV9hZWk1UkVJaG55SF9FekNwQ29xbTdHdVQ3Wl9NUzh5ZmFTUEZWVEUxWDRsbEFfNTdmaUFrdUZjclVoYUYwUQ?oc=5"
+  },
+  {
+   "id": 24,
+   "titel": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "quelle": "TechCrunch AI",
+   "region": "welt",
+   "text": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+  },
+  {
+   "id": 25,
+   "titel": "Deutsche Telekom’s Tech Fund Invests $110 Million in Mistral AI - WSJ",
+   "quelle": "Google News (Europe AI)",
+   "region": "eu",
+   "text": "Deutsche Telekom’s Tech Fund Invests $110 Million in Mistral AI WSJ",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSW9wWnlNbENyd0dVQ1dBUUxZTEsycU1KcG1Eb0w4UDhkR21DUWEyTTdCbnJUdXNWcmExTExtLWdBbWZPb1hyb29kNzhlYXVHaEx0ZGlseGcwbGliTGF4V29fSXJTTUdVemRTZmJNY0xVazZOT2hpdEZoR1duRmJwcGtPbUw4Q19lZWlpSlg0M0NfOTZCcHVCbURCN3FreGNF?oc=5"
+  },
+  {
+   "id": 26,
+   "titel": "Gezielte Suche schlägt das vollständige Einlesen langer Dokumente in KI-Modelle",
+   "quelle": "The Decoder",
+   "region": "de",
+   "text": "Nvidia-Forschende argumentieren, dass Sprachmodelle ihre riesigen, langsamen, teuren und ungenauen Kontextfenster oft gar nicht benötigen, und schlagen eine Alternative vor. In Tests lieferten Zwischenzusammenfassungen und gezielte Stichwortsuche meist gleichwertige Ergebnisse bei einem Bruchteil der Kosten. Das Team schlägt sogar einen neuen Modelltyp vor, der mit kurzen Notizzetteln statt langem Kontext arbeitet. Der Artikel Gezielte Suche schlägt das vollständige Einlesen langer Dokumente…",
+   "link": "https://the-decoder.de/gezielte-suche-schlaegt-das-vollstaendige-einlesen-langer-dokumente-in-ki-modelle/"
+  },
+  {
+   "id": 27,
+   "titel": "Fünf EU-Staaten wollen Zentrum für KI in der Verteidigung gründen",
+   "quelle": "heise online",
+   "region": "de",
+   "text": "Deutschland, Frankreich, Italien, Polen und Schweden wollen gemeinsam ein internationales Zentrum für künstliche Intelligenz in der Verteidigung gründen.",
+   "link": "https://www.heise.de/news/Fuenf-EU-Staaten-wollen-Zentrum-fuer-KI-in-der-Verteidigung-gruenden-11533498.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+  },
+  {
+   "id": 28,
+   "titel": "Pseudo-buddhistisches Kloster in Vermont will zum \"Scientology für das Silicon Valley\" aufsteigen",
+   "quelle": "The Decoder",
+   "region": "de",
+   "text": "Ein buddhistisches Kloster in Vermont namens Maple will sich als spirituelle Autorität des Silicon Valley etablieren und gleichzeitig einen eigenen KI-Gott erschaffen. Laut einer Reportage des New Yorker zeichnet die Gruppe um Anführer Soryu Forall jeden Atemzug ihrer Mitglieder auf, um eine KI nach seinem Abbild zu trainieren. Ehemalige berichten von Manipulation und psychischen Zusammenbrüchen. Der Artikel Pseudo-buddhistisches Kloster in Vermont will zum \"Scientology für das Silicon Valley\"…",
+   "link": "https://the-decoder.de/pseudo-buddhistisches-kloster-in-vermont-will-zum-scientology-fuer-das-silicon-valley-aufsteigen/"
+  },
+  {
+   "id": 29,
+   "titel": "Die Deutsche Telekom steigt im großen Stil beim KI-Starup Mistral AI ein und strebt für die Zukunft eine tiefgreifende Partnerschaft an - NTG24",
+   "quelle": "Google News (KI Deutschland)",
+   "region": "de",
+   "text": "Die Deutsche Telekom steigt im großen Stil beim KI-Starup Mistral AI ein und strebt für die Zukunft eine tiefgreifende Partnerschaft an NTG24",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJMENMZUlkTG92SkpwTE9kNnNpaUFHT2p4aUNjcG5jTlVZZUtYbEJrenhqbk1zcF80azhyblhidEpOWjR3RnhXbTJyTk9TWENsbF9seFFtLUFmT05IdnRlTDZtc3ktcV84OU5oOVVDbU9WcnRxWUdjWlNn?oc=5"
+  },
+  {
+   "id": 30,
+   "titel": "KI soll berühmtestes Problem der Mathematik gelöst haben - Onetz",
+   "quelle": "Google News (KI Deutschland)",
+   "region": "de",
+   "text": "KI soll berühmtestes Problem der Mathematik gelöst haben Onetz",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaEY5SlBFSWRLWW5HdDJjVTBuMHhSRHc3X3ViWkM2T2RLQy1LNEYxS3VPNkF5Q3BiZnpKdzlzZC1UYnJETUJUTUlySGcxU3ZERENDSElpY0pIYkhaVmlQalprUXpfc3NLaW4yQVl6R3M2cXpaNmp0OVI4eGsydXl2NjRFbFB5ZFFtMXQ2ZnJwbm1GNG90TDh6MXhFczZQT3hzUXJQVw?oc=5"
+  },
+  {
+   "id": 31,
+   "titel": "Can Anthropic afford to put safety first?",
+   "quelle": "The Verge AI",
+   "region": "welt",
+   "text": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
+   "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+  },
+  {
+   "id": 32,
+   "titel": "Starker Start an der Börse: Wird Anthropic den Erfolgskurs halten können?",
+   "quelle": "t3n",
+   "region": "de",
+   "text": "Der Börsengang fiel in eine Zeit starker Verunsicherung. Nicht nur der abflauende KI-Boom löst in Anleger:innen Sorgen aus. Auch der Skandal um den ehemaligen Nvidia-CEO wirkt sich auf die gesamte Branche aus.",
+   "link": "https://t3n.de/news/starker-start-an-der-boerse-wird-anthropic-den-erfolgskurs-halten-koennen-1774672"
+  },
+  {
+   "id": 33,
+   "titel": "KI-Begleiter-App erkennen: Datenschutz und Kosten prüfen - AltkreisBlitz",
+   "quelle": "Google News (EU KI-Politik)",
+   "region": "eu",
+   "text": "KI-Begleiter-App erkennen: Datenschutz und Kosten prüfen AltkreisBlitz",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1YxZnFSYnlPRlBnVWh3Z0Q2eTlBd3ZiZm1vYzBmZWswenE2dTN5QjN5ZFlNMmNPOVVMYW5wZWV1LXc5UEw0Tmt1Rml6Q3U3Uk5JRlpBZ3NUZ1A0VkNqMEhCRjNtaDZ1TEJyS1VncTR4eVNKc2FfLUZsQmFHLWtjaURvOWN6Tko2RUJyRkx3Uks1R181akltcWJRN3UyYVFQS3FDOUE5MGlvYk8yUHA1NlZ2WUJsY1Uz?oc=5"
+  },
+  {
+   "id": 34,
+   "titel": "Deutsche KI-Firmen: Diese fünf Start-ups sollte man jetzt kennen - BILD",
+   "quelle": "Google News (KI Deutschland)",
+   "region": "de",
+   "text": "Deutsche KI-Firmen: Diese fünf Start-ups sollte man jetzt kennen BILD",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN0FrQzM1cWVYdGZsellCUG9qcW5oNUlIMW1pbzlqVFk2VzNXYjFJQUFzLU1IZGlVRU5lSGlEZl9BV3AyQk1FbVBfUG9BVTBtN2llVjlfbmo4ZEpIUmh5eU5WdkhrQkZZSkNZQl9SaEVnNWdfZkhzQmV4OWxCRWtJUzduUGRfVlM1ZGh6d3p3ZUFROWVqMGt1Z25XMXZBd1FLck9sSUV6NFFnWVdEMVNmMnBvZnRGbU41RTRzY0xHcw?oc=5"
+  },
+  {
+   "id": 35,
+   "titel": "OpenAI teilt Prompting-Tipps für GPT-6.2 Astra und Sol",
+   "quelle": "The Decoder",
+   "region": "de",
+   "text": "OpenAI hat für GPT-6.2 Astra und Sol neue Prompt-Vorlagen veröffentlicht, die typische Verhaltensweisen der Modelle korrigieren sollen, etwa zu knappe Antworten, unnötige Rückfragen und übermäßiges Testen beim Programmieren. Auch die API ändert sich: Nachträgliche Bearbeitungen des Gesprächsverlaufs können Reasoning-Inhalte verwerfen und die Antwortqualität senken. Der Artikel OpenAI teilt Prompting-Tipps für GPT-6.2 Astra und Sol erschien zuerst auf The Decoder .",
+   "link": "https://the-decoder.de/openai-teilt-prompting-tipps-fuer-gpt-6-2-astra-und-sol/"
+  },
+  {
+   "id": 36,
+   "titel": "Microsoft Autopilot: KI-Agent arbeitet auch bei ausgeschaltetem PC weiter - BornCity",
+   "quelle": "Google News (EU KI-Politik)",
+   "region": "eu",
+   "text": "Microsoft Autopilot: KI-Agent arbeitet auch bei ausgeschaltetem PC weiter BornCity",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN216ZzFhOGpoNGs4QmRtVHh4cHN3TlQwakpvejI2WFQzOTVSS1ZfclZlYWVsbTJmQmJLWHpHeWU5WWY1WWdkWTFxYkNBV0pwdUY5cXJkb1RiQ1JzYzMxT2dUR05EVmpFQTJwUW1uQ21kcWlBX3FmbzlUMFV5MWNVMHFlYU40NG9BU3AzUm10am14bjhUbDFoRU1SVzJ2dXhN?oc=5"
+  },
+  {
+   "id": 37,
+   "titel": "Nokia stock: New consortium targets European AI infrastructure - ad-hoc-news.de",
+   "quelle": "Google News (Europe AI)",
+   "region": "eu",
+   "text": "Nokia stock: New consortium targets European AI infrastructure ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTVPRHR0T2c2YmE4ajFpdm1lZl9HY3JkWVpnMTVBMVRhdXZsTEJZZUY3VldDbXVYUmFqUHNNWVAtR2pjUERNQm5DTjljc1AtUWRNS05uU01mbk5tTy1tRzJRLW9VbkFXT1B2RjEyUTNNUTlUdkxPdUtrU3EtamJHZ3FQbl9zeGdUUkVQUWVYMWJHa2V2bkpXTmRTb3NMN2NFZ1gzMDIzbGgwZU1wY2Nfc09VOXVTbDNfRlpaN01hRWtKUQ?oc=5"
+  },
+  {
+   "id": 38,
+   "titel": "Nach Huangs Rücktritt: Welcher Tech-CEO tappt als Nächstes in die Honigfalle?",
+   "quelle": "t3n",
+   "region": "de",
+   "text": "Das Risiko, Opfer der Methode zu werden, nimmt zu. Laut einem ehemaligen CIA-Beamten seien dabei nicht nur Führungskräfte gefährdet. Auch normale Angestellte können als Quelle sensibler Informationen dienen.",
+   "link": "https://t3n.de/news/nach-huangs-ruecktritt-welcher-tech-ceo-tappt-als-naechstes-in-die-honigfalle-1774666"
+  },
+  {
+   "id": 39,
+   "titel": "Anthropic: Mathematiker will mit Claude Riemann-Vermutung gelöst haben",
+   "quelle": "Golem",
+   "region": "de",
+   "text": "Levent Alpöge will mit Claude die Riemann-Vermutung bewiesen haben. Die Prüfung des Lean-Codes läuft noch. ( Claude , Wissen )",
+   "link": "https://www.golem.de/news/anthropic-mathematiker-will-mit-claude-riemann-vermutung-geloest-haben-2611-215500.html"
+  },
+  {
+   "id": 40,
+   "titel": "KI-Aktien im Sinkflug: Ist der KI-Boom vorbei? - Business Insider Deutschland",
+   "quelle": "Google News (KI Deutschland)",
+   "region": "de",
+   "text": "KI-Aktien im Sinkflug: Ist der KI-Boom vorbei? Business Insider Deutschland",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUzUtS1B1SFJmX0Q3QVFieTFZblB3ME9URS1yTHYxVXRmMXJRM0lXZzhaRDYzZk94MFNtNXl1V0kxZFlKenRHazRiaGJ3ZW1PdHNOc1htcG9rd2VydC0yLTlDWll1UnBYcWR0Y2ZzN0tVMEtjV00yX0NORjNnemZaUFY1MkwzaVVrVW93aXJ3MHlsbHFjQmF0c3g4Zw?oc=5"
+  },
+  {
+   "id": 41,
+   "titel": "Heiliger Gral der Mathematik offenbar gefallen: Anthropic-Forscher löst Riemannsche Vermutung mit KI",
+   "quelle": "The Decoder",
+   "region": "de",
+   "text": "Anthropic-Mathematiker Levent Alpöge hat nach eigenen Angaben mithilfe von Claude die Riemannsche Vermutung bewiesen, das berühmteste offene Problem der Mathematik seit 167 Jahren. Der in Lean formalisierte Beweis umfasst über 250.000 Seiten. Nur Stunden später veröffentlichten Stanford-Forscher einen unabhängigen, rein menschlichen Gegenentwurf. Ob einer der beiden Beweise standhält, prüft nun die Fachwelt. Der Artikel Heiliger Gral der Mathematik offenbar gefallen: Anthropic-Forscher löst…",
+   "link": "https://the-decoder.de/heiliger-gral-der-mathematik-offenbar-gefallen-anthropic-forscher-loest-riemannsche-vermutung-mit-ki/"
+  },
+  {
+   "id": 42,
+   "titel": "KI-Wettlauf: Trump droht Rechenzentren im Ausland mit enormer Steuer",
+   "quelle": "Golem",
+   "region": "de",
+   "text": "Trump will Konzerne zum Bau in den USA drängen. Der Ausbau stößt bei Wählern allerdings auf Widerstand. ( Donald Trump , KI )",
+   "link": "https://www.golem.de/news/ki-wettlauf-trump-droht-rechenzentren-im-ausland-mit-enormer-steuer-2611-215502.html"
+  },
+  {
+   "id": 43,
+   "titel": "US-Techmarkt im freien Fall: Perfekter Sturm aus KI-Zweifeln, Skandalen und Inflationsangst",
+   "quelle": "The Decoder",
+   "region": "de",
+   "text": "Der Nasdaq 100 ist in den Bärenmarkt abgerutscht, mit dem größten Wochenverlust seit der Corona-Krise. Nvidia brach um 14 Prozent ein, die SEC prüft die Buchhaltung, und Anthropic verlor einen Tag nach seinem Rekord-IPO fast alle Kursgewinne. KI-Zweifel, Skandale, steigende Zinsen und politischer Gegenwind treffen gleichzeitig auf überhitzte Bewertungen. Der Artikel US-Techmarkt im freien Fall: Perfekter Sturm aus KI-Zweifeln, Skandalen und Inflationsangst erschien zuerst auf The Decoder .",
+   "link": "https://the-decoder.de/us-techmarkt-im-freien-fall-perfekter-sturm-aus-ki-zweifeln-skandalen-und-inflationsangst/"
+  },
+  {
+   "id": 44,
+   "titel": "Deutsche Telekom-Aktie DAX Gewinner: Magenta als Fluchtburg – KI-Fabrik, Dividende und ein Comeback zum Wochenschluss - AktienCheck.de",
+   "quelle": "Google News (KI Deutschland)",
+   "region": "de",
+   "text": "Deutsche Telekom-Aktie DAX Gewinner: Magenta als Fluchtburg – KI-Fabrik, Dividende und ein Comeback zum Wochenschluss AktienCheck.de",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3lXSjVyTXRGQUMxX0JGXzBtTWVYNDFjakVTb1ZFWHZzTzZxWGVyRktBQTJySHRrbWpDYUx3UkdnWUZWMTRuak9JVklmaHR2Mk5JaFE3OURQUFJDckgzMjdrdDVUSjJKOFpuckItS0xxVHFtS2ViVTAyZDVwTXo5eG5xd2VUMS1nTmlfRGd1SUJTVy0tUDdnY3Vyd1AxdjB3Y1MxOTBhX1hBeUJEY3c?oc=5"
+  },
+  {
+   "id": 45,
+   "titel": "Deutsche Telekom Aktie: Mistral AI plant den Schulterschluss - Börse Express",
+   "quelle": "Google News (KI Deutschland)",
+   "region": "de",
+   "text": "Deutsche Telekom Aktie: Mistral AI plant den Schulterschluss Börse Express",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVREVzQ1Yk90UzNuWE9mQUpNSEliN3ZYYVgzUkhKNFEwMVdsX09SODJTbU9KaTFhdWxNV3l1a2hvMllEUUZUeG9idWxqcDZvbExHRXQ3Z1kxRHFaTWswSTFPbk5lcDZEUHdCRWxfa0RMY3FWNmtaTThRNDYzdDVLSFNpZXI0Mm0wT2JEUmx1dDlwZ2Q2MEthaHJ0VnFieTdicWpRSlV6WFpiYXVWTEJ6aQ?oc=5"
+  },
+  {
+   "id": 46,
+   "titel": "Inkling 2 Mini: Neues KI-Modell denkt in Schleifen – und läuft trotzdem auf dem Laptop",
+   "quelle": "The Decoder",
+   "region": "de",
+   "text": "Thinking Machines veröffentlicht mit Inkling 2 Mini einen offenen Looped-Transformer, eine Architektur, bei der zwölf von 24 Schichten pro Token dreimal durchlaufen werden, sodass das Modell intern länger nachrechnet, ohne zusätzlichen Text auszugeben. Im Artificial-Analysis-Intelligence-Index zieht es mit Qwen3.8 27B gleich bei sechsfach geringeren Kosten. Der Artikel Inkling 2 Mini: Neues KI-Modell denkt in Schleifen – und läuft trotzdem auf dem Laptop erschien zuerst auf The Decoder .",
+   "link": "https://the-decoder.de/inkling-2-mini-neues-ki-modell-denkt-in-schleifen-und-laeuft-trotzdem-auf-dem-laptop/"
+  },
+  {
+   "id": 47,
+   "titel": "Nvidia-Unternehmenskultur: Huang soll Nvidia-Mitarbeiter gezielt gedemütigt haben",
+   "quelle": "Golem",
+   "region": "de",
+   "text": "Die New York Times beschreibt jahrelange Tiraden des Ex-CEOs. Nvidia schweigt, Huangs Sprecher widerspricht. ( Nvidia , Wirtschaft )",
+   "link": "https://www.golem.de/news/nvidia-unternehmenskultur-huang-soll-nvidia-mitarbeiter-gezielt-gedemuetigt-haben-2611-215501.html"
+  },
+  {
+   "id": 48,
+   "titel": "Human in the Lead: Wie man KI-Agenten zähmt, ohne sie auszubremsen",
+   "quelle": "t3n",
+   "region": "de",
+   "text": "KI-generiert",
+   "link": "https://t3n.de/news/agentische-ki-human-in-the-lead-steuerung-1773694"
+  },
+  {
+   "id": 49,
+   "titel": "Frag Maps: Google startet KI-Funktion in Deutschland und 30 EU-Ländern - BornCity",
+   "quelle": "Google News (KI Deutschland)",
+   "region": "de",
+   "text": "Frag Maps: Google startet KI-Funktion in Deutschland und 30 EU-Ländern BornCity",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNVNmYklDNlNRcy1sYV9yaVNJcDJhRWtRZUZLSDNxajhYR3R4a2EydjB2OHEzNUYweWduXzI0WGVKX0tGaEFaUkQtdjR4STJ6WnRxcHFoWmlxdGhtMTFqbVZfUkFBckNKelBITUtVTVRGZk1pa3hCZlZOQ2cwemhmZ2ZSQzdsaTJNQW9ma3ZYaTZ2OGpabTgzNGt5Q3NZZw?oc=5"
+  },
+  {
+   "id": 50,
+   "titel": "Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben",
+   "quelle": "heise online",
+   "region": "de",
+   "text": "Levent Alpöge will mit Claude die Riemannsche Vermutung bewiesen haben. Die Prüfung läuft, ein zweiter Ansatz ohne KI liegt vor.",
+   "link": "https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+  },
+  {
+   "id": 51,
+   "titel": "KI-Kennzeichnung und National Geographic – die Fotonews der Woche 47/2026",
+   "quelle": "heise online",
+   "region": "de",
+   "text": "Frankfurter Gericht stärkt Fotografen-Rechte bei KI-Bildern. National Geographic kürt Pictures of the Year. Und VSCO startet einen Desktop-Editor.",
+   "link": "https://www.heise.de/news/KI-Kennzeichnung-und-National-Geographic-die-Fotonews-der-Woche-47-2026-11532822.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+  },
+  {
+   "id": 52,
+   "titel": "KI vs. Klimaziele: Warum Rechenzentren zum Problem für das Stromnetz werden",
+   "quelle": "t3n",
+   "region": "de",
+   "text": "Der KI-Boom und der damit verbundene Ausbau von Rechenzentren sorgen aufgrund des hohen Strom- und Wasserverbrauchs in den USA zunehmend für Gegenwind. Dank einer neuen Harvard-Studie dürften sich Kritiker:innen bestätigt sehen.",
+   "link": "https://t3n.de/news/rechenzentren-stromverbrauch-harvard-studie-1773938"
+  },
+  {
+   "id": 53,
+   "titel": "Bytedance-Forschende hinterfragen aufwendige KI-Trainingsverfahren und liefern eine schlanke Alternative",
+   "quelle": "The Decoder",
+   "region": "de",
+   "text": "Bytedance und mehrere US-Universitäten stellen mit Axion 1.0 einen KI-Agenten vor, der mit nur drei Trainingsphasen in Benchmarks an kommerzielle Spitzenmodelle von OpenAI und Anthropic heranreicht. Den entscheidenden Hebel sehen die Forschenden in sorgfältig aufbereiteten Trainingsdaten statt in immer neuen Trainingsschritten. Modell, Daten und Code sind frei verfügbar. Der Artikel Bytedance-Forschende hinterfragen aufwendige KI-Trainingsverfahren und liefern eine schlanke Alternative…",
+   "link": "https://the-decoder.de/bytedance-forschende-hinterfragen-aufwendige-ki-trainingsverfahren-und-liefern-eine-schlanke-alternative/"
+  },
+  {
+   "id": 54,
+   "titel": "Fitness-Gadgets: 9 Tech-Tools, die dein Training verbessern",
+   "quelle": "t3n",
+   "region": "de",
+   "text": "KI-generiert",
+   "link": "https://t3n.de/news/fitness-gadgets-sport-training-optimieren-1754059"
+  },
+  {
+   "id": 55,
+   "titel": "800 Millionen „Duft-Tokens“: So will ein US-Startup einer KI das Riechen beibringen",
+   "quelle": "t3n",
+   "region": "de",
+   "text": "KI-generiert",
+   "link": "https://t3n.de/news/800-millionen-duft-tokens-so-will-ein-us-startup-einer-ki-das-riechen-beibringen-1774212"
+  },
+  {
+   "id": 56,
+   "titel": "KI-Kosten steigen massiv: Warum Goldman Sachs jetzt die Bremse zieht",
+   "quelle": "t3n",
+   "region": "de",
+   "text": "Goldman Sachs zieht bei KI-Tools die Zügel an: Claude Code und GitHub bleiben künftig Entwicklern vorbehalten. Was das über den KI-Boom an der Wall Street verrät.",
+   "link": "https://t3n.de/news/goldman-sachs-ki-kosten-bremse-1771271"
+  },
+  {
+   "id": 57,
+   "titel": "„Niemand will diese Arbeit machen“: Roboter übernimmt das Putzen deiner Wohnung – was dabei schief geht",
+   "quelle": "t3n",
+   "region": "de",
+   "text": "Die vom Startup Tau Robotics in San Francisco entwickelten Maschinen benötigen zwar noch viel menschliche Anleitung und scheinen nicht fürs Treppensteigen gemac",
+   "link": "https://t3n.de/news/humanoider-roboter-putzen-selbstversuch-1772384"
+  },
+  {
+   "id": 58,
+   "titel": "Gebrauchte Hardware: KI-Workstation des armen Mannes schlägt Framework Desktop",
+   "quelle": "Golem",
+   "region": "de",
+   "text": "Lokale KI wird immer interessanter, die Hardware aber teurer. Wir haben ein System gebaut, das ab 900 Euro Modelle bis 200 Milliarden Parameter stemmt. Von Johannes Hiltscher ( DIY-KI , AMD )",
+   "link": "https://www.golem.de/news/gebrauchte-hardware-ki-workstation-des-armen-mannes-schlaegt-framework-desktop-2611-215421.html"
+  },
+  {
+   "id": 59,
+   "titel": "Penetrationstesting Archive - B2B Cyber Security",
+   "quelle": "Google News (EU KI-Politik)",
+   "region": "eu",
+   "text": "Penetrationstesting Archive B2B Cyber Security",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjQmcyZFpycmtGcnAwdmJxaWY3cTZmZzR0NlotU3dENkJ5d2hVcW5Sd1RkSlhwZlhReHlDNGlrRVFEWkVWNC1LRVJTTUczT09lckhERTZ2ZlFmWEZodEdiTzV1OXE?oc=5"
+  },
+  {
+   "id": 60,
+   "titel": "Duolingo & Co.: Das sind die beliebtesten Apps 2026",
+   "quelle": "t3n",
+   "region": "de",
+   "text": "Vom Lernen neuer Sprachen über Zyklus-Tracking bis hin zur Steuerung des Smart Home: Für beinahe jeden Lebensbereich gibt es heute die passende App. Die IFA Berlin hat 271 davon genauer unter die Lupe genommen.",
+   "link": "https://t3n.de/news/beliebteste-apps-ranking-2026-1773594"
+  },
+  {
+   "id": 61,
+   "titel": "AI Board holds its tenth meeting - Shaping Europe’s digital future",
+   "quelle": "Google News (Europe AI)",
+   "region": "eu",
+   "text": "AI Board holds its tenth meeting Shaping Europe’s digital future",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGI2Qkx2RHhpNjFuSG1DR0dEaFB1SlFLOTVaLW1XUElpekMxQVMtcHJGdmVmVEJINWlSM3MyNnhWT2lJM2JCWlJqMUVpN0hjTy1KZEg4SUlxTkkwbUZXMlJ4QlJybFI3bFNvUFEwYUs4U2NkbDQ4NEVvRHI4THhrUzhSZ0w?oc=5"
+  },
+  {
+   "id": 62,
+   "titel": "KI-Abwehr bei Microsoft: Phishing-Angriff wächst in 85 Minuten auf 3.000 Konten - ad-hoc-news.de",
+   "quelle": "Google News (EU KI-Politik)",
+   "region": "eu",
+   "text": "KI-Abwehr bei Microsoft: Phishing-Angriff wächst in 85 Minuten auf 3.000 Konten ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTRGdmRBVGthNXZQMUFTLUFRYW0xb1RVWEduRy1QUEFjNTFHd0VrTV9mUHBmeEl1NTVqYU9sTWtlOTliN3ZWLU1wVWxBSThOYjZ1RFZ5MWxCT2pHS1VCUjUyUVp2a0FVZDU3SzlzUHhILXdkWHVHZExnRUk3LXNaX2xndk1PdEdTcWpvdUxlR1RTQ2lnRUljS2dQNzZVTm02WldySzNfNWdnTVFBc3huRGZ5TkhXcm8xM1owaW1iWXZ3VXNi?oc=5"
+  },
+  {
+   "id": 63,
    "titel": "European Union AI Act Leverages Regulatory Power for Strategic Global Influence - Bioengineer.org",
    "quelle": "Google News (Europe AI)",
    "region": "eu",
@@ -36,23 +532,23 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2pfclVYOUx5T3NBWFNvb2pxQklndGpzaVNoUlQzN1lCU0dneGlvYWc3YldQaWo3azNiMWV2Q1FRVEhwOEZLR2FJV2dwNHVMWGsxRkVhUDhTU0gtZ2hOYTY0dzhPVjg5ZFl0bzdkeWV0aTdWTVkxZTI0N1JvbzF5N192WDgwLTU1NmhCblFXVlR0VEZnYk9IenFIdkxGUGlJQXNVU0FIYw?oc=5"
   },
   {
-   "id": 2,
-   "titel": "Vorschau: Re: Spanien und seine durstigen KI-Zentren • Deutschland 2026 - ARD Mediathek",
-   "quelle": "Google News (KI Deutschland)",
-   "region": "de",
-   "text": "Vorschau: Re: Spanien und seine durstigen KI-Zentren • Deutschland 2026 ARD Mediathek",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LdlZRcjE0dkxvVkc4TnRPV3k1ek1vNWxWQTlhR1dPbVcxbUNtMElfZGlsUDNHa2dQU1pRSTBqVHI4V2Y1YVh1dFNvVUZwRXR1M0lnaGJNSGRqRDBPdzdvSkNJcWpaT0JCRTYyR24waEZ5UQ?oc=5"
+   "id": 64,
+   "titel": "Fong introduces bill to strengthen cybersecurity against AI-driven attacks - The San Joaquin Valley Sun",
+   "quelle": "Google News (Europe AI)",
+   "region": "eu",
+   "text": "Fong introduces bill to strengthen cybersecurity against AI-driven attacks The San Joaquin Valley Sun",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkFqU3JKTnQwN3VyME5kQ01UX1N5cmdjN1Y0NlNXdUlJN2lKZWlUMmwwaXUwS1dNUDFKck5reDVCQ3pCVjJocWN4M2U4dk0ybWlGOTlOUWgyNmtNMklMOVpHNzZUVDctdDRPejl4UVRXbDQxQm9LUjZQQWdnQjRBN3phM1RqVVprX1ExSlNPNjFlVDFCZU1rZVFfU2ZwOWNjbmdQTGEwWVZUemZn?oc=5"
   },
   {
-   "id": 3,
-   "titel": "Victor Peng sieht in KI und Quantencomputing langfristige Chancen - MarketScreener Deutschland",
-   "quelle": "Google News (KI Deutschland)",
-   "region": "de",
-   "text": "Victor Peng sieht in KI und Quantencomputing langfristige Chancen MarketScreener Deutschland",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSGp1U0tOQUtXd2k3QUgtcnBtRGljUmZlS0FaSkEtZmQyVVVaLWFiZWliSG4xWXI5djE1b3ptUDcwNHZhbHJubXlaU0dzOTl0Vmxuelgtc1pob2hScU9JZVBjVC0wVE9BNnFCVXRZWU12Yjl4VjlTUjBQaTlQSlBlVUpINk9oSmU1c212bnBhczVNU004X1ZUSkFFcnR4a0RxSzg5STZWWUIzNmpZNTM0bkZvYUFUU2dkSjZEai1URm9oUjhFNExJR3ktUQ?oc=5"
+   "id": 65,
+   "titel": "KI-Sicherheitsvorfälle: Kalifornien will Meldefrist von 15 Tagen auf 48 Stunden senken - BornCity",
+   "quelle": "Google News (EU KI-Politik)",
+   "region": "eu",
+   "text": "KI-Sicherheitsvorfälle: Kalifornien will Meldefrist von 15 Tagen auf 48 Stunden senken BornCity",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzJZVGJ5Rks5VTNmaXJyMmtYcksxZmRUdFlUSG1iY2N3bkRQYVJBTUR3MGttOUZfV1RDRkhLa0FmQ3FDNVlvaGo0OE93UlhYb3QxS2pIWE9aNmxGZG1nVUZVaHNEUHhEclp1ZzJWQmxGT1lWT1NpRW5CbEVYdGljVUdzU0ljQXdtaHFCbWl6M0xrUUVPZUhHa0hubVBaeWp5Sy00b19hZVU3NjZMeHkwd2NCdw?oc=5"
   },
   {
-   "id": 4,
+   "id": 66,
    "titel": "Google rolls out new search homepage with AI chat history and no search button",
    "quelle": "Ars Technica AI",
    "region": "welt",
@@ -60,7 +556,7 @@
    "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
   },
   {
-   "id": 5,
+   "id": 67,
    "titel": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
    "quelle": "Ars Technica AI",
    "region": "welt",
@@ -68,15 +564,7 @@
    "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
   },
   {
-   "id": 6,
-   "titel": "Zscaler kooperiert mit Anthropic und Mistral bei KI-Sicherheit - MarketScreener Deutschland",
-   "quelle": "Google News (KI Deutschland)",
-   "region": "de",
-   "text": "Zscaler kooperiert mit Anthropic und Mistral bei KI-Sicherheit MarketScreener Deutschland",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZjRhVkU5dkNxS1dZNUNReWJWazRpdEIyeW1sMlE1eGw5Ry1iZXowNTlvQjZvWnhUdnM4RHlKbzcta2xmWGtnMUN5ZElZNXJITkJrTHZFekxJblZPUEpXZ29kVFZGbEZscHRWTjdqNXhMME5qeGJBb3NHVTY4VjRWQl9WMWl4dVp1aDhCcVl5bW13aEFWZ1gtNUxNSDFwUWFEa09oOFZuOVM0S3paMm5tM1V3c3l2WW9ZY00zeUs1QjlieHE1a1JR?oc=5"
-  },
-  {
-   "id": 7,
+   "id": 68,
    "titel": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
    "quelle": "Ars Technica AI",
    "region": "welt",
@@ -84,23 +572,7 @@
    "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
   },
   {
-   "id": 8,
-   "titel": "Fünf EU-Länder planen Zentrum für KI in der Verteidigung - Watson",
-   "quelle": "Google News (KI Deutschland)",
-   "region": "de",
-   "text": "Fünf EU-Länder planen Zentrum für KI in der Verteidigung Watson",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWZEbzVKUHhhbXhLSUNOU3o3cFBMMGc4S3FVVXZORjhERmtHcFo1VFFvVVRFNUhSNkhYSy1BVFJoUEFOcC1ORWFVVkYwWFFxaE5qbnNjeHNUVFh6MnZMaDBxVzZwaWxlWVJOdERQc0RrYkxQSDlFeWZJSDNUN0pwUXY4MkFsZFNDMlVGOE9mUk50X1FkdFpUcDBBbHBFMmdnYUg4RnF4VFRwMzNR?oc=5"
-  },
-  {
-   "id": 9,
-   "titel": "Klarna ermöglicht Kunden dank Adyen-Partnerschaft Einkäufe durch KI-Agenten - MarketScreener Deutschland",
-   "quelle": "Google News (KI Deutschland)",
-   "region": "de",
-   "text": "Klarna ermöglicht Kunden dank Adyen-Partnerschaft Einkäufe durch KI-Agenten MarketScreener Deutschland",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRHhBWlJ4d0FPMWMwdmxLNEFkWDNmbDNCWnducmd6Yi11SF9EeXJNOTdsM3F3bUpoS3pqSGFoUG1lZGpueWdzMlQ1Q0hPREJHWWFlMlcxVHRoLWVpRW84SW93SEdFMWJYZExNcXlIRnUxZnlHcWc4Mm9Sd1lnWHZ2UWwwQWkxeEVWeXYtVzV3SVdqWnVCZUptaGJ6R3duOHdUSGRTOTVqN0F3QkFwTkswamlUN1A1empjajNLdGRJWkJzTzlFNHJoUUNxYzNRaG1rNzVPaThXVk1Tc00?oc=5"
-  },
-  {
-   "id": 10,
+   "id": 69,
    "titel": "KI-Datenklau: OpenAI macht Nachahmer-Modellen das Leben schwer",
    "quelle": "The Decoder",
    "region": "de",
@@ -108,7 +580,15 @@
    "link": "https://the-decoder.de/ki-datenklau-openai-macht-nachahmer-modellen-das-leben-schwer/"
   },
   {
-   "id": 11,
+   "id": 70,
+   "titel": "RELEASE: On the Heels of Weekend Attacks, Gottheimer, Fong Announce Bipartisan Legislation to Strengthen Government Cyber Defenses - House.gov",
+   "quelle": "Google News (Europe AI)",
+   "region": "eu",
+   "text": "RELEASE: On the Heels of Weekend Attacks, Gottheimer, Fong Announce Bipartisan Legislation to Strengthen Government Cyber Defenses House.gov",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeHlvMEUzdDhDcG4wdEZxRnI2d2QwQU9nUVhXSnJ2TjVYczRMNDQ4N1UzRW5mZmVHQUd5TXRvRnR2UVZGaFRLMjBsb0NYanNmY1huTDVScjJUelNfY1BNRnVhZ2VjQ2dPS3FZRHRjeWFtbVpvemxYMnNzZHExV1ZVT0RUTkZRWWl1MklYQ1hyazhNTWNVMWMzNG1wUjlqaXpYVEdZVlRtd1lURFNsd1hxcTRPYlM0N25YNmJUNUlJbjMza1U5MGs4OFRhY1FQMnl1TVE5UlgwVDFsbTRKaTNwckhrU05UQkxTbmd5TEUxZWhFdWlX?oc=5"
+  },
+  {
+   "id": 71,
    "titel": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
    "quelle": "TechCrunch AI",
    "region": "welt",
@@ -116,7 +596,7 @@
    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
   },
   {
-   "id": 12,
+   "id": 72,
    "titel": "The EU AI Act After The Digital Omnibus: What Has Changed For Businesses - Legal 500",
    "quelle": "Google News (Europe AI)",
    "region": "eu",
@@ -124,7 +604,7 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVmJmaHdMa0tDN2piZkNnRWltVVlDSWl2ejF1N1F1VHRoV1hXcTF0emJxTjhxMVdfcFhiRHBsQ3pjOWdNdFhVLWlsWHQtLW1Ga29JRjFsV1dEa2l1NXJ5X3A4N0oxMUppRUVvLXI3VGtoejdZV3lVbWE3V0g0Mmc2YmVueXRRbl9JVXJaWDZoWFF4VWtWdkwzcUtNWmc0YWVQa1diRnBCdU5wS1VOdVBtQUViSUhrLTRLcnVUVDNsdER2UlhqdVNtaTZIdjNETVdIRHdZS0d1d3JCVnFKUy0w?oc=5"
   },
   {
-   "id": 13,
+   "id": 73,
    "titel": "Signal schränkt Screenshots ein und warnt vor \"existenzieller Bedrohung\" durch KI-Agenten",
    "quelle": "The Decoder",
    "region": "de",
@@ -132,7 +612,7 @@
    "link": "https://the-decoder.de/signal-schraenkt-screenshots-ein-und-warnt-vor-existenzieller-bedrohung-durch-ki-agenten/"
   },
   {
-   "id": 14,
+   "id": 74,
    "titel": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
    "quelle": "TechCrunch AI",
    "region": "welt",
@@ -140,15 +620,7 @@
    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
   },
   {
-   "id": 15,
-   "titel": "Bayer Aktie: KI-Ausverkauf drückt Kurs ins Minus - Börse Express",
-   "quelle": "Google News (KI Deutschland)",
-   "region": "de",
-   "text": "Bayer Aktie: KI-Ausverkauf drückt Kurs ins Minus Börse Express",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDNUWWZkNkFLLWRWc2VZUEZXQXpFRWxVUlZwMV9zTFk5eExodzhGTUJ6VnZ1NEo5LWJzeWRMTk4zdFF5eGNrR2o2WE5WYnVqT2tkN1ZFb04xSVVsQnlOajN1YlA0RGRkQnV5cjIxNldqVXF1dkVrRmtoVVBYNWlFZ1c5RXpJN1ZPMUNVUENWYmZxeUhiTk1KYlZieEd3bGRrWlE?oc=5"
-  },
-  {
-   "id": 16,
+   "id": 75,
    "titel": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
    "quelle": "The Verge AI",
    "region": "welt",
@@ -156,15 +628,7 @@
    "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
   },
   {
-   "id": 17,
-   "titel": "Bundesrat fordert Änderungen am Pflegeneuordnungsgesetz - BSAktuell",
-   "quelle": "Google News (KI Deutschland)",
-   "region": "de",
-   "text": "Bundesrat fordert Änderungen am Pflegeneuordnungsgesetz BSAktuell",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUjV0aC03bkVES1YzTGVfU0pyX3F1bGZfbHh0UlBmNkJ3dEdWbF9SeGgyTWp4a2dSa0lZQVZpcmFMY2tDZ3VEN0NqRmVfVWJjcThDMEhlU2ZBb2JXZGU5WnV0a0tJeThBM0R6WDVHQ202MC10WVFocWxMYmo1cTJpOUFZTUYtWHVNQVg1TGYxakhkM0loZXgtczN4akNtTkRMcHJmdGFUZUlNUQ?oc=5"
-  },
-  {
-   "id": 18,
+   "id": 76,
    "titel": "Googles Gemini-App für Mac bekommt \"Computer Use\" und steuert Desktop-Apps im Hintergrund",
    "quelle": "The Decoder",
    "region": "de",
@@ -172,7 +636,7 @@
    "link": "https://the-decoder.de/googles-gemini-app-fuer-mac-bekommt-computer-use-und-steuert-desktop-apps-im-hintergrund/"
   },
   {
-   "id": 19,
+   "id": 77,
    "titel": "Anthropics IPO: Gemischtes Fazit trotz Rekord-Börsengangs",
    "quelle": "heise online",
    "region": "de",
@@ -180,644 +644,12 @@
    "link": "https://www.heise.de/news/Anthropics-IPO-Gemischtes-Fazit-trotz-Rekord-Boersengangs-11528169.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
   },
   {
-   "id": 20,
+   "id": 78,
    "titel": "The most misunderstood graph in AI just got a major update",
    "quelle": "MIT Technology Review",
    "region": "welt",
    "text": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
-  },
-  {
-   "id": 21,
-   "titel": "KI-Rechenzentrum im All: Google kooperiert mit Jeff Bezos’ Blue Origin",
-   "quelle": "t3n",
-   "region": "de",
-   "text": "Google arbeitet für das Project Suncatcher mit Blue Origin von Amazon-Gründer Jeff Bezos zusammen. Die Schwerlastrakete New Glenn soll Satelliten für das geplante KI-Rechenzentrum im Weltall in den Orbit transportieren.",
-   "link": "https://t3n.de/news/ki-rechenzentrun-all-google-bezos-blue-origin-1774626"
-  },
-  {
-   "id": 22,
-   "titel": "Chips can survive the space environment — can their financing?",
-   "quelle": "TechCrunch AI",
-   "region": "welt",
-   "text": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-   "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
-  },
-  {
-   "id": 23,
-   "titel": "Senators Introduce AUDIT AI Act to Require Disclosure of Off-Balance-Sheet AI Compute Leases - CASRAI",
-   "quelle": "Google News (Europe AI)",
-   "region": "eu",
-   "text": "Senators Introduce AUDIT AI Act to Require Disclosure of Off-Balance-Sheet AI Compute Leases CASRAI",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQXlYd1J2emRISTAwTHZ4SnNkdHI3b2phcE9wTWx3bEg5RGJKUGdnbWpuc2NBb0xRM1V1NkJ6Vmc3QW80UnFHd19GYWE2b0NKUmNhdFA0RWVLeEV4UmExX2JjUFVORHJOVEV2bndzQnQ0czMyWVlvSE1SU0tyNFE3eUtnZw?oc=5"
-  },
-  {
-   "id": 24,
-   "titel": "(g+) Jensen Huang: Wie die New York Times den Spionageskandal um Nvidia aufdeckte",
-   "quelle": "Golem",
-   "region": "de",
-   "text": "\"Über Geschichten wie diese stolpert man nur einmal\": Das New-York-Times-Reporter-Team erzählt von der Recherche, die Jensen Huang zu Fall brachte. Von Patrick Healy ( Jensen Huang , Nvidia )",
-   "link": "https://www.golem.de/news/jensen-huang-wie-die-new-york-times-den-spionageskandal-um-nvidia-aufdeckte-2611-215440.html"
-  },
-  {
-   "id": 25,
-   "titel": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-   "quelle": "The Verge AI",
-   "region": "welt",
-   "text": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
-  },
-  {
-   "id": 26,
-   "titel": "Blue-Chip-DAX gibt im KI-Ausverkauf nach; deutsche Erzeugerpreise steigen - MarketScreener Deutschland",
-   "quelle": "Google News (KI Deutschland)",
-   "region": "de",
-   "text": "Blue-Chip-DAX gibt im KI-Ausverkauf nach; deutsche Erzeugerpreise steigen MarketScreener Deutschland",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPREduaWU4eGp4b3JVV3RlZXJEVTRJRmxNOGpyRUducXJ4VUItQzZmZDFXWWM5dV9QV2xKa1RyODR2TUtfako1VXRja0xlR0xYUkJkdU5QZUc0SFVJNVJtTEJSbUxUNjN3ZmVHMjA2R2JiMFpYekREWGEtR29XVlBIMHNTTld1YUZBTXVIS3BKOHRNQTJGN2M1a083c2JhRUNCQnRMcno0YTA3dFo1cnpHTi1lN2oxeGJvWTBBOUtCUVlfMWNoLVpFWEJsYWtWY0V3SjVZTg?oc=5"
-  },
-  {
-   "id": 27,
-   "titel": "Deutsche Telekom Aktie: Gleich 100 Millionen Euro für Mistral AI - Börse Express",
-   "quelle": "Google News (KI Deutschland)",
-   "region": "de",
-   "text": "Deutsche Telekom Aktie: Gleich 100 Millionen Euro für Mistral AI Börse Express",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYTV5WEJWRTNNZGxHb0J3VlpUVk9TUTBiVzlURDA5cFpaVVNCR3k0XzEyaDVOR2hfT2s4YW9uNFFoVHU4alJhSVJudTVXcHlWZU04NmFaWlNaWG1XTkFFaU9tbmVLdGFYNDhFbjJVZnl4RmFPUmIzX21HVEJ4VG41SXhRX1pWd1hUME9TbXVrX1RKbnBPNUdwams0eWxEZlNkellFeFZ6bXZfTnRfTFJvd3lsU3E5ZWs?oc=5"
-  },
-  {
-   "id": 28,
-   "titel": "Stockholmsbörse schließt wegen anhaltender KI-Sorgen deutlich im Minus - MarketScreener Deutschland",
-   "quelle": "Google News (KI Deutschland)",
-   "region": "de",
-   "text": "Stockholmsbörse schließt wegen anhaltender KI-Sorgen deutlich im Minus MarketScreener Deutschland",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZERpTkNSYnJhMFUtN2NVYXZmb3REUThydUxHN0xPRTRwVHpEUmZlVVRfaF9Ga282UXJJMzMtYU5lb014UHVKemE2bmFvUmZxUWxLN2NPcy1pUFI4U1NrUHNQUkszOVJFRlpzZjVTdURuZ3pqUHJjeFRpSXBxYmVxeUU5OXlVWVlXdEduSnpUeHVjRUpua3dFRjVwandBbERfQk1pQXRTUjdUVWhzeERtS0I1bFBTdkZMZEFPMzdQeHNkRTRaelhMUFlQc2RwWncwcTVGUg?oc=5"
-  },
-  {
-   "id": 29,
-   "titel": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
-   "quelle": "tagesschau",
-   "region": "de",
-   "text": "Erst legt der KI-Entwickler Anthropic einen der größten Börsengänge der Geschichte hin. Gleichzeitig geraten Technologie- und KI-Aktien weltweit unter Druck. Wie passt das zusammen? Von Michelle Goddemeier.",
-   "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html"
-  },
-  {
-   "id": 30,
-   "titel": "Partnerschaft mit Golfstaaten: Katar will 15 Milliarden Euro in Deutschland investieren - DIE ZEIT",
-   "quelle": "Google News (KI Deutschland)",
-   "region": "de",
-   "text": "Partnerschaft mit Golfstaaten: Katar will 15 Milliarden Euro in Deutschland investieren DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWl3Y3lOV2l1Ty16NFhpaGJiNGRsWmM3VkRhQzhxN3BNR09CQ1NaM3RoYjRVX0VQZTFKbkU3SnJidzdXWF80dDFvXzhidFVXSkE1YS1YOW5hdDktVU41Y2RteW1wLVl0WlZNTC02M2VkbXNhWUdkak1HSlZSMDBOOVBTdVgzV09BWEtwQlNtdkRTLVVrMDhWblZDaHVlZEdPNzNEX25R?oc=5"
-  },
-  {
-   "id": 31,
-   "titel": "How a handful of European angels hit the Anthropic jackpot",
-   "quelle": "Sifted",
-   "region": "eu",
-   "text": "",
-   "link": "https://sifted.eu/articles/european-angels-anthropic-ipo/"
-  },
-  {
-   "id": 32,
-   "titel": "Apple is hiring engineers to build its own AI agent",
-   "quelle": "The Verge AI",
-   "region": "welt",
-   "text": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI […]",
-   "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
-  },
-  {
-   "id": 33,
-   "titel": "Top 10 European AI and machine learning vendors for banks (2027) - London Business News",
-   "quelle": "Google News (Europe AI)",
-   "region": "eu",
-   "text": "Top 10 European AI and machine learning vendors for banks (2027) London Business News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmFpVnNoRFNmNGVzZDFkOF9YUzlCVmx3cTBCbFNKclhWTkpsR09rMVFZTkZ4V3JkMjY0RU5PclY1NDJNLUNrWXlWWmZsdWsxcmJpdWFrNi10TWJPZUtlMjBSX2tDemZDdE9YSzQ2bUE1eE9pUU1sRGVjcnVxQjViT2w4Z3d0TmRKblJ0c2lidnQtelk1QTc4LTBPYw?oc=5"
-  },
-  {
-   "id": 34,
-   "titel": "The fallout from Nvidia’s Jensen Huang scandal continues",
-   "quelle": "TechCrunch AI",
-   "region": "welt",
-   "text": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
-   "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
-  },
-  {
-   "id": 35,
-   "titel": "Cursor von SpaceX erwägt Einstellung der Nutzung chinesischer KI-Modelle - MarketScreener Deutschland",
-   "quelle": "Google News (KI Deutschland)",
-   "region": "de",
-   "text": "Cursor von SpaceX erwägt Einstellung der Nutzung chinesischer KI-Modelle MarketScreener Deutschland",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONm5FcG9jVGNlLW1FNkxUSEY0REtTMEsyV0JWRF9jSl85bnVpUl9INTVhaldTakJUZndGcGw0OWdBYUFXbGhLazNOekhnelQ1LXdpVkZDc2h5NW1qYmI0WU9velFvM2wtZ1JQTnNRM0F4eFAzMWRRQjFsb3JWODJHZDNkMUFOdDBiVXJ3eUREb3V1SVBBMGtBdk5rX3FqQ0NncXhreGNxeDJuNkVxV3lSR1lGbEMwRnlnMDI4V1JTbGJmb29ZM3ZQcjhEeDJwYTRET01rdVlR?oc=5"
-  },
-  {
-   "id": 36,
-   "titel": "GE HealthCare führt KI-gestützte Funktionen für das Protokollmanagement ein - MarketScreener Deutschland",
-   "quelle": "Google News (KI Deutschland)",
-   "region": "de",
-   "text": "GE HealthCare führt KI-gestützte Funktionen für das Protokollmanagement ein MarketScreener Deutschland",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYm9WaXlFTjJPS2R1NGIyVWtuNzlsaWNwMVgzRVlRY0R2TWFBbVVibVRwQXhyUG51R2UwUU9mLWpNUHJDeEhHUFNVTGxFaTZOY3J3TWZ3N01nXzY4QmNmMHc1ZkJ3eUM5aElzQ0VCd2xZTDFvLUpRSUFZRzc5VXVlTGRQME1vbnc3ZFVhWGFJc2dYU05ocnVoYktsTzVxZ0UyMFAwb0JaZWoxSHFtZ1RFQ0otUmJKVEIzdDZOTHhvYkZXbWdCVGs1cHAtMFgtMmVxMTdzc204OFZOREVy?oc=5"
-  },
-  {
-   "id": 37,
-   "titel": "GitLab 19.6 führt Audit-Log für KI-Agenten ein, NGINX bleibt verwundbar",
-   "quelle": "heise online",
-   "region": "de",
-   "text": "Agenten-Aktionen über den MCP-Server landen jetzt im Audit-Log. Patch 19.6.1 schließt Ruby2Shell, das mitgelieferte NGINX bleibt für nginx2root anfällig.",
-   "link": "https://www.heise.de/news/GitLab-19-6-fuehrt-Audit-Log-fuer-KI-Agenten-ein-NGINX-bleibt-verwundbar-11532950.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-  },
-  {
-   "id": 38,
-   "titel": "Signal is blocking Gemini and Siri AI from reading your screen",
-   "quelle": "The Verge AI",
-   "region": "welt",
-   "text": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
-  },
-  {
-   "id": 39,
-   "titel": "Muse: Metas KI-Agent liest Benachrichtigungen und verwechselt Nutzer",
-   "quelle": "Golem",
-   "region": "de",
-   "text": "Metas KI-Agent Muse soll Unterhaltungen verschiedener Nutzer vermischt haben. Das Unternehmen spricht von Halluzinationen und Einzelfällen. ( Meta , KI )",
-   "link": "https://www.golem.de/news/muse-metas-ki-agent-liest-benachrichtigungen-und-verwechselt-nutzer-2611-215480.html"
-  },
-  {
-   "id": 40,
-   "titel": "A brief history of Nvidia’s recent stock fluctuations",
-   "quelle": "The Verge AI",
-   "region": "welt",
-   "text": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
-  },
-  {
-   "id": 41,
-   "titel": "Studien zeigen spürbaren Stellenabbau durch KI in China und sehen 70 Millionen Jobs bedroht",
-   "quelle": "The Decoder",
-   "region": "de",
-   "text": "Laut einer Analyse von zehn Millionen Stellenanzeigen durch Bloomberg News belastet künstliche Intelligenz Chinas schwachen Arbeitsmarkt zusätzlich. Besonders Berufseinsteiger und die Kreativbranche spüren den Umbruch: Über 90 Prozent der chinesischen Mikrodramen entstehen bereits per KI. Der ehemalige Zentralbankberater Cai Fang warnt vor einem noch stärkeren KI-Schock. Der Artikel Studien zeigen spürbaren Stellenabbau durch KI in China und sehen 70 Millionen Jobs bedroht erschien zuerst auf…",
-   "link": "https://the-decoder.de/studien-zeigen-spuerbaren-stellenabbau-durch-ki-in-china-und-sehen-70-millionen-jobs-bedroht/"
-  },
-  {
-   "id": 42,
-   "titel": "The week everything fell apart",
-   "quelle": "The Verge AI",
-   "region": "welt",
-   "text": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On […]",
-   "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
-  },
-  {
-   "id": 43,
-   "titel": "KI-Update Deep-Dive: Smart Glasses als Alltagshilfe",
-   "quelle": "heise online",
-   "region": "de",
-   "text": "Für blinde Menschen sind KI-Brillen eine Alltagshilfe. Doch die Technologie steht wegen Datenschutzbedenken in der Kritik. Das verunsichert Betroffene.",
-   "link": "https://www.heise.de/news/KI-Update-Deep-Dive-Smart-Glasses-als-Alltagshilfe-11530663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-  },
-  {
-   "id": 44,
-   "titel": "Six AI-powered gadgets that could make your home office smarter",
-   "quelle": "TechCrunch AI",
-   "region": "welt",
-   "text": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-   "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
-  },
-  {
-   "id": 45,
-   "titel": "JP Morgan warnt vor zunehmender KI-Bedrohung für Hemnet - EFN - MarketScreener Deutschland",
-   "quelle": "Google News (KI Deutschland)",
-   "region": "de",
-   "text": "JP Morgan warnt vor zunehmender KI-Bedrohung für Hemnet - EFN MarketScreener Deutschland",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWTFYeGM3bTlYSW5jaUNwOW5MTDdWM0h2N2NrNlk0U092QjhaclM1Nm9JeGZ1aEFaNVV4QVlpZ09KdVh3b2lmdHdPbXV4Zi1OOGxqNmRna1VFUm5HQVpPbjZCUmpvTU1lcjZYRXJBWlNMMi11eUs5eFFkQ013QUVSQkdKOHN0XzZtLS03Q1Y5bl9CV2d1T082WkJmSnVRZlhmTVJkeEcxZXFRU09WZUtTMmMwSDQtS2N5UGZfWU16Z0pFWjFn?oc=5"
-  },
-  {
-   "id": 46,
-   "titel": "Browseragent für Chrome: Google baut Tausende Fake-Webseiten für Sicherheitstests",
-   "quelle": "Golem",
-   "region": "de",
-   "text": "In der abgeschotteten Testumgebung wird Googles Browseragent in Chrome gezielt mit manipulierten Inhalten konfrontiert. ( KI , Google )",
-   "link": "https://www.golem.de/news/browseragent-fuer-chrome-google-baut-tausende-fake-webseiten-fuer-sicherheitstests-2611-215476.html"
-  },
-  {
-   "id": 47,
-   "titel": "Vor EU-UK-Gipfel: KI-gestützter Cyberangriff auf EU-Kommission",
-   "quelle": "Golem",
-   "region": "de",
-   "text": "Die EU-Kommission nimmt ihre Personalplattform vom Netz. Ob Daten abgeflossen sind, ist unklar. ( EU-Kommission , KI )",
-   "link": "https://www.golem.de/news/vor-eu-uk-gipfel-ki-gestuetzter-cyberangriff-auf-eu-kommission-2611-215474.html"
-  },
-  {
-   "id": 48,
-   "titel": "Qwant, Shadow, EUSP and OVHcloud join forces to accelerate sovereign European AI - Bisinfotech",
-   "quelle": "Google News (Europe AI)",
-   "region": "eu",
-   "text": "Qwant, Shadow, EUSP and OVHcloud join forces to accelerate sovereign European AI Bisinfotech",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUnUwN1RYbHhKWUNhUUFZNUR1R3lrMHRBdkVENkFuWk12Q2RSM3ZDY3pncWwtRmNFcW80UnltdGtaaHJYZjdxR2J4RWFTNVFLX0VHOXpDY0lCdVNlckJUT2R3Znc4OWg3Wno4UFdfNGdSeGxwVl9iRGdoNjVRaDYwbVBybw?oc=5"
-  },
-  {
-   "id": 49,
-   "titel": "Marktbericht: KI-Kater nach dem Anthropic-Börsengang",
-   "quelle": "tagesschau",
-   "region": "de",
-   "text": "Der aufsehenerregende Börsengang von Anthropic hat den Ausverkauf bei KI-Aktien nicht stoppen können. Der Deutsche Aktienindex ist sogar zwischenzeitlich unter die Marke von 25.000 Punkten gerutscht.",
-   "link": "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html"
-  },
-  {
-   "id": 50,
-   "titel": "Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m",
-   "quelle": "Sifted",
-   "region": "eu",
-   "text": "",
-   "link": "https://sifted.eu/articles/hoplite-raise-stripe-founders/"
-  },
-  {
-   "id": 51,
-   "titel": "Googles Gemini kann bald Macs steuern: Was die KI für Nutzer erledigen soll",
-   "quelle": "t3n",
-   "region": "de",
-   "text": "Google plant, seine KI auf Macs mit mehr Fertigkeiten auszustatten. Gemini kann künftig auch die Steuerung von macOS übernehmen. Warum das Unternehmen damit Apples Vorhaben zuvorkommt.",
-   "link": "https://t3n.de/news/google-gemini-mac-steuern-1774609"
-  },
-  {
-   "id": 52,
-   "titel": "heise-Angebot: iX-Workshop: Multiagentensysteme entwickeln und in eigene Software integrieren",
-   "quelle": "heise online",
-   "region": "de",
-   "text": "Üben Sie direkt am Code, wie Sie aus spezialisierten KI-Agenten ein eigenes Multiagentensystem aufbauen, das komplexe Aufgaben automatisiert erledigen kann.",
-   "link": "https://www.heise.de/news/iX-Workshop-Multiagentensysteme-entwickeln-und-in-eigene-Software-integrieren-11516058.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-  },
-  {
-   "id": 53,
-   "titel": "Google führt weltweit einklappbare Seitenleiste für KI-Suchen auf der Desktop-Startseite ein",
-   "quelle": "The Decoder",
-   "region": "de",
-   "text": "Google führt weltweit eine einklappbare Seitenleiste auf der Desktop-Startseite seiner Suche ein. Über die Leiste im AI Mode lassen sich letzte KI-Suchen wieder aufrufen, Threads durchsuchen und Notebooks anlegen; zudem starten weltweit temporäre Threads ohne Verlaufs-Speicherung. Laut Google-Search-Mitverantwortlichem Robby Stein sollen Nutzer längere Web-Recherchen so einfacher fortsetzen können. Der Artikel Google führt weltweit einklappbare Seitenleiste für KI-Suchen auf der…",
-   "link": "https://the-decoder.de/google-fuehrt-weltweit-einklappbare-seitenleiste-fuer-ki-suchen-auf-der-desktop-startseite-ein/"
-  },
-  {
-   "id": 54,
-   "titel": "Weltraumrechenzentren: Google setzt beim Satellitenstart auf Blue Origin",
-   "quelle": "Golem",
-   "region": "de",
-   "text": "Das Project Suncatcher geht in die nächste Phase: Blue Origin soll 2029 mehrere Satelliten mit KI-Chips von Google in den Orbit befördern. ( Google , KI )",
-   "link": "https://www.golem.de/news/weltraumrechenzentren-google-setzt-beim-satellitenstart-auf-blue-origin-2611-215470.html"
-  },
-  {
-   "id": 55,
-   "titel": "KI-Mini-Workstations mit Nvidia RTX Spark jetzt ab 4600 Euro erhältlich",
-   "quelle": "heise online",
-   "region": "de",
-   "text": "Asus und MSI liefern kompakte Windows-11-PCs mit RTX Spark und bis zu 128 GByte; einige Konkurrenten mit AMD Ryzen AI Max Pro sind billiger, einer hat mehr RAM.",
-   "link": "https://www.heise.de/news/KI-Mini-Workstations-mit-Nvidia-RTX-Spark-jetzt-ab-4600-Euro-erhaeltlich-11532573.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-  },
-  {
-   "id": 56,
-   "titel": "Nvidia steht vor Übernahme des KI-Start-ups Inception für über 500 Millionen Dollar",
-   "quelle": "The Decoder",
-   "region": "de",
-   "text": "Nvidia steht laut The Information kurz vor der Übernahme des KI-Start-ups Inception für mindestens 500 Millionen US-Dollar. Das erst zwei Jahre alte Unternehmen entwickelt Sprachmodelle auf Basis von Diffusionsprozessen – ein Alternativansatz zu klassischen Token-für-Token-Modellen wie ChatGPT. Die Übernahme soll Nvidias eigene Open-Source-Modelle und Robotik-Ambitionen stärken. Der Artikel Nvidia steht vor Übernahme des KI-Start-ups Inception für über 500 Millionen Dollar erschien zuerst auf…",
-   "link": "https://the-decoder.de/nvidia-steht-vor-uebernahme-des-ki-start-ups-inception-fuer-ueber-500-millionen-dollar/"
-  },
-  {
-   "id": 57,
-   "titel": "FFmpeg 9.1 erfindet Bilder dazu – wenn eine Nvidia-GPU hilft",
-   "quelle": "heise online",
-   "region": "de",
-   "text": "Besserer AAC-Klang, berechnete Zwischenbilder per GPU und ein Vulkan-Encoder für APV: Version 9.1 erweitert das Medien-Framework FFmpeg an vielen Stellen.",
-   "link": "https://www.heise.de/news/FFmpeg-9-1-erfindet-Bilder-dazu-wenn-eine-Nvidia-GPU-hilft-11532359.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-  },
-  {
-   "id": 58,
-   "titel": "OpenAIs KI‑Agent versucht, Mails an Dritte weiterzuleiten – obwohl das Tool nur ein Dokument erstellen sollte",
-   "quelle": "t3n",
-   "region": "de",
-   "text": "OpenAI hat einen erneuten Vorfall beim KI-Training zu vermelden. Demnach hat ein Agent bei einer vermeintlich einfachen Aufgabe plötzlich ganz andere Aktionen vorgenommen. Wie es dazu kommen konnte.",
-   "link": "https://t3n.de/news/openai-ki-agent-fitnessdokument-mails-weiterleiten-1774567"
-  },
-  {
-   "id": 59,
-   "titel": "Von AMD und Nvidia: US-Handelsministerium genehmigte Chipverkäufe an China",
-   "quelle": "Golem",
-   "region": "de",
-   "text": "Das US-Handelsministerium hat auch Lieferungen genehmigt, die an Scheinfirmen oder Großkonzerne wie Alibaba und Tencent gehen sollten. ( KI , AMD )",
-   "link": "https://www.golem.de/news/von-amd-und-nvidia-us-handelsministerium-genehmigte-chipverkaeufe-an-china-2611-215462.html"
-  },
-  {
-   "id": 60,
-   "titel": "Metas KI-Gadget für die Hosentasche soll 300 Dollar kosten",
-   "quelle": "heise online",
-   "region": "de",
-   "text": "Metas KI-Gadget Muse Charm dürfte noch vor Jahresende erscheinen. Einem Bericht zufolge soll es 300 US-Dollar kosten und mit kostenlosem 5G starten.",
-   "link": "https://www.heise.de/news/Metas-KI-Gadget-fuer-die-Hosentasche-soll-300-Dollar-kosten-11532549.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-  },
-  {
-   "id": 61,
-   "titel": "Stellenanzeigen verraten Apples Pläne für agentische KI",
-   "quelle": "heise online",
-   "region": "de",
-   "text": "Stellenanzeigen zeigen, dass Apple an einem autonomen KI-Agenten arbeitet, der Code schreibt, im Web surft und Apps steuert – Start frühestens Ende 2027.",
-   "link": "https://www.heise.de/news/Stellenanzeigen-verraten-Apples-Plaene-fuer-agentische-KI-11532377.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-  },
-  {
-   "id": 62,
-   "titel": "BSIG § 38: Regelmäßige Schulungen werden für Geschäftsleitungen zur Pflicht - ad-hoc-news.de",
-   "quelle": "Google News (EU KI-Politik)",
-   "region": "eu",
-   "text": "BSIG § 38: Regelmäßige Schulungen werden für Geschäftsleitungen zur Pflicht ad-hoc-news.de",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcHZoVzRrTzE4ZDY5RGFaZGVtZ3lCT1lxdWdiWGVISXJMUkdWT3VsaEpsb1FJb3l4eHVfaGhzQmhzZnRwSW1WbWJtc1RrT0Y3eFRHSWQ2OW81bWNoeGh2U1cwQ2hnenBHYkx1ZFRSMTZ3SVVtTFMyTFVwQXFieFVOaENQQVBoU0dfUjlwYjRjUWpfbzQ4NUdqRnBfSl9jVXF5OTNKUFdfdU1TVjRKZjE0cHA3V2lrVlhaaGxuYVBpdDM?oc=5"
-  },
-  {
-   "id": 63,
-   "titel": "What the EU AI Act requires of companies in 2026 and 2027 - CEO경제신문",
-   "quelle": "Google News (Europe AI)",
-   "region": "eu",
-   "text": "What the EU AI Act requires of companies in 2026 and 2027 CEO경제신문",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9USzFVRmpuQUlLaWpWckRTT2VJTTNUaXAzT3d4Yjh6WDhIVEljVmNxdjJ4VWhQWmRxd2N1a2JRd3B5WlZIMk1iYkc4NzduY2N5RXdYMDdITGN1QU12b29KRzBESTdRZUJrU2VrVmwtdw?oc=5"
-  },
-  {
-   "id": 64,
-   "titel": "KI-Rechenzentren: Südkorea startet 40-tägige Konsultation zu neuen Regeln - ad-hoc-news.de",
-   "quelle": "Google News (EU KI-Politik)",
-   "region": "eu",
-   "text": "KI-Rechenzentren: Südkorea startet 40-tägige Konsultation zu neuen Regeln ad-hoc-news.de",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmVoTWhHTzRZc0ZUelBLT2JRSHFVWEFRMnplbUR0dngybWdmeHl6LXpnWUFGNVhhRURQMk5zUEdHREJidGtZR0xkbzJsZHlDN0hnNmFkSUdKSnVxOFV3RERzdVRUZjdZODZzVW94WEEyZ3laSEZJXzV6YnVJbDJqRVBhcGdWUFgtRDljdGVjczFaUmZyZ1JhS19XNzZjTzRRUEV5WHhIMXBydmNJd2h3Ti1rVnVPWEdHdGZJYjY5YV8?oc=5"
-  },
-  {
-   "id": 65,
-   "titel": "Copilotforce: Microsoft und Salesforce verknüpfen Kundendaten in Copilot - ad-hoc-news.de",
-   "quelle": "Google News (EU KI-Politik)",
-   "region": "eu",
-   "text": "Copilotforce: Microsoft und Salesforce verknüpfen Kundendaten in Copilot ad-hoc-news.de",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV1lqTDVnQjItWnJGdkZmMV90aTFCazVVWmgzQVotY0ljMmQ4SmdSZzR2LVF2N2hTT1NUZHBXMFN1S2tzRTd2WnN3N0FSSFhWZDJNeTNGWm5zRFF4VnZ1bnh3ZnQxMS02ZmJmM0FMQ0pUbmZTVGd5V2pyQU5ueXM2M05LRVhCVUgxNWV5ZE5xcDJKaDB2Qzlsa3Y1dGRwRDVtb0h0VS11UUU0YjBNckIxdXhHZTNpTEZ6QnRIckxB?oc=5"
-  },
-  {
-   "id": 66,
-   "titel": "Apple entwickelt eigenen KI-Agenten und erschwert der Konkurrenz den Zugriff auf seine Geräte",
-   "quelle": "The Decoder",
-   "region": "de",
-   "text": "Nachdem Meta, OpenAI, Anthropic und Google bereits eigene KI-Agenten anbieten, arbeitet nun auch Apple an einem solchen System – und erschwert gleichzeitig der Konkurrenz den Zugriff auf seine Geräte. Der Artikel Apple entwickelt eigenen KI-Agenten und erschwert der Konkurrenz den Zugriff auf seine Geräte erschien zuerst auf The Decoder .",
-   "link": "https://the-decoder.de/apple-entwickelt-eigenen-ki-agenten-und-erschwert-der-konkurrenz-den-zugriff-auf-seine-geraete/"
-  },
-  {
-   "id": 67,
-   "titel": "Ireland strengthens its role in European AI innovation - The Portugal News",
-   "quelle": "Google News (Europe AI)",
-   "region": "eu",
-   "text": "Ireland strengthens its role in European AI innovation The Portugal News",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTU51ejJKOFY2TTlZQjBxMTdadmFZaTNxeHhHNF92MWNtS0hiSk10aU1lX2lWRjZuSjJ1U05TMUktYnd5ZDhISFNDcFNNcVI5QTVDT3I3akIteGE4SzRMejNUaFBaWTlZSDZ5VjJHcVlTN1cwaTJ4SkJWQlJHYWRqVC1hWmRLaFBFMmx2RjFUQ1FmVkh3VEZoZnV3N0Q4MG8yS3QyUHNROC1hcWlaYmhJ?oc=5"
-  },
-  {
-   "id": 68,
-   "titel": "Muse Charm: So viel soll Metas neues KI-Gadget kosten",
-   "quelle": "t3n",
-   "region": "de",
-   "text": "Mit dem Muse Charm will der Facebook-Konzern ein eigenes KI-Gadget auf den Markt bringen. Jetzt sind erste Informationen zum Preis durchgesickert.",
-   "link": "https://t3n.de/news/muse-charm-metas-neues-ki-gadget-preis-1774564"
-  },
-  {
-   "id": 69,
-   "titel": "Apple arbeitet an einem KI-Agenten für Macs: Was schon jetzt dazu bekannt ist",
-   "quelle": "t3n",
-   "region": "de",
-   "text": "Apple will offenbar auf den Trend der KI-Agenten aufspringen. Laut einer Stellenausschreibung arbeitet der iPhone-Konzern daran, agentische Workflows auf dem Mac zu ermöglichen. Was dadurch schon jetzt zu Apples KI-Tool bekannt ist.",
-   "link": "https://t3n.de/news/apple-ki-agent-macs-1774546"
-  },
-  {
-   "id": 70,
-   "titel": "Hermes: Beliebter Open-Source-Agent zieht in Microsoft Teams ein",
-   "quelle": "The Decoder",
-   "region": "de",
-   "text": "Unternehmen können den Open-Source-Agenten Hermes Agent von Nous Research künftig direkt in Microsoft Teams nutzen. Der Artikel Hermes: Beliebter Open-Source-Agent zieht in Microsoft Teams ein erschien zuerst auf The Decoder .",
-   "link": "https://the-decoder.de/hermes-beliebter-open-source-agent-zieht-in-microsoft-teams-ein/"
-  },
-  {
-   "id": 71,
-   "titel": "software-architektur.tv: Produktivität mit KI – das Harvard-Paper",
-   "quelle": "heise online",
-   "region": "de",
-   "text": "KI schreibt schneller Code, doch kommen dadurch auch mehr Features bei Kunden an? Eine Harvard-Studie liefert Antworten.",
-   "link": "https://www.heise.de/news/software-architektur-tv-Produktivitaet-mit-KI-das-Harvard-Paper-11532159.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-  },
-  {
-   "id": 72,
-   "titel": "European AI Stocks Decline as Anthropic’s Nasdaq Debut Fails to Revive Technology Sector - Yahoo Finance UK",
-   "quelle": "Google News (Europe AI)",
-   "region": "eu",
-   "text": "European AI Stocks Decline as Anthropic’s Nasdaq Debut Fails to Revive Technology Sector Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSEZyTlR6bmVfZDJadUFoX1FHakZwcjhlbHhhdU1pVnRvNkV6Nk1La2wzdXdwTXZaY09hRDB0anlDUGZfUEppRFhPdXh5eFk1WGVUMmRmQ2R3YW9LMk9sSzlqQzRQUmtUc01DczNGRmotak1VMk52bnR0dlcxdWRSblVfRTRjQ3d1U3Y4eF9R?oc=5"
-  },
-  {
-   "id": 73,
-   "titel": "Nvidia unter Druck: Kalifornien fordert Antworten zu China-Geschäften",
-   "quelle": "heise online",
-   "region": "de",
-   "text": "Die Kontroverse um Jensen Huang ist für Nvidia mit dem Rücktritt des langjährigen Chefs nicht vorbei. Jetzt rollt die nächste Untersuchung auf den Konzern zu.",
-   "link": "https://www.heise.de/news/Kalifornien-will-von-Nvidia-Aufklaerung-zu-China-Lieferungen-11532235.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-  },
-  {
-   "id": 74,
-   "titel": "Google baut ein künstliches Internet für seine KI-Agenten",
-   "quelle": "heise online",
-   "region": "de",
-   "text": "Google hat ein künstliches Internet mit Tausenden Websites geschaffen, um KI-Agenten realistischen Angriffen auszusetzen und ihre Sicherheit zu verbessern.",
-   "link": "https://www.heise.de/news/Google-baut-ein-kuenstliches-Internet-fuer-seine-KI-Agenten-11532191.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-  },
-  {
-   "id": 75,
-   "titel": "Diese KI läuft auf einem alten SNES: So gut ist der Konsolen-Chatbot",
-   "quelle": "t3n",
-   "region": "de",
-   "text": "Ein Entwickler hat mit KI-Unterstützung ein Bastelprojekt realisiert. Er hat einen Chatbot auf eine alte SNES-Konsole gebracht. Wie gut das Tool auf der Hardware funktioniert – und welche Hürden es noch gibt.",
-   "link": "https://t3n.de/news/ki-auf-altem-snes-konsolen-chatbot-1774537"
-  },
-  {
-   "id": 76,
-   "titel": "European AI-linked shares fall as Anthropic’s debut fails to spark rally - Investing.com",
-   "quelle": "Google News (Europe AI)",
-   "region": "eu",
-   "text": "European AI-linked shares fall as Anthropic’s debut fails to spark rally Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWkdZbnJVand3R0p5ZThKa3FjeWdNUTAtZ1FJbHVoUHRSSmExQlMwMUNkaDZCNktRZDZNOTFLU2FsM0VvUnpmdFl3cFYydl9wSTVRZjYxc3NWSkFLTUNZOWQxcUthY1FodlM1TVp0REozYXBwRndqb3FMVFhBN3c4WTZmQ3lKTUtSZDNCWlJPMlVVWF9nSjVSZmdLVWpLMURjRktORkFuWldzb1V5V0dnY0pmUWFOY0FTOVdTVnphUklER3RydTVYSXZQZjU?oc=5"
-  },
-  {
-   "id": 77,
-   "titel": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
-   "quelle": "tagesschau",
-   "region": "de",
-   "text": "Den Anfangshype konnte Anthropic am ersten Börsentag nicht ganz halten. Trotzdem ist die Aktie mit einem deutlichen Kursplus aus dem Handel gegangen. Das machte viele Beschäftigte auf einen Schlag reich.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html"
-  },
-  {
-   "id": 78,
-   "titel": "Nordrhein-Westfalen und Bayern wollen Unternehmen den Einsatz von KI erleichtern - tixio - Nachrichten",
-   "quelle": "Google News (EU KI-Politik)",
-   "region": "eu",
-   "text": "Nordrhein-Westfalen und Bayern wollen Unternehmen den Einsatz von KI erleichtern tixio - Nachrichten",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTEtWT3VrWFMyWllObkZWZnUzemExZGRPU0Mxd0RjckVwTkUwNTFNckJYMUdPbmp6LV8tM0xSTFczWE0zbEdZT2pqbUo0LTV3Um4ycDlMdkdfUHY1d19sNi1Halg2Y3JXQ1B6MUFOdlVFc3M2ZnZMNllDWm03dmo1TFIwdlM3SlBnSUoya1dvZlJOaUxRLWVKNXMtSHNoZ3F0TWVoNlFqRGZTN0lZUTIxcWc3WWQ?oc=5"
-  },
-  {
-   "id": 79,
-   "titel": "Modellflut. Welche KI brauche ich? | Schere. Stein. KI.",
-   "quelle": "The Decoder",
-   "region": "de",
-   "text": "heise KI Pro, KI PRO, Podcast, Schere. Stein. KI., KI-Modelle Der Artikel Modellflut. Welche KI brauche ich? | Schere. Stein. KI. erschien zuerst auf The Decoder .",
-   "link": "https://the-decoder.de/modellflut-welche-ki-brauche-ich-schere-stein-ki/"
-  },
-  {
-   "id": 80,
-   "titel": "Black Friday: Warum die Deutschen den Rabatten so wenig trauen – und trotzdem kaufen",
-   "quelle": "t3n",
-   "region": "de",
-   "text": "50 Prozent Rabatt, Countdown-Uhren, rote Streichpreise: Der Black Friday verspricht das große Schnäppchen. Doch kaum eine Nation blickt so skeptisch auf die Rabattaktion wie die Deutschen.",
-   "link": "https://t3n.de/news/black-friday-rabatte-deutschland-1774508"
-  },
-  {
-   "id": 81,
-   "titel": "Kaliforniens Justiz erhöht wegen China-Geschäft Druck auf Nvidia",
-   "quelle": "tagesschau",
-   "region": "de",
-   "text": "Nach dem Rücktritt von Nvidia-Chef Huang kommt der Chiphersteller nicht zur Ruhe. Jetzt wollen kalifornische Behörden untersuchen, ob und wie KI-Chips oder Informationen illegal nach China gelangt sein könnten.",
-   "link": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html"
-  },
-  {
-   "id": 82,
-   "titel": "Wird GTA 6 das Gaming verändern? Wahrscheinlich kaum - aber andere Branchen dafür schon",
-   "quelle": "t3n",
-   "region": "de",
-   "text": "Grand Theft Auto 6 ist ein gigantisches und ein bedeutendes Spiel. Aber wird es auch beeinflussen, wie Videospiele zukünftig aussehen? Das wahrscheinlich eher nicht – dafür dürften andere Branchen aber genau hinschauen.",
-   "link": "https://t3n.de/news/gta-6-gaming-veraendern-1774449"
-  },
-  {
-   "id": 83,
-   "titel": "heise-Angebot: iX-Sonderheft Testing-Guide – Qualitätssicherung in Zeiten von KI",
-   "quelle": "heise online",
-   "region": "de",
-   "text": "Testing-Praxis mit, von und ohne KI – das neue Sonderheft von iX Developer berichtet über klassische und moderne Testing-Methoden, Know-how und Best Practices.",
-   "link": "https://www.heise.de/news/iX-Sonderheft-Testing-Guide-Qualitaetssicherung-in-Zeiten-von-KI-11528697.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-  },
-  {
-   "id": 84,
-   "titel": "MongoDB kauft Firebolt und holt sich Echtzeitanalyse-Engine ins Haus",
-   "quelle": "heise online",
-   "region": "de",
-   "text": "Einst als Milliarden-Start-up gehandelt, landet Firebolt nun bei MongoDB. Die Engine soll dort Analysen für Anwendungen und KI-Agenten beschleunigen.",
-   "link": "https://www.heise.de/news/MongoDB-kauft-Firebolt-und-holt-sich-Echtzeitanalyse-Engine-ins-Haus-11531590.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-  },
-  {
-   "id": 85,
-   "titel": "Alibaba Zhenwu V900: Dreifache Rechenleistung, Massenfertigung ab 2027 - ad-hoc-news.de",
-   "quelle": "Google News (EU KI-Politik)",
-   "region": "eu",
-   "text": "Alibaba Zhenwu V900: Dreifache Rechenleistung, Massenfertigung ab 2027 ad-hoc-news.de",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDdLMWZiYUJveFFVb3lwZHNOQl94QUl4SldXT0NOU05YVUFoUm5WUVRlbmIzN24tRjRhYmgtWkhqS2V3SEFpUFFXYWE4bXRMbkRvUHFwQ21GRzNMaWEyWFBtWlItZDZrUXYzZmQ3bS1qbjlQUUhhOXZhVjRIQ2ExX2x4OEo4SzBsWlRyWEZrM0FlSXZhUFBtbXlvamhlcFFLZ3lxanR2a1JETko5czBsRlhEbGZRX1Va?oc=5"
-  },
-  {
-   "id": 86,
-   "titel": "KI-Sorgen: Taiwans Börse sackt ab, AMD verliert stark, Anthropic noch im Plus",
-   "quelle": "heise online",
-   "region": "de",
-   "text": "Der geglückte Börsengang von Anthropic konnte am Donnerstag nicht darüber hinwegtäuschen, dass die Stimmung an den Finanzmärkten angespannt bleibt.",
-   "link": "https://www.heise.de/news/KI-Sorgen-Taiwans-Boerse-sackt-ab-AMD-verliert-stark-Anthropic-noch-im-Plus-11531957.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-  },
-  {
-   "id": 87,
-   "titel": "Freitag: London muss Apple-Hintertür zugeben, Niederlande warnen vor KI-Brillen",
-   "quelle": "heise online",
-   "region": "de",
-   "text": "Gericht für Backdoor-Geständnis + Datenschützer gegen KI-Brillen + Notfallwarnung als Handy-Finder + PHP-Updates gegen akute Lücken + Verbraucherschutz-Podcast",
-   "link": "https://www.heise.de/news/Freitag-London-muss-Apple-Hintertuer-zugeben-Niederlande-warnen-vor-KI-Brillen-11531935.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-  },
-  {
-   "id": 88,
-   "titel": "UK AI minister rejects calls for sovereign model, sparking backlash: 'I'm so angry'",
-   "quelle": "Sifted",
-   "region": "eu",
-   "text": "",
-   "link": "https://sifted.eu/articles/kanishka-narayan-ai-uk-minister-sovereign/"
-  },
-  {
-   "id": 89,
-   "titel": "KI-Literacy-Zertifikat der EU: Erprobung soll im Schuljahr 2027/ 28 starten - ad-hoc-news.de",
-   "quelle": "Google News (EU KI-Politik)",
-   "region": "eu",
-   "text": "KI-Literacy-Zertifikat der EU: Erprobung soll im Schuljahr 2027/ 28 starten ad-hoc-news.de",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHNLM1J5YzJuOW4xd1JMVFA5bGVjcTF5blRGLU4xb1pFMktJOTFZMFNZLVJxbVVScWUyVlN4bGF3YXR2aTlUOFA5czB6UV9RNjlpYkZZOENjYWg5ZDN4WFQ0dUFBSURBZTU3RHh2MW50a1MwTGE2V1RpWHM3VDhEVFVDYzhKcGVIa0twdkRMSmJQSTZDN2dZWDZobVFqQUdjQkVyVTNZbDZKNnlSZVNSVTUzZ0s4bDNUb3JOY3RGbw?oc=5"
-  },
-  {
-   "id": 90,
-   "titel": "ChatGPT-App: OpenAI testet neue Menüleiste mit festem Platz für Dots - ad-hoc-news.de",
-   "quelle": "Google News (EU KI-Politik)",
-   "region": "eu",
-   "text": "ChatGPT-App: OpenAI testet neue Menüleiste mit festem Platz für Dots ad-hoc-news.de",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmZpTGNEWHVJZVd2MlVNMmx1NmJzYUN6YURnNXZsZDdSbk1acmVZWkozZ2JYUHlrSE1kUGdZTDU1alJFYjdOczVKQ0dub3lWQ3Y0TFlpTDBtT2dPZlAyVEdTSkJVUkZYRFFIckQ3Vmd6cnhIT2xLV3pRU2I0TDdtNEVNMUg5ZUxWd1NJSjFfTkRNbnl0TUtOY2dWLU5SRzVQVFRjcFBqdV9ISU9JLVp5aVFwckFvN1ktQlE?oc=5"
-  },
-  {
-   "id": 91,
-   "titel": "Senators Propose AUDIT AI Act on AI Financing - Wisevoter",
-   "quelle": "Google News (Europe AI)",
-   "region": "eu",
-   "text": "Senators Propose AUDIT AI Act on AI Financing Wisevoter",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEg3dnhSZkZ1VmhQYjd2UHc4ejBFQlFpS241Mkt0bkJTaXM0LThQaXZRYW1WVGp1SmoyeXhMalZHRXJ6V3ZKbnNVS0lFRGJ3QzVfQ0R1T09SdGxtSXp4NEZrMlpqemtnVXlFSUdnOTZZWlo2WkRQUml6cWFSaC1RU2pGZnk?oc=5"
-  },
-  {
-   "id": 92,
-   "titel": "Five Steps for Amended EU AI Act Compliance [Video] - The National Law Review",
-   "quelle": "Google News (Europe AI)",
-   "region": "eu",
-   "text": "Five Steps for Amended EU AI Act Compliance [Video] The National Law Review",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVFVVnVFdHFyTUU2T1Y3cG1Ba2lpeXJRaWs4NHRjanc1WjU2SWVNQV9TQTVfOW54WkNvQ3NwZmlqLTJxUVpfdy1Ockx0WXM5RlNYSnlMdGdHMXJGZ3daWDFKQzVrSEVOSnFyUlNwOVhQdmo2QlM3UV9wRlB6Y3dhR21LTnPSAYoBQVVfeXFMTVBfa2NGTkNOQThyYmpEQW93U0FqbFo1SUUzV00yalpDVGNlUmNOeWM0ZUVtU2pvSHJzZVpBbmd6SjZTZ0l6c2NQbkZyQ1F0NlYzSHVNYlZQZEFfRkN1UG5DM09PYWVEYTI0d3J3VDhENklMYTVGWDVCTWV4REc2a2U4cS16SERWdk1B?oc=5"
-  },
-  {
-   "id": 93,
-   "titel": "OVHcloud Launches Agentic Workspace, 55 Cloud And AI Products And A European AI Alliance - SMBtech",
-   "quelle": "Google News (Europe AI)",
-   "region": "eu",
-   "text": "OVHcloud Launches Agentic Workspace, 55 Cloud And AI Products And A European AI Alliance SMBtech",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0NHTVFIRFJ2aEVOQ1NzMmROMjVPd1psZmdCRFVOcW1XN2hyZFZZb21FczlNLVg0dzhiYllCRWJVY1pYdTQ2YnhlYkhWWFhSZjRMWlhoTFV1Y0tmSjdfSkh2QmdGUjU4SnVKN0wzelhiLUo0UElMVEhpbjcwODJiWkU3bno1d01kOG1WbFFXNUFveVAwejBuZ19RMlh6cXUtVk1ZX1djTGZ4dHhESERrcmhn?oc=5"
-  },
-  {
-   "id": 94,
-   "titel": "InfoSiG Saarland: Landtag beschließt einheitliche IT-Sicherheitsregeln - ad-hoc-news.de",
-   "quelle": "Google News (EU KI-Politik)",
-   "region": "eu",
-   "text": "InfoSiG Saarland: Landtag beschließt einheitliche IT-Sicherheitsregeln ad-hoc-news.de",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHluTV9aTXp2dFliWG5TSmFLSi1hZVpRWmI3d1NwbzFTNVpQMEhPWUZ5VnlmLUhoeWhHcXA2Ulo5OElHM2VFVXdVbnVIRHJXeExMTnNuUkdEbVctVkcxWXJ1dTNHc0Z0ZXAwbkhJcGVHbU5YcFV5VTVoUGRCd3JVMW1kZnNEdm5kTUF1WDltT19RcHZMN1gtbjJjN2xzZTQ1WG50aTBlaWRrSU9aQ0daazVJel9zcVQz?oc=5"
-  },
-  {
-   "id": 95,
-   "titel": "Apple may be developing its own AI agent that runs your Mac",
-   "quelle": "TechCrunch AI",
-   "region": "welt",
-   "text": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-   "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
-  },
-  {
-   "id": 96,
-   "titel": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-   "quelle": "TechCrunch AI",
-   "region": "welt",
-   "text": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-   "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
-  },
-  {
-   "id": 97,
-   "titel": "GPT-Live-1.1: OpenAI bietet Sprachmodell für 5 Cent pro aktiver Minute an - ad-hoc-news.de",
-   "quelle": "Google News (EU KI-Politik)",
-   "region": "eu",
-   "text": "GPT-Live-1.1: OpenAI bietet Sprachmodell für 5 Cent pro aktiver Minute an ad-hoc-news.de",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnQzQmhnanAyWFpDODdLY2QyT296SHhXbEY1bWxBcGdKTFJwS25DWjl5bV9Nci1ac2U5dkhwMnNDWGZJWGxwWS1IV3UzczZ0OEpkVGpBWG04MVVUX2dvNXdFWTRXdzdUb21jMDRhNXdZNElFNjItVldHcXZUb1ZXX3NIelhqRnR3REJEU29pbnVJcWhUdGVkRGdLVFVDWnpaaTZKMy10eDVQWjdvSlNtak9LSVpBM0g4ZEgyT2w5MA?oc=5"
-  },
-  {
-   "id": 98,
-   "titel": "Meta’s new Muse Charm device may cost $300",
-   "quelle": "TechCrunch AI",
-   "region": "welt",
-   "text": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-   "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
-  },
-  {
-   "id": 99,
-   "titel": "These tech outages are giving Y2K, AI agent style",
-   "quelle": "TechCrunch AI",
-   "region": "welt",
-   "text": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-   "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
   }
  ]
 }

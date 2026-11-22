@@ -1,154 +1,150 @@
 {
- "lage": "Guten Morgen und schönes Wochenende! Nvidia will stillgelegte Atomkraftwerke in Deutschland zu KI-Fabriken umbauen, während der KI-Ausverkauf den DAX belastet. In Europa schließen sich Anbieter für souveräne KI zusammen, und in der Mathematik sorgt ein mit Claude erzielter Beweis für Aufsehen.",
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
  "deutschland": [
   {
-   "titel": "Nvidia will stillgelegte Atomkraftwerke in Deutschland zu KI-Fabriken machen",
-   "zusammenfassung": "Laut einem Bericht von BASIC thinking plant Nvidia, stillgelegte Atomkraftwerke in Deutschland in KI-Rechenzentren umzuwandeln.",
-   "warum_wichtig": "Die vorhandenen Netzanschlüsse alter Kraftwerke könnten den Engpass beim Strom für KI-Rechenzentren in Deutschland lindern.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "USA und China: Lauterbach sieht Deutschland bei KI nur als Zaungast - ad-hoc-news.de",
+   "zusammenfassung": "USA und China: Lauterbach sieht Deutschland bei KI nur als Zaungast ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2hMOTROdTVmdFlicE1lQ3E1MmZ6ck45WEx4Rmk5N2t5bWxodEoxNWprWmNybENJS2pOYnM3TU1rdE5KV3FfX1l3T3dReEtwX0FYQ0NFMGNXR3NLVjMtZHdxWC16VUZpREtvMEtXOU50RkpiZWlMMjB2VDNocHFrbnRn?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVVydGxNRy1OUXNvNi1xZlFNNTh0eVNmTE40UlpqcXFBZHBTcnJ4dUgyWlN3djdDSk9wU0E1M2I0NWEtVXFMVTJ5czRVcWdWbXBtS05ISzc0OEltdzhVOHRFLS1reWVWemF3WlJqWWFfbmZRek9xc3poZzlkUWxOeUd1dGZNelJwTk5ZWTZ0UWpJLVRZOV84ZTA2bE1qMmhEQzVIZ3duOEZKNGhiaVVvbEs2ODRodw?oc=5"
     }
    ]
   },
   {
-   "titel": "KI-Ausverkauf drückt DAX zeitweise unter 25.000 Punkte",
-   "zusammenfassung": "Der Rekord-Börsengang von Anthropic konnte den Ausverkauf bei KI-Aktien nicht stoppen. Der DAX rutschte zwischenzeitlich unter die Marke von 25.000 Punkten.",
-   "warum_wichtig": "Die Unsicherheit über den KI-Boom trifft auch deutsche Anleger und Unternehmen direkt.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Lauterbach fordert mehr Investitionen in deutsche KI - SuaraGarut.ID",
+   "zusammenfassung": "Lauterbach fordert mehr Investitionen in deutsche KI SuaraGarut.ID",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
-    {
-     "name": "tagesschau",
-     "url": "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html"
-    },
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPREduaWU4eGp4b3JVV3RlZXJEVTRJRmxNOGpyRUducXJ4VUItQzZmZDFXWWM5dV9QV2xKa1RyODR2TUtfako1VXRja0xlR0xYUkJkdU5QZUc0SFVJNVJtTEJSbUxUNjN3ZmVHMjA2R2JiMFpYekREWGEtR29XVlBIMHNTTld1YUZBTXVIS3BKOHRNQTJGN2M1a083c2JhRUNCQnRMcno0YTA3dFo1cnpHTi1lN2oxeGJvWTBBOUtCUVlfMWNoLVpFWEJsYWtWY0V3SjVZTg?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41cjBld1RJTzBEbEVCdl9LcTJwc2xNRGdNNUU1MVRXQlRaZmkwbTV0R3pxV0N6SFRwTGdQcmMtQ0otRnBWUTZ4TlhWaWEzMlZvMnRjeVNMdjZlRmZsVVVWVlFmTk96UGhESVRYclpB?oc=5"
     }
    ]
   },
   {
-   "titel": "NRW und Bayern wollen Unternehmen den KI-Einsatz erleichtern",
-   "zusammenfassung": "Nordrhein-Westfalen und Bayern haben angekündigt, Unternehmen den Einsatz von KI erleichtern zu wollen.",
-   "warum_wichtig": "Zwei große Industrieländer setzen damit ein Signal für weniger Hürden beim KI-Einsatz im Mittelstand.",
-   "kategorie": "Politik & Regulierung",
+   "titel": "\"Mich bestürzt das\": Lauterbach beklagt gewaltigen KI-Rückstand in Deutschland - n-tv.de",
+   "zusammenfassung": "\"Mich bestürzt das\": Lauterbach beklagt gewaltigen KI-Rückstand in Deutschland n-tv.de",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTEtWT3VrWFMyWllObkZWZnUzemExZGRPU0Mxd0RjckVwTkUwNTFNckJYMUdPbmp6LV8tM0xSTFczWE0zbEdZT2pqbUo0LTV3Um4ycDlMdkdfUHY1d19sNi1Halg2Y3JXQ1B6MUFOdlVFc3M2ZnZMNllDWm03dmo1TFIwdlM3SlBnSUoya1dvZlJOaUxRLWVKNXMtSHNoZ3F0TWVoNlFqRGZTN0lZUTIxcWc3WWQ?oc=5"
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcmNweDlVbTVkQnRpRVJ3T3E5aElYSGN2UzMxTjhpUmVnbkJuWHVJMEwycm9FcFUxcC15VFMwNWVvZFNNSE01cTM4cTE2ZmdVQ2NaR3dtcnMtcVg1cnc1V1R0d1pLRldjSHZnM3FsZGVTNF80Z2NLbFZ0dnFKdm94emZLNFI0Uk14a1hwWDU0QXl5Tl94M21jbFE2YkVEVmFTUGlkWld0ZHE?oc=5"
     }
    ]
   },
   {
-   "titel": "KI-Brillen helfen blinden Menschen, stehen aber in der Kritik",
-   "zusammenfassung": "Für blinde Menschen sind KI-Brillen eine wichtige Alltagshilfe. Wegen Datenschutzbedenken steht die Technologie jedoch in der Kritik, was Betroffene verunsichert.",
-   "warum_wichtig": "Bei der Regulierung von KI-Brillen müssen auch die Bedürfnisse von Menschen mit Behinderung berücksichtigt werden.",
-   "kategorie": "Gesellschaft",
+   "titel": "KI-Förderung: Lauterbach fordert mehr Geld für Deutschland - ad-hoc-news.de",
+   "zusammenfassung": "KI-Förderung: Lauterbach fordert mehr Geld für Deutschland ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/KI-Update-Deep-Dive-Smart-Glasses-als-Alltagshilfe-11530663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmtWaHh3R3pwbDU0b2pKMVNwSmxTbk0yWkpJT2JoeWNaa2Zmc2JIV1ZfTVU5VkpwQUFwS3RhSl9tQWhQalg3SVA3Q2VsVk9MRUJ4V3puRUp6ZGF3NDRrcmJXbVNQaHpfYjdCOHJWR0FNUGVSc1lvMlNQVFdmUzNLNmozMEhJdEpaVjFObUgzTmFsME5rMUtuTUd2NlVNS3dKeE40Y1RR?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Deutsche Telekom investiert 100 Millionen in Mistral AI für souveräne KI - Foro3D",
+   "zusammenfassung": "Deutsche Telekom investiert 100 Millionen in Mistral AI für souveräne KI Foro3D",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHNidEJMVWphLW1pTHBfcW9QM3FRS28xeGJDTlpIOEJuRUJ3UV9WRHVZaUNVSlFjUE1MZWZkT0hKeVFLU3hMRnczcnpnZmZWUHhPeW93NkpuLXRTeGFWNDdTc0c4aWxjWlZFQlBPSTJsM21QZ1E3Wmk0cVU4amNScjBnUFVQWGN1ZW1LdmwzUDNMRTNGRXR4OUx2YnZEdmJISTRpS3AxYVI2ZHRFRmpneg?oc=5"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "Fünf EU-Länder planen gemeinsames Zentrum für Verteidigungs-KI",
-   "zusammenfassung": "Fünf EU-Staaten wollen ein gemeinsames Zentrum für KI in der Verteidigung aufbauen.",
-   "warum_wichtig": "Europa will bei militärischer KI enger zusammenarbeiten und unabhängiger von den USA werden.",
-   "kategorie": "Sicherheit",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWZEbzVKUHhhbXhLSUNOU3o3cFBMMGc4S3FVVXZORjhERmtHcFo1VFFvVVRFNUhSNkhYSy1BVFJoUEFOcC1ORWFVVkYwWFFxaE5qbnNjeHNUVFh6MnZMaDBxVzZwaWxlWVJOdERQc0RrYkxQSDlFeWZJSDNUN0pwUXY4MkFsZFNDMlVGOE9mUk50X1FkdFpUcDBBbHBFMmdnYUg4RnF4VFRwMzNR?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "OVHcloud, Qwant und Partner verbünden sich für souveräne europäische KI",
-   "zusammenfassung": "Qwant, Shadow, EUSP und OVHcloud bündeln ihre Kräfte, um souveräne europäische KI voranzubringen. OVHcloud hat dazu eine Europäische KI-Allianz sowie 55 neue Cloud- und KI-Produkte vorgestellt.",
-   "warum_wichtig": "Europäische Unternehmen erhalten mehr Alternativen zu US-Cloud- und KI-Anbietern.",
-   "kategorie": "Wirtschaft & Startups",
-   "quellen": [
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUnUwN1RYbHhKWUNhUUFZNUR1R3lrMHRBdkVENkFuWk12Q2RSM3ZDY3pncWwtRmNFcW80UnltdGtaaHJYZjdxR2J4RWFTNVFLX0VHOXpDY0lCdVNlckJUT2R3Znc4OWg3Wno4UFdfNGdSeGxwVl9iRGdoNjVRaDYwbVBybw?oc=5"
-    },
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0NHTVFIRFJ2aEVOQ1NzMmROMjVPd1psZmdCRFVOcW1XN2hyZFZZb21FczlNLVg0dzhiYllCRWJVY1pYdTQ2YnhlYkhWWFhSZjRMWlhoTFV1Y0tmSjdfSkh2QmdGUjU4SnVKN0wzelhiLUo0UElMVEhpbjcwODJiWkU3bno1d01kOG1WbFFXNUFveVAwejBuZ19RMlh6cXUtVk1ZX1djTGZ4dHhESERrcmhn?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "EU will KI-Kompetenz-Zertifikat ab Schuljahr 2027/28 erproben",
-   "zusammenfassung": "Die EU plant ein Zertifikat für KI-Kompetenz, das im Schuljahr 2027/28 erstmals erprobt werden soll.",
-   "warum_wichtig": "Schülerinnen und Schüler in Europa könnten ihre KI-Kenntnisse künftig einheitlich nachweisen.",
-   "kategorie": "Gesellschaft",
+   "titel": "Lean-Beweis zur Riemann-Hypothese: 175.187 Dateien fehlerfrei geprüft - BornCity",
+   "zusammenfassung": "Lean-Beweis zur Riemann-Hypothese: 175.187 Dateien fehlerfrei geprüft BornCity",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHNLM1J5YzJuOW4xd1JMVFA5bGVjcTF5blRGLU4xb1pFMktJOTFZMFNZLVJxbVVScWUyVlN4bGF3YXR2aTlUOFA5czB6UV9RNjlpYkZZOENjYWg5ZDN4WFQ0dUFBSURBZTU3RHh2MW50a1MwTGE2V1RpWHM3VDhEVFVDYzhKcGVIa0twdkRMSmJQSTZDN2dZWDZobVFqQUdjQkVyVTNZbDZKNnlSZVNSVTUzZ0s4bDNUb3JOY3RGbw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQakdTUmQxSzEtVTRwRkVLZGtVN202elVEQzAyeW8xSFFUMno4aUkxa1B5dm4wMTZiakFBekNHcFFrdWlZOGRMTVFWTFBxNzJHZWp1MGhKcWlWdllkNDA0R3RUbEhIV1JWN2FEbW1GcE5jMEZISkRweGh2N3VjVVdyUjR1cno2SmRmVktFOVBWMFBJa2RJN2Rqd3JrMnY?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Copilot Workspaces: Microsoft macht KI-Agenten zu Teamkollegen - ad-hoc-news.de",
+   "zusammenfassung": "Copilot Workspaces: Microsoft macht KI-Agenten zu Teamkollegen ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazBTMkdHSFZpanJBWG56RXNzZG9GVGUzYmEzRG5XTlcxcE53UHdPSW9vZlBNSHlKaHhLNzAwMmJSQkNScmdWbE1DOE5qbUozeFFYclVSRzlaODgybTI2anZnbjhvZmotb2lPY1BNZlBSTkVxOEJESl9aamttRGNCaHVwQ3FSaGdqNktXcEF6TkVFUDJSQ3cxWllIUFVyemF2d1dPTGxKdlVZRERKRFFj?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "OpenAI-KI-Agenten: 46 Prozent der Forschungsaufgaben ohne Menschenhilfe - ad-hoc-news.de",
+   "zusammenfassung": "OpenAI-KI-Agenten: 46 Prozent der Forschungsaufgaben ohne Menschenhilfe ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd1hmUDBpVjRxelp1M0tORktVamlTU1FENDBtb3M3ZWduTjRfVi16TjlNdURLNmNzZjRoZXRtbnRqeWU5NTl0WXIwM1VCeXR6ZzdpRDVNQ0lEZWFvNm9rRThXSHBWX2R3b3RaSnR5clVxV1l5VlF2TzJ4Zy05amlmckk4TFNpQ0dmdEktdDY5bjhHYU5BbUFMUFZ0a3BtQllNMUktR1dtTjRsMGt0ZmY2Mk5YekZjS3ZBdG1j?oc=5"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "Anthropic-Mathematiker will Riemannsche Vermutung mit Claude bewiesen haben",
-   "zusammenfassung": "Der Anthropic-Mathematiker Levent Alpöge gibt an, mit Hilfe von Claude die Riemannsche Vermutung bewiesen zu haben, eines der berühmtesten ungelösten Probleme der Mathematik. Parallel gibt es eine konkurrierende Lösung eines Menschen.",
-   "warum_wichtig": "Sollte sich der Beweis bestätigen, wäre das ein Meilenstein für KI als Werkzeug in der Grundlagenforschung.",
-   "kategorie": "Forschung",
+   "titel": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "zusammenfassung": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
-    },
-    {
      "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+     "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
     }
    ]
   },
   {
-   "titel": "Signal sperrt Screenshots gegen mitlesende KI-Agenten",
-   "zusammenfassung": "Der Messenger Signal schränkt Screenshots auf Android und iOS ein, damit KI-Agenten wie Apples Siri AI, Googles Gemini oder Metas Muse private Chats nicht mitlesen können. Signal spricht von einer „existenziellen Bedrohung“ für den Datenschutz.",
-   "warum_wichtig": "Auch Nutzer in Europa müssen sich fragen, welche Daten KI-Agenten auf ihren Geräten sehen dürfen.",
-   "kategorie": "Sicherheit",
+   "titel": "A tale of two Nvidias",
+   "zusammenfassung": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "The Decoder",
-     "url": "https://the-decoder.de/signal-schraenkt-screenshots-ein-und-warnt-vor-existenzieller-bedrohung-durch-ki-agenten/"
-    },
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
     }
    ]
   }
  ],
- "datum": "2026-11-21",
- "erstellt": "2026-11-21T06:42+01:00",
- "modus": "ki",
- "anzahl_meldungen": 100,
+ "datum": "2026-11-22",
+ "erstellt": "2026-11-22T06:42+01:00",
+ "modus": "einfach",
+ "anzahl_meldungen": 79,
  "feeds": {
   "The Decoder": "10 Meldungen",
-  "heise online": "16 Meldungen",
-  "t3n": "8 Meldungen",
-  "Golem": "6 Meldungen",
+  "heise online": "4 Meldungen",
+  "t3n": "10 Meldungen",
+  "Golem": "4 Meldungen",
   "netzpolitik.org": "0 Meldungen",
-  "tagesschau": "4 Meldungen",
-  "Google News (KI Deutschland)": "45 Meldungen",
-  "Google News (EU KI-Politik)": "9 Meldungen",
-  "Google News (Europe AI)": "18 Meldungen",
+  "tagesschau": "1 Meldungen",
+  "Google News (KI Deutschland)": "28 Meldungen",
+  "Google News (EU KI-Politik)": "17 Meldungen",
+  "Google News (Europe AI)": "10 Meldungen",
   "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
-  "Sifted": "3 Meldungen",
-  "TechCrunch AI": "12 Meldungen",
-  "The Verge AI": "10 Meldungen",
+  "Sifted": "0 Meldungen",
+  "TechCrunch AI": "6 Meldungen",
+  "The Verge AI": "3 Meldungen",
   "MIT Technology Review": "1 Meldungen",
-  "Ars Technica AI": "4 Meldungen"
+  "Ars Technica AI": "3 Meldungen"
  }
 }
