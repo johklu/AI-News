@@ -1,0 +1,50 @@
+{
+  "stand": "2026-11-23T05:41:50+00:00",
+  "lage": "Guten Morgen und einen guten Wochenstart! Der Bundesrat will Deepfakes deutlich härter bestrafen, und Siemens-Chef Busch sieht den KI-Wettkampf im „Endspiel“. Weltweit gilt der mit Claude gefundene Beweis der Riemannschen Vermutung nun als bestätigt.",
+  "deutschland": [
+    {"titel": "Bundesrat fordert bis zu fünf Jahre Haft für Deepfakes",
+     "zusammenfassung": "Beim geplanten Deepfake-Gesetz fordert der Bundesrat eine Höchststrafe von bis zu fünf Jahren Haft statt der vorgesehenen zwei Jahre.",
+     "warum_wichtig": "Wer in Deutschland mit KI gefälschte Bilder oder Videos verbreitet, könnte künftig deutlich härter bestraft werden.",
+     "kategorie": "Politik & Regulierung", "quellen": [60]},
+    {"titel": "Siemens-Chef Busch: KI-Wettkampf ist „das Endspiel“",
+     "zusammenfassung": "Siemens-Chef Roland Busch sieht im weltweiten Wettkampf um KI und die Zukunft der Industrie jetzt „das Endspiel“.",
+     "warum_wichtig": "Einer der wichtigsten deutschen Industriekonzerne mahnt damit zur Eile beim KI-Einsatz.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [6, 7]},
+    {"titel": "Bundeswehr testet Kamikaze-Drohnen und KI-Zielsoftware in Litauen",
+     "zusammenfassung": "Die Bundeswehr erprobt in Litauen Kamikaze-Drohnen und Software, die per KI Ziele erfasst.",
+     "warum_wichtig": "KI hält damit konkret Einzug in die deutsche Militärpraxis, während internationale Regeln fehlen.",
+     "kategorie": "Sicherheit", "quellen": [2]},
+    {"titel": "Nur 36 Prozent der Deutschen vertrauen KI-Agenten Entscheidungen an",
+     "zusammenfassung": "Laut einer Umfrage würden nur 36 Prozent der Verbraucher in Deutschland KI-Agenten Entscheidungen überlassen.",
+     "warum_wichtig": "Anbieter von KI-Agenten müssen in Deutschland erst Vertrauen aufbauen, bevor die Technik breit genutzt wird.",
+     "kategorie": "Gesellschaft", "quellen": [36, 44]},
+    {"titel": "Verbraucherzentrale verklagt Perplexity wegen Preisangaben",
+     "zusammenfassung": "Der Verbraucherzentrale Bundesverband hat beim Kammergericht Klage gegen den KI-Suchdienst Perplexity eingereicht, wegen dessen Preisangaben für das Pro-Abo.",
+     "warum_wichtig": "Auch KI-Dienste müssen sich in Deutschland an die Regeln des Verbraucherschutzes halten.",
+     "kategorie": "Politik & Regulierung", "quellen": [40]}
+  ],
+  "eu": [
+    {"titel": "Black Forest Labs nimmt Weltmodelle ins Visier",
+     "zusammenfassung": "Das von Nvidia und a16z unterstützte KI-Start-up Black Forest Labs will künftig Weltmodelle entwickeln.",
+     "warum_wichtig": "Ein europäisches KI-Unternehmen wagt sich damit an eines der zukunftsträchtigsten Forschungsfelder.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [3]},
+    {"titel": "Nokia und Semidynamics erkunden europäische KI-Hardware",
+     "zusammenfassung": "Nokia arbeitet mit dem Chipentwickler Semidynamics zusammen, um eigene europäische KI-Hardware zu erforschen.",
+     "warum_wichtig": "Eigene Chips könnten Europas Abhängigkeit von US-Herstellern wie Nvidia verringern.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [26]},
+    {"titel": "Griechenland plant menschliche Aufsicht bei KI-Personalentscheidungen",
+     "zusammenfassung": "Griechenland will vorschreiben, dass Personalentscheidungen, die mit KI getroffen werden, von Menschen beaufsichtigt werden.",
+     "warum_wichtig": "Weitere EU-Staaten setzen eigene Regeln für KI am Arbeitsplatz, über den AI Act hinaus.",
+     "kategorie": "Politik & Regulierung", "quellen": [63]}
+  ],
+  "welt": [
+    {"titel": "Lean-Community bestätigt KI-gestützten Beweis der Riemannschen Vermutung",
+     "zusammenfassung": "Die Lean- und Mathlib-Community hat den mit Hilfe von Claude erstellten Beweis der Riemannschen Vermutung von Anthropic-Mathematiker Levent Alpöge offiziell als korrekt bestätigt. Der 17 Millionen Zeilen lange Code wurde von Dutzenden unabhängigen Prüfern verifiziert, in der Mathematik wächst aber auch Kritik am KI-Einsatz.",
+     "warum_wichtig": "Die Lösung eines der berühmtesten Probleme der Mathematik zeigt, dass KI zu einem echten Werkzeug der Grundlagenforschung wird.",
+     "kategorie": "Forschung", "quellen": [58, 55]},
+    {"titel": "Google schaltet Google Assistant ab und setzt im Smart Home auf Gemini",
+     "zusammenfassung": "Google stellt die Nest-App und Google Assistant ein und integriert Nest-Geräte in die Home-App mit Gemini als Sprachassistent. Smarte Lautsprecher und Displays sollen ab nächstem Sommer auf Gemini umgestellt werden.",
+     "warum_wichtig": "Auch in Europa müssen Millionen Smart-Home-Nutzer auf den neuen KI-Assistenten umsteigen.",
+     "kategorie": "Produkte & Modelle", "quellen": [4, 59]}
+  ]
+}
