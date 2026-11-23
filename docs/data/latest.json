@@ -1,105 +1,150 @@
 {
- "lage": "Guten Morgen und einen ruhigen Sonntag! Karl Lauterbach beklagt einen gewaltigen KI-Rückstand Deutschlands, und an Gerichten häufen sich KI-geschriebene Anträge. International scheitert die UN an Regeln für Killerroboter, und die US-Techbörse rutscht in den Bärenmarkt.",
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
  "deutschland": [
   {
-   "titel": "Lauterbach beklagt gewaltigen KI-Rückstand Deutschlands",
-   "zusammenfassung": "Karl Lauterbach zeigt sich bestürzt über den Rückstand Deutschlands bei KI und sieht das Land gegenüber den USA und China nur als Zaungast. Er fordert deutlich mehr Investitionen in deutsche KI.",
-   "warum_wichtig": "Die Forderung erhöht den Druck auf die Bundesregierung, bei der KI-Förderung nachzulegen.",
-   "kategorie": "Politik & Regulierung",
+   "titel": "MORNING BID EUROPA-KI, caramba! - MarketScreener Deutschland",
+   "zusammenfassung": "MORNING BID EUROPA-KI, caramba! MarketScreener Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcmNweDlVbTVkQnRpRVJ3T3E5aElYSGN2UzMxTjhpUmVnbkJuWHVJMEwycm9FcFUxcC15VFMwNWVvZFNNSE01cTM4cTE2ZmdVQ2NaR3dtcnMtcVg1cnc1V1R0d1pLRldjSHZnM3FsZGVTNF80Z2NLbFZ0dnFKdm94emZLNFI0Uk14a1hwWDU0QXl5Tl94M21jbFE2YkVEVmFTUGlkWld0ZHE?oc=5"
-    },
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVVydGxNRy1OUXNvNi1xZlFNNTh0eVNmTE40UlpqcXFBZHBTcnJ4dUgyWlN3djdDSk9wU0E1M2I0NWEtVXFMVTJ5czRVcWdWbXBtS05ISzc0OEltdzhVOHRFLS1reWVWemF3WlJqWWFfbmZRek9xc3poZzlkUWxOeUd1dGZNelJwTk5ZWTZ0UWpJLVRZOV84ZTA2bE1qMmhEQzVIZ3duOEZKNGhiaVVvbEs2ODRodw?oc=5"
-    },
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41cjBld1RJTzBEbEVCdl9LcTJwc2xNRGdNNUU1MVRXQlRaZmkwbTV0R3pxV0N6SFRwTGdQcmMtQ0otRnBWUTZ4TlhWaWEzMlZvMnRjeVNMdjZlRmZsVVVWVlFmTk96UGhESVRYclpB?oc=5"
-    },
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmtWaHh3R3pwbDU0b2pKMVNwSmxTbk0yWkpJT2JoeWNaa2Zmc2JIV1ZfTVU5VkpwQUFwS3RhSl9tQWhQalg3SVA3Q2VsVk9MRUJ4V3puRUp6ZGF3NDRrcmJXbVNQaHpfYjdCOHJWR0FNUGVSc1lvMlNQVFdmUzNLNmozMEhJdEpaVjFObUgzTmFsME5rMUtuTUd2NlVNS3dKeE40Y1RR?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUpPQldNZWM1NWxRWUp3eExSR3dBekU4WC1XT2F6ZGFERE5rVERGYnR4N084am9kX0NvUVFKMk1uRXdFTGZORkxCTmlBMmkwUm1vUzVtN2pHUGFVZXBEMVlJWGcydFY1aEpHV3dxc05FUVBONGw4M0VjTElobGpHa3JpM2w0ZklTdFhDbDNOd2wyWFAwbEZtUGREdw?oc=5"
     }
    ]
   },
   {
-   "titel": "KI-Schriftsätze: Eilanträge an Hessens Gerichten steigen um 76 Prozent",
-   "zusammenfassung": "Mit KI erstellte Schriftsätze sorgen in Hessen für einen Anstieg der Eilanträge vor Gericht um 76 Prozent.",
-   "warum_wichtig": "Die Justiz muss sich auf eine Flut KI-generierter Eingaben einstellen, was Verfahren verlangsamen kann.",
-   "kategorie": "Gesellschaft",
-   "quellen": [
-    {
-     "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOUZfLWdrWFB2S1REYmZ3eTBKcVBVT1BpaXZTUTNqRnNrcVc5OTVxZkNKdEhLcHExX21WYnVuRG5vaVhVNThPNWt2SU9aMTYyYnVDYWh4LVVBbEx4b2toVVFfLXpVclFvcWFCX28ySThWWVRMVmNJM2lXcHkwWmZKWGM4LVFiTWpQS1VJTy0wcVE0UGJpaUtxZ1hOSEZTLWVWOHNIY2Y5VXdNR3NoeVJJdzdGeDFUVlV5S0M5TUl3?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Frankfurter Gericht stärkt Rechte von Fotografen bei KI-Bildern",
-   "zusammenfassung": "Ein Gericht in Frankfurt hat die Rechte von Fotografen im Zusammenhang mit KI-Bildern und deren Kennzeichnung gestärkt.",
-   "warum_wichtig": "Kreative in Deutschland bekommen mehr Rückhalt gegenüber der Nutzung ihrer Werke durch KI.",
-   "kategorie": "Politik & Regulierung",
+   "titel": "Montag: Internetprobleme der Berliner Polizei, Google konsolidiert Smart Home",
+   "zusammenfassung": "Berliner Internetwache offline + Ende für Nest-App & Google Assistant + Tech-Sektor unter Börsendruck + GTA 6 und die Gegenwart + KI für Riemannsche Vermutung",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "heise online",
-     "url": "https://www.heise.de/news/KI-Kennzeichnung-und-National-Geographic-die-Fotonews-der-Woche-47-2026-11532822.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  }
- ],
- "eu": [],
- "welt": [
-  {
-   "titel": "UN einigen sich nicht auf Regeln für Killerroboter",
-   "zusammenfassung": "Bei den Beratungen in Genf über Regeln für autonome Waffensysteme konnten sich die UN-Diplomaten nicht einigen. Die Vertreter verließen die Gespräche ohne Ergebnis.",
-   "warum_wichtig": "Ohne internationale Regeln bleibt offen, welche Grenzen für KI-Waffen auch in Europa gelten.",
-   "kategorie": "Politik & Regulierung",
-   "quellen": [
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+     "url": "https://www.heise.de/news/Montag-Internetprobleme-der-Berliner-Polizei-Google-konsolidiert-Smart-Home-11533930.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   },
   {
-   "titel": "US-Techbörse rutscht in den Bärenmarkt, Nvidia bricht ein",
-   "zusammenfassung": "Der Nasdaq 100 ist mit dem größten Wochenverlust seit der Corona-Krise in den Bärenmarkt gerutscht. Nvidia verlor 14 Prozent, die US-Börsenaufsicht prüft die Buchhaltung, und auch Anthropic gab einen Tag nach dem Rekord-Börsengang nach.",
-   "warum_wichtig": "Die Zweifel am KI-Boom belasten auch europäische Börsen und die Finanzierung von KI-Unternehmen.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Bundeswehr testet Kamikaze-Drohnen und KI-Zielsoftware in Litauen - Yahoo Nachrichten",
+   "zusammenfassung": "Bundeswehr testet Kamikaze-Drohnen und KI-Zielsoftware in Litauen Yahoo Nachrichten",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "The Decoder",
-     "url": "https://the-decoder.de/us-techmarkt-im-freien-fall-perfekter-sturm-aus-ki-zweifeln-skandalen-und-inflationsangst/"
-    },
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXVmQWh0dndXb0xzSzgtVkVnMTJjdm5acERJc0ZLMmRNdEwtUjVwTEVjVmJEU3dVWjZLM3dKdVRlczBBNEVSaGtHSnlhdUZyaFFFUFFpSTYwa1VpeWFkTzM3dmNSREstQkdVX01RcUNJcDdGYmw2NzNMTmp6VG54QWJuTFJzc1p4c3ZXU29n?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Google integriert Nest-Geräte in Home-App und wechselt im Smart Home zu Gemini",
+   "zusammenfassung": "Änderungen in Googles Smart Home: Nest-App und Google Assistant werden eingestellt. Dafür gibt es künftig nur noch die Home-App mit Gemini als Sprachassistent.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Google-integriert-Nest-Geraete-in-Home-App-und-wechselt-im-Smart-Home-zu-Gemini-11533916.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "KI-Sorgen setzen Asiens Börsen weiter unter Druck - inFranken.de",
+   "zusammenfassung": "KI-Sorgen setzen Asiens Börsen weiter unter Druck inFranken.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUzUtS1B1SFJmX0Q3QVFieTFZblB3ME9URS1yTHYxVXRmMXJRM0lXZzhaRDYzZk94MFNtNXl1V0kxZFlKenRHazRiaGJ3ZW1PdHNOc1htcG9rd2VydC0yLTlDWll1UnBYcWR0Y2ZzN0tVMEtjV00yX0NORjNnemZaUFY1MkwzaVVrVW93aXJ3MHlsbHFjQmF0c3g4Zw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcU1mZnF1RnBnUFBWai1yT1B5SW5tUTZGUi1qV29QRmI4VHBfS2ctZ09IcllpdlgtYzZKQklVUmJPX2VtSDVrbWxXMWt0aDdZaVVJVkVLaGtNbEVNWmhPS0pNR0dHTk5GVUlzVHY1WjgyRHN5TFA0djdudDZ6LWtIUW5HMlE5Wm5LY1VkdEhUY0ZtYlozTHpPa1RCdDJCUF9r?oc=5"
     }
    ]
   }
  ],
- "datum": "2026-11-22",
- "erstellt": "2026-11-22T06:43+01:00",
- "modus": "ki",
- "anzahl_meldungen": 79,
+ "eu": [
+  {
+   "titel": "Backed by Nvidia and a16z, Black Forest Labs sets its sights on world models",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/"
+    }
+   ]
+  },
+  {
+   "titel": "AI Due Diligence Poland: 2026 Buyer and Seller Guide - Global Advisory Experts",
+   "zusammenfassung": "AI Due Diligence Poland: 2026 Buyer and Seller Guide Global Advisory Experts",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnc4RmFOQXg4SmZENHNxQnNmWmI1NDZOUWpsYkhtNmY5ZngwemFQeE1mZFFCeUhQYktOdnhEV2hhVG9KMmdCaVUwV3NQbDJ3Uko1YzBHalprN1F6WmU1NlBPN2wyMGdXWTh6NHJJZWh3cUluZWR6bWtxUkZBUUdZaWZTNlgyN0s3SUtJb1FKc296STRTdGZhQw?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Lichterwelten am Schwarzlsee - Kronehit",
+   "zusammenfassung": "Lichterwelten am Schwarzlsee Kronehit",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kb1ZKeGFuN2d3SkF3MFU3cmxScG9zelpDZXNVcXNFbzEzMEt5WFdVRkpUbzRqYWtpWkxSSGlodFlGZmlQRk5EeWJTVWR2Qkg3SU9QNkVVejVYR21ZSzRwM3hZMkFYamk2X1BxRGtibzFMN3FhVHRIeXV3NkV0SFE?oc=5"
+    }
+   ]
+  }
+ ],
+ "welt": [
+  {
+   "titel": "We haven’t seen the last of the major tech outages",
+   "zusammenfassung": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1039851/major-tech-outages"
+    }
+   ]
+  },
+  {
+   "titel": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "zusammenfassung": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+    }
+   ]
+  }
+ ],
+ "datum": "2026-11-23",
+ "erstellt": "2026-11-23T06:41+01:00",
+ "modus": "einfach",
+ "anzahl_meldungen": 76,
  "feeds": {
-  "The Decoder": "10 Meldungen",
+  "The Decoder": "6 Meldungen",
   "heise online": "4 Meldungen",
   "t3n": "10 Meldungen",
-  "Golem": "4 Meldungen",
+  "Golem": "3 Meldungen",
   "netzpolitik.org": "0 Meldungen",
-  "tagesschau": "1 Meldungen",
-  "Google News (KI Deutschland)": "28 Meldungen",
-  "Google News (EU KI-Politik)": "17 Meldungen",
-  "Google News (Europe AI)": "10 Meldungen",
+  "tagesschau": "0 Meldungen",
+  "Google News (KI Deutschland)": "26 Meldungen",
+  "Google News (EU KI-Politik)": "18 Meldungen",
+  "Google News (Europe AI)": "19 Meldungen",
   "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
-  "Sifted": "0 Meldungen",
-  "TechCrunch AI": "6 Meldungen",
+  "Sifted": "1 Meldungen",
+  "TechCrunch AI": "5 Meldungen",
   "The Verge AI": "3 Meldungen",
-  "MIT Technology Review": "1 Meldungen",
-  "Ars Technica AI": "3 Meldungen"
+  "MIT Technology Review": "0 Meldungen",
+  "Ars Technica AI": "0 Meldungen"
  }
 }
