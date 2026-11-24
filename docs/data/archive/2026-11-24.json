@@ -1,0 +1,150 @@
+{
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "deutschland": [
+  {
+   "titel": "Kommentar: Jensen Huang ist Nvidia – und das darf nicht so bleiben",
+   "zusammenfassung": "Huang ist wieder da, es gibt noch ein Gremium zur Untersuchung, also alles gut? Mitnichten, findet heise-online-Redakteur Nico Ernst.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/meinung/Kommentar-Jensen-Huang-ist-Nvidia-und-das-darf-nicht-so-bleiben-11535160.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Dienstag: Jensen Huang ist wieder da, CrowdStrike übernimmt Wettbewerber",
+   "zusammenfassung": "Nvidia holt Jensen Huang zurück + CrowdStrike kauft Zscaler + USA jagen Binance-Milliarden + Starlink-Alternative zu teuer + Russlands Atomwaffenpläne für's All",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Dienstag-Jensen-Huang-ist-wieder-da-CrowdStrike-uebernimmt-Wettbewerber-11535424.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Von Obst bis Gewebe: US-Startup analysiert Gerüche – und will sie der KI beibringen",
+   "zusammenfassung": "KI-generiert",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "t3n",
+     "url": "https://t3n.de/news/obst-gewebe-startup-gerueche-ki-1774212"
+    }
+   ]
+  },
+  {
+   "titel": "SoftBank-OpenAI-Joint-Venture erhält JDLA-Zertifizierung für KI-Governance - MarketScreener Deutschland",
+   "zusammenfassung": "SoftBank-OpenAI-Joint-Venture erhält JDLA-Zertifizierung für KI-Governance MarketScreener Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkR4TW1nQW1rUm0xWW56REp4LS1yY0NHOFlwWm5qbTZFZklkTXA3S2lNX1BrWFU5V2ZNT1NtZjhqRnRhRUJnTFV3bW9EWmFVRkNRcFc0dVd0ZFpxWkxWeU94M0FzUFBDVXV2Y2NjNzBiZGx0TllEcm5Eb19qcGJvdmJhWVNCbTJ0TTNucXFmTDcxd3lVWS11QjNIWGlwWTluMlhJek9OZEZVQ0FETnNXR0hpeUlnTWo4QkRZVDdqZktDVnM3MlNoNF9HU1VPSU1ER1JzTE9NaHVjZw?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Nvidia-Affäre: USA verhängen Handelsverbot über Megaspeed",
+   "zusammenfassung": "Megaspeed soll Nvidia-Chips für China organisiert haben. Spät reagieren die USA mit einem Handelsembargo. Das trifft auch eine Alibaba-Tochter.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Nvidia-Affaere-USA-verhaengen-Handelsverbot-ueber-Megaspeed-11535434.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  }
+ ],
+ "eu": [
+  {
+   "titel": "Employers Use AI in HR, Survey Finds - Wisevoter",
+   "zusammenfassung": "Employers Use AI in HR, Survey Finds Wisevoter",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOU1YZzBhckl3Q1RhcHUya1pza1ZmbWFDdEdxdXQ1SGJmUUEtOUszOHBOZkIwb1Q4SXJXTlNVM3VjM1ZxYmpVWkt0YmU0c01JaW1kZy1KY1pKeTVwLUU2UG1FYmFfMnZpUHpoRV81MjRfRGhTLTc1b3hFZjNvbGVHd1FpY0Y?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Perplexity als KI-Standard: OpenAI fordert gemeinsame Entwicklungslimits - ad-hoc-news.de",
+   "zusammenfassung": "Perplexity als KI-Standard: OpenAI fordert gemeinsame Entwicklungslimits ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQelhEQ1luRlBsZ0pIWHRTenFmWmt3SXU1UnNQOG1vTlRLcktkdkFzXzRMY0xyNzdRNkZEamdnLXFkWXJ5RjZGS1R2MHIzZ1RVU3hJMlpEZUJWaURvZ0stTHZKR1NRM0J2QzF2RGM5S3B4NWZVUHJLRUlRSG14N0VOdUVDUEUwRkVZN3BRa2ladnlJMThTRFd2TndOTWZiTWlHMjFBQVJRaHJ2REdWaGc5UlJzT2Y4RUdTX3dZSQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Commerzbank-Backed CommerzVentures Pursues European AI Startups $54.5M Fund - PYMNTS.com",
+   "zusammenfassung": "Commerzbank-Backed CommerzVentures Pursues European AI Startups $54.5M Fund PYMNTS.com",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVVU1RzZ3NU90NWRicmtsbVpvVGZOdzhZOUF6enFoVDBzdm1xQXBVYWgxdmFUUS1yRXhRbDY2bXJRZ1RGVl90bmIweHcwc1QwOUtHcm5aRUY3Y2dXc3NWZWwyQWlwdFU3MXZOQUNDaUVIS2lxUXlWVGpfSmkzTGVQV0lESlFQN0Z3dV9QVDd0cGhKdzY3bExJZ2NmaWZidHpNOUF1cGUwVjg5QzM3dUc1Z2R4SXdKazRUOFRvOHhoTUJDZXd1VFBVekFLdTlzelpvTmJqVEdkN0F6SDBiZk1iaw?oc=5"
+    }
+   ]
+  }
+ ],
+ "welt": [
+  {
+   "titel": "Tech leaders are celebrating Jensen Huang’s return",
+   "zusammenfassung": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken […]",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay"
+    }
+   ]
+  },
+  {
+   "titel": "Trump engineered a risky comeback for Jensen Huang",
+   "zusammenfassung": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+    }
+   ]
+  }
+ ],
+ "datum": "2026-11-24",
+ "erstellt": "2026-11-24T06:42+01:00",
+ "modus": "einfach",
+ "anzahl_meldungen": 100,
+ "feeds": {
+  "The Decoder": "9 Meldungen",
+  "heise online": "15 Meldungen",
+  "t3n": "10 Meldungen",
+  "Golem": "9 Meldungen",
+  "netzpolitik.org": "2 Meldungen",
+  "tagesschau": "5 Meldungen",
+  "Google News (KI Deutschland)": "31 Meldungen",
+  "Google News (EU KI-Politik)": "39 Meldungen",
+  "Google News (Europe AI)": "30 Meldungen",
+  "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
+  "Sifted": "3 Meldungen",
+  "TechCrunch AI": "16 Meldungen",
+  "The Verge AI": "10 Meldungen",
+  "MIT Technology Review": "1 Meldungen",
+  "Ars Technica AI": "3 Meldungen"
+ }
+}

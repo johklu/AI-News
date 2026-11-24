@@ -1,166 +1,150 @@
 {
- "lage": "Guten Morgen und einen guten Wochenstart! Der Bundesrat will Deepfakes deutlich härter bestrafen, und Siemens-Chef Busch sieht den KI-Wettkampf im „Endspiel“. Weltweit gilt der mit Claude gefundene Beweis der Riemannschen Vermutung nun als bestätigt.",
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
  "deutschland": [
   {
-   "titel": "Bundesrat fordert bis zu fünf Jahre Haft für Deepfakes",
-   "zusammenfassung": "Beim geplanten Deepfake-Gesetz fordert der Bundesrat eine Höchststrafe von bis zu fünf Jahren Haft statt der vorgesehenen zwei Jahre.",
-   "warum_wichtig": "Wer in Deutschland mit KI gefälschte Bilder oder Videos verbreitet, könnte künftig deutlich härter bestraft werden.",
-   "kategorie": "Politik & Regulierung",
+   "titel": "Kommentar: Jensen Huang ist Nvidia – und das darf nicht so bleiben",
+   "zusammenfassung": "Huang ist wieder da, es gibt noch ein Gremium zur Untersuchung, also alles gut? Mitnichten, findet heise-online-Redakteur Nico Ernst.",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZW9sMXdLZFZ0ZDg5NV9lQnl5N19oeDlBUWZUR21zaDIwei1qb01ja1JhZXpHUjhkS3hWVTBJdGhCRU9uMldhdmNnVXdLOHIxU05XX3RvUFI1UGtPTWMzQ1hLOF8xS19XU080SjRBd1gtNTIwM2Z5WEVVa0ZkQ01HenJnLWsyMHhQVzU5M3hjZUxjajZ5aVM1NDVFeHI3eGNPc0ZMcXlpSXpWT1lYcTRwWEJBbFhOdw?oc=5"
+     "name": "heise online",
+     "url": "https://www.heise.de/meinung/Kommentar-Jensen-Huang-ist-Nvidia-und-das-darf-nicht-so-bleiben-11535160.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   },
   {
-   "titel": "Siemens-Chef Busch: KI-Wettkampf ist „das Endspiel“",
-   "zusammenfassung": "Siemens-Chef Roland Busch sieht im weltweiten Wettkampf um KI und die Zukunft der Industrie jetzt „das Endspiel“.",
-   "warum_wichtig": "Einer der wichtigsten deutschen Industriekonzerne mahnt damit zur Eile beim KI-Einsatz.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Dienstag: Jensen Huang ist wieder da, CrowdStrike übernimmt Wettbewerber",
+   "zusammenfassung": "Nvidia holt Jensen Huang zurück + CrowdStrike kauft Zscaler + USA jagen Binance-Milliarden + Starlink-Alternative zu teuer + Russlands Atomwaffenpläne für's All",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFlpR09FYk9xbjc3ejB1T2dSc2ZSb1dYS1ktOE1vck5tSEVkMmR5VUwtbFJ5dW1wOUNWZjl5NUZrclVNVmUyQzM5MkF6WUdkRi01bk56MWxiaHI5Ymg0cFUxaURYNk5YdHhqbDUtLU1zUFpNTGNVeHpVVFdRMFJyc0FiMmNPWS1DdWc5dExxN3dYME9yUkNV?oc=5"
-    },
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV01VSnU5NWVpcWVVN0VjWG02eWFUVkNXbHpMNjVQNEhpTmdfNnh6SDBjaTVlcEFtT0NSb2JYM2dueWM0TGg2dWxtT0pEcmo1eFZtYjhicDFxeGJGOW12RFViMDJ5WFpENFFJTEJRNzBQVHN1VEVTdEhCU09DZkt0S3E3bkZCQnRRQnJ2STFnSzlXOFFVdmVJM0phcVl5UQ?oc=5"
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Dienstag-Jensen-Huang-ist-wieder-da-CrowdStrike-uebernimmt-Wettbewerber-11535424.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   },
   {
-   "titel": "Bundeswehr testet Kamikaze-Drohnen und KI-Zielsoftware in Litauen",
-   "zusammenfassung": "Die Bundeswehr erprobt in Litauen Kamikaze-Drohnen und Software, die per KI Ziele erfasst.",
-   "warum_wichtig": "KI hält damit konkret Einzug in die deutsche Militärpraxis, während internationale Regeln fehlen.",
-   "kategorie": "Sicherheit",
+   "titel": "Von Obst bis Gewebe: US-Startup analysiert Gerüche – und will sie der KI beibringen",
+   "zusammenfassung": "KI-generiert",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXVmQWh0dndXb0xzSzgtVkVnMTJjdm5acERJc0ZLMmRNdEwtUjVwTEVjVmJEU3dVWjZLM3dKdVRlczBBNEVSaGtHSnlhdUZyaFFFUFFpSTYwa1VpeWFkTzM3dmNSREstQkdVX01RcUNJcDdGYmw2NzNMTmp6VG54QWJuTFJzc1p4c3ZXU29n?oc=5"
+     "name": "t3n",
+     "url": "https://t3n.de/news/obst-gewebe-startup-gerueche-ki-1774212"
     }
    ]
   },
   {
-   "titel": "Nur 36 Prozent der Deutschen vertrauen KI-Agenten Entscheidungen an",
-   "zusammenfassung": "Laut einer Umfrage würden nur 36 Prozent der Verbraucher in Deutschland KI-Agenten Entscheidungen überlassen.",
-   "warum_wichtig": "Anbieter von KI-Agenten müssen in Deutschland erst Vertrauen aufbauen, bevor die Technik breit genutzt wird.",
-   "kategorie": "Gesellschaft",
+   "titel": "SoftBank-OpenAI-Joint-Venture erhält JDLA-Zertifizierung für KI-Governance - MarketScreener Deutschland",
+   "zusammenfassung": "SoftBank-OpenAI-Joint-Venture erhält JDLA-Zertifizierung für KI-Governance MarketScreener Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNekFfRVhhZGNNenY1UHgwbmFqRG9ueVV5VXFkMEpld2Yzb3ZCWS16VXkxZUNBekhLODRhZUREam9DekVFbmlpTFhJbkNpdW1iX1BVazFMMFpLcnN2RmdqNWlwZWxYREhvMzJudmRrZnN5RkpFSHBPZ3J6elhNTjQ2RGk1R1N1cnhsOVdINUtaQTBSZzZwNk4xOHlMOGViMXp0d256Ym9OWlNPYXdMSlV4RUhPVDFVbktfOXBaX2tVbjgwcHZIbzJzem44M21zblBjMldjYTR3?oc=5"
-    },
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HZUJQZUFVNVNFNlhrWDhXUjMzYThrQ1lEVzNSNW5QcVdaNGd1U1ZYVmlhV0prX0l5ejZYeFdxbEt0Y25waE9pNlA5NDdyX1JyS3dialZjTVNCZUFNcDM4VkFhMXVBV21PbEUtWFViNUV6T2M?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkR4TW1nQW1rUm0xWW56REp4LS1yY0NHOFlwWm5qbTZFZklkTXA3S2lNX1BrWFU5V2ZNT1NtZjhqRnRhRUJnTFV3bW9EWmFVRkNRcFc0dVd0ZFpxWkxWeU94M0FzUFBDVXV2Y2NjNzBiZGx0TllEcm5Eb19qcGJvdmJhWVNCbTJ0TTNucXFmTDcxd3lVWS11QjNIWGlwWTluMlhJek9OZEZVQ0FETnNXR0hpeUlnTWo4QkRZVDdqZktDVnM3MlNoNF9HU1VPSU1ER1JzTE9NaHVjZw?oc=5"
     }
    ]
   },
   {
-   "titel": "Verbraucherzentrale verklagt Perplexity wegen Preisangaben",
-   "zusammenfassung": "Der Verbraucherzentrale Bundesverband hat beim Kammergericht Klage gegen den KI-Suchdienst Perplexity eingereicht, wegen dessen Preisangaben für das Pro-Abo.",
-   "warum_wichtig": "Auch KI-Dienste müssen sich in Deutschland an die Regeln des Verbraucherschutzes halten.",
-   "kategorie": "Politik & Regulierung",
+   "titel": "Nvidia-Affäre: USA verhängen Handelsverbot über Megaspeed",
+   "zusammenfassung": "Megaspeed soll Nvidia-Chips für China organisiert haben. Spät reagieren die USA mit einem Handelsembargo. Das trifft auch eine Alibaba-Tochter.",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOel9aallOZEpCanFFV0dwZXJPWGlDUnc5LUNMZmMzSHVRMzNpZnR0UUV4Z1UycmZ5d3FDMEJWaGFGT1d3ZHRpcDlnTWFCQ1ZFdUtoS0NPQmlrMEtkZjRKQ3gyaXhkY3JDYm82Vll4cXAwZjVKUk5TVWpSSmZXV0lULXV5aTZsdTVJOEZUNDFkaE9yaG5iaGZZc3J6aU1fYlFycXcxMTctd1NvR0FYZUkwZzB4Y0ZxQlhNRVpMd1d2TFc?oc=5"
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Nvidia-Affaere-USA-verhaengen-Handelsverbot-ueber-Megaspeed-11535434.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "Black Forest Labs nimmt Weltmodelle ins Visier",
-   "zusammenfassung": "Das von Nvidia und a16z unterstützte KI-Start-up Black Forest Labs will künftig Weltmodelle entwickeln.",
-   "warum_wichtig": "Ein europäisches KI-Unternehmen wagt sich damit an eines der zukunftsträchtigsten Forschungsfelder.",
-   "kategorie": "Wirtschaft & Startups",
-   "quellen": [
-    {
-     "name": "Sifted",
-     "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/"
-    }
-   ]
-  },
-  {
-   "titel": "Nokia und Semidynamics erkunden europäische KI-Hardware",
-   "zusammenfassung": "Nokia arbeitet mit dem Chipentwickler Semidynamics zusammen, um eigene europäische KI-Hardware zu erforschen.",
-   "warum_wichtig": "Eigene Chips könnten Europas Abhängigkeit von US-Herstellern wie Nvidia verringern.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Employers Use AI in HR, Survey Finds - Wisevoter",
+   "zusammenfassung": "Employers Use AI in HR, Survey Finds Wisevoter",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTXVZcEJzQWtDWWtwOVhYanhtaFRoMjNiWm1xVGcxUDZMdW9YLWYxWXpxZ0pjM0ZKbjFLaGNuVnlxell1bFpTbW1Ia1pxQ2psXzAyNXNiTHIzMl9QUnMzTVBnakRkZ3k0WF9yendkR05IQUlYV3BzRUgtY0ZYQUZJTmlDNjFpMFY1cnhTSHY3LThHQTNfYnlTUXFOUDlGMXNBVzk3RjdjUVlHNDQ3X2RyY3hzQ1IzejdMWU1vYkhHZ3VucHEydnRJc2dVbWpIVlYzR01FYURXX3BNLWc?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOU1YZzBhckl3Q1RhcHUya1pza1ZmbWFDdEdxdXQ1SGJmUUEtOUszOHBOZkIwb1Q4SXJXTlNVM3VjM1ZxYmpVWkt0YmU0c01JaW1kZy1KY1pKeTVwLUU2UG1FYmFfMnZpUHpoRV81MjRfRGhTLTc1b3hFZjNvbGVHd1FpY0Y?oc=5"
     }
    ]
   },
   {
-   "titel": "Griechenland plant menschliche Aufsicht bei KI-Personalentscheidungen",
-   "zusammenfassung": "Griechenland will vorschreiben, dass Personalentscheidungen, die mit KI getroffen werden, von Menschen beaufsichtigt werden.",
-   "warum_wichtig": "Weitere EU-Staaten setzen eigene Regeln für KI am Arbeitsplatz, über den AI Act hinaus.",
-   "kategorie": "Politik & Regulierung",
+   "titel": "Perplexity als KI-Standard: OpenAI fordert gemeinsame Entwicklungslimits - ad-hoc-news.de",
+   "zusammenfassung": "Perplexity als KI-Standard: OpenAI fordert gemeinsame Entwicklungslimits ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSXpURUxiX3A4Y0RsN3ZKNVFlOWxVdVRqMURiREQ1Rjk5WFhkMmVKUTJlWHZneU9UOWFJU1hITFhtSkVtSEUyX1ZBTFp4SnNXbkk3R1JjbGRzTkdCZVlNZFg0eWFDaWRZeUk1UlQtS2xxZ2RWNWM5OHhYWU5EVFJNRHpKQ1ZSd1lrSzY1WE52MlZ6SlM2cXU3Rk9MWThod1hveW5wc2ppaG9HTTJxbnZLSk1Rc1hScmlDeUlJNGxfRmpzaHIyWjlUWEl5dmZlOVE?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQelhEQ1luRlBsZ0pIWHRTenFmWmt3SXU1UnNQOG1vTlRLcktkdkFzXzRMY0xyNzdRNkZEamdnLXFkWXJ5RjZGS1R2MHIzZ1RVU3hJMlpEZUJWaURvZ0stTHZKR1NRM0J2QzF2RGM5S3B4NWZVUHJLRUlRSG14N0VOdUVDUEUwRkVZN3BRa2ladnlJMThTRFd2TndOTWZiTWlHMjFBQVJRaHJ2REdWaGc5UlJzT2Y4RUdTX3dZSQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Commerzbank-Backed CommerzVentures Pursues European AI Startups $54.5M Fund - PYMNTS.com",
+   "zusammenfassung": "Commerzbank-Backed CommerzVentures Pursues European AI Startups $54.5M Fund PYMNTS.com",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVVU1RzZ3NU90NWRicmtsbVpvVGZOdzhZOUF6enFoVDBzdm1xQXBVYWgxdmFUUS1yRXhRbDY2bXJRZ1RGVl90bmIweHcwc1QwOUtHcm5aRUY3Y2dXc3NWZWwyQWlwdFU3MXZOQUNDaUVIS2lxUXlWVGpfSmkzTGVQV0lESlFQN0Z3dV9QVDd0cGhKdzY3bExJZ2NmaWZidHpNOUF1cGUwVjg5QzM3dUc1Z2R4SXdKazRUOFRvOHhoTUJDZXd1VFBVekFLdTlzelpvTmJqVEdkN0F6SDBiZk1iaw?oc=5"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "Lean-Community bestätigt KI-gestützten Beweis der Riemannschen Vermutung",
-   "zusammenfassung": "Die Lean- und Mathlib-Community hat den mit Hilfe von Claude erstellten Beweis der Riemannschen Vermutung von Anthropic-Mathematiker Levent Alpöge offiziell als korrekt bestätigt. Der 17 Millionen Zeilen lange Code wurde von Dutzenden unabhängigen Prüfern verifiziert, in der Mathematik wächst aber auch Kritik am KI-Einsatz.",
-   "warum_wichtig": "Die Lösung eines der berühmtesten Probleme der Mathematik zeigt, dass KI zu einem echten Werkzeug der Grundlagenforschung wird.",
-   "kategorie": "Forschung",
+   "titel": "Tech leaders are celebrating Jensen Huang’s return",
+   "zusammenfassung": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken […]",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "The Decoder",
-     "url": "https://the-decoder.de/lean-community-bestaetigt-offiziell-den-beweis-der-riemannschen-vermutung/"
-    },
-    {
-     "name": "t3n",
-     "url": "https://t3n.de/news/mathematiker-loest-riemannsche-hypothese-mithilfe-von-claude-1774699"
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay"
     }
    ]
   },
   {
-   "titel": "Google schaltet Google Assistant ab und setzt im Smart Home auf Gemini",
-   "zusammenfassung": "Google stellt die Nest-App und Google Assistant ein und integriert Nest-Geräte in die Home-App mit Gemini als Sprachassistent. Smarte Lautsprecher und Displays sollen ab nächstem Sommer auf Gemini umgestellt werden.",
-   "warum_wichtig": "Auch in Europa müssen Millionen Smart-Home-Nutzer auf den neuen KI-Assistenten umsteigen.",
-   "kategorie": "Produkte & Modelle",
+   "titel": "Trump engineered a risky comeback for Jensen Huang",
+   "zusammenfassung": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/Google-integriert-Nest-Geraete-in-Home-App-und-wechselt-im-Smart-Home-zu-Gemini-11533916.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-     "name": "Golem",
-     "url": "https://www.golem.de/news/smarte-lautsprecher-und-smarte-displays-google-schaltet-google-assistant-naechstes-jahr-ab-2611-215511.html"
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
     }
    ]
   }
  ],
- "datum": "2026-11-23",
- "erstellt": "2026-11-23T06:42+01:00",
- "modus": "ki",
- "anzahl_meldungen": 76,
+ "datum": "2026-11-24",
+ "erstellt": "2026-11-24T06:42+01:00",
+ "modus": "einfach",
+ "anzahl_meldungen": 100,
  "feeds": {
-  "The Decoder": "6 Meldungen",
-  "heise online": "4 Meldungen",
+  "The Decoder": "9 Meldungen",
+  "heise online": "15 Meldungen",
   "t3n": "10 Meldungen",
-  "Golem": "3 Meldungen",
-  "netzpolitik.org": "0 Meldungen",
-  "tagesschau": "0 Meldungen",
-  "Google News (KI Deutschland)": "26 Meldungen",
-  "Google News (EU KI-Politik)": "18 Meldungen",
-  "Google News (Europe AI)": "19 Meldungen",
+  "Golem": "9 Meldungen",
+  "netzpolitik.org": "2 Meldungen",
+  "tagesschau": "5 Meldungen",
+  "Google News (KI Deutschland)": "31 Meldungen",
+  "Google News (EU KI-Politik)": "39 Meldungen",
+  "Google News (Europe AI)": "30 Meldungen",
   "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
-  "Sifted": "1 Meldungen",
-  "TechCrunch AI": "5 Meldungen",
-  "The Verge AI": "3 Meldungen",
-  "MIT Technology Review": "0 Meldungen",
-  "Ars Technica AI": "0 Meldungen"
+  "Sifted": "3 Meldungen",
+  "TechCrunch AI": "16 Meldungen",
+  "The Verge AI": "10 Meldungen",
+  "MIT Technology Review": "1 Meldungen",
+  "Ars Technica AI": "3 Meldungen"
  }
 }
