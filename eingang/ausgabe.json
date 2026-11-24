@@ -1,0 +1,46 @@
+{
+  "stand": "2026-11-24T05:42:06+00:00",
+  "lage": "Guten Morgen! In Deutschland stellt ein Gericht klar, dass Firmen für die Fehler ihrer Chatbots haften, und Fachleute warnen vor KI in Migrationsverfahren. Weltweit sorgt die überraschende Rückkehr von Jensen Huang an die Nvidia-Spitze für Schlagzeilen.",
+  "deutschland": [
+    {"titel": "OLG Hamm: Unternehmen haften für irreführende Chatbot-Antworten",
+     "zusammenfassung": "Das Oberlandesgericht Hamm hat entschieden, dass Unternehmen für irreführende Antworten ihrer KI-Chatbots haften.",
+     "warum_wichtig": "Firmen in Deutschland müssen genau prüfen, was ihre Chatbots Kunden versprechen.",
+     "kategorie": "Politik & Regulierung", "quellen": [66]},
+    {"titel": "KI-Migrationsgesetz: Experten fürchten mehr Klagen statt schnellerer Verfahren",
+     "zusammenfassung": "Bei der Anhörung zum geplanten KI-Migrationsgesetz forderten Sachverständige klare Grenzen für den KI-Einsatz und unabhängige Prüfungen. Andernfalls drohten mehr Fehler, mehr Klagen und längere Verfahren.",
+     "warum_wichtig": "Die Debatte entscheidet mit, wie weit KI in Deutschland über Asylverfahren mitbestimmen darf.",
+     "kategorie": "Politik & Regulierung", "quellen": [52]},
+    {"titel": "Jedes dritte deutsche Unternehmen profitiert bereits von KI",
+     "zusammenfassung": "Laut einer Erhebung verzeichnet inzwischen jedes dritte Unternehmen in Deutschland einen deutlichen Ertrag durch KI.",
+     "warum_wichtig": "KI zahlt sich für viele deutsche Firmen zunehmend messbar aus, die Lücke zu Nachzüglern wächst.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [87]},
+    {"titel": "Finanzverwaltung in Mecklenburg-Vorpommern setzt auf KI",
+     "zusammenfassung": "Die Finanzverwaltung in Mecklenburg-Vorpommern setzt künftig auf Künstliche Intelligenz.",
+     "warum_wichtig": "Immer mehr Behörden in Deutschland nutzen KI, um ihre Arbeit zu beschleunigen.",
+     "kategorie": "Gesellschaft", "quellen": [38]}
+  ],
+  "eu": [
+    {"titel": "Neue Haftungsregeln für KI im Auto setzen Hersteller unter Druck",
+     "zusammenfassung": "Neue Haftungsregeln für KI im Auto setzen laut Automobilwoche die Fahrzeughersteller unter Druck.",
+     "warum_wichtig": "Für die deutsche Autoindustrie steigt das Risiko bei Fehlern von KI-Systemen im Fahrzeug.",
+     "kategorie": "Politik & Regulierung", "quellen": [6]},
+    {"titel": "E4 und Openchip vereinbaren Zusammenarbeit für europäische KI-Rechenleistung",
+     "zusammenfassung": "Die Unternehmen E4 und Openchip haben eine Vereinbarung zum Ausbau europäischer KI-Rechenkapazitäten unterzeichnet.",
+     "warum_wichtig": "Europa baut schrittweise eigene Hardware- und Rechenkapazitäten für KI auf.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [15]},
+    {"titel": "CommerzVentures legt Fonds für europäische KI-Start-ups auf",
+     "zusammenfassung": "Die von der Commerzbank unterstützte CommerzVentures sammelt 54,5 Millionen Dollar für einen Fonds, der in europäische KI-Start-ups investieren soll.",
+     "warum_wichtig": "Für junge KI-Firmen in Europa wächst das Angebot an Wagniskapital.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [5]}
+  ],
+  "welt": [
+    {"titel": "Nvidia holt Jensen Huang zurück an die Spitze",
+     "zusammenfassung": "Nvidias Verwaltungsrat hat Jensen Huang einstimmig und mit sofortiger Wirkung wieder als CEO eingesetzt, kurz nach seinem Rücktritt wegen mehrerer Affären. Präsident Trump sagt, er habe den Verwaltungsrat überzeugt; die Aktie stieg zum Handelsstart um 30 Prozent, und Huang soll nächste Woche vor dem US-Senat aussagen.",
+     "warum_wichtig": "Die Kehrtwende beim wichtigsten KI-Chiphersteller beeinflusst Börsen und Chipversorgung auch in Europa.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [83, 84, 63, 71, 44, 51]},
+    {"titel": "US-Bundesstaaten verklagen SpaceX wegen Grok-Deepfakes",
+     "zusammenfassung": "Die Generalstaatsanwälte von Oregon und Virginia verklagen SpaceX, weil der Chatbot Grok sexualisierte Deepfakes und Missbrauchsdarstellungen erzeugt. Sie werfen dem Unternehmen vor, branchenübliche Schutzmaßnahmen zu ignorieren.",
+     "warum_wichtig": "Der Fall verstärkt die Debatte über Schutzpflichten von KI-Anbietern, die auch in der EU geführt wird.",
+     "kategorie": "Politik & Regulierung", "quellen": [28, 49]}
+  ]
+}
