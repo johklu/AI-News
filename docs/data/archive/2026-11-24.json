@@ -1,97 +1,85 @@
 {
- "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "lage": "Guten Morgen! In Deutschland stellt ein Gericht klar, dass Firmen für die Fehler ihrer Chatbots haften, und Fachleute warnen vor KI in Migrationsverfahren. Weltweit sorgt die überraschende Rückkehr von Jensen Huang an die Nvidia-Spitze für Schlagzeilen.",
  "deutschland": [
   {
-   "titel": "Kommentar: Jensen Huang ist Nvidia – und das darf nicht so bleiben",
-   "zusammenfassung": "Huang ist wieder da, es gibt noch ein Gremium zur Untersuchung, also alles gut? Mitnichten, findet heise-online-Redakteur Nico Ernst.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "OLG Hamm: Unternehmen haften für irreführende Chatbot-Antworten",
+   "zusammenfassung": "Das Oberlandesgericht Hamm hat entschieden, dass Unternehmen für irreführende Antworten ihrer KI-Chatbots haften.",
+   "warum_wichtig": "Firmen in Deutschland müssen genau prüfen, was ihre Chatbots Kunden versprechen.",
+   "kategorie": "Politik & Regulierung",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlBaNFpSQ2Z6ZjJlRkNEV1p2WEpYdVBOU3dmLUtXTGpMcXJYYl9SbHZMOUIxMy1EWXA2R1JXbzA0R3BSWVlMVS1WZW9leWFSNXBDTjUtYmoyTVNfNVlXNHNZd214eUtlSml4d1ZLSy1mMC1GRllVbFVYZFRDbERKaHZvd2FPZ1V5bFpqeVU5aDJ3eUt2NEhVOEFBSi1hZlBhcWRjUm1BWEtINTdydFRqeTNJckt2cTFq?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "KI-Migrationsgesetz: Experten fürchten mehr Klagen statt schnellerer Verfahren",
+   "zusammenfassung": "Bei der Anhörung zum geplanten KI-Migrationsgesetz forderten Sachverständige klare Grenzen für den KI-Einsatz und unabhängige Prüfungen. Andernfalls drohten mehr Fehler, mehr Klagen und längere Verfahren.",
+   "warum_wichtig": "Die Debatte entscheidet mit, wie weit KI in Deutschland über Asylverfahren mitbestimmen darf.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
      "name": "heise online",
-     "url": "https://www.heise.de/meinung/Kommentar-Jensen-Huang-ist-Nvidia-und-das-darf-nicht-so-bleiben-11535160.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+     "url": "https://www.heise.de/news/KI-Migrationsgesetz-Experten-fuerchten-mehr-Klagen-statt-kuerzerer-Verfahren-11535154.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   },
   {
-   "titel": "Dienstag: Jensen Huang ist wieder da, CrowdStrike übernimmt Wettbewerber",
-   "zusammenfassung": "Nvidia holt Jensen Huang zurück + CrowdStrike kauft Zscaler + USA jagen Binance-Milliarden + Starlink-Alternative zu teuer + Russlands Atomwaffenpläne für's All",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/Dienstag-Jensen-Huang-ist-wieder-da-CrowdStrike-uebernimmt-Wettbewerber-11535424.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "titel": "Von Obst bis Gewebe: US-Startup analysiert Gerüche – und will sie der KI beibringen",
-   "zusammenfassung": "KI-generiert",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "t3n",
-     "url": "https://t3n.de/news/obst-gewebe-startup-gerueche-ki-1774212"
-    }
-   ]
-  },
-  {
-   "titel": "SoftBank-OpenAI-Joint-Venture erhält JDLA-Zertifizierung für KI-Governance - MarketScreener Deutschland",
-   "zusammenfassung": "SoftBank-OpenAI-Joint-Venture erhält JDLA-Zertifizierung für KI-Governance MarketScreener Deutschland",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Jedes dritte deutsche Unternehmen profitiert bereits von KI",
+   "zusammenfassung": "Laut einer Erhebung verzeichnet inzwischen jedes dritte Unternehmen in Deutschland einen deutlichen Ertrag durch KI.",
+   "warum_wichtig": "KI zahlt sich für viele deutsche Firmen zunehmend messbar aus, die Lücke zu Nachzüglern wächst.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkR4TW1nQW1rUm0xWW56REp4LS1yY0NHOFlwWm5qbTZFZklkTXA3S2lNX1BrWFU5V2ZNT1NtZjhqRnRhRUJnTFV3bW9EWmFVRkNRcFc0dVd0ZFpxWkxWeU94M0FzUFBDVXV2Y2NjNzBiZGx0TllEcm5Eb19qcGJvdmJhWVNCbTJ0TTNucXFmTDcxd3lVWS11QjNIWGlwWTluMlhJek9OZEZVQ0FETnNXR0hpeUlnTWo4QkRZVDdqZktDVnM3MlNoNF9HU1VPSU1ER1JzTE9NaHVjZw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TeE03aG8xYk1yNEZnM0F2U1I5V0JSSWFmNmhvMWFzT2JpZUpzTWI1MVpMQldBWDY0OERRMVJteGhHRlloZFBQQ3J3WXBLQnJjaFl1MlZ1R3A?oc=5"
     }
    ]
   },
   {
-   "titel": "Nvidia-Affäre: USA verhängen Handelsverbot über Megaspeed",
-   "zusammenfassung": "Megaspeed soll Nvidia-Chips für China organisiert haben. Spät reagieren die USA mit einem Handelsembargo. Das trifft auch eine Alibaba-Tochter.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Finanzverwaltung in Mecklenburg-Vorpommern setzt auf KI",
+   "zusammenfassung": "Die Finanzverwaltung in Mecklenburg-Vorpommern setzt künftig auf Künstliche Intelligenz.",
+   "warum_wichtig": "Immer mehr Behörden in Deutschland nutzen KI, um ihre Arbeit zu beschleunigen.",
+   "kategorie": "Gesellschaft",
    "quellen": [
     {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/Nvidia-Affaere-USA-verhaengen-Handelsverbot-ueber-Megaspeed-11535434.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3R3ZVFQb3p6Ti1uT2RKb0t5bi1ITjhlZ2w5RGxZRnhoSzZMaWVndGdRQ0lrYmlGUVVIWDZkQmxRZkQ0M0dHVDk5YkJBX192NUsxMDIzSFJVYW9xZ3VrNlgzM0FoMjF1d09ab0ttazlhMEJheTJKMzZQeU12ZkFCTjRzS0VtN0NIZUNGWDFOZTBwSXZDeXYwNS1rTXd2eUZWenVzMkNrdHhPcHF2cTUwQWREc0R3aW93TEx3NmxWb05xYm9yeE5oNkVtYw?oc=5"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "Employers Use AI in HR, Survey Finds - Wisevoter",
-   "zusammenfassung": "Employers Use AI in HR, Survey Finds Wisevoter",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOU1YZzBhckl3Q1RhcHUya1pza1ZmbWFDdEdxdXQ1SGJmUUEtOUszOHBOZkIwb1Q4SXJXTlNVM3VjM1ZxYmpVWkt0YmU0c01JaW1kZy1KY1pKeTVwLUU2UG1FYmFfMnZpUHpoRV81MjRfRGhTLTc1b3hFZjNvbGVHd1FpY0Y?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Perplexity als KI-Standard: OpenAI fordert gemeinsame Entwicklungslimits - ad-hoc-news.de",
-   "zusammenfassung": "Perplexity als KI-Standard: OpenAI fordert gemeinsame Entwicklungslimits ad-hoc-news.de",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Neue Haftungsregeln für KI im Auto setzen Hersteller unter Druck",
+   "zusammenfassung": "Neue Haftungsregeln für KI im Auto setzen laut Automobilwoche die Fahrzeughersteller unter Druck.",
+   "warum_wichtig": "Für die deutsche Autoindustrie steigt das Risiko bei Fehlern von KI-Systemen im Fahrzeug.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
      "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQelhEQ1luRlBsZ0pIWHRTenFmWmt3SXU1UnNQOG1vTlRLcktkdkFzXzRMY0xyNzdRNkZEamdnLXFkWXJ5RjZGS1R2MHIzZ1RVU3hJMlpEZUJWaURvZ0stTHZKR1NRM0J2QzF2RGM5S3B4NWZVUHJLRUlRSG14N0VOdUVDUEUwRkVZN3BRa2ladnlJMThTRFd2TndOTWZiTWlHMjFBQVJRaHJ2REdWaGc5UlJzT2Y4RUdTX3dZSQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQalg1X1VWSDVUaWZtU05hLVhXaFgtZTViNjhZdzlocHRNNTFiNjRLUXRUOTVBMmNPVUZGX21mTmtXT1hPbUdlTVFxQ05OS0VrWDlBZF9FVnpGVWV3ajB6RXlCcUpiRkV3YTlldDQzUmp2SUtTOEMtQ0Q4cmRGMFRNQnVjUlp6T2FHYW5VMHJqZnllYTBKOGFTVzNRa3liR2lzYV9tRVpfYmVEdw?oc=5"
     }
    ]
   },
   {
-   "titel": "Commerzbank-Backed CommerzVentures Pursues European AI Startups $54.5M Fund - PYMNTS.com",
-   "zusammenfassung": "Commerzbank-Backed CommerzVentures Pursues European AI Startups $54.5M Fund PYMNTS.com",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "E4 und Openchip vereinbaren Zusammenarbeit für europäische KI-Rechenleistung",
+   "zusammenfassung": "Die Unternehmen E4 und Openchip haben eine Vereinbarung zum Ausbau europäischer KI-Rechenkapazitäten unterzeichnet.",
+   "warum_wichtig": "Europa baut schrittweise eigene Hardware- und Rechenkapazitäten für KI auf.",
+   "kategorie": "Wirtschaft & Startups",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNk1oaGJYVzJlYUpNbzBUWnJNRGdvQmRxS3BkRlMxM005TG1jUTZUVHR3X19iVHBmSlc4V0Jud0JUbFIxa3dxaWl4SWJoUi1IV2M4ejV5WExQRlB0RUF5aU5LaU92aW1fUmszbzJMT2NTUFQ1bktQR2F0MklEdUk3b3pnbEw3QVotNXc?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "CommerzVentures legt Fonds für europäische KI-Start-ups auf",
+   "zusammenfassung": "Die von der Commerzbank unterstützte CommerzVentures sammelt 54,5 Millionen Dollar für einen Fonds, der in europäische KI-Start-ups investieren soll.",
+   "warum_wichtig": "Für junge KI-Firmen in Europa wächst das Angebot an Wagniskapital.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
      "name": "Google News (Europe AI)",
@@ -102,33 +90,57 @@
  ],
  "welt": [
   {
-   "titel": "Tech leaders are celebrating Jensen Huang’s return",
-   "zusammenfassung": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken […]",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Nvidia holt Jensen Huang zurück an die Spitze",
+   "zusammenfassung": "Nvidias Verwaltungsrat hat Jensen Huang einstimmig und mit sofortiger Wirkung wieder als CEO eingesetzt, kurz nach seinem Rücktritt wegen mehrerer Affären. Präsident Trump sagt, er habe den Verwaltungsrat überzeugt; die Aktie stieg zum Handelsstart um 30 Prozent, und Huang soll nächste Woche vor dem US-Senat aussagen.",
+   "warum_wichtig": "Die Kehrtwende beim wichtigsten KI-Chiphersteller beeinflusst Börsen und Chipversorgung auch in Europa.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay"
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/nvidia-setzt-jensen-huang-wieder-als-ceo-ein/"
+    },
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/spionage-jensen-huang-wird-wieder-nvidia-ceo-2611-215544.html"
+    },
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+    },
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/jensen-huang-nvidia-aktie-springt-nach-huang-rueckkehr-um-30-prozent-2611-215550.html"
+    },
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html"
+    },
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
     }
    ]
   },
   {
-   "titel": "Trump engineered a risky comeback for Jensen Huang",
-   "zusammenfassung": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "US-Bundesstaaten verklagen SpaceX wegen Grok-Deepfakes",
+   "zusammenfassung": "Die Generalstaatsanwälte von Oregon und Virginia verklagen SpaceX, weil der Chatbot Grok sexualisierte Deepfakes und Missbrauchsdarstellungen erzeugt. Sie werfen dem Unternehmen vor, branchenübliche Schutzmaßnahmen zu ignorieren.",
+   "warum_wichtig": "Der Fall verstärkt die Debatte über Schutzpflichten von KI-Anbietern, die auch in der EU geführt wird.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
+     "name": "Ars Technica AI",
+     "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
+    },
+    {
      "name": "The Verge AI",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
     }
    ]
   }
  ],
  "datum": "2026-11-24",
  "erstellt": "2026-11-24T06:42+01:00",
- "modus": "einfach",
+ "modus": "ki",
  "anzahl_meldungen": 100,
  "feeds": {
   "The Decoder": "9 Meldungen",
