@@ -1,134 +1,138 @@
 {
- "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "lage": "Guten Morgen! Verbraucherschützer gehen gegen die KI-Brillen von Meta und Ray-Ban vor, und neue Zahlen zeigen, wie verbreitet KI in Deutschland inzwischen ist. Weltweit warnen Beschäftigte von OpenAI und Anthropic vor ihren eigenen Modellen, und Tidal verbannt KI-Musik.",
  "deutschland": [
   {
-   "titel": "Umweltcheck: Diese KI-Modelle sind die größten Klimakiller - BASIC thinking",
-   "zusammenfassung": "Umweltcheck: Diese KI-Modelle sind die größten Klimakiller BASIC thinking",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Verbraucherschützer gehen juristisch gegen KI-Brillen von Meta vor",
+   "zusammenfassung": "Verbraucherschützer klagen gegen die KI-Brillen von Meta und Ray-Ban. Der Vorwurf: Mit den Brillen lassen sich Fotos und Videos aufnehmen, ohne dass andere es bemerken; auch Nutzern könnten Bußgelder drohen.",
+   "warum_wichtig": "Wer in Deutschland KI-Brillen trägt, bewegt sich womöglich in einer rechtlichen Grauzone.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/smart-glasses-klage-verbraucherschutz-100.html"
+    },
+    {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2JWc2ZrZ0tzM2VUZFhsLVdhR2V3cUw1M2MwaF9uY0tpUU5YQ1p4dTNEU2ZPMnMyd0NJNTVhbVZnbmlNS1hYT2VsQnlsalZzdURObUh3cG1IMU50RDB2aFQ0NXR2bE5BcEFHdmdYLU9zU3U4SW8tcm9JaC1yXzlFMlVJdUxvYU9qQ3pTRWVyZ2NkSDRTeDBiY2hTRC1QRnY0THdHVEtwRG8?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDFXbE9LTVM2RUx4Q1E5R21VUjM0bFd2NFVTdW9CTjkxWVYtdWNIRHpYQ0FXVTZqU3lMblVTN3NBZVBZVWUwNFZZeXl1NVdkSFNoLU0tOEhkTEo2NVNkNF9fQk9ka1RZZmcwUWlfdmZqdXAtRDJPczFKRzFLaHl2RUtjTkZjUFZjWmQ0ei1fa2JjMmhkWUszQXRfQWhsQUdiMVJsU1dBNjZpUQ?oc=5"
     }
    ]
   },
   {
-   "titel": "KI beim Einkaufen: Warum Deutschland so weit hinterherhinkt - FAZ",
-   "zusammenfassung": "KI beim Einkaufen: Warum Deutschland so weit hinterherhinkt FAZ",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "81 Prozent der Deutschen nutzen generative KI, Ältere holen auf",
+   "zusammenfassung": "Vier Jahre nach dem Start von ChatGPT nutzen 81 Prozent der Deutschen generative KI-Werkzeuge, besonders stark gestiegen ist die Nutzung bei Menschen ab 65. Gleichzeitig wächst die Sorge vor nicht abschätzbaren Risiken.",
+   "warum_wichtig": "KI ist in Deutschland im Alltag angekommen, das Bedürfnis nach Aufklärung über Risiken wächst mit.",
+   "kategorie": "Gesellschaft",
    "quellen": [
     {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV1ZtNldzSkJ0Qmd6Uk1EdTgzRE1rRjEyU1k3QkdhR0xPem14ajU5Ykh4VG1COHB4VGJYZ1c0UXdHMzZ3S0pRVkxJTXBNTUNETE9tRTBVVThFREl6NmlRNGY1WGhPTk92RGdveWVsdHNQSDhGTHVWdDFpYTlIdVYyM092aWRBT2tXRTlJbW13NGZlZWhhTWFsZ09TOTFpRVRRUTZJM3RqX2piOUJJNk0xMGR4em9nTlk0dUt5TjRZX0JoLWUtNkQ5RA?oc=5"
+     "name": "t3n",
+     "url": "https://t3n.de/news/boomer-ki-nutzung-risiken-1775096"
     }
    ]
   },
   {
-   "titel": "Wie kann man als Journalist mit KI umgehen? - ADZ-Online",
-   "zusammenfassung": "Wie kann man als Journalist mit KI umgehen? ADZ-Online",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRlFIc0RDV2pwRG1WakdZZmZqWml6Tm9TRHQyYUQyT0RsaG9XdFFBSnBjS1RrRzc1TXhyZHhZWWZwYkY4TTl5OXVMdG9XblhyZGNtY1pkSVZ4T0pxT3FQbG95bXE2bGZ2TXJWaUxhS1YyVno4eGpUQWFlS0dpc0NQOA?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "KI-Einkauf: Deutschland nutzt ChatGPT deutlich seltener - ad-hoc-news.de",
-   "zusammenfassung": "KI-Einkauf: Deutschland nutzt ChatGPT deutlich seltener ad-hoc-news.de",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaW9wTUhlZHpiNmVxdTNxZS0zQ1ZobVREazFDb3cyU1JBdjZreDZoeTR5aFlZTkZNbm9iSDRFQVFYZDFySl9va1pURWZVaTRldHQyZUtmRU5YcVM4SnpBem54aHZ5NXA5bVNkNGxjLXUtSDdlU2hITDdFSTR3dk1OWGV3VDhMQmtBX1lPSFVvMHBaVTl1YVpOZjEtajFaWm1LTjdJ?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Statistik - Jedes dritte Unternehmen nutzt Künstliche Intelligenz - Deutschlandfunk",
-   "zusammenfassung": "Statistik - Jedes dritte Unternehmen nutzt Künstliche Intelligenz Deutschlandfunk",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Statistik: Mehr als jedes dritte Unternehmen nutzt KI",
+   "zusammenfassung": "Laut amtlicher Statistik setzt inzwischen mehr als jedes dritte Unternehmen in Deutschland mit mindestens zehn Beschäftigten Künstliche Intelligenz ein.",
+   "warum_wichtig": "Die Mehrheit der Firmen nutzt KI noch nicht, das Potenzial für die deutsche Wirtschaft bleibt groß.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXNmYmVNdDlrZ1NZRmY5QmVaQzhyZkNpWTRaYXlURlk3dEI3QkxKZ0JRS18xaFFuNjU0Tmg3YXJkS09EOTcxMFFHTnFUdWxyNGJXZ3Jsc2lZWnhhcUdPUGd0UlVvcG5DV1p6TUh2X1RmVkZHTTRmVnJoX2xQRXRXcV9PVXZ4WThVa0hYOXFpSG1DRVNIR21VWkpn?oc=5"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQzctYUtwZjNTWXdwZ2E0MXltTEtEdHkwQmg5bVF1cFlfS3VNZFBkdzlEQzVZem9HalRuZThyNjZRWVFrOGlhc0ZrZ0JnWElzS2NWR2lZeHZjS0tZOWRtRXc2eHhhMjZGSFVDeUVxd1ljbDVxenBrZkRJRWx4anp6QlJIV2dUUnpHTjhCLUw5T2I5NjVGbGNhY2hMeGpMLS1k?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Linnemann sieht KI als „Gamechanger“ im Gesundheitswesen",
+   "zusammenfassung": "Minister Linnemann will das Gesundheitssystem mit KI und präventiver Datenmedizin bezahlbar halten. Militär und Industrie mahnen zugleich eine bessere Notfallversorgung an.",
+   "warum_wichtig": "KI soll helfen, die steigenden Kosten im deutschen Gesundheitssystem zu bremsen.",
+   "kategorie": "Politik & Regulierung",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Linnemann-KI-als-Gamechanger-Bundeswehr-will-krisenfeste-Gesundheitsdaten-11536290.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Mehr als jeder Dritte mit Depression nutzt KI als Gesprächspartner",
+   "zusammenfassung": "Laut einer Erhebung nutzt mehr als jeder dritte Mensch mit Depression KI als Gesprächspartner.",
+   "warum_wichtig": "KI-Chatbots spielen eine wachsende Rolle für psychisch erkrankte Menschen, was Fragen nach Qualität und Sicherheit aufwirft.",
+   "kategorie": "Gesellschaft",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlZSRzJTb0NncXdXV1pTWTJHUDNaLVl3ckdHeEtDNFpoazI2ODJvRGwzeGZFTmJ0SVJEbTBibzF2VVJQZGJGSmpYMmw2RDhCc052RzB2M1g4ZXJ5cEp1Y1BpZUlSODhfeEgyLXZFZ2tQREtIUDI5S0VCbnRUZTNXV05HUjJ5bXpPM044VnI0VjBaTjIxVG0wTXBhSnh1TmFLUzB4elBRSm1fT3ZVTTg3dUx3OHpuR0xPMW9RN2Ryc1hwOVd2d1E1d253?oc=5"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "Building AI for a Fragmented World - IT Brief UK",
-   "zusammenfassung": "Building AI for a Fragmented World IT Brief UK",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "EU-Kommission bestätigt Datendiebstahl nach KI-Cyberangriff",
+   "zusammenfassung": "Beim KI-gestützten Cyberangriff auf die EU-Kommission wurden personenbezogene Daten von Nutzern der Bildungsplattform EU Academy entwendet, wie die Kommission bestätigt hat.",
+   "warum_wichtig": "Betroffen sind auch Nutzer aus Deutschland, die die Lernplattform der EU verwendet haben.",
+   "kategorie": "Sicherheit",
    "quellen": [
     {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BNTZIR1lndTNPYjZFS3NxaExQckllVndkSlNCTG5rZzRjQmZXZnJzaVByUUIzbEpUS2xRaDNXcWxuZXVEYTNkUFlqc3pLU3ZIM3BJSEZTZkxNczNEdVpoRXU4STFCbngwUmNHRDZpYw?oc=5"
+     "name": "Golem",
+     "url": "https://www.golem.de/news/ki-gestuetzter-angriff-eu-kommission-bestaetigt-datendiebstahl-2611-215598.html"
     }
    ]
   },
   {
-   "titel": "Jensen Huang's Return Could Make a Tesla/SpaceX Merger More Likely - The Globe and Mail",
-   "zusammenfassung": "Jensen Huang's Return Could Make a Tesla/SpaceX Merger More Likely The Globe and Mail",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "AI Act: Öffentliche Stellen müssen Restrisiken offenlegen",
+   "zusammenfassung": "Nach der KI-Verordnung müssen öffentliche Stellen verbleibende Risiken ihrer KI-Systeme in einer Datenbank offenlegen.",
+   "warum_wichtig": "Bürgerinnen und Bürger bekommen damit mehr Einblick, wie Behörden KI einsetzen.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSFk3VHV3LUYwOFNVcUVQUnEzR0doWVhqS2Jjb29UbzNPVjRQQUZsNks3VHM4TEFFS2lRSHlPUlR0VS1VS3hLVnVMNDBNWU9yT1lJNXBQeXg1Zkk5LXVqRGwzazFJbU9FcHV2TEM4d0RBdWVUM20yT1NzWEE3WlFTNmZRNENvenBMdUk4VWRxb0ZrR2VqZXlEamJSNm1rNUFaZFRaQTVFY21BNVBja19PdTZGV3NYeTlLR2ljVTh4azJTNmVFLW90a0JEYi0zY19nU1NyQkszd0dXcUt4Tk1vWk1VZw?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Meta-Autonomy Framework Examines Legal and Moral Agency in Virtual Worlds - Bioengineer.org",
-   "zusammenfassung": "Meta-Autonomy Framework Examines Legal and Moral Agency in Virtual Worlds Bioengineer.org",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMTJzTkJIU1NIZ3UzeE91cUoyeDRUZHpqM292RGFuejN6aFFoam5Ub1pXY3NEZVAxdTVMRFZvcS1zUS16UXN3TVJrUXFFVnlCaGE5MTlMM0p3eVdTZHAydjUtQ0ZRekhlbEE3SUgwUHBRT1BFcTYzZDJzbkVsWmlKZ1lxaDludkhiZVhFMWtob3JxQzY0OTNFRC1sVHFoOXc?oc=5"
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZlEtYWlJTGxxVktQNG9LQWxtaHRXVk5NOGdTSXRWVUEyLVNKSjByWUZuSE9lZ0VKR2ozZ1Jwd2J3VzRBcXdUS19iR1Y0am5uSkx6SGdiUDJySFgycDRDT01rb2luRUI5TmFJVGE3bXA0LVZnaVNmNTFEaHJZUENQSEVuak01c2FlblkzQ0MyMVYzUGRDUm5nZTI2NV9KcUR3dGpvcC1mQTVCNnhKUUxSQjFxcFdGVzNCQi1aUWc2R3Q2SkFv?oc=5"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-   "zusammenfassung": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Beschäftigte von OpenAI und Anthropic halten interne Modelle für zu gefährlich",
+   "zusammenfassung": "Laut einem Axios-Bericht halten zahlreiche Beschäftigte bei OpenAI und Anthropic die eigenen unveröffentlichten Spitzenmodelle für nicht mehr sicher kontrollierbar. Intern wird über einen Freigabe- oder sogar Trainingsstopp diskutiert.",
+   "warum_wichtig": "Die Warnungen aus den Laboren selbst dürften die Debatte über die Umsetzung des AI Act in Europa verschärfen.",
+   "kategorie": "Sicherheit",
    "quellen": [
     {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/mitarbeitende-von-anthropic-und-openai-warnen-interne-ki-modelle-werden-zu-gefaehrlich-fuer-eine-freigabe/"
     }
    ]
   },
   {
-   "titel": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-   "zusammenfassung": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Tidal verbannt KI-generierte Musik und löscht Millionen Songs",
+   "zusammenfassung": "Der Streamingdienst Tidal verbietet ab dem 9. Dezember vollständig KI-generierte Musik und löscht rund 29 Millionen Titel aus seinem Katalog. Mit KI-Unterstützung erstellte Songs bleiben erlaubt.",
+   "warum_wichtig": "Der Schritt könnte Druck auf andere Streamingdienste ausüben, auch in Europa klarer gegen KI-Massenware vorzugehen.",
+   "kategorie": "Gesellschaft",
    "quellen": [
     {
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+    },
+    {
+     "name": "Ars Technica AI",
+     "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
+    },
+    {
      "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/"
+     "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
     }
    ]
   }
  ],
  "datum": "2026-11-25",
- "erstellt": "2026-11-25T06:42+01:00",
- "modus": "einfach",
+ "erstellt": "2026-11-25T06:43+01:00",
+ "modus": "ki",
  "anzahl_meldungen": 100,
  "feeds": {
   "The Decoder": "10 Meldungen",
