@@ -1,162 +1,150 @@
 {
- "lage": "Guten Morgen! In Deutschland stellt ein Gericht klar, dass Firmen für die Fehler ihrer Chatbots haften, und Fachleute warnen vor KI in Migrationsverfahren. Weltweit sorgt die überraschende Rückkehr von Jensen Huang an die Nvidia-Spitze für Schlagzeilen.",
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
  "deutschland": [
   {
-   "titel": "OLG Hamm: Unternehmen haften für irreführende Chatbot-Antworten",
-   "zusammenfassung": "Das Oberlandesgericht Hamm hat entschieden, dass Unternehmen für irreführende Antworten ihrer KI-Chatbots haften.",
-   "warum_wichtig": "Firmen in Deutschland müssen genau prüfen, was ihre Chatbots Kunden versprechen.",
-   "kategorie": "Politik & Regulierung",
-   "quellen": [
-    {
-     "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlBaNFpSQ2Z6ZjJlRkNEV1p2WEpYdVBOU3dmLUtXTGpMcXJYYl9SbHZMOUIxMy1EWXA2R1JXbzA0R3BSWVlMVS1WZW9leWFSNXBDTjUtYmoyTVNfNVlXNHNZd214eUtlSml4d1ZLSy1mMC1GRllVbFVYZFRDbERKaHZvd2FPZ1V5bFpqeVU5aDJ3eUt2NEhVOEFBSi1hZlBhcWRjUm1BWEtINTdydFRqeTNJckt2cTFq?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "KI-Migrationsgesetz: Experten fürchten mehr Klagen statt schnellerer Verfahren",
-   "zusammenfassung": "Bei der Anhörung zum geplanten KI-Migrationsgesetz forderten Sachverständige klare Grenzen für den KI-Einsatz und unabhängige Prüfungen. Andernfalls drohten mehr Fehler, mehr Klagen und längere Verfahren.",
-   "warum_wichtig": "Die Debatte entscheidet mit, wie weit KI in Deutschland über Asylverfahren mitbestimmen darf.",
-   "kategorie": "Politik & Regulierung",
-   "quellen": [
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/KI-Migrationsgesetz-Experten-fuerchten-mehr-Klagen-statt-kuerzerer-Verfahren-11535154.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "titel": "Jedes dritte deutsche Unternehmen profitiert bereits von KI",
-   "zusammenfassung": "Laut einer Erhebung verzeichnet inzwischen jedes dritte Unternehmen in Deutschland einen deutlichen Ertrag durch KI.",
-   "warum_wichtig": "KI zahlt sich für viele deutsche Firmen zunehmend messbar aus, die Lücke zu Nachzüglern wächst.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Umweltcheck: Diese KI-Modelle sind die größten Klimakiller - BASIC thinking",
+   "zusammenfassung": "Umweltcheck: Diese KI-Modelle sind die größten Klimakiller BASIC thinking",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TeE03aG8xYk1yNEZnM0F2U1I5V0JSSWFmNmhvMWFzT2JpZUpzTWI1MVpMQldBWDY0OERRMVJteGhHRlloZFBQQ3J3WXBLQnJjaFl1MlZ1R3A?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2JWc2ZrZ0tzM2VUZFhsLVdhR2V3cUw1M2MwaF9uY0tpUU5YQ1p4dTNEU2ZPMnMyd0NJNTVhbVZnbmlNS1hYT2VsQnlsalZzdURObUh3cG1IMU50RDB2aFQ0NXR2bE5BcEFHdmdYLU9zU3U4SW8tcm9JaC1yXzlFMlVJdUxvYU9qQ3pTRWVyZ2NkSDRTeDBiY2hTRC1QRnY0THdHVEtwRG8?oc=5"
     }
    ]
   },
   {
-   "titel": "Finanzverwaltung in Mecklenburg-Vorpommern setzt auf KI",
-   "zusammenfassung": "Die Finanzverwaltung in Mecklenburg-Vorpommern setzt künftig auf Künstliche Intelligenz.",
-   "warum_wichtig": "Immer mehr Behörden in Deutschland nutzen KI, um ihre Arbeit zu beschleunigen.",
-   "kategorie": "Gesellschaft",
+   "titel": "KI beim Einkaufen: Warum Deutschland so weit hinterherhinkt - FAZ",
+   "zusammenfassung": "KI beim Einkaufen: Warum Deutschland so weit hinterherhinkt FAZ",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3R3ZVFQb3p6Ti1uT2RKb0t5bi1ITjhlZ2w5RGxZRnhoSzZMaWVndGdRQ0lrYmlGUVVIWDZkQmxRZkQ0M0dHVDk5YkJBX192NUsxMDIzSFJVYW9xZ3VrNlgzM0FoMjF1d09ab0ttazlhMEJheTJKMzZQeU12ZkFCTjRzS0VtN0NIZUNGWDFOZTBwSXZDeXYwNS1rTXd2eUZWenVzMkNrdHhPcHF2cTUwQWREc0R3aW93TEx3NmxWb05xYm9yeE5oNkVtYw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV1ZtNldzSkJ0Qmd6Uk1EdTgzRE1rRjEyU1k3QkdhR0xPem14ajU5Ykh4VG1COHB4VGJYZ1c0UXdHMzZ3S0pRVkxJTXBNTUNETE9tRTBVVThFREl6NmlRNGY1WGhPTk92RGdveWVsdHNQSDhGTHVWdDFpYTlIdVYyM092aWRBT2tXRTlJbW13NGZlZWhhTWFsZ09TOTFpRVRRUTZJM3RqX2piOUJJNk0xMGR4em9nTlk0dUt5TjRZX0JoLWUtNkQ5RA?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Wie kann man als Journalist mit KI umgehen? - ADZ-Online",
+   "zusammenfassung": "Wie kann man als Journalist mit KI umgehen? ADZ-Online",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRlFIc0RDV2pwRG1WakdZZmZqWml6Tm9TRHQyYUQyT0RsaG9XdFFBSnBjS1RrRzc1TXhyZHhZWWZwYkY4TTl5OXVMdG9XblhyZGNtY1pkSVZ4T0pxT3FQbG95bXE2bGZ2TXJWaUxhS1YyVno4eGpUQWFlS0dpc0NQOA?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "KI-Einkauf: Deutschland nutzt ChatGPT deutlich seltener - ad-hoc-news.de",
+   "zusammenfassung": "KI-Einkauf: Deutschland nutzt ChatGPT deutlich seltener ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaW9wTUhlZHpiNmVxdTNxZS0zQ1ZobVREazFDb3cyU1JBdjZreDZoeTR5aFlZTkZNbm9iSDRFQVFYZDFySl9va1pURWZVaTRldHQyZUtmRU5YcVM4SnpBem54aHZ5NXA5bVNkNGxjLXUtSDdlU2hITDdFSTR3dk1OWGV3VDhMQmtBX1lPSFVvMHBaVTl1YVpOZjEtajFaWm1LTjdJ?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Statistik - Jedes dritte Unternehmen nutzt Künstliche Intelligenz - Deutschlandfunk",
+   "zusammenfassung": "Statistik - Jedes dritte Unternehmen nutzt Künstliche Intelligenz Deutschlandfunk",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXNmYmVNdDlrZ1NZRmY5QmVaQzhyZkNpWTRaYXlURlk3dEI3QkxKZ0JRS18xaFFuNjU0Tmg3YXJkS09EOTcxMFFHTnFUdWxyNGJXZ3Jsc2lZWnhhcUdPUGd0UlVvcG5DV1p6TUh2X1RmVkZHTTRmVnJoX2xQRXRXcV9PVXZ4WThVa0hYOXFpSG1DRVNIR21VWkpn?oc=5"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "Neue Haftungsregeln für KI im Auto setzen Hersteller unter Druck",
-   "zusammenfassung": "Neue Haftungsregeln für KI im Auto setzen laut Automobilwoche die Fahrzeughersteller unter Druck.",
-   "warum_wichtig": "Für die deutsche Autoindustrie steigt das Risiko bei Fehlern von KI-Systemen im Fahrzeug.",
-   "kategorie": "Politik & Regulierung",
+   "titel": "Building AI for a Fragmented World - IT Brief UK",
+   "zusammenfassung": "Building AI for a Fragmented World IT Brief UK",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQalg1X1VWSDVUaWZtU05hLVhXaFgtZTViNjhZdzlocHRNNTFiNjRLUXRUOTVBMmNPVUZGX21mTmtXT1hPbUdlTVFxQ05OS0VrWDlBZF9FVnpGVWV3ajB6RXlCcUpiRkV3YTlldDQzUmp2SUtTOEMtQ0Q4cmRGMFRNQnVjUlp6T2FHYW5VMHJqZnllYTBKOGFTVzNRa3liR2lzYV9tRVpfYmVEdw?oc=5"
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BNTZIR1lndTNPYjZFS3NxaExQckllVndkSlNCTG5rZzRjQmZXZnJzaVByUUIzbEpUS2xRaDNXcWxuZXVEYTNkUFlqc3pLU3ZIM3BJSEZTZkxNczNEdVpoRXU4STFCbngwUmNHRDZpYw?oc=5"
     }
    ]
   },
   {
-   "titel": "E4 und Openchip vereinbaren Zusammenarbeit für europäische KI-Rechenleistung",
-   "zusammenfassung": "Die Unternehmen E4 und Openchip haben eine Vereinbarung zum Ausbau europäischer KI-Rechenkapazitäten unterzeichnet.",
-   "warum_wichtig": "Europa baut schrittweise eigene Hardware- und Rechenkapazitäten für KI auf.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Jensen Huang's Return Could Make a Tesla/SpaceX Merger More Likely - The Globe and Mail",
+   "zusammenfassung": "Jensen Huang's Return Could Make a Tesla/SpaceX Merger More Likely The Globe and Mail",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNk1oaGJYVzJlYUpNbzBUWnJNRGdvQmRxS3BkRlMxM005TG1jUTZUVHR3X19iVHBmSlc4V0Jud0JUbFIxa3dxaWl4SWJoUi1IV2M4ejV5WExQRlB0RUF5aU5LaU92aW1fUmszbzJMT2NTUFQ1bktQR2F0MklEdUk3b3pnbEw3QVotNXc?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSFk3VHV3LUYwOFNVcUVQUnEzR0doWVhqS2Jjb29UbzNPVjRQQUZsNks3VHM4TEFFS2lRSHlPUlR0VS1VS3hLVnVMNDBNWU9yT1lJNXBQeXg1Zkk5LXVqRGwzazFJbU9FcHV2TEM4d0RBdWVUM20yT1NzWEE3WlFTNmZRNENvenBMdUk4VWRxb0ZrR2VqZXlEamJSNm1rNUFaZFRaQTVFY21BNVBja19PdTZGV3NYeTlLR2ljVTh4azJTNmVFLW90a0JEYi0zY19nU1NyQkszd0dXcUt4Tk1vWk1VZw?oc=5"
     }
    ]
   },
   {
-   "titel": "CommerzVentures legt Fonds für europäische KI-Start-ups auf",
-   "zusammenfassung": "Die von der Commerzbank unterstützte CommerzVentures sammelt 54,5 Millionen Dollar für einen Fonds, der in europäische KI-Start-ups investieren soll.",
-   "warum_wichtig": "Für junge KI-Firmen in Europa wächst das Angebot an Wagniskapital.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Meta-Autonomy Framework Examines Legal and Moral Agency in Virtual Worlds - Bioengineer.org",
+   "zusammenfassung": "Meta-Autonomy Framework Examines Legal and Moral Agency in Virtual Worlds Bioengineer.org",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVVU1RzZ3NU90NWRicmtsbVpvVGZOdzhZOUF6enFoVDBzdm1xQXBVYWgxdmFUUS1yRXhRbDY2bXJRZ1RGVl90bmIweHcwc1QwOUtHcm5aRUY3Y2dXc3NWZWwyQWlwdFU3MXZOQUNDaUVIS2lxUXlWVGpfSmkzTGVQV0lESlFQN0Z3dV9QVDd0cGhKdzY3bExJZ2NmaWZidHpNOUF1cGUwVjg5QzM3dUc1Z2R4SXdKazRUOFRvOHhoTUJDZXd1VFBVekFLdTlzelpvTmJqVEdkN0F6SDBiZk1iaw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMTJzTkJIU1NIZ3UzeE91cUoyeDRUZHpqM292RGFuejN6aFFoam5Ub1pXY3NEZVAxdTVMRFZvcS1zUS16UXN3TVJrUXFFVnlCaGE5MTlMM0p3eVdTZHAydjUtQ0ZRekhlbEE3SUgwUHBRT1BFcTYzZDJzbkVsWmlKZ1lxaDludkhiZVhFMWtob3JxQzY0OTNFRC1sVHFoOXc?oc=5"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "Nvidia holt Jensen Huang zurück an die Spitze",
-   "zusammenfassung": "Nvidias Verwaltungsrat hat Jensen Huang einstimmig und mit sofortiger Wirkung wieder als CEO eingesetzt, kurz nach seinem Rücktritt wegen mehrerer Affären. Präsident Trump sagt, er habe den Verwaltungsrat überzeugt; die Aktie stieg zum Handelsstart um 30 Prozent, und Huang soll nächste Woche vor dem US-Senat aussagen.",
-   "warum_wichtig": "Die Kehrtwende beim wichtigsten KI-Chiphersteller beeinflusst Börsen und Chipversorgung auch in Europa.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+   "zusammenfassung": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "The Decoder",
-     "url": "https://the-decoder.de/nvidia-setzt-jensen-huang-wieder-als-ceo-ein/"
-    },
-    {
-     "name": "Golem",
-     "url": "https://www.golem.de/news/spionage-jensen-huang-wird-wieder-nvidia-ceo-2611-215544.html"
-    },
-    {
      "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
-    },
-    {
-     "name": "Golem",
-     "url": "https://www.golem.de/news/jensen-huang-nvidia-aktie-springt-nach-huang-rueckkehr-um-30-prozent-2611-215550.html"
-    },
-    {
-     "name": "tagesschau",
-     "url": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html"
-    },
-    {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+     "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
     }
    ]
   },
   {
-   "titel": "US-Bundesstaaten verklagen SpaceX wegen Grok-Deepfakes",
-   "zusammenfassung": "Die Generalstaatsanwälte von Oregon und Virginia verklagen SpaceX, weil der Chatbot Grok sexualisierte Deepfakes und Missbrauchsdarstellungen erzeugt. Sie werfen dem Unternehmen vor, branchenübliche Schutzmaßnahmen zu ignorieren.",
-   "warum_wichtig": "Der Fall verstärkt die Debatte über Schutzpflichten von KI-Anbietern, die auch in der EU geführt wird.",
-   "kategorie": "Politik & Regulierung",
+   "titel": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+   "zusammenfassung": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "Ars Technica AI",
-     "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
-    },
-    {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/"
     }
    ]
   }
  ],
- "datum": "2026-11-24",
- "erstellt": "2026-11-24T06:42+01:00",
- "modus": "ki",
+ "datum": "2026-11-25",
+ "erstellt": "2026-11-25T06:42+01:00",
+ "modus": "einfach",
  "anzahl_meldungen": 100,
  "feeds": {
-  "The Decoder": "9 Meldungen",
-  "heise online": "15 Meldungen",
+  "The Decoder": "10 Meldungen",
+  "heise online": "19 Meldungen",
   "t3n": "10 Meldungen",
-  "Golem": "9 Meldungen",
-  "netzpolitik.org": "2 Meldungen",
-  "tagesschau": "5 Meldungen",
-  "Google News (KI Deutschland)": "31 Meldungen",
-  "Google News (EU KI-Politik)": "39 Meldungen",
-  "Google News (Europe AI)": "30 Meldungen",
+  "Golem": "6 Meldungen",
+  "netzpolitik.org": "0 Meldungen",
+  "tagesschau": "7 Meldungen",
+  "Google News (KI Deutschland)": "62 Meldungen",
+  "Google News (EU KI-Politik)": "16 Meldungen",
+  "Google News (Europe AI)": "34 Meldungen",
   "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
-  "Sifted": "3 Meldungen",
-  "TechCrunch AI": "16 Meldungen",
-  "The Verge AI": "10 Meldungen",
+  "Sifted": "0 Meldungen",
+  "TechCrunch AI": "20 Meldungen",
+  "The Verge AI": "9 Meldungen",
   "MIT Technology Review": "1 Meldungen",
-  "Ars Technica AI": "3 Meldungen"
+  "Ars Technica AI": "6 Meldungen"
  }
 }
