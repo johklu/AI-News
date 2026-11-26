@@ -1,0 +1,42 @@
+{
+  "stand": "2026-11-26T05:42:14+00:00",
+  "lage": "Guten Morgen! Die Verbraucherzentrale Brandenburg verklagt OpenAI wegen schwer kündbarer ChatGPT-Abos, und das Uniklinikum Leipzig gibt seine Klinik-KI frei. In den USA darf SpaceX eine Million Satelliten als KI-Rechenzentren ins All schicken.",
+  "deutschland": [
+    {"titel": "Verbraucherzentrale verklagt OpenAI wegen ChatGPT-Kündigung",
+     "zusammenfassung": "Die Verbraucherzentrale Brandenburg hat OpenAI verklagt. Nach ihrer Ansicht sind die Hürden für die Kündigung eines kostenpflichtigen ChatGPT-Abos zu hoch.",
+     "warum_wichtig": "Für Millionen ChatGPT-Nutzer in Deutschland könnte das Kündigen künftig einfacher werden.",
+     "kategorie": "Politik & Regulierung", "quellen": [30]},
+    {"titel": "Uniklinikum Leipzig veröffentlicht Klinik-KI als Open Source",
+     "zusammenfassung": "Das Universitätsklinikum Leipzig gibt den Code seiner KI-Plattform AMPEL frei. Andere Kliniken sollen damit eigene Medizinprodukte entwickeln können.",
+     "warum_wichtig": "Krankenhäuser in Deutschland können auf erprobte KI aufbauen, statt bei null anzufangen.",
+     "kategorie": "Forschung", "quellen": [39]},
+    {"titel": "KI-Boom drückt den Euro, DAX fällt unter 25.000 Punkte",
+     "zusammenfassung": "Der Euro ist zum Dollar auf den tiefsten Stand seit anderthalb Jahren gefallen, Hintergrund ist der KI-Boom in den USA. Zugleich fiel der DAX wegen Zolldrohungen und Zweifeln am KI-Boom auf den tiefsten Stand seit Juli.",
+     "warum_wichtig": "Der KI-Boom wirkt sich über Wechselkurs und Börse direkt auf Unternehmen, Verbraucher und Sparer in Deutschland aus.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [73, 29]},
+    {"titel": "Berliner Firma A11 startet KI-Software gegen US-Konkurrenz",
+     "zusammenfassung": "Das Berliner Unternehmen A11 bringt eine KI-Software auf den Markt, die mit Angeboten aus den USA konkurrieren soll.",
+     "warum_wichtig": "Deutsche Anbieter versuchen, Kunden eine heimische Alternative zu US-KI zu bieten.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [1]}
+  ],
+  "eu": [
+    {"titel": "EuGH-Verfahren: Echtzeit-Nachrichtenabruf durch Gemini kann Verlegerrechte verletzen",
+     "zusammenfassung": "Vor dem Europäischen Gerichtshof geht es um Googles Gemini: Der Abruf von Nachrichten in Echtzeit kann demnach die Rechte von Presseverlegern verletzen.",
+     "warum_wichtig": "Die Entscheidung könnte festlegen, ob KI-Anbieter Verlage in Europa für die Nutzung ihrer Inhalte bezahlen müssen.",
+     "kategorie": "Politik & Regulierung", "quellen": [54]},
+    {"titel": "OutSystems startet souveräne Cloud für europäische KI",
+     "zusammenfassung": "Der Softwareanbieter OutSystems hat eine souveräne Cloud für KI-Anwendungen in Europa gestartet.",
+     "warum_wichtig": "Europäische Unternehmen erhalten eine weitere Möglichkeit, KI unter europäischer Kontrolle zu betreiben.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [83]}
+  ],
+  "welt": [
+    {"titel": "SpaceX darf eine Million Satelliten als KI-Rechenzentren ins All bringen",
+     "zusammenfassung": "Die US-Aufsicht FCC hat das SpaceX-Projekt „Starmind“ genehmigt: Bis zu eine Million mit KI-Chips bestückte Satelliten sollen als Rechenzentren im Orbit dienen. Der erste Rechenzentrums-Satellit soll bis 2033 im All sein.",
+     "warum_wichtig": "Sollte das Konzept aufgehen, könnte KI-Rechenleistung künftig aus dem All kommen, abseits europäischer Netze.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [26, 5, 9]},
+    {"titel": "New York verbietet KI-Chatbot-Spielzeug für fünf Jahre",
+     "zusammenfassung": "New York hat KI-Chatbot-Spielzeug für fünf Jahre verboten. Neue Untersuchungen von Common Sense Media zeigen Sicherheitsmängel, darunter ungeeignete Inhalte und Risiken für die emotionale Entwicklung.",
+     "warum_wichtig": "Eltern auch in Deutschland sollten bei KI-Spielzeug als Weihnachtsgeschenk vorsichtig sein.",
+     "kategorie": "Gesellschaft", "quellen": [24]}
+  ]
+}
