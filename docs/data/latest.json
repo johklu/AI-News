@@ -1,134 +1,122 @@
 {
- "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "lage": "Guten Morgen! Die Verbraucherzentrale Brandenburg verklagt OpenAI wegen schwer kündbarer ChatGPT-Abos, und das Uniklinikum Leipzig gibt seine Klinik-KI frei. In den USA darf SpaceX eine Million Satelliten als KI-Rechenzentren ins All schicken.",
  "deutschland": [
   {
-   "titel": "#heiseshow: Jensen ist zurück, Ladybird-Browser, GTA 6",
-   "zusammenfassung": "In der #heiseshow: Jensen Huang ist zurück an der Nvidia-Spitze, Ladybird fordert die großen Browser-Engines heraus und GTA 6 bricht Rekorde.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Verbraucherzentrale verklagt OpenAI wegen ChatGPT-Kündigung",
+   "zusammenfassung": "Die Verbraucherzentrale Brandenburg hat OpenAI verklagt. Nach ihrer Ansicht sind die Hürden für die Kündigung eines kostenpflichtigen ChatGPT-Abos zu hoch.",
+   "warum_wichtig": "Für Millionen ChatGPT-Nutzer in Deutschland könnte das Kündigen künftig einfacher werden.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/heiseshow-Jensen-ist-zurueck-Ladybird-Browser-GTA-6-11538152.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+     "name": "Golem",
+     "url": "https://www.golem.de/news/vertragskuendigung-verbraucherzentrale-verklagt-openai-wegen-chatgpt-abo-2611-215664.html"
     }
    ]
   },
   {
-   "titel": "Berliner Firma A11 startet KI-Software gegen US-Konkurrenz - Zeitungsverlag Waiblingen",
-   "zusammenfassung": "Berliner Firma A11 startet KI-Software gegen US-Konkurrenz Zeitungsverlag Waiblingen",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "Uniklinikum Leipzig veröffentlicht Klinik-KI als Open Source",
+   "zusammenfassung": "Das Universitätsklinikum Leipzig gibt den Code seiner KI-Plattform AMPEL frei. Andere Kliniken sollen damit eigene Medizinprodukte entwickeln können.",
+   "warum_wichtig": "Krankenhäuser in Deutschland können auf erprobte KI aufbauen, statt bei null anzufangen.",
+   "kategorie": "Forschung",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Klinik-KI-als-Open-Source-Leipzig-teilt-AMPEL-Code-11538066.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "KI-Boom drückt den Euro, DAX fällt unter 25.000 Punkte",
+   "zusammenfassung": "Der Euro ist zum Dollar auf den tiefsten Stand seit anderthalb Jahren gefallen, Hintergrund ist der KI-Boom in den USA. Zugleich fiel der DAX wegen Zolldrohungen und Zweifeln am KI-Boom auf den tiefsten Stand seit Juli.",
+   "warum_wichtig": "Der KI-Boom wirkt sich über Wechselkurs und Börse direkt auf Unternehmen, Verbraucher und Sparer in Deutschland aus.",
+   "kategorie": "Wirtschaft & Startups",
+   "quellen": [
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/euro-dollar-ki-etf-sparer-100.html"
+    },
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html"
+    }
+   ]
+  },
+  {
+   "titel": "Berliner Firma A11 startet KI-Software gegen US-Konkurrenz",
+   "zusammenfassung": "Das Berliner Unternehmen A11 bringt eine KI-Software auf den Markt, die mit Angeboten aus den USA konkurrieren soll.",
+   "warum_wichtig": "Deutsche Anbieter versuchen, Kunden eine heimische Alternative zu US-KI zu bieten.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDg0RlNvbm5GT3gzNnRwRVZib1hJaWR0ajRoUlg2M2NjX1Znb3VaSjBsN0NtbGZGWHVsR3BKM2RadXpxOE51dlQyRzByMXFMaVVOVjREemwzc3lBSEVQeDBDSUF0dC1Hek5MQ3EtZ1Bqckw5SnAwZGM4RnJaYUNaRGZqcDBzMERqZUxydGl5Y25aaVh1UTRSbzNsNllhd0RsckMxMVFtY1VkWlNnclRSQUMwbUFFckQyUVZF?oc=5"
     }
    ]
-  },
-  {
-   "titel": "USA genehmigen 1 Million SpaceX-Satelliten für KI-Rechenzentren im Orbit",
-   "zusammenfassung": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "titel": "Japans Nikkei erholt sich, nachdem Anleger bei KI-Aktien zugreifen - MarketScreener Deutschland",
-   "zusammenfassung": "Japans Nikkei erholt sich, nachdem Anleger bei KI-Aktien zugreifen MarketScreener Deutschland",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVUYwRVVYUDE0a3c3cVQ0c240RjVncm04WnFuX1R0ZXJobFNJNkRkWnpsT3FWR2k4YU80ZW5CZFJPMFlHRnI0R1RyZHZ3dHBxUjVoVU1RcUlQMXRveDd2X3BJQU5nUjBVWkVLc1dBYm9KVlVDdjNNNUl1cnFEZVFZM3pjZmFzTU92R292ZTFjV2QzSHBjMUVLVGZOQUlTN3ljTUpRMWNKUGRBbjNCc0otRFU3b054bDRrLTZUS0tFdUxMclZ4RmszUHJPYw?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
-   "zusammenfassung": "SpaceX plant im All ein Netz aus Satelliten, die als Rechenzentren dienen sollen. Die US-Behörden haben das Vorhaben nun erlaubt. Ziel ist es, die enorme Nachfrage nach Rechenleistung für Künstliche Intelligenz zu befriedigen.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "tagesschau",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html"
-    }
-   ]
   }
  ],
  "eu": [
   {
-   "titel": "Monzo cofounder Tom Blomfield leaves Anthropic after less than six months, reports say",
-   "zusammenfassung": "",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Sifted",
-     "url": "https://sifted.eu/articles/anthropic-monzo-tom-blomfield-quits/"
-    }
-   ]
-  },
-  {
-   "titel": "Proxima Fusion CEO calls out ‘short-termism’ amid AI boom",
-   "zusammenfassung": "",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Sifted",
-     "url": "https://sifted.eu/articles/proxima-fusion-ceo-ai-bubble-japan-supply-chain/"
-    }
-   ]
-  },
-  {
-   "titel": "ChatGPT, Work und Codex: OpenAI bündelt Nutzungslimits ab Dezember - ad-hoc-news.de",
-   "zusammenfassung": "ChatGPT, Work und Codex: OpenAI bündelt Nutzungslimits ab Dezember ad-hoc-news.de",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "EuGH-Verfahren: Echtzeit-Nachrichtenabruf durch Gemini kann Verlegerrechte verletzen",
+   "zusammenfassung": "Vor dem Europäischen Gerichtshof geht es um Googles Gemini: Der Abruf von Nachrichten in Echtzeit kann demnach die Rechte von Presseverlegern verletzen.",
+   "warum_wichtig": "Die Entscheidung könnte festlegen, ob KI-Anbieter Verlage in Europa für die Nutzung ihrer Inhalte bezahlen müssen.",
+   "kategorie": "Politik & Regulierung",
    "quellen": [
     {
      "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUdEQldacXptaHJCUjBrV19vQ041RWpISVRYeXpPY1RwRDhXZmVTNV9sOWZ5cDZyT1NtcC1oUmFhN1dJaFBSa3VQTGlVTkQ3SXY0aTFtY2NnZGZxbVhQVTdtWWxra0tmU3dhOWUxb1FEYXVoTlRUcXVrLWlWV2FYcUFEOVZoaUtvRHRSeG9pTGFELWhiNGpRYmluLTFlUWh2cGZfVVBlaTZDTnBpT1hrbzM2YUU?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTURvd1NUSHZUOWFuT1ZNcXAtaDV3UTFiVFY4LUZ0N0ViR0x5WWtBUnhsclRFdGl6Z1hVcEJqUnJEakFlT3RuRThDQTczSXI3Y3V4dHZXdTg5akJVQWxHbWdLMzZnWkZUY1l4eEhCVHh4a3M3bDhrVi1TVHE3VWNWNXAyRHh2QTFPYXJhQkd0SFZSOW9VQ0JEVUkxWWd1Mk81b1pYMnItUE1XYzNxdEM0bmZVbUwxUDhuZzdfa0lHZ3F0cTgwOTF3TQ?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "OutSystems startet souveräne Cloud für europäische KI",
+   "zusammenfassung": "Der Softwareanbieter OutSystems hat eine souveräne Cloud für KI-Anwendungen in Europa gestartet.",
+   "warum_wichtig": "Europäische Unternehmen erhalten eine weitere Möglichkeit, KI unter europäischer Kontrolle zu betreiben.",
+   "kategorie": "Wirtschaft & Startups",
+   "quellen": [
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3lRNmdkU0xzM0JQR3MtaXpfOVA3YWdrTlJjRDFxNERxUUNRMHRkZDE2Mm1rUl9yS1ZIOEN2ci1leGFleVBMd19ISTJSd0hTSzFTZmpBYzUtUmdaMFBOdFZpcmRodU1GejNXOG9Xd0JRT0czNTB6cVJBN2UyX0h6TVp6Mk1PLU9HMl9kSlZR?oc=5"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-   "zusammenfassung": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "SpaceX darf eine Million Satelliten als KI-Rechenzentren ins All bringen",
+   "zusammenfassung": "Die US-Aufsicht FCC hat das SpaceX-Projekt „Starmind“ genehmigt: Bis zu eine Million mit KI-Chips bestückte Satelliten sollen als Rechenzentren im Orbit dienen. Der erste Rechenzentrums-Satellit soll bis 2033 im All sein.",
+   "warum_wichtig": "Sollte das Konzept aufgehen, könnte KI-Rechenleistung künftig aus dem All kommen, abseits europäischer Netze.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+    },
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html"
     }
    ]
   },
   {
-   "titel": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-   "zusammenfassung": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "New York verbietet KI-Chatbot-Spielzeug für fünf Jahre",
+   "zusammenfassung": "New York hat KI-Chatbot-Spielzeug für fünf Jahre verboten. Neue Untersuchungen von Common Sense Media zeigen Sicherheitsmängel, darunter ungeeignete Inhalte und Risiken für die emotionale Entwicklung.",
+   "warum_wichtig": "Eltern auch in Deutschland sollten bei KI-Spielzeug als Weihnachtsgeschenk vorsichtig sein.",
+   "kategorie": "Gesellschaft",
    "quellen": [
     {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
     }
    ]
   }
  ],
  "datum": "2026-11-26",
- "erstellt": "2026-11-26T06:42+01:00",
- "modus": "einfach",
+ "erstellt": "2026-11-26T06:43+01:00",
+ "modus": "ki",
  "anzahl_meldungen": 100,
  "feeds": {
   "The Decoder": "10 Meldungen",
