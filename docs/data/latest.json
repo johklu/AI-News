@@ -1,154 +1,150 @@
 {
- "lage": "Guten Morgen! Verbraucherschützer gehen gegen die KI-Brillen von Meta und Ray-Ban vor, und neue Zahlen zeigen, wie verbreitet KI in Deutschland inzwischen ist. Weltweit warnen Beschäftigte von OpenAI und Anthropic vor ihren eigenen Modellen, und Tidal verbannt KI-Musik.",
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
  "deutschland": [
   {
-   "titel": "Verbraucherschützer gehen juristisch gegen KI-Brillen von Meta vor",
-   "zusammenfassung": "Verbraucherschützer klagen gegen die KI-Brillen von Meta und Ray-Ban. Der Vorwurf: Mit den Brillen lassen sich Fotos und Videos aufnehmen, ohne dass andere es bemerken; auch Nutzern könnten Bußgelder drohen.",
-   "warum_wichtig": "Wer in Deutschland KI-Brillen trägt, bewegt sich womöglich in einer rechtlichen Grauzone.",
-   "kategorie": "Politik & Regulierung",
-   "quellen": [
-    {
-     "name": "tagesschau",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/smart-glasses-klage-verbraucherschutz-100.html"
-    },
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDFXbE9LTVM2RUx4Q1E5R21VUjM0bFd2NFVTdW9CTjkxWVYtdWNIRHpYQ0FXVTZqU3lMblVTN3NBZVBZVWUwNFZZeXl1NVdkSFNoLU0tOEhkTEo2NVNkNF9fQk9ka1RZZmcwUWlfdmZqdXAtRDJPczFKRzFLaHl2RUtjTkZjUFZjWmQ0ei1fa2JjMmhkWUszQXRfQWhsQUdiMVJsU1dBNjZpUQ?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "81 Prozent der Deutschen nutzen generative KI, Ältere holen auf",
-   "zusammenfassung": "Vier Jahre nach dem Start von ChatGPT nutzen 81 Prozent der Deutschen generative KI-Werkzeuge, besonders stark gestiegen ist die Nutzung bei Menschen ab 65. Gleichzeitig wächst die Sorge vor nicht abschätzbaren Risiken.",
-   "warum_wichtig": "KI ist in Deutschland im Alltag angekommen, das Bedürfnis nach Aufklärung über Risiken wächst mit.",
-   "kategorie": "Gesellschaft",
-   "quellen": [
-    {
-     "name": "t3n",
-     "url": "https://t3n.de/news/boomer-ki-nutzung-risiken-1775096"
-    }
-   ]
-  },
-  {
-   "titel": "Statistik: Mehr als jedes dritte Unternehmen nutzt KI",
-   "zusammenfassung": "Laut amtlicher Statistik setzt inzwischen mehr als jedes dritte Unternehmen in Deutschland mit mindestens zehn Beschäftigten Künstliche Intelligenz ein.",
-   "warum_wichtig": "Die Mehrheit der Firmen nutzt KI noch nicht, das Potenzial für die deutsche Wirtschaft bleibt groß.",
-   "kategorie": "Wirtschaft & Startups",
-   "quellen": [
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXNmYmVNdDlrZ1NZRmY5QmVaQzhyZkNpWTRaYXlURlk3dEI3QkxKZ0JRS18xaFFuNjU0Tmg3YXJkS09EOTcxMFFHTnFUdWxyNGJXZ3Jsc2lZWnhhcUdPUGd0UlVvcG5DV1p6TUh2X1RmVkZHTTRmVnJoX2xQRXRXcV9PVXZ4WThVa0hYOXFpSG1DRVNIR21VWkpn?oc=5"
-    },
-    {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQzctYUtwZjNTWXdwZ2E0MXltTEtEdHkwQmg5bVF1cFlfS3VNZFBkdzlEQzVZem9HalRuZThyNjZRWVFrOGlhc0ZrZ0JnWElzS2NWR2lZeHZjS0tZOWRtRXc2eHhhMjZGSFVDeUVxd1ljbDVxenBrZkRJRWx4anp6QlJIV2dUUnpHTjhCLUw5T2I5NjVGbGNhY2hMeGpMLS1k?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Linnemann sieht KI als „Gamechanger“ im Gesundheitswesen",
-   "zusammenfassung": "Minister Linnemann will das Gesundheitssystem mit KI und präventiver Datenmedizin bezahlbar halten. Militär und Industrie mahnen zugleich eine bessere Notfallversorgung an.",
-   "warum_wichtig": "KI soll helfen, die steigenden Kosten im deutschen Gesundheitssystem zu bremsen.",
-   "kategorie": "Politik & Regulierung",
+   "titel": "#heiseshow: Jensen ist zurück, Ladybird-Browser, GTA 6",
+   "zusammenfassung": "In der #heiseshow: Jensen Huang ist zurück an der Nvidia-Spitze, Ladybird fordert die großen Browser-Engines heraus und GTA 6 bricht Rekorde.",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "heise online",
-     "url": "https://www.heise.de/news/Linnemann-KI-als-Gamechanger-Bundeswehr-will-krisenfeste-Gesundheitsdaten-11536290.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+     "url": "https://www.heise.de/news/heiseshow-Jensen-ist-zurueck-Ladybird-Browser-GTA-6-11538152.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   },
   {
-   "titel": "Mehr als jeder Dritte mit Depression nutzt KI als Gesprächspartner",
-   "zusammenfassung": "Laut einer Erhebung nutzt mehr als jeder dritte Mensch mit Depression KI als Gesprächspartner.",
-   "warum_wichtig": "KI-Chatbots spielen eine wachsende Rolle für psychisch erkrankte Menschen, was Fragen nach Qualität und Sicherheit aufwirft.",
-   "kategorie": "Gesellschaft",
+   "titel": "Berliner Firma A11 startet KI-Software gegen US-Konkurrenz - Zeitungsverlag Waiblingen",
+   "zusammenfassung": "Berliner Firma A11 startet KI-Software gegen US-Konkurrenz Zeitungsverlag Waiblingen",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlZSRzJTb0NncXdXV1pTWTJHUDNaLVl3ckdHeEtDNFpoazI2ODJvRGwzeGZFTmJ0SVJEbTBibzF2VVJQZGJGSmpYMmw2RDhCc052RzB2M1g4ZXJ5cEp1Y1BpZUlSODhfeEgyLXZFZ2tQREtIUDI5S0VCbnRUZTNXV05HUjJ5bXpPM044VnI0VjBaTjIxVG0wTXBhSnh1TmFLUzB4elBRSm1fT3ZVTTg3dUx3OHpuR0xPMW9RN2Ryc1hwOVd2d1E1d253?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDg0RlNvbm5GT3gzNnRwRVZib1hJaWR0ajRoUlg2M2NjX1Znb3VaSjBsN0NtbGZGWHVsR3BKM2RadXpxOE51dlQyRzByMXFMaVVOVjREemwzc3lBSEVQeDBDSUF0dC1Hek5MQ3EtZ1Bqckw5SnAwZGM4RnJaYUNaRGZqcDBzMERqZUxydGl5Y25aaVh1UTRSbzNsNllhd0RsckMxMVFtY1VkWlNnclRSQUMwbUFFckQyUVZF?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "USA genehmigen 1 Million SpaceX-Satelliten für KI-Rechenzentren im Orbit",
+   "zusammenfassung": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Japans Nikkei erholt sich, nachdem Anleger bei KI-Aktien zugreifen - MarketScreener Deutschland",
+   "zusammenfassung": "Japans Nikkei erholt sich, nachdem Anleger bei KI-Aktien zugreifen MarketScreener Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVUYwRVVYUDE0a3c3cVQ0c240RjVncm04WnFuX1R0ZXJobFNJNkRkWnpsT3FWR2k4YU80ZW5CZFJPMFlHRnI0R1RyZHZ3dHBxUjVoVU1RcUlQMXRveDd2X3BJQU5nUjBVWkVLc1dBYm9KVlVDdjNNNUl1cnFEZVFZM3pjZmFzTU92R292ZTFjV2QzSHBjMUVLVGZOQUlTN3ljTUpRMWNKUGRBbjNCc0otRFU3b054bDRrLTZUS0tFdUxMclZ4RmszUHJPYw?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
+   "zusammenfassung": "SpaceX plant im All ein Netz aus Satelliten, die als Rechenzentren dienen sollen. Die US-Behörden haben das Vorhaben nun erlaubt. Ziel ist es, die enorme Nachfrage nach Rechenleistung für Künstliche Intelligenz zu befriedigen.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "EU-Kommission bestätigt Datendiebstahl nach KI-Cyberangriff",
-   "zusammenfassung": "Beim KI-gestützten Cyberangriff auf die EU-Kommission wurden personenbezogene Daten von Nutzern der Bildungsplattform EU Academy entwendet, wie die Kommission bestätigt hat.",
-   "warum_wichtig": "Betroffen sind auch Nutzer aus Deutschland, die die Lernplattform der EU verwendet haben.",
-   "kategorie": "Sicherheit",
+   "titel": "Monzo cofounder Tom Blomfield leaves Anthropic after less than six months, reports say",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "Golem",
-     "url": "https://www.golem.de/news/ki-gestuetzter-angriff-eu-kommission-bestaetigt-datendiebstahl-2611-215598.html"
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/anthropic-monzo-tom-blomfield-quits/"
     }
    ]
   },
   {
-   "titel": "AI Act: Öffentliche Stellen müssen Restrisiken offenlegen",
-   "zusammenfassung": "Nach der KI-Verordnung müssen öffentliche Stellen verbleibende Risiken ihrer KI-Systeme in einer Datenbank offenlegen.",
-   "warum_wichtig": "Bürgerinnen und Bürger bekommen damit mehr Einblick, wie Behörden KI einsetzen.",
-   "kategorie": "Politik & Regulierung",
+   "titel": "Proxima Fusion CEO calls out ‘short-termism’ amid AI boom",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/proxima-fusion-ceo-ai-bubble-japan-supply-chain/"
+    }
+   ]
+  },
+  {
+   "titel": "ChatGPT, Work und Codex: OpenAI bündelt Nutzungslimits ab Dezember - ad-hoc-news.de",
+   "zusammenfassung": "ChatGPT, Work und Codex: OpenAI bündelt Nutzungslimits ab Dezember ad-hoc-news.de",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZlEtYWlJTGxxVktQNG9LQWxtaHRXVk5NOGdTSXRWVUEyLVNKSjByWUZuSE9lZ0VKR2ozZ1Jwd2J3VzRBcXdUS19iR1Y0am5uSkx6SGdiUDJySFgycDRDT01rb2luRUI5TmFJVGE3bXA0LVZnaVNmNTFEaHJZUENQSEVuak01c2FlblkzQ0MyMVYzUGRDUm5nZTI2NV9KcUR3dGpvcC1mQTVCNnhKUUxSQjFxcFdGVzNCQi1aUWc2R3Q2SkFv?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUdEQldacXptaHJCUjBrV19vQ041RWpISVRYeXpPY1RwRDhXZmVTNV9sOWZ5cDZyT1NtcC1oUmFhN1dJaFBSa3VQTGlVTkQ3SXY0aTFtY2NnZGZxbVhQVTdtWWxra0tmU3dhOWUxb1FEYXVoTlRUcXVrLWlWV2FYcUFEOVZoaUtvRHRSeG9pTGFELWhiNGpRYmluLTFlUWh2cGZfVVBlaTZDTnBpT1hrbzM2YUU?oc=5"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "Beschäftigte von OpenAI und Anthropic halten interne Modelle für zu gefährlich",
-   "zusammenfassung": "Laut einem Axios-Bericht halten zahlreiche Beschäftigte bei OpenAI und Anthropic die eigenen unveröffentlichten Spitzenmodelle für nicht mehr sicher kontrollierbar. Intern wird über einen Freigabe- oder sogar Trainingsstopp diskutiert.",
-   "warum_wichtig": "Die Warnungen aus den Laboren selbst dürften die Debatte über die Umsetzung des AI Act in Europa verschärfen.",
-   "kategorie": "Sicherheit",
+   "titel": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+   "zusammenfassung": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "The Decoder",
-     "url": "https://the-decoder.de/mitarbeitende-von-anthropic-und-openai-warnen-interne-ki-modelle-werden-zu-gefaehrlich-fuer-eine-freigabe/"
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
     }
    ]
   },
   {
-   "titel": "Tidal verbannt KI-generierte Musik und löscht Millionen Songs",
-   "zusammenfassung": "Der Streamingdienst Tidal verbietet ab dem 9. Dezember vollständig KI-generierte Musik und löscht rund 29 Millionen Titel aus seinem Katalog. Mit KI-Unterstützung erstellte Songs bleiben erlaubt.",
-   "warum_wichtig": "Der Schritt könnte Druck auf andere Streamingdienste ausüben, auch in Europa klarer gegen KI-Massenware vorzugehen.",
-   "kategorie": "Gesellschaft",
+   "titel": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "zusammenfassung": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "The Verge AI",
-     "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
-    },
-    {
-     "name": "Ars Technica AI",
-     "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
-    },
-    {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+     "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
     }
    ]
   }
  ],
- "datum": "2026-11-25",
- "erstellt": "2026-11-25T06:43+01:00",
- "modus": "ki",
+ "datum": "2026-11-26",
+ "erstellt": "2026-11-26T06:42+01:00",
+ "modus": "einfach",
  "anzahl_meldungen": 100,
  "feeds": {
   "The Decoder": "10 Meldungen",
-  "heise online": "19 Meldungen",
-  "t3n": "10 Meldungen",
+  "heise online": "14 Meldungen",
+  "t3n": "8 Meldungen",
   "Golem": "6 Meldungen",
-  "netzpolitik.org": "0 Meldungen",
-  "tagesschau": "7 Meldungen",
-  "Google News (KI Deutschland)": "62 Meldungen",
-  "Google News (EU KI-Politik)": "16 Meldungen",
-  "Google News (Europe AI)": "34 Meldungen",
+  "netzpolitik.org": "1 Meldungen",
+  "tagesschau": "5 Meldungen",
+  "Google News (KI Deutschland)": "44 Meldungen",
+  "Google News (EU KI-Politik)": "22 Meldungen",
+  "Google News (Europe AI)": "18 Meldungen",
   "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
-  "Sifted": "0 Meldungen",
-  "TechCrunch AI": "20 Meldungen",
-  "The Verge AI": "9 Meldungen",
+  "Sifted": "5 Meldungen",
+  "TechCrunch AI": "17 Meldungen",
+  "The Verge AI": "6 Meldungen",
   "MIT Technology Review": "1 Meldungen",
-  "Ars Technica AI": "6 Meldungen"
+  "Ars Technica AI": "4 Meldungen"
  }
 }
