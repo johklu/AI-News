@@ -1,138 +1,150 @@
 {
- "lage": "Guten Morgen! Die Verbraucherzentrale Brandenburg verklagt OpenAI wegen schwer kündbarer ChatGPT-Abos, und das Uniklinikum Leipzig gibt seine Klinik-KI frei. In den USA darf SpaceX eine Million Satelliten als KI-Rechenzentren ins All schicken.",
+ "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
  "deutschland": [
   {
-   "titel": "Verbraucherzentrale verklagt OpenAI wegen ChatGPT-Kündigung",
-   "zusammenfassung": "Die Verbraucherzentrale Brandenburg hat OpenAI verklagt. Nach ihrer Ansicht sind die Hürden für die Kündigung eines kostenpflichtigen ChatGPT-Abos zu hoch.",
-   "warum_wichtig": "Für Millionen ChatGPT-Nutzer in Deutschland könnte das Kündigen künftig einfacher werden.",
-   "kategorie": "Politik & Regulierung",
-   "quellen": [
-    {
-     "name": "Golem",
-     "url": "https://www.golem.de/news/vertragskuendigung-verbraucherzentrale-verklagt-openai-wegen-chatgpt-abo-2611-215664.html"
-    }
-   ]
-  },
-  {
-   "titel": "Uniklinikum Leipzig veröffentlicht Klinik-KI als Open Source",
-   "zusammenfassung": "Das Universitätsklinikum Leipzig gibt den Code seiner KI-Plattform AMPEL frei. Andere Kliniken sollen damit eigene Medizinprodukte entwickeln können.",
-   "warum_wichtig": "Krankenhäuser in Deutschland können auf erprobte KI aufbauen, statt bei null anzufangen.",
-   "kategorie": "Forschung",
-   "quellen": [
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/Klinik-KI-als-Open-Source-Leipzig-teilt-AMPEL-Code-11538066.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  },
-  {
-   "titel": "KI-Boom drückt den Euro, DAX fällt unter 25.000 Punkte",
-   "zusammenfassung": "Der Euro ist zum Dollar auf den tiefsten Stand seit anderthalb Jahren gefallen, Hintergrund ist der KI-Boom in den USA. Zugleich fiel der DAX wegen Zolldrohungen und Zweifeln am KI-Boom auf den tiefsten Stand seit Juli.",
-   "warum_wichtig": "Der KI-Boom wirkt sich über Wechselkurs und Börse direkt auf Unternehmen, Verbraucher und Sparer in Deutschland aus.",
-   "kategorie": "Wirtschaft & Startups",
-   "quellen": [
-    {
-     "name": "tagesschau",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/euro-dollar-ki-etf-sparer-100.html"
-    },
-    {
-     "name": "tagesschau",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html"
-    }
-   ]
-  },
-  {
-   "titel": "Berliner Firma A11 startet KI-Software gegen US-Konkurrenz",
-   "zusammenfassung": "Das Berliner Unternehmen A11 bringt eine KI-Software auf den Markt, die mit Angeboten aus den USA konkurrieren soll.",
-   "warum_wichtig": "Deutsche Anbieter versuchen, Kunden eine heimische Alternative zu US-KI zu bieten.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "KI wird zum Versicherungsrisiko: Deutsche Unternehmen melden auffällig viele Schäden - Versicherungsbote",
+   "zusammenfassung": "KI wird zum Versicherungsrisiko: Deutsche Unternehmen melden auffällig viele Schäden Versicherungsbote",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDg0RlNvbm5GT3gzNnRwRVZib1hJaWR0ajRoUlg2M2NjX1Znb3VaSjBsN0NtbGZGWHVsR3BKM2RadXpxOE51dlQyRzByMXFMaVVOVjREemwzc3lBSEVQeDBDSUF0dC1Hek5MQ3EtZ1Bqckw5SnAwZGM4RnJaYUNaRGZqcDBzMERqZUxydGl5Y25aaVh1UTRSbzNsNllhd0RsckMxMVFtY1VkWlNnclRSQUMwbUFFckQyUVZF?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSURIRFRxOFEwNENSODJCaDJkUVBhUTQtZTUtM3o2d19jR2dxUS14STJhbVpIN0xxcl9manJ0bFdLcU81amxBZjJ3UUlQaFZMRmJkYmh6S2VVcnVzb2plU0dzR3F5UVBEU0FDeWRlWlJCOEhTS0ZDZnRxVWRoQ3hFSUowLV8yaEExOWtISFdMRno4MUp3TjVKTFpyOG5oalo4dUhKT3FXelBfekZsZWxGU01ET2FNMGRhRXB6VTMtQTc2bE1xZ0tuVV9B?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Freitag: SAPs massiver Stellenabbau wegen KI, FBI-Falle für Ransomware-Betrüger",
+   "zusammenfassung": "KI bedroht 10.000 SAP-Stellen + Betrug an Ransomware-Opfern + Südostasien ohne Nvidias KI-Server + Temu in Europa für Verbraucherschutz + Datenschutz-Podcast",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Freitag-SAPs-massiver-Stellenabbau-wegen-KI-FBI-Falle-fuer-Ransomware-Betrueger-11539951.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Nvidia stoppt offenbar Lieferungen von KI-Servern an einige Länder Südostasiens",
+   "zusammenfassung": "Nach dem gegen Chinas KI-Branche gerichteten US-Exportverbot sollen Dell und Supermicro auf Geheiß Nvidias keine Server mehr nach Südostasien verschicken.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Nvidia-stoppt-offenbar-Lieferungen-von-KI-Servern-an-einige-Laender-Suedostasiens-11539931.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Singapore-Aktien eröffnen dank positiver Stimmung für KI etwas höher - MarketScreener Deutschland",
+   "zusammenfassung": "Singapore-Aktien eröffnen dank positiver Stimmung für KI etwas höher MarketScreener Deutschland",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdjlBYXlja1NEWGRPREZYSC0zVzF6WVpsUHhDT0dvWXZrWE4yUUtuajFMSmg0enl2MWdaWlhtVzVQdzlWU1o5cno0RVhwMzJ0SXAybTcxbGticFpGaXgtUWZOM1dnZHhjQS1UV3lITUF4S1hNSHZCZmZoX0hlM2lXZ2VmNi13NEl2WnNIUmpwRVlGZlNhY3AxajRTZzRYLTZScWh6RnRLa1I0Q2ZTbnBaTng3NkVEUWhBS0phYm14UWwtckIwaFJuRHB0dGI2Zm5nRWE0?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "SAP: KI zuerst, 10.000 Mitarbeiter weniger",
+   "zusammenfassung": "Alle SAP-Abteilungen müssen melden, welche Stellen gestrichen werden können, berichtet Bloomberg. KI soll mindestens 10.000 überflüssig machen.",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/SAP-AI-First-10-000-Mitarbeiter-weniger-11539781.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
     }
    ]
   }
  ],
  "eu": [
   {
-   "titel": "EuGH-Verfahren: Echtzeit-Nachrichtenabruf durch Gemini kann Verlegerrechte verletzen",
-   "zusammenfassung": "Vor dem Europäischen Gerichtshof geht es um Googles Gemini: Der Abruf von Nachrichten in Echtzeit kann demnach die Rechte von Presseverlegern verletzen.",
-   "warum_wichtig": "Die Entscheidung könnte festlegen, ob KI-Anbieter Verlage in Europa für die Nutzung ihrer Inhalte bezahlen müssen.",
-   "kategorie": "Politik & Regulierung",
+   "titel": "‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams",
+   "zusammenfassung": "",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTURvd1NUSHZUOWFuT1ZNcXAtaDV3UTFiVFY4LUZ0N0ViR0x5WWtBUnhsclRFdGl6Z1hVcEJqUnJEakFlT3RuRThDQTczSXI3Y3V4dHZXdTg5akJVQWxHbWdLMzZnWkZUY1l4eEhCVHh4a3M3bDhrVi1TVHE3VWNWNXAyRHh2QTFPYXJhQkd0SFZSOW9VQ0JEVUkxWWd1Mk81b1pYMnItUE1XYzNxdEM0bmZVbUwxUDhuZzdfa0lHZ3F0cTgwOTF3TQ?oc=5"
+     "name": "Sifted",
+     "url": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/"
     }
    ]
   },
   {
-   "titel": "OutSystems startet souveräne Cloud für europäische KI",
-   "zusammenfassung": "Der Softwareanbieter OutSystems hat eine souveräne Cloud für KI-Anwendungen in Europa gestartet.",
-   "warum_wichtig": "Europäische Unternehmen erhalten eine weitere Möglichkeit, KI unter europäischer Kontrolle zu betreiben.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Is Spain Subject to the EU AI Act? A Cost and Action Plan - Global Advisory Experts",
+   "zusammenfassung": "Is Spain Subject to the EU AI Act? A Cost and Action Plan Global Advisory Experts",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3lRNmdkU0xzM0JQR3MtaXpfOVA3YWdrTlJjRDFxNERxUUNRMHRkZDE2Mm1rUl9yS1ZIOEN2ci1leGFleVBMd19ISTJSd0hTSzFTZmpBYzUtUmdaMFBOdFZpcmRodU1GejNXOG9Xd0JRT0czNTB6cVJBN2UyX0h6TVp6Mk1PLU9HMl9kSlZR?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3BFYmFiTFIyU3dNbGJCNnhZTnRESTdJdEpKYVl2Uy16dExFTWloWEp4b19yU3hvZlJkRkx1U0xpaDFJYUV4Z1ZBM2Jsd1VzZTdZNTFleTFfVFdNS1FYZU9ZbG1XTHhERVRGcmJheDFjdFVJT2Z5Y0hhUkYwVVJPQTFvNmNkaERidVhYYXpxaHhVOGZiQVFqQmlsTHVqUk1TcVhHTA?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "KI-Verordnung: Nudify-Apps sind ab 2. Dezember in der EU verboten - Netz Trends",
+   "zusammenfassung": "KI-Verordnung: Nudify-Apps sind ab 2. Dezember in der EU verboten Netz Trends",
+   "warum_wichtig": "",
+   "kategorie": "",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZG9maWpyNnlmYkE3TXlyenhVYzFWX1ZIYUFmeWxBajBhd3gxMWkzNVVCUF9vd0xtUDFFdVdYTmlRWHkyN1ZSakZZUnJIdG1sZE9QZ0ZPcDBocU5lQmVfQlNzTzlFVFhmanFIZmtPOUozRlhVbjh3RQ?oc=5"
     }
    ]
   }
  ],
  "welt": [
   {
-   "titel": "SpaceX darf eine Million Satelliten als KI-Rechenzentren ins All bringen",
-   "zusammenfassung": "Die US-Aufsicht FCC hat das SpaceX-Projekt „Starmind“ genehmigt: Bis zu eine Million mit KI-Chips bestückte Satelliten sollen als Rechenzentren im Orbit dienen. Der erste Rechenzentrums-Satellit soll bis 2033 im All sein.",
-   "warum_wichtig": "Sollte das Konzept aufgehen, könnte KI-Rechenleistung künftig aus dem All kommen, abseits europäischer Netze.",
-   "kategorie": "Wirtschaft & Startups",
+   "titel": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "zusammenfassung": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
-     "name": "The Verge AI",
-     "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
-    },
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    },
-    {
-     "name": "tagesschau",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html"
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
     }
    ]
   },
   {
-   "titel": "New York verbietet KI-Chatbot-Spielzeug für fünf Jahre",
-   "zusammenfassung": "New York hat KI-Chatbot-Spielzeug für fünf Jahre verboten. Neue Untersuchungen von Common Sense Media zeigen Sicherheitsmängel, darunter ungeeignete Inhalte und Risiken für die emotionale Entwicklung.",
-   "warum_wichtig": "Eltern auch in Deutschland sollten bei KI-Spielzeug als Weihnachtsgeschenk vorsichtig sein.",
-   "kategorie": "Gesellschaft",
+   "titel": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "zusammenfassung": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+   "warum_wichtig": "",
+   "kategorie": "",
    "quellen": [
     {
      "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+     "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
     }
    ]
   }
  ],
- "datum": "2026-11-26",
- "erstellt": "2026-11-26T06:43+01:00",
- "modus": "ki",
- "anzahl_meldungen": 100,
+ "datum": "2026-11-27",
+ "erstellt": "2026-11-27T06:43+01:00",
+ "modus": "einfach",
+ "anzahl_meldungen": 95,
  "feeds": {
-  "The Decoder": "10 Meldungen",
-  "heise online": "14 Meldungen",
-  "t3n": "8 Meldungen",
-  "Golem": "6 Meldungen",
+  "The Decoder": "9 Meldungen",
+  "heise online": "13 Meldungen",
+  "t3n": "9 Meldungen",
+  "Golem": "7 Meldungen",
   "netzpolitik.org": "1 Meldungen",
-  "tagesschau": "5 Meldungen",
-  "Google News (KI Deutschland)": "44 Meldungen",
-  "Google News (EU KI-Politik)": "22 Meldungen",
-  "Google News (Europe AI)": "18 Meldungen",
+  "tagesschau": "1 Meldungen",
+  "Google News (KI Deutschland)": "20 Meldungen",
+  "Google News (EU KI-Politik)": "18 Meldungen",
+  "Google News (Europe AI)": "24 Meldungen",
   "Euractiv Tech": "HTTPError: HTTP Error 403: Forbidden",
-  "Sifted": "5 Meldungen",
-  "TechCrunch AI": "17 Meldungen",
-  "The Verge AI": "6 Meldungen",
-  "MIT Technology Review": "1 Meldungen",
-  "Ars Technica AI": "4 Meldungen"
+  "Sifted": "3 Meldungen",
+  "TechCrunch AI": "7 Meldungen",
+  "The Verge AI": "4 Meldungen",
+  "MIT Technology Review": "0 Meldungen",
+  "Ars Technica AI": "0 Meldungen"
  }
 }
