@@ -1,24 +1,20 @@
 {
- "lage": "Guten Morgen! Hier sind schon mal die Schlagzeilen – die Zusammenfassung von Claude folgt in Kürze.",
+ "lage": "Guten Morgen! SAP will wegen KI mindestens 10.000 Stellen streichen, und das BSI warnt vor autonomen KI-Angriffen. In der EU sind ab nächster Woche Nudify-Apps verboten, während Nvidia Lieferungen nach Südostasien stoppt.",
  "deutschland": [
   {
-   "titel": "KI wird zum Versicherungsrisiko: Deutsche Unternehmen melden auffällig viele Schäden - Versicherungsbote",
-   "zusammenfassung": "KI wird zum Versicherungsrisiko: Deutsche Unternehmen melden auffällig viele Schäden Versicherungsbote",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "SAP will wegen KI mindestens 10.000 Stellen streichen",
+   "zusammenfassung": "Laut Bloomberg müssen alle SAP-Abteilungen melden, welche Stellen gestrichen werden können; KI soll mindestens 10.000 Arbeitsplätze überflüssig machen. Betroffen sein sollen vor allem Produktentwicklung und Vertrieb, nach einem Einstellungsstopp im Sommer.",
+   "warum_wichtig": "Der größte deutsche Softwarekonzern zeigt, wie stark KI auch hierzulande Arbeitsplätze verändert.",
+   "kategorie": "Wirtschaft & Startups",
    "quellen": [
     {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSURIRFRxOFEwNENSODJCaDJkUVBhUTQtZTUtM3o2d19jR2dxUS14STJhbVpIN0xxcl9manJ0bFdLcU81amxBZjJ3UUlQaFZMRmJkYmh6S2VVcnVzb2plU0dzR3F5UVBEU0FDeWRlWlJCOEhTS0ZDZnRxVWRoQ3hFSUowLV8yaEExOWtISFdMRno4MUp3TjVKTFpyOG5oalo4dUhKT3FXelBfekZsZWxGU01ET2FNMGRhRXB6VTMtQTc2bE1xZ0tuVV9B?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "Freitag: SAPs massiver Stellenabbau wegen KI, FBI-Falle für Ransomware-Betrüger",
-   "zusammenfassung": "KI bedroht 10.000 SAP-Stellen + Betrug an Ransomware-Opfern + Südostasien ohne Nvidias KI-Server + Temu in Europa für Verbraucherschutz + Datenschutz-Podcast",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
+     "name": "heise online",
+     "url": "https://www.heise.de/news/SAP-AI-First-10-000-Mitarbeiter-weniger-11539781.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    },
+    {
+     "name": "Golem",
+     "url": "https://www.golem.de/news/ki-orientierte-umstrukturierung-sap-erwaegt-erneut-abbau-von-mindestens-10-000-arbeitsplaetzen-2611-215715.html"
+    },
     {
      "name": "heise online",
      "url": "https://www.heise.de/news/Freitag-SAPs-massiver-Stellenabbau-wegen-KI-FBI-Falle-fuer-Ransomware-Betrueger-11539951.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
@@ -26,11 +22,127 @@
    ]
   },
   {
-   "titel": "Nvidia stoppt offenbar Lieferungen von KI-Servern an einige Länder Südostasiens",
-   "zusammenfassung": "Nach dem gegen Chinas KI-Branche gerichteten US-Exportverbot sollen Dell und Supermicro auf Geheiß Nvidias keine Server mehr nach Südostasien verschicken.",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "BSI warnt vor Angriffen mit offensiver agentischer KI",
+   "zusammenfassung": "Das Bundesamt für Sicherheit in der Informationstechnik warnt, dass offensive agentische KI die Bedrohungslage verschärft. Angreifer nutzen KI-Frameworks für weitgehend autonome Attacken.",
+   "warum_wichtig": "Unternehmen und Behörden in Deutschland müssen sich auf schnellere, automatisierte Angriffe einstellen.",
+   "kategorie": "Sicherheit",
    "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDFDNGU1Q0dmeTRnZE1wUVFGaEhSd1lsSVJoRnF5dFhRX1ExbnN1ejhTVmtYUERsdmRxRXZma3ZuTUtZR1pJT3liXzhxVUNxMlpjNEl2MDBFQWxobGIzanpFanA2dEZvbjk2Vk0yTzM0SnJYS3dRb0VQT3duMHF5Y0hkSS1MWkwyNE9LcVE3V0huckhEYU9DVnptVWtDZ0h4UWh6cA?oc=5"
+    },
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Kuenstliche-Intelligenz-als-Angreifer-Eine-neue-Aera-hat-begonnen-11539545.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  },
+  {
+   "titel": "Bund beteiligt sich an KI-Firma Cohere und prüft mehr",
+   "zusammenfassung": "Im Rahmen einer deutsch-kanadischen Kooperation hat sich der Bund mit einem Euro an der kanadischen KI-Firma Cohere beteiligt. Laut Spiegel prüft die Bundesregierung eine höhere Beteiligung.",
+   "warum_wichtig": "Die Bundesregierung sucht damit gezielt Partner für KI jenseits der großen US-Anbieter.",
+   "kategorie": "Politik & Regulierung",
+   "quellen": [
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTVRGVzlzQy1vYldZUXl2Y0tJT0tqbXpzeE54ekozZ2lpUmh2eVRwNEV1Z2dmeHRleUxJeVBoXzNSbkdDcm92elhZN09Rb1RtNmRBWC1QZENIUl9JV09yU05obUhKV1pWeGNGaTBKWmhMZ1QwZTZwOGMwZ25ISXhYVWdRMGF6R0FUYjU4bElDWTlibG1XbnB4QTN1VmdsNmVOUXpuWHljT2VGdU9wVURldGdPcVlwQW11MExJOGhwZ1RESjZGWjBfRjFLRTRkQTYyQ09CMVZBTDQ4QUpMZDBrV3BqVnJadXNUc1RvTVRCcm5hNDhkSm1aRlRWOU92eHFscF9nQVVQUElfNE1LR3FjMnZTVVVXR2NNVDNN?oc=5"
+    },
+    {
+     "name": "Google News (KI Deutschland)",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeFViRVRZYi1uSUlFLTF4Sk1xMWxqLWQxNWtmVkI2Z0o0U2NNQm51dkpPM1E5QTJra2VGSWFRalliOEFVeFJRUzlJaUVUVVJQalk4alVRZnphYWRET2JMby1HZ0ZHbmpJSUdYQVRBRks0M1FYMUhIWDBWQldLQ1hiNGZqWFFwaGJfWHRwQTlUclVFVVZjcmIxY0ZsaC1jNVFtWGdmNW9EYU9LVXlXakFoMHJiVlVBTnc1SlhNVndnX1RqY1lHOEZkLWdVelExUU9PZS03R0FWdFZEbHJFSk9DbnktSlFySHVYNENwZjJXQWEzNlk?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "KI-Migrationsgesetz soll Training mit sensiblen Daten erlauben",
+   "zusammenfassung": "Der Entwurf für das KI-Migrationsverwaltungsgesetz erlaubt das Training von KI mit sensiblen Daten. Künftig sollen Asylbescheide, Visumsanträge und Aufenthaltsgenehmigungen mit KI bearbeitet werden.",
+   "warum_wichtig": "Kritiker sehen erhebliche Risiken für Betroffene, deren Daten und Verfahren davon abhängen.",
+   "kategorie": "Politik & Regulierung",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkszNDdPaGlDNnhkRWJoZzRJS2k5LVBLZ0gtUTRKYVJBNkk2aW1OSGloZkl0M184QnZlY01nVGZ5VkRSN2RHRDNEczRzVjFQWTgzS3hoS1c3SE1rcFA0QjhoZmk5blhmNlpzanp3WGFqVG1vTzNJSkJJVHF3QU9EUW9xc2g4ZHlUeUNaR1A3UWVBRkpMalFCZ2YwS2tnc3ZrQlkxY0sxay1wRmktaTlyWlZtNDdHTHVoTFhDQzJWc2JFQQ?oc=5"
+    },
+    {
+     "name": "netzpolitik.org",
+     "url": "https://netzpolitik.org/2026/ki-in-der-migrationsverwaltung-automatisiert-ins-risiko/"
+    }
+   ]
+  },
+  {
+   "titel": "Flut an KI-Klagen: NRW-Sozialgerichte wollen 15-Euro-Gebühr",
+   "zusammenfassung": "Die Sozialgerichte in Nordrhein-Westfalen geraten durch KI-erstellte Anträge unter Druck. Der Präsident des Landessozialgerichts, Jens Blüggel, schlägt eine Gebühr von 15 Euro für Eilverfahren vor.",
+   "warum_wichtig": "Die Debatte könnte den bislang kostenlosen Zugang zu Sozialgerichten in Deutschland verändern.",
+   "kategorie": "Gesellschaft",
+   "quellen": [
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/news/Klageschwemme-mit-KI-NRW-LSG-moechte-15-Euro-Gebuehr-11538487.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ]
+  }
+ ],
+ "eu": [
+  {
+   "titel": "Nudify-Apps ab 2. Dezember in der EU verboten",
+   "zusammenfassung": "Nach der KI-Verordnung sind Apps, die Personen per KI virtuell entkleiden, ab dem 2. Dezember in der EU verboten. 81 EU-Abgeordnete fordern, das Verbot vom ersten Tag an durchzusetzen.",
+   "warum_wichtig": "Das Verbot schützt Menschen in Europa vor KI-generierten Nacktbildern ohne Einwilligung.",
+   "kategorie": "Politik & Regulierung",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZG9maWpyNnlmYkE3TXlyenhVYzFWX1ZIYUFmeWxBajBhd3gxMWkzNVVCUF9vd0xtUDFFdVdYTmlRWHkyN1ZSakZZUnJIdG1sZE9QZ0ZPcDBocU5lQmVfQlNzTzlFVFhmanFIZmtPOUozRlhVbjh3RQ?oc=5"
+    },
+    {
+     "name": "Google News (Europe AI)",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQODJaNmNrbFFWVXlTcnRleFNMd0FfV2dZV3JiMXI1TE90SUtWZE8yQnZaRUF3YzBwT1p0TkJZZmE3R29Vajg2UUVrRGt0ZVVCcUpmb25JNDFwUi01ZWJyYUlOY0dpRlJhZVZYRDI1VEVBR0dVcVBPRldINkVlN1poM21zRXRGdjJ6cTd3QzVBbGRHUHdNekFySk5FaU1pTmtnY0hVbHYteklLZW5xZ2d4R3UtdnNoYWMyX1NEcWt3Rk9nalJQbFpUQ3FOZWZkS1dvX0o0THo4aWM?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "EU-KI-Reallabore starten mit Vorrang für Start-ups und KMU",
+   "zusammenfassung": "Ab dem 1. Dezember gilt europaweit die Verordnung zu KI-Reallaboren. Start-ups und kleine Unternehmen erhalten dabei Vorrang und kostenlose Beratung.",
+   "warum_wichtig": "Kleine Firmen können KI-Anwendungen damit unter Aufsicht testen, bevor sie auf den Markt kommen.",
+   "kategorie": "Politik & Regulierung",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZmgxRFlEcW1uWnlNSUR2eWxkeFJleEZva1N1RWpEdWlIZllGOUlmbnZKSUsyb25BbmNOLTlfalNJTFJyMkhXTWIzNWFBQVBYUTctSnA0V2xDbWZpT0p5LVp5dzNmWUVmWmkzdW1zQktHdVhTT3pzei05U0ZsbmUwM0wxUXlZOG9ya0ZKT3VkYjNMNWg0Mzk4M1AzSzM0Y1ZESkNILTdCWGxzeXRVVWtZT1VpdTBjcXR4dndiZjNCX1I?oc=5"
+    },
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGdXRFhvSVd5cmkyZVJpR3JOY1RJU0ZQbFUtSDBOMzlhSk4yeTh1a2t6ZHNBazdYS1Z6TGNvZW9jb3UtS0VTZDc0cGUwUmJlU0VmZlBZZ2hUR1M0YXd6MklOWEd3akpRcHdMRjBsakdzQ2o2eHpvVENzOURZaUNpb19pTjNXdk0zZlpJUkVFZjk5SEFVSHhOclVWLVp5T2c2VU5LSm5TMzl6NjhPWlZNYnhCZ21RM1k?oc=5"
+    }
+   ]
+  },
+  {
+   "titel": "Bewerbung um EU-KI-Gigafabriken bis 30. Dezember möglich",
+   "zusammenfassung": "Für die geplanten KI-Gigafabriken der EU läuft die Angebotsfrist bis zum 30. Dezember 2026.",
+   "warum_wichtig": "Auch deutsche Standorte und Konsortien müssen sich bis dahin entscheiden, ob sie sich bewerben.",
+   "kategorie": "Wirtschaft & Startups",
+   "quellen": [
+    {
+     "name": "Google News (EU KI-Politik)",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUXBBTE9FLXJNMXkzN2tCbG9QYW1pQjhvVndad3hLUGVIa0hyQzZwa21QLWxXYlZKZWJ5Y0FyaXNRMTlpMzZDS0M3ZkxzdzR6SUFUd1dxMzluczlhMXdBNTRXTU9HaFV3dFNNRDJRMHJuRGxXb2lZV0ROWXJ6SjBINzVJM2ZCdWdJMVJjYkx2eEZhSUhoNUFGY28weXRuUW82RjlLMzJQM0pHdm9PUTFLc1piSFdfX1dOYTFBTQ?oc=5"
+    }
+   ]
+  }
+ ],
+ "welt": [
+  {
+   "titel": "Nvidia stoppt KI-Server-Lieferungen nach Südostasien",
+   "zusammenfassung": "Nvidia hat Partner wie Dell und Supermicro angewiesen, vorerst keine Server mehr nach Malaysia, Singapur, Thailand und Indonesien zu liefern. Hintergrund sind neue US-Exportkontrollen gegen chinesische Cloud-Zugriffe.",
+   "warum_wichtig": "Die Umlenkung von KI-Hardware kann Preise und Verfügbarkeit auch für europäische Kunden beeinflussen.",
+   "kategorie": "Politik & Regulierung",
+   "quellen": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.de/nvidia-stoppt-vorerst-lieferungen-nach-malaysia-singapur-thailand-und-indonesien/"
+    },
+    {
+     "name": "TechCrunch AI",
+     "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    },
     {
      "name": "heise online",
      "url": "https://www.heise.de/news/Nvidia-stoppt-offenbar-Lieferungen-von-KI-Servern-an-einige-Laender-Suedostasiens-11539931.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
@@ -38,97 +150,21 @@
    ]
   },
   {
-   "titel": "Singapore-Aktien eröffnen dank positiver Stimmung für KI etwas höher - MarketScreener Deutschland",
-   "zusammenfassung": "Singapore-Aktien eröffnen dank positiver Stimmung für KI etwas höher MarketScreener Deutschland",
-   "warum_wichtig": "",
-   "kategorie": "",
+   "titel": "42 US-Generalstaatsanwälte wollen Verkauf von Character.AI-Chats stoppen",
+   "zusammenfassung": "Eine Koalition aus 42 Generalstaatsanwälten will verhindern, dass Character.AI im Insolvenzverfahren Nutzerdaten verkauft. Betroffen wären private Chats aus mehr als 21 Millionen US-Konten, darunter 2,1 Millionen von Minderjährigen.",
+   "warum_wichtig": "Der Fall zeigt, wie riskant es ist, intime Gespräche mit KI-Chatbots zu führen, deren Daten verkauft werden könnten.",
+   "kategorie": "Sicherheit",
    "quellen": [
     {
-     "name": "Google News (KI Deutschland)",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdjlBYXlja1NEWGRPREZYSC0zVzF6WVpsUHhDT0dvWXZrWE4yUUtuajFMSmg0enl2MWdaWlhtVzVQdzlWU1o5cno0RVhwMzJ0SXAybTcxbGticFpGaXgtUWZOM1dnZHhjQS1UV3lITUF4S1hNSHZCZmZoX0hlM2lXZ2VmNi13NEl2WnNIUmpwRVlGZlNhY3AxajRTZzRYLTZScWh6RnRLa1I0Q2ZTbnBaTng3NkVEUWhBS0phYm14UWwtckIwaFJuRHB0dGI2Zm5nRWE0?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "SAP: KI zuerst, 10.000 Mitarbeiter weniger",
-   "zusammenfassung": "Alle SAP-Abteilungen müssen melden, welche Stellen gestrichen werden können, berichtet Bloomberg. KI soll mindestens 10.000 überflüssig machen.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "heise online",
-     "url": "https://www.heise.de/news/SAP-AI-First-10-000-Mitarbeiter-weniger-11539781.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-    }
-   ]
-  }
- ],
- "eu": [
-  {
-   "titel": "‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams",
-   "zusammenfassung": "",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Sifted",
-     "url": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/"
-    }
-   ]
-  },
-  {
-   "titel": "Is Spain Subject to the EU AI Act? A Cost and Action Plan - Global Advisory Experts",
-   "zusammenfassung": "Is Spain Subject to the EU AI Act? A Cost and Action Plan Global Advisory Experts",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (Europe AI)",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3BFYmFiTFIyU3dNbGJCNnhZTnRESTdJdEpKYVl2Uy16dExFTWloWEp4b19yU3hvZlJkRkx1U0xpaDFJYUV4Z1ZBM2Jsd1VzZTdZNTFleTFfVFdNS1FYZU9ZbG1XTHhERVRGcmJheDFjdFVJT2Z5Y0hhUkYwVVJPQTFvNmNkaERidVhYYXpxaHhVOGZiQVFqQmlsTHVqUk1TcVhHTA?oc=5"
-    }
-   ]
-  },
-  {
-   "titel": "KI-Verordnung: Nudify-Apps sind ab 2. Dezember in der EU verboten - Netz Trends",
-   "zusammenfassung": "KI-Verordnung: Nudify-Apps sind ab 2. Dezember in der EU verboten Netz Trends",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "Google News (EU KI-Politik)",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZG9maWpyNnlmYkE3TXlyenhVYzFWX1ZIYUFmeWxBajBhd3gxMWkzNVVCUF9vd0xtUDFFdVdYTmlRWHkyN1ZSakZZUnJIdG1sZE9QZ0ZPcDBocU5lQmVfQlNzTzlFVFhmanFIZmtPOUozRlhVbjh3RQ?oc=5"
-    }
-   ]
-  }
- ],
- "welt": [
-  {
-   "titel": "Nvidia hits pause on chip shipments to Southeast Asia",
-   "zusammenfassung": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
-    }
-   ]
-  },
-  {
-   "titel": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-   "zusammenfassung": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-   "warum_wichtig": "",
-   "kategorie": "",
-   "quellen": [
-    {
-     "name": "TechCrunch AI",
-     "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+     "name": "The Verge AI",
+     "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
     }
    ]
   }
  ],
  "datum": "2026-11-27",
  "erstellt": "2026-11-27T06:43+01:00",
- "modus": "einfach",
+ "modus": "ki",
  "anzahl_meldungen": 95,
  "feeds": {
   "The Decoder": "9 Meldungen",
