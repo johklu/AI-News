@@ -85,7 +85,7 @@
  "eu": [
   {
    "titel": "Nudify-Apps ab 2. Dezember in der EU verboten",
-   "zusammenfassung": "Nach der KI-Verordnung sind Apps, die Personen per KI virtuell entkleiden, ab dem 2. Dezember in der EU verboten. 81 EU-Abgeordnete fordern, das Verbot vom ersten Tag an durchzusetzen.",
+   "zusammenfassung": "Nach der KI-Verordnung sind sogenannte Nudify-Apps ab dem 2. Dezember in der EU verboten. 81 EU-Abgeordnete fordern, das Verbot vom ersten Tag an durchzusetzen.",
    "warum_wichtig": "Das Verbot schützt Menschen in Europa vor KI-generierten Nacktbildern ohne Einwilligung.",
    "kategorie": "Politik & Regulierung",
    "quellen": [
@@ -151,7 +151,7 @@
   },
   {
    "titel": "42 US-Generalstaatsanwälte wollen Verkauf von Character.AI-Chats stoppen",
-   "zusammenfassung": "Eine Koalition aus 42 Generalstaatsanwälten will verhindern, dass Character.AI im Insolvenzverfahren Nutzerdaten verkauft. Betroffen wären private Chats aus mehr als 21 Millionen US-Konten, darunter 2,1 Millionen von Minderjährigen.",
+   "zusammenfassung": "Eine Koalition aus 42 US-Generalstaatsanwälten will verhindern, dass Character.AI im laufenden Insolvenzverfahren Nutzerdaten wie private Chats verkauft.",
    "warum_wichtig": "Der Fall zeigt, wie riskant es ist, intime Gespräche mit KI-Chatbots zu führen, deren Daten verkauft werden könnten.",
    "kategorie": "Sicherheit",
    "quellen": [
@@ -163,7 +163,7 @@
   }
  ],
  "datum": "2026-11-27",
- "erstellt": "2026-11-27T06:43+01:00",
+ "erstellt": "2026-11-27T06:44+01:00",
  "modus": "ki",
  "anzahl_meldungen": 95,
  "feeds": {
