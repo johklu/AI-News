@@ -1,0 +1,38 @@
+{
+  "stand": "2026-11-28T05:42:45+00:00",
+  "lage": "Guten Morgen und schönes Wochenende! Die Bundesregierung will KI-Anbieter zahlen lassen, wenn ihre Modelle mit menschlichen Werken konkurrieren, und Verbraucherschützer mahnen OpenAI und Anthropic ab. International verklagt OpenAI Apple, und verbotene Nvidia-Chips tauchen in Shanghai auf.",
+  "deutschland": [
+    {"titel": "Bundesregierung will KI-Anbieter für konkurrierende Inhalte zahlen lassen",
+     "zusammenfassung": "KI-Anbieter sollen nach dem Willen der Bundesregierung künftig zahlen, wenn ihre Modelle Inhalte erzeugen, die mit von Menschen geschaffenen Werken konkurrieren. Auch Medienunternehmen sollen besser geschützt werden.",
+     "warum_wichtig": "Kreative und Verlage in Deutschland könnten erstmals an den Einnahmen aus generativer KI beteiligt werden.",
+     "kategorie": "Politik & Regulierung", "quellen": [73, 79, 77, 58, 45]},
+    {"titel": "Verbraucherzentrale mahnt OpenAI und Anthropic ab",
+     "zusammenfassung": "Die Verbraucherzentrale Niedersachsen wirft OpenAI und Anthropic unzulässige Klauseln zu Preisänderungen und intransparente Tarife vor und hat beide Unternehmen abgemahnt.",
+     "warum_wichtig": "Nutzer von ChatGPT und Claude in Deutschland könnten künftig besser vor einseitigen Preiserhöhungen geschützt sein.",
+     "kategorie": "Politik & Regulierung", "quellen": [50]},
+    {"titel": "Cyberangriff auf SAP über gekaperte GitHub-Zugänge",
+     "zusammenfassung": "Angreifern ist es Berichten zufolge gelungen, GitHub-Zugänge von SAP-Mitarbeitern zu kapern und so auf Quellcode des Konzerns zuzugreifen. Das könnte Softwareprojekte gefährden.",
+     "warum_wichtig": "Viele deutsche Unternehmen nutzen SAP-Software und müssen mögliche Folgen für ihre Systeme im Blick behalten.",
+     "kategorie": "Sicherheit", "quellen": [71]}
+  ],
+  "eu": [
+    {"titel": "EZB-Umfrage: Mehr als die Hälfte der Beschäftigten nutzt KI",
+     "zusammenfassung": "Laut einer Umfrage der Europäischen Zentralbank ist die KI-Nutzung unter Beschäftigten binnen zwei Jahren auf 52 Prozent gestiegen.",
+     "warum_wichtig": "KI ist im europäischen Arbeitsalltag angekommen, Weiterbildung und klare Regeln werden wichtiger.",
+     "kategorie": "Gesellschaft", "quellen": [7]},
+    {"titel": "Gartner: Europas IT-Ausgaben steigen 2027 kräftig, auch für KI-Agenten",
+     "zusammenfassung": "Laut einer Gartner-Prognose steigen Europas IT-Ausgaben 2027 um knapp zehn Prozent. Server werden teurer, mehr Geld fließt in KI-Agenten, Rechenzentrumsausstattung bleibt das am stärksten wachsende Segment.",
+     "warum_wichtig": "Unternehmen in Europa sollten mit steigenden Kosten für IT und KI-Infrastruktur planen.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [36]}
+  ],
+  "welt": [
+    {"titel": "OpenAI verklagt Apple wegen Diebstahls von Geschäftsgeheimnissen",
+     "zusammenfassung": "OpenAI hat Apple vor einem kalifornischen Gericht wegen Diebstahls von Geschäftsgeheimnissen und Nötigung gemeinsamer Zulieferer verklagt. Die Gegenklage folgt auf eine Klage von Apple aus dem Sommer.",
+     "warum_wichtig": "Der Streit zwischen zwei großen Anbietern könnte beeinflussen, wie KI auf iPhones auch in Europa integriert wird.",
+     "kategorie": "Wirtschaft & Startups", "quellen": [11, 10]},
+    {"titel": "Verbotene Nvidia-Chips trotz Exportsperre in Shanghai entdeckt",
+     "zusammenfassung": "Laut Bloomberg haben zwei chinesische Firmen Nvidias leistungsstarke Blackwell-Chips in einem Shanghaier Rechenzentrum installiert, das Verbindungen zu Alice Huang hat. Eine Seriennummer führte Bloomberg auf die Spur.",
+     "warum_wichtig": "Der Fund dürfte den Druck für noch strengere Exportkontrollen erhöhen, die auch europäische Abnehmer betreffen können.",
+     "kategorie": "Politik & Regulierung", "quellen": [18]}
+  ]
+}
